@@ -1,9 +1,3 @@
----
-output: 
-  html_document: 
-    theme: simplex
-    df_print: kable
----
 # Codelist: Abuse-Deterrant Formulations - Opioids
 
 _____
