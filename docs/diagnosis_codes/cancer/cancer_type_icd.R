@@ -29,13 +29,13 @@ type <- c("head_neck", "gi", "colorectal", "lung", "bone",
           "urinary", "brain", "lymph_hem")
 
 purrr::walk(.x = type,
-             .f = ~ {
-               type <- sym(str_c(.x, "_cancer"))
-               x <- all_cancer %>% 
-                 filter(!!type==1) %>% 
-                 select(icd_cm, ver) 
-               write_csv(x, here(path,glue("cancer_type/{type}_dx_icd.csv")))
-             })
+            .f = ~ {
+              type <- sym(str_c(.x, "_cancer"))
+              x <- all_cancer %>% 
+                filter(!!type==1) %>% 
+                select(icd_cm, ver) 
+              write_csv(x, here(path,glue("cancer_type/{type}_dx_icd.csv")))
+            })
 
 
 write_csv(all_cancer, here(path,"cancer_dx_all_icd.csv"))
