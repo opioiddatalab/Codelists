@@ -1,0 +1,24 @@
+NDC,DRUG_NAME,STRENGTH,STRENGTH_UNIT_OF_MEASURE,MANUFACTURER_ABBR_NAME,STATUS
+16590089730,Embeda,20-0.8,MG,Stat Rx Us,Inactive
+16590089760,Embeda,20-0.8,MG,Stat Rx Us,Inactive
+16590089960,Embeda,50-2,MG,Stat Rx Us,Inactive
+16590090330,Embeda,80-3.2,MG,Stat Rx Us,Inactive
+16590093230,Embeda,60-2.4,MG,Stat Rx Us,Inactive
+16590093260,Embeda,60-2.4,MG,Stat Rx Us,Inactive
+16590093290,Embeda,60-2.4,MG,Stat Rx Us,Inactive
+35356054930,Embeda,60-2.4,MG,Quality,Inactive
+35356055030,Embeda,100-4,MG,Quality,Inactive
+35356055130,Embeda,20-0.8,MG,Quality,Inactive
+35356055230,Embeda,30-1.2,MG,Quality,Inactive
+60793043001,Embeda,20-0.8,MG,Pfizer Us,Inactive
+60793043020,Embeda,20-0.8,MG,Pfizer Us,Active
+60793043101,Embeda,30-1.2,MG,Pfizer Us,Inactive
+60793043120,Embeda,30-1.2,MG,Pfizer Us,Active
+60793043301,Embeda,50-2,MG,Pfizer Us,Inactive
+60793043320,Embeda,50-2,MG,Pfizer Us,Active
+60793043401,Embeda,60-2.4,MG,Pfizer Us,Inactive
+60793043420,Embeda,60-2.4,MG,Pfizer Us,Active
+60793043501,Embeda,80-3.2,MG,Pfizer Us,Inactive
+60793043520,Embeda,80-3.2,MG,Pfizer Us,Active
+60793043701,Embeda,100-4,MG,Pfizer Us,Inactive
+60793043720,Embeda,100-4,MG,Pfizer Us,Active

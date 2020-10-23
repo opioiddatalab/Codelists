@@ -1,0 +1,196 @@
+NDC,DRUG_NAME,STRENGTH,STRENGTH_UNIT_OF_MEASURE,MANUFACTURER_ABBR_NAME,STATUS
+00093573101,Oxycodone Hcl Er,10,MG,Teva Usa,Active
+00093573201,Oxycodone Hcl Er,20,MG,Teva Usa,Active
+00093573301,Oxycodone Hcl Er,40,MG,Teva Usa,Active
+00093573401,Oxycodone Hcl Er,80,MG,Teva Usa,Active
+00115155601,Oxycodone Hcl Er,10,MG,Amneal,Active
+00115155701,Oxycodone Hcl Er,15,MG,Amneal,Active
+00115155801,Oxycodone Hcl Er,20,MG,Amneal,Active
+00115155901,Oxycodone Hcl Er,30,MG,Amneal,Active
+00115156001,Oxycodone Hcl Er,40,MG,Amneal,Active
+00115156101,Oxycodone Hcl Er,60,MG,Amneal,Active
+00115156201,Oxycodone Hcl Er,80,MG,Amneal,Active
+00591269301,Oxycodone Hcl Er,40,MG,Actavis Ph,Active
+00591270801,Oxycodone Hcl Er,80,MG,Actavis Ph,Active
+00781570301,Oxycodone Hcl Er,10,MG,Sandoz,Inactive
+00781572601,Oxycodone Hcl Er,20,MG,Sandoz,Inactive
+00781576701,Oxycodone Hcl Er,40,MG,Sandoz,Inactive
+00781578501,Oxycodone Hcl Er,80,MG,Sandoz,Inactive
+10702080101,Oxycodone Hcl Er,10,MG,Kvk Tech,Active
+10702080301,Oxycodone Hcl Er,20,MG,Kvk Tech,Active
+10702080501,Oxycodone Hcl Er,40,MG,Kvk Tech,Active
+49884013601,Oxycodone Hcl Er,10,MG,Par Pharma,Inactive
+49884013701,Oxycodone Hcl Er,20,MG,Par Pharma,Inactive
+49884013801,Oxycodone Hcl Er,40,MG,Par Pharma,Inactive
+49884019701,Oxycodone Hcl Er,80,MG,Par Pharma,Inactive
+55700033430,Oxycodone Hcl Er,10,MG,Quality,Inactive
+55700042730,Oxycodone Hcl Er,40,MG,Quality,Inactive
+55700043130,Oxycodone Hcl Er,20,MG,Quality,Active
+55700043160,Oxycodone Hcl Er,20,MG,Quality,Active
+55700043730,Oxycodone Hcl Er,10,MG,Quality,Inactive
+55700044330,Oxycodone Hcl Er,40,MG,Quality,Active
+55700046290,Oxycodone Hcl Er,60,MG,Quality,Inactive
+63304068301,Oxycodone Hcl Er,40,MG,Sun Pharma,Inactive
+63304068401,Oxycodone Hcl Er,80,MG,Sun Pharma,Inactive
+10544059120,Oxycontin,10,MG,Blenheim,Inactive
+16590061530,Oxycontin,40,MG,Stat Rx Us,Inactive
+16590061540,Oxycontin,40,MG,Stat Rx Us,Inactive
+16590061556,Oxycontin,40,MG,Stat Rx Us,Inactive
+16590061560,Oxycontin,40,MG,Stat Rx Us,Inactive
+16590061562,Oxycontin,40,MG,Stat Rx Us,Inactive
+16590061572,Oxycontin,40,MG,Stat Rx Us,Inactive
+16590061590,Oxycontin,40,MG,Stat Rx Us,Inactive
+16590061630,Oxycontin,20,MG,Stat Rx Us,Inactive
+16590061656,Oxycontin,20,MG,Stat Rx Us,Inactive
+16590061660,Oxycontin,20,MG,Stat Rx Us,Inactive
+16590061662,Oxycontin,20,MG,Stat Rx Us,Inactive
+16590061672,Oxycontin,20,MG,Stat Rx Us,Inactive
+16590061673,Oxycontin,20,MG,Stat Rx Us,Inactive
+16590061690,Oxycontin,20,MG,Stat Rx Us,Inactive
+16590061730,Oxycontin,80,MG,Stat Rx Us,Inactive
+16590061760,Oxycontin,80,MG,Stat Rx Us,Inactive
+16590061772,Oxycontin,80,MG,Stat Rx Us,Inactive
+16590061786,Oxycontin,80,MG,Stat Rx Us,Inactive
+16590061790,Oxycontin,80,MG,Stat Rx Us,Inactive
+16590065330,Oxycontin,30,MG,Stat Rx Us,Inactive
+16590065360,Oxycontin,30,MG,Stat Rx Us,Inactive
+16590065372,Oxycontin,30,MG,Stat Rx Us,Inactive
+16590065390,Oxycontin,30,MG,Stat Rx Us,Inactive
+16590067710,Oxycontin,10,MG,Stat Rx Us,Inactive
+16590067715,Oxycontin,10,MG,Stat Rx Us,Inactive
+16590067720,Oxycontin,10,MG,Stat Rx Us,Inactive
+16590067730,Oxycontin,10,MG,Stat Rx Us,Inactive
+16590067760,Oxycontin,10,MG,Stat Rx Us,Inactive
+16590067762,Oxycontin,10,MG,Stat Rx Us,Inactive
+16590067772,Oxycontin,10,MG,Stat Rx Us,Inactive
+16590067790,Oxycontin,10,MG,Stat Rx Us,Inactive
+16590069060,Oxycontin,15,MG,Stat Rx Us,Inactive
+16590071730,Oxycontin,60,MG,Stat Rx Us,Inactive
+16590071760,Oxycontin,60,MG,Stat Rx Us,Inactive
+16590071790,Oxycontin,60,MG,Stat Rx Us,Inactive
+16590091060,Oxycontin,80,MG,Stat Rx Us,Inactive
+21695094160,Oxycontin,80,MG,Physician,Inactive
+21695095160,Oxycontin,60,MG,Physician,Inactive
+35356009005,Oxycontin,10,MG,Quality,Inactive
+35356009010,Oxycontin,10,MG,Quality,Inactive
+35356009014,Oxycontin,10,MG,Quality,Inactive
+35356009030,Oxycontin,10,MG,Quality,Inactive
+35356009130,Oxycontin,20,MG,Quality,Inactive
+35356009160,Oxycontin,20,MG,Quality,Inactive
+35356009190,Oxycontin,20,MG,Quality,Inactive
+35356039930,Oxycontin,40,MG,Quality,Inactive
+35356039960,Oxycontin,40,MG,Quality,Inactive
+35356040090,Oxycontin,80,MG,Quality,Inactive
+35356044430,Oxycontin,60,MG,Quality,Inactive
+35356078510,Oxycontin,10,MG,Quality,Inactive
+35356078514,Oxycontin,10,MG,Quality,Inactive
+35356078530,Oxycontin,10,MG,Quality,Inactive
+35356078590,Oxycontin,10,MG,Quality,Inactive
+35356078630,Oxycontin,20,MG,Quality,Inactive
+35356078660,Oxycontin,20,MG,Quality,Inactive
+35356078690,Oxycontin,20,MG,Quality,Inactive
+35356078730,Oxycontin,60,MG,Quality,Inactive
+35356078830,Oxycontin,40,MG,Quality,Inactive
+35356078860,Oxycontin,40,MG,Quality,Inactive
+35356078890,Oxycontin,40,MG,Quality,Inactive
+35356078930,Oxycontin,80,MG,Quality,Inactive
+35356078990,Oxycontin,80,MG,Quality,Inactive
+42254015960,Oxycontin,20,MG,Physician,Inactive
+42549064530,Oxycontin,20,MG,Stat Rx Us,Inactive
+43063024430,Oxycontin,80,MG,Pdrx Pharm,Inactive
+43063024530,Oxycontin,40,MG,Pdrx Pharm,Inactive
+43063024630,Oxycontin,20,MG,Pdrx Pharm,Inactive
+43063035402,Oxycontin,10,MG,Pdrx Pharm,Inactive
+43063035410,Oxycontin,10,MG,Pdrx Pharm,Inactive
+49999085630,Oxycontin,40,MG,Quality,Inactive
+49999085660,Oxycontin,40,MG,Quality,Inactive
+49999085690,Oxycontin,40,MG,Quality,Inactive
+49999085730,Oxycontin,80,MG,Quality,Inactive
+49999085790,Oxycontin,80,MG,Quality,Inactive
+52959014860,Oxycontin,20,MG,Hj Harkins,Active
+52959039660,Oxycontin,40,MG,Hj Harkins,Active
+54868381300,Oxycontin,10,MG,Phy Tot Ca,Inactive
+54868381301,Oxycontin,10,MG,Phy Tot Ca,Inactive
+54868381302,Oxycontin,10,MG,Phy Tot Ca,Inactive
+54868381303,Oxycontin,10,MG,Phy Tot Ca,Inactive
+54868381304,Oxycontin,10,MG,Phy Tot Ca,Inactive
+54868381305,Oxycontin,10,MG,Phy Tot Ca,Inactive
+54868381400,Oxycontin,20,MG,Phy Tot Ca,Inactive
+54868381401,Oxycontin,20,MG,Phy Tot Ca,Inactive
+54868381402,Oxycontin,20,MG,Phy Tot Ca,Inactive
+54868381403,Oxycontin,20,MG,Phy Tot Ca,Inactive
+54868381404,Oxycontin,20,MG,Phy Tot Ca,Inactive
+54868381405,Oxycontin,20,MG,Phy Tot Ca,Inactive
+54868381406,Oxycontin,20,MG,Phy Tot Ca,Inactive
+54868381500,Oxycontin,40,MG,Phy Tot Ca,Inactive
+54868381501,Oxycontin,40,MG,Phy Tot Ca,Inactive
+54868381502,Oxycontin,40,MG,Phy Tot Ca,Inactive
+54868381503,Oxycontin,40,MG,Phy Tot Ca,Inactive
+54868381504,Oxycontin,40,MG,Phy Tot Ca,Inactive
+54868381505,Oxycontin,40,MG,Phy Tot Ca,Inactive
+54868398600,Oxycontin,80,MG,Phy Tot Ca,Inactive
+54868398601,Oxycontin,80,MG,Phy Tot Ca,Inactive
+54868398602,Oxycontin,80,MG,Phy Tot Ca,Inactive
+54868398603,Oxycontin,80,MG,Phy Tot Ca,Inactive
+54868398604,Oxycontin,80,MG,Phy Tot Ca,Inactive
+54868398605,Oxycontin,80,MG,Phy Tot Ca,Inactive
+54868596600,Oxycontin,30,MG,Phy Tot Ca,Inactive
+54868596601,Oxycontin,30,MG,Phy Tot Ca,Inactive
+54868596602,Oxycontin,30,MG,Phy Tot Ca,Inactive
+54868597000,Oxycontin,60,MG,Phy Tot Ca,Inactive
+54868597001,Oxycontin,60,MG,Phy Tot Ca,Inactive
+55887013060,Oxycontin,80,MG,Dhs Inc. W,Inactive
+55887013082,Oxycontin,80,MG,Dhs Inc. W,Inactive
+55887013086,Oxycontin,80,MG,Dhs Inc. W,Inactive
+55887013090,Oxycontin,80,MG,Dhs Inc. W,Inactive
+59011010010,Oxycontin,10,MG,Purdue,Inactive
+59011010020,Oxycontin,10,MG,Purdue,Inactive
+59011010025,Oxycontin,10,MG,Null,Inactive
+59011010310,Oxycontin,20,MG,Purdue,Inactive
+59011010320,Oxycontin,20,MG,Purdue,Inactive
+59011010325,Oxycontin,20,MG,Null,Inactive
+59011010510,Oxycontin,40,MG,Purdue,Inactive
+59011010520,Oxycontin,40,MG,Purdue,Inactive
+59011010525,Oxycontin,40,MG,Null,Inactive
+59011010710,Oxycontin,80,MG,Purdue,Inactive
+59011010720,Oxycontin,80,MG,Purdue,Inactive
+59011010725,Oxycontin,80,MG,Null,Inactive
+59011041010,Oxycontin,10,MG,Purdue,Active
+59011041020,Oxycontin,10,MG,Purdue,Active
+59011041510,Oxycontin,15,MG,Purdue,Active
+59011041520,Oxycontin,15,MG,Purdue,Active
+59011042010,Oxycontin,20,MG,Purdue,Active
+59011042020,Oxycontin,20,MG,Purdue,Active
+59011043010,Oxycontin,30,MG,Purdue,Active
+59011043020,Oxycontin,30,MG,Purdue,Active
+59011044010,Oxycontin,40,MG,Purdue,Active
+59011044020,Oxycontin,40,MG,Purdue,Active
+59011046010,Oxycontin,60,MG,Purdue,Active
+59011046020,Oxycontin,60,MG,Purdue,Active
+59011048010,Oxycontin,80,MG,Purdue,Active
+59011048020,Oxycontin,80,MG,Purdue,Active
+59011081510,Oxycontin,15,MG,Purdue,Inactive
+59011083010,Oxycontin,30,MG,Purdue,Inactive
+59011086010,Oxycontin,60,MG,Purdue,Inactive
+60760004960,Oxycontin,20,MG,St Mary's,Inactive
+60760004990,Oxycontin,20,MG,St Mary's,Inactive
+63629377201,Oxycontin,20,MG,Bryantranc,Inactive
+63629377202,Oxycontin,20,MG,Bryantranc,Inactive
+63629377203,Oxycontin,20,MG,Bryantranc,Inactive
+63629377204,Oxycontin,20,MG,Bryantranc,Inactive
+63629377205,Oxycontin,20,MG,Bryantranc,Inactive
+63629377401,Oxycontin,40,MG,Bryantranc,Active
+63629377402,Oxycontin,40,MG,Bryantranc,Active
+63629377403,Oxycontin,40,MG,Bryantranc,Active
+63629377404,Oxycontin,40,MG,Bryantranc,Active
+63629377501,Oxycontin,10,MG,Bryantranc,Inactive
+63629377502,Oxycontin,10,MG,Bryantranc,Inactive
+63629377503,Oxycontin,10,MG,Bryantranc,Inactive
+63629377504,Oxycontin,10,MG,Bryantranc,Inactive
+63629377505,Oxycontin,10,MG,Bryantranc,Inactive
+63629459901,Oxycontin,60,MG,Bryantranc,Active
+63629460001,Oxycontin,80,MG,Bryantranc,Active
+66336093610,Oxycontin,10,MG,Dispen Sol,Inactive
+68071044790,Oxycontin,20,MG,Nucare Pha,Active
+68071073830,Oxycontin,10,MG,Nucare Pha,Active
+68071073860,Oxycontin,10,MG,Nucare Pha,Active
