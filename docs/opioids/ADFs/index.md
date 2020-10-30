@@ -33,8 +33,8 @@ _____
 
 ### Active Comparators
 
-|Class|Ingredient|ER/LA or IR|Form|Documentation|Comments
-|---|---|---|-----|-----------|
+|Class|Ingredient|ER/LA or IR|Form|Documentation|Comments|
+|---|---|---|-----|-----------|-----------|
 |Opioid|Morphine|ER|Tablet, Capsule|NDC|Primary comparator|
 |Opioid|FentanylER||Transdermal Patch|NDC|Primary comparator|
 |Opioid|Methadone|?LA|Tablet, Capsule|NDC|Primary comparator|
@@ -46,7 +46,7 @@ _____
 ### Inactive Comparators
 
 |Class|Drug Name|Documentation|Comments|
-|---|---|---|-----------|---------|---|
-|Benzodiazepine|||||
+|---|---|-----------|---------|
+|Benzodiazepine||||
 |SSRI||||
 |Gabapentin||||
