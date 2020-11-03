@@ -1,0 +1,810 @@
+ndc,drug_name,generic_name,opioid_ingredient1,opioid_ingredient2,form,route,strength,strength_uom,package_size,manufacturer,startdate,enddate,status
+00008029501,hydromorphone,hydromorphone,hydromorphone,NA,syringe,injection,2,mg/ml,1,esi lederle,9/30/90,9/30/90,active
+00008029502,hydromorphone,hydromorphone,hydromorphone,NA,syringe,injection,2,mg/ml,1,wyeth pharm,NA,NA,active
+00008029550,hydromorphone,hydromorphone,hydromorphone,NA,syringe,injection,2,mg/ml,1,esi lederle,9/30/90,9/30/90,active
+00008029601,hydromorphone,hydromorphone,hydromorphone,NA,syringe,injection,4,mg/ml,1,esi lederle,9/30/90,9/30/90,active
+00008029602,hydromorphone,hydromorphone,hydromorphone,NA,syringe,injection,4,mg/ml,1,wyeth pharm,NA,NA,active
+00008029650,hydromorphone,hydromorphone,hydromorphone,NA,syringe,injection,4,mg/ml,1,esi lederle,9/30/90,9/30/90,active
+00008038701,hydromorphone,hydromorphone,hydromorphone,NA,syringe,injection,1,mg/ml,1,wyeth pharm,NA,NA,active
+00008038703,hydromorphone,hydromorphone,hydromorphone,NA,syringe,injection,1,mg/ml,1,esi lederle,9/30/90,9/30/90,active
+00008038750,hydromorphone,hydromorphone,hydromorphone,NA,syringe,injection,1,mg/ml,1,esi lederle,9/30/90,9/30/90,active
+00008038801,hydromorphone,hydromorphone,hydromorphone,NA,syringe,injection,3,mg/ml,1,wyeth pharm,NA,NA,inactive
+00024072601,hydromorphone,hydromorphone,hydromorphone,NA,syringe,injection,1,mg/ml,1,sanofi winthrop,9/30/90,9/30/90,active
+00024072602,hydromorphone,hydromorphone,hydromorphone,NA,syringe,injection,1,mg/ml,1,sanofi winthrop,8/1/90,8/1/90,active
+00024072622,hydromorphone,hydromorphone,hydromorphone,NA,syringe,injection,1,mg/ml,1,sanofi winthrop,9/30/90,9/30/90,active
+00024072702,hydromorphone,hydromorphone,hydromorphone,NA,syringe,injection,4,mg/ml,1,sanofi winthrop,8/1/90,8/1/90,active
+00024072704,hydromorphone,hydromorphone,hydromorphone,NA,syringe,injection,4,mg/ml,1,sanofi winthrop,9/30/90,9/30/90,active
+00024072722,hydromorphone,hydromorphone,hydromorphone,NA,syringe,injection,4,mg/ml,1,sanofi winthrop,8/1/90,8/1/90,active
+00024072802,hydromorphone,hydromorphone,hydromorphone,NA,syringe,injection,2,mg/ml,1,sanofi winthrop,9/30/90,9/30/90,active
+00024072812,hydromorphone,hydromorphone,hydromorphone,NA,syringe,injection,2,mg/ml,1,sanofi winthrop,9/30/90,9/30/90,active
+00024072822,hydromorphone,hydromorphone,hydromorphone,NA,syringe,injection,2,mg/ml,1,sanofi winthrop,9/30/90,9/30/90,active
+00044101101,dilaudid (pf),hydromorphone,hydromorphone,NA,solution,injection,1,mg/ml,1,abbvie us llc,9/29/90,9/29/90,inactive
+00044101201,dilaudid (pf),hydromorphone,hydromorphone,NA,solution,injection,2,mg/ml,1,abbvie us llc,9/29/90,9/29/90,inactive
+00044101209,dilaudid (pf),hydromorphone,hydromorphone,NA,solution,injection,2,mg/ml,1,abbvie us llc,9/29/90,9/29/90,inactive
+00044101401,dilaudid (pf),hydromorphone,hydromorphone,NA,solution,injection,4,mg/ml,1,abbvie us llc,9/29/90,9/29/90,inactive
+00044101706,dilaudid-hp (pf),hydromorphone,hydromorphone,NA,solution,injection,10,mg/ml,50,abbvie us llc,3/1/84,3/1/84,inactive
+00044101710,dilaudid-hp (pf),hydromorphone,hydromorphone,NA,solution,injection,10,mg/ml,1,abbvie us llc,3/1/84,3/1/84,inactive
+00044101725,dilaudid-hp (pf),hydromorphone,hydromorphone,NA,solution,injection,10,mg/ml,5,abbvie us llc,3/1/84,3/1/84,inactive
+00044102102,dilaudid,hydromorphone hydrochloride,hydromorphone,NA,NA,NA,1 mg,NA,100,NA,NA,NA,NA
+00044102202,dilaudid,hydromorphone,hydromorphone,NA,tablet,oral,2,mg,100,abbvie us llc,9/29/90,9/29/90,active
+00044102203,dilaudid,hydromorphone,hydromorphone,NA,tablet,oral,2,mg,500,abbvie us llc,9/29/90,9/29/90,active
+00044102215,dilaudid,hydromorphone,hydromorphone,NA,tablet,oral,2,mg,100,abbvie us llc,NA,NA,active
+00044102245,dilaudid,hydromorphone,hydromorphone,NA,tablet,oral,2,mg,100,abbvie us llc,9/29/90,9/29/90,active
+00044102302,dilaudid,hydromorphone hydrochloride,hydromorphone,NA,NA,NA,3 mg,NA,100,NA,NA,NA,NA
+00044102402,dilaudid,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,100,abbvie us llc,9/29/90,9/29/90,active
+00044102403,dilaudid,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,500,abbvie us llc,9/29/90,9/29/90,active
+00044102415,dilaudid,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,100,abbvie us llc,NA,NA,active
+00044102445,dilaudid,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,100,abbvie us llc,9/29/90,9/29/90,active
+00044102802,dilaudid,hydromorphone,hydromorphone,NA,tablet,oral,8,mg,100,abbvie us llc,12/7/92,12/7/92,active
+00044104001,dilaudid,hydromorphone,hydromorphone,NA,powder,miscellaneous,NA,NA,1,abbvie us llc,12/1/75,12/1/75,inactive
+00044105301,dilaudid,hydromorphone,hydromorphone,NA,suppository,rectal,3,mg,6,abbvie us llc,12/1/75,12/1/75,inactive
+00044106205,dilaudid,hydromorphone,hydromorphone,NA,solution,injection,2,mg/ml,20,abbvie us llc,9/29/90,9/29/90,inactive
+00044108501,dilaudid-5,hydromorphone,hydromorphone,NA,liquid,oral,1,mg/ml,473,abbvie us llc,12/7/92,12/7/92,inactive
+00044191101,dilaudid-hp (pf),hydromorphone,hydromorphone,NA,recon soln,injection,250,mg,1,abbvie us llc,8/4/94,8/4/94,inactive
+00054026424,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,100,"west-ward, inc.",5/29/09,5/29/09,active
+00054026425,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,100,"west-ward, inc.",5/29/09,5/29/09,active
+00054026525,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,8,mg,100,"west-ward, inc.",6/29/98,6/29/98,active
+00054038663,hydromorphone,hydromorphone,hydromorphone,NA,liquid,oral,1,mg/ml,473,"west-ward, inc.",7/29/98,7/29/98,active
+00054338750,hydromorphone,hydromorphone,hydromorphone,NA,liquid,oral,1,mg/ml,120,roxane labs.,7/29/98,7/29/98,active
+00054338758,hydromorphone,hydromorphone,hydromorphone,NA,liquid,oral,1,mg/ml,250,roxane labs.,7/29/98,7/29/98,active
+00054338763,hydromorphone,hydromorphone,hydromorphone,NA,liquid,oral,1,mg/ml,500,roxane labs.,7/29/98,7/29/98,active
+00054437025,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,8,mg,100,roxane labs.,7/29/98,7/29/98,active
+00054439225,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,2,mg,100,roxane labs.,9/30/90,9/30/90,active
+00054439425,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,100,roxane labs.,9/30/90,9/30/90,active
+00054834916,hydromorphone,hydromorphone,hydromorphone,NA,liquid,oral,1,mg/ml,4,roxane labs.,7/29/98,7/29/98,active
+00054835016,hydromorphone,hydromorphone,hydromorphone,NA,liquid,oral,1,mg/ml,8,roxane labs.,7/29/98,7/29/98,active
+00054839224,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,2,mg,100,roxane labs.,1/1/92,1/1/92,active
+00054839424,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,100,roxane labs.,1/1/92,1/1/92,active
+00074128301,hydromorphone (pf),hydromorphone,hydromorphone,NA,syringe,injection,1,mg/ml,1,hospira,8/1/90,8/1/90,active
+00074128331,hydromorphone (pf),hydromorphone,hydromorphone,NA,syringe,injection,1,mg/ml,1,hospira,9/30/90,9/30/90,active
+00074130401,hydromorphone,hydromorphone,hydromorphone,NA,syringe,injection,4,mg/ml,1,abbott hosp,8/1/90,8/1/90,active
+00074130412,hydromorphone,hydromorphone,hydromorphone,NA,syringe,injection,4,mg/ml,1,abbott hosp,8/1/90,8/1/90,active
+00074130431,hydromorphone (pf),hydromorphone,hydromorphone,NA,syringe,injection,4,mg/ml,1,hospira,9/30/90,9/30/90,active
+00074131201,hydromorphone,hydromorphone,hydromorphone,NA,syringe,injection,2,mg/ml,1,abbott hosp,8/1/90,8/1/90,active
+00074131202,hydromorphone (pf),hydromorphone,hydromorphone,NA,syringe,injection,2,mg/ml,1,hospira,8/1/90,8/1/90,active
+00074131212,hydromorphone,hydromorphone,hydromorphone,NA,syringe,injection,2,mg/ml,1,abbott hosp,8/1/90,8/1/90,active
+00074131230,hydromorphone (pf),hydromorphone,hydromorphone,NA,syringe,injection,2,mg/ml,1,hospira,9/30/90,9/30/90,active
+00074131231,hydromorphone,hydromorphone,hydromorphone,NA,syringe,injection,2,mg/ml,1,abbott hosp,8/1/90,8/1/90,active
+00074217201,hydromorphone,hydromorphone,hydromorphone,NA,solution,injection,10,mg/ml,1,abbott hosp,NA,NA,inactive
+00074233211,dilaudid (pf),hydromorphone,hydromorphone,NA,solution,injection,1,mg/ml,1,purdue pharma l,9/30/90,9/30/90,inactive
+00074233311,dilaudid (pf),hydromorphone,hydromorphone,NA,solution,injection,2,mg/ml,1,purdue pharma l,9/30/90,9/30/90,inactive
+00074233326,dilaudid (pf),hydromorphone,hydromorphone,NA,solution,injection,2,mg/ml,1,purdue pharma l,9/30/90,9/30/90,inactive
+00074233411,dilaudid (pf),hydromorphone,hydromorphone,NA,solution,injection,4,mg/ml,1,purdue pharma l,9/30/90,9/30/90,inactive
+00074241421,dilaudid,hydromorphone,hydromorphone,NA,solution,injection,2,mg/ml,20,abbvie us llc,9/30/90,9/30/90,inactive
+00074241512,dilaudid,hydromorphone,hydromorphone,NA,tablet,oral,2,mg,100,purdue pharma l,9/30/90,9/30/90,active
+00074241514,dilaudid,hydromorphone,hydromorphone,NA,tablet,oral,2,mg,100,purdue pharma l,9/30/90,9/30/90,active
+00074241554,dilaudid,hydromorphone,hydromorphone,NA,tablet,oral,2,mg,500,abbvie us llc,9/30/90,9/30/90,active
+00074241612,dilaudid,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,100,purdue pharma l,9/30/90,9/30/90,active
+00074241614,dilaudid,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,100,purdue pharma l,9/30/90,9/30/90,active
+00074241654,dilaudid,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,500,purdue pharma l,9/30/90,9/30/90,active
+00074242614,dilaudid,hydromorphone,hydromorphone,NA,tablet,oral,8,mg,100,purdue pharma l,12/7/92,12/7/92,active
+00074242816,dilaudid,hydromorphone,hydromorphone,NA,powder,miscellaneous,NA,NA,1,abbvie us llc,9/30/90,9/30/90,inactive
+00074245107,dilaudid,hydromorphone,hydromorphone,NA,suppository,rectal,3,mg,6,abbvie us llc,9/30/90,9/30/90,inactive
+00074245202,dilaudid-5,hydromorphone,hydromorphone,NA,liquid,oral,1,mg/ml,473,purdue pharma l,12/7/92,12/7/92,inactive
+00074245311,dilaudid-hp (pf),hydromorphone,hydromorphone,NA,solution,injection,10,mg/ml,1,purdue pharma l,9/30/90,9/30/90,inactive
+00074245327,dilaudid-hp (pf),hydromorphone,hydromorphone,NA,solution,injection,10,mg/ml,5,purdue pharma l,9/30/90,9/30/90,inactive
+00074245351,dilaudid-hp (pf),hydromorphone,hydromorphone,NA,solution,injection,10,mg/ml,50,purdue pharma l,9/30/90,9/30/90,inactive
+00074245531,dilaudid-hp (pf),hydromorphone,hydromorphone,NA,recon soln,injection,250,mg,1,purdue pharma l,8/4/94,8/4/94,inactive
+00182917201,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,2,mg,100,ivax/goldline l,NA,NA,active
+00182917301,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,100,ivax/goldline l,12/7/42,12/7/42,active
+00182917801,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,100,ivax/goldline l,NA,NA,active
+00186130901,hydromorphone,hydromorphone,hydromorphone,NA,solution,injection,2,mg/ml,20,astra pharm.,10/1/90,10/1/90,active
+00209423520,hydromorphone,hydromorphone,hydromorphone,NA,solution,injection,2,mg/ml,20,marsam pharm,5/6/96,5/6/96,active
+00209423612,hydromorphone,hydromorphone,hydromorphone,NA,solution,injection,10,mg/ml,1,marsam pharm,9/30/90,9/30/90,inactive
+00209423712,hydromorphone,hydromorphone,hydromorphone,NA,solution,injection,10,mg/ml,5,marsam pharm,9/30/90,9/30/90,inactive
+00254361128,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,2,mg,100,vintage pharm,9/30/90,9/30/90,active
+00254361228,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,100,vintage pharm,9/30/90,9/30/90,active
+00338935737,hydromorphone-bupiv (pf)-nacl,hydromorphone,hydromorphone,NA,solution,epidural,20-0.06,mcg/ml-%,200,baxter healthca,8/1/00,8/1/00,active
+00338935837,hydromorphone-bupiv (pf)-nacl,hydromorphone,hydromorphone,NA,solution,epidural,20-0.125,mcg/ml-%,200,baxter healthca,8/1/00,8/1/00,active
+00338936141,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,solution,intravenous,0.2,mg/ml,50,baxter healthca,8/1/00,8/1/00,active
+00338936267,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,pt controlled analgesia syring,intravenous,5 mg/25 ml,(0.2 mg/ml),25,baxter healthca,8/1/00,8/1/00,active
+00338936375,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,pt controlled analgesia syring,intravenous,10 mg/50 ml,(0.2 mg/ml),50,baxter healthca,8/1/00,8/1/00,active
+00338936541,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,solution,injection,50,mg/50 ml,50,baxter healthca,8/1/00,8/1/00,active
+00338936667,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,pt controlled analgesia syring,injection,25,mg/25 ml,25,baxter healthca,8/1/00,8/1/00,active
+00338936775,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,pt controlled analgesia syring,intravenous,50,mg/50 ml,50,baxter healthca,8/1/00,8/1/00,active
+00338942037,hydromorphone-bupiv (pf)-nacl,hydromorphone,hydromorphone,NA,solution,epidural,20-0.06,mcg/ml-%,200,baxter healthca,8/1/00,8/1/00,active
+00338942137,hydromorphone-bupiv (pf)-nacl,hydromorphone,hydromorphone,NA,solution,epidural,20-0.125,mcg/ml-%,200,baxter healthca,8/1/00,8/1/00,active
+00338942248,hydromorphone-bupiv (pf)-nacl,hydromorphone,hydromorphone,NA,solution,epidural,20-0.125,mcg/ml-%,100,baxter healthca,8/1/00,8/1/00,active
+00338942448,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,solution,intravenous,0.2,mg/ml,100,baxter healthca,8/1/00,8/1/00,active
+00364242255,hydromorphone,hydromorphone,hydromorphone,NA,solution,injection,2,mg/ml,20,watson pharma,1/1/90,1/1/90,active
+00402091820,hydromorphone,hydromorphone,hydromorphone,NA,solution,injection,2,mg/ml,20,steris,9/30/90,9/30/90,active
+00406324301,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,2,mg,100,mallinckrodt ph,6/15/97,6/15/97,active
+00406324401,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,100,mallinckrodt ph,6/15/97,6/15/97,active
+00406324552,hydromorphone (bulk),hydromorphone,hydromorphone,NA,powder,miscellaneous,100,%,1,mallinckrodt ph,10/1/91,10/1/91,active
+00406324557,hydromorphone (bulk),hydromorphone,hydromorphone,NA,powder,miscellaneous,100,%,100,mallinckrodt ph,10/1/91,10/1/91,active
+00406324901,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,8,mg,100,mallinckrodt ph,12/23/04,12/23/04,active
+00406330801,hydromorphone,hydromorphone,hydromorphone,NA,tablet extended release 24 hr,oral,8,mg,100,mallinckrodt ph,3/1/10,3/1/10,active
+00406331201,hydromorphone,hydromorphone,hydromorphone,NA,tablet extended release 24 hr,oral,12,mg,100,mallinckrodt ph,3/1/10,3/1/10,active
+00406331601,hydromorphone,hydromorphone,hydromorphone,NA,tablet extended release 24 hr,oral,16,mg,100,mallinckrodt ph,3/1/10,3/1/10,active
+00406333201,hydromorphone,hydromorphone,hydromorphone,NA,tablet extended release 24 hr,oral,32,mg,100,mallinckrodt ph,8/24/12,8/24/12,active
+00409128303,hydromorphone,hydromorphone,hydromorphone,NA,syringe,injection,1,mg/ml,1,hospira,12/1/11,12/1/11,active
+00409128304,hydromorphone,hydromorphone,hydromorphone,NA,syringe,injection,0.5,mg/0.5 ml,.5,hospira,12/1/11,12/1/11,active
+00409128305,hydromorphone,hydromorphone,hydromorphone,NA,syringe,injection,0.5,mg/0.5 ml,.5,hospira,12/1/11,12/1/11,active
+00409128309,hydromorphone,hydromorphone,hydromorphone,NA,syringe,injection,1,mg/ml,1,hospira,NA,NA,active
+00409128310,hydromorphone,hydromorphone,hydromorphone,NA,syringe,injection,1,mg/ml,1,hospira,12/1/11,12/1/11,active
+00409128331,hydromorphone,hydromorphone,hydromorphone,NA,syringe,injection,1,mg/ml,1,hospira,12/1/11,12/1/11,active
+00409130431,hydromorphone,hydromorphone,hydromorphone,NA,syringe,injection,4,mg/ml,1,hospira,12/1/11,12/1/11,active
+00409131210,hydromorphone,hydromorphone,hydromorphone,NA,syringe,injection,2,mg/ml,1,hospira,12/1/11,12/1/11,active
+00409131230,hydromorphone,hydromorphone,hydromorphone,NA,syringe,injection,2,mg/ml,1,hospira,12/1/11,12/1/11,active
+00409217201,hydromorphone (pf),hydromorphone,hydromorphone,NA,solution,injection,10,mg/ml,1,hospira,6/19/97,6/19/97,active
+00409217205,hydromorphone (pf),hydromorphone,hydromorphone,NA,solution,injection,10,mg/ml,5,hospira,6/19/97,6/19/97,active
+00409254001,hydromorphone,hydromorphone,hydromorphone,NA,solution,injection,4,mg/ml,1,hospira,12/1/11,12/1/11,active
+00409255201,hydromorphone,hydromorphone,hydromorphone,NA,solution,injection,1,mg/ml,1,hospira,12/1/11,12/1/11,active
+00409255211,hydromorphone,hydromorphone,hydromorphone,NA,solution,injection,1,mg/ml,1,hospira,12/1/11,12/1/11,active
+00409263401,hydromorphone (pf),hydromorphone,hydromorphone,NA,solution,injection,10,mg/ml,1,hospira,6/17/08,6/17/08,active
+00409263405,hydromorphone (pf),hydromorphone,hydromorphone,NA,solution,injection,10,mg/ml,5,hospira,6/17/08,6/17/08,active
+00409263450,hydromorphone (pf),hydromorphone,hydromorphone,NA,solution,injection,10,mg/ml,50,hospira,6/17/08,6/17/08,active
+00409335601,hydromorphone,hydromorphone,hydromorphone,NA,solution,injection,2,mg/ml,1,hospira,12/1/11,12/1/11,active
+00409336501,hydromorphone,hydromorphone,hydromorphone,NA,solution,injection,2,mg/ml,1,hospira,12/1/11,12/1/11,active
+00409336511,hydromorphone,hydromorphone,hydromorphone,NA,solution,injection,2,mg/ml,1,hospira,12/1/11,12/1/11,active
+00409345907,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,"injection, solution",intramuscular; intravenous; subcutaneous,2 mg/ml,NA,10 ampule in 1 carton (0409-3459-07)  > 1 ml in 1 ampule (0409-3459-17),"hospira, inc.",NA,NA,NA
+00478540201,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,2,mg,100,rexar pharmacal,9/1/93,9/1/93,active
+00478540401,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,100,rexar pharmacal,9/1/93,9/1/93,active
+00527135301,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,2,mg,100,lannett co. inc,1/1/05,1/1/05,active
+00527135401,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,100,lannett co. inc,1/1/05,1/1/05,active
+00527135501,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,8,mg,100,lannett co. inc,12/10/09,12/10/09,active
+00536386601,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,2,mg,100,rugby,11/1/89,11/1/89,active
+00536386701,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,100,rugby,11/1/89,11/1/89,active
+00548194000,hydromorphone,hydromorphone,hydromorphone,NA,solution,injection,0.2,mg/ml,20,amphastar pharm,NA,NA,inactive
+00548194010,hydromorphone,hydromorphone,hydromorphone,NA,solution,injection,0.2,mg/ml,20,ims,NA,NA,inactive
+00555111705,hydromorphone (pf),hydromorphone,hydromorphone,NA,solution,injection,10,mg/ml,1,barr,4/25/03,4/25/03,active
+00555111706,hydromorphone (pf),hydromorphone,hydromorphone,NA,solution,injection,10,mg/ml,5,barr,4/25/03,4/25/03,active
+00555111707,hydromorphone (pf),hydromorphone,hydromorphone,NA,solution,injection,10,mg/ml,50,barr,4/25/03,4/25/03,active
+00574029301,hydromorphone,hydromorphone,hydromorphone,NA,tablet extended release 24 hr,oral,8,mg,100,perrigo co.,4/6/15,4/6/15,active
+00574029401,hydromorphone,hydromorphone,hydromorphone,NA,tablet extended release 24 hr,oral,12,mg,100,perrigo co.,4/6/15,4/6/15,active
+00574029501,hydromorphone,hydromorphone,hydromorphone,NA,tablet extended release 24 hr,oral,16,mg,100,perrigo co.,4/6/15,4/6/15,active
+00574029701,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,"tablet, extended release",oral,32 mg/1,NA,"100 tablet, extended release in 1 bottle (0574-0297-01)","paddock laboratories, llc",NA,NA,NA
+00574201701,hydromorphone (bulk),hydromorphone,hydromorphone,NA,powder,miscellaneous,100,%,.972,paddock labs.,1/1/96,1/1/96,active
+00574722406,hydromorphone,hydromorphone,hydromorphone,NA,suppository,rectal,3,mg,6,perrigo co.,1/1/96,1/1/96,active
+00580155901,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,2,mg,100,glenlawn labs.,NA,NA,active
+00580155991,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,2,mg,100,glenlawn labs.,NA,NA,active
+00580156001,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,100,glenlawn labs.,NA,NA,active
+00580156091,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,100,glenlawn labs.,NA,NA,active
+00580439225,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,2,mg,100,glenlawn labs.,NA,NA,active
+00580439425,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,100,glenlawn labs.,NA,NA,active
+00580839224,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,2,mg,100,glenlawn labs.,NA,NA,active
+00580839424,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,100,glenlawn labs.,NA,NA,active
+00591362901,hydromorphone,hydromorphone,hydromorphone,NA,tablet extended release 24 hr,oral,8,mg,100,actavis pharma,5/12/14,5/12/14,active
+00591362910,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,"tablet, extended release",oral,8,mg/1,"1000 tablet, extended release in 1 bottle (0591-3629-10)","watson laboratories, inc.",5/21/14,NA,NA
+00591362930,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,"tablet, extended release",oral,8,mg/1,"30 tablet, extended release in 1 bottle (0591-3629-30)","watson laboratories, inc.",5/21/14,NA,NA
+00591363001,hydromorphone,hydromorphone,hydromorphone,NA,tablet extended release 24 hr,oral,16,mg,100,actavis pharma,5/12/14,5/12/14,active
+00591363010,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,"tablet, extended release",oral,16,mg/1,"1000 tablet, extended release in 1 bottle (0591-3630-10)","watson laboratories, inc.",5/21/14,NA,NA
+00591363030,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,"tablet, extended release",oral,16,mg/1,"30 tablet, extended release in 1 bottle (0591-3630-30)","watson laboratories, inc.",5/21/14,NA,NA
+00591363101,hydromorphone,hydromorphone,hydromorphone,NA,tablet extended release 24 hr,oral,32,mg,100,actavis pharma/,6/30/16,6/30/16,active
+00591363110,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,"tablet, extended release",oral,32,mg/1,"1000 tablet, extended release in 1 bottle (0591-3631-10)","actavis pharma, inc.",10/10/16,NA,NA
+00591363130,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,"tablet, extended release",oral,32,mg/1,"30 tablet, extended release in 1 bottle (0591-3631-30)","actavis pharma, inc.",10/10/16,NA,NA
+00591373901,hydromorphone,hydromorphone,hydromorphone,NA,tablet extended release 24 hr,oral,12,mg,100,actavis pharma,5/12/14,5/12/14,active
+00591373910,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,"tablet, extended release",oral,12,mg/1,"1000 tablet, extended release in 1 bottle (0591-3739-10)","watson laboratories, inc.",5/21/14,NA,NA
+00591373930,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,"tablet, extended release",oral,12,mg/1,"30 tablet, extended release in 1 bottle (0591-3739-30)","watson laboratories, inc.",5/21/14,NA,NA
+00603392521,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,2,mg,100,qualitest,9/30/90,9/30/90,active
+00603392621,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,100,qualitest,9/30/90,9/30/90,active
+00641012025,hydromorphone,hydromorphone,hydromorphone,NA,solution,injection,2,mg/ml,1,"elkins-sinn,inc",NA,NA,active
+00641012026,hydromorphone,hydromorphone,hydromorphone,NA,solution,injection,2,mg/ml,1,"elkins-sinn,inc",NA,NA,active
+00641012121,hydromorphone,hydromorphone,hydromorphone,NA,solution,injection,2,mg/ml,1,"west-ward, inc.",9/30/90,9/30/90,active
+00641012125,hydromorphone,hydromorphone,hydromorphone,NA,solution,injection,2,mg/ml,1,"west-ward, inc.",9/30/90,9/30/90,active
+00641012126,hydromorphone,hydromorphone,hydromorphone,NA,solution,injection,2,mg/ml,1,"elkins-sinn,inc",9/30/90,9/30/90,active
+00641234139,hydromorphone,hydromorphone,hydromorphone,NA,solution,injection,2,mg/ml,20,"west-ward, inc.",9/30/90,9/30/90,active
+00641234141,hydromorphone,hydromorphone,hydromorphone,NA,solution,injection,2,mg/ml,20,"west-ward, inc.",9/30/90,9/30/90,active
+00641615125,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,injection,intramuscular; intravenous; subcutaneous,2 mg/ml,NA,"25 vial, single-dose in 1 carton (0641-6151-25)  > 1 ml in 1 vial, single-dose (0641-6151-01)",west-ward pharmaceuticals corp.,NA,NA,NA
+00703001801,hydromorphone (pf),hydromorphone,hydromorphone,NA,solution,injection,10,mg/ml,50,teva parenteral,4/25/03,4/25/03,active
+00703011001,hydromorphone (pf),hydromorphone,hydromorphone,NA,solution,injection,10,mg/ml,1,teva parenteral,4/25/03,4/25/03,active
+00703011003,hydromorphone (pf),hydromorphone,hydromorphone,NA,solution,injection,10,mg/ml,1,teva parenteral,4/25/03,4/25/03,active
+00703011301,hydromorphone (pf),hydromorphone,hydromorphone,NA,solution,injection,10,mg/ml,5,teva parenteral,4/25/03,4/25/03,active
+00703011303,hydromorphone (pf),hydromorphone,hydromorphone,NA,solution,injection,10,mg/ml,5,teva parenteral,4/25/03,4/25/03,active
+00879071401,hydromorphone hcl,hydromorphone hydrochloride,hydromorphone,NA,NA,NA,1 mg,NA,100,NA,NA,NA,NA
+00879071501,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,2,mg,100,halsey,9/30/90,9/30/90,active
+00879071550,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,2,mg,50,halsey,7/1/91,7/1/91,active
+00879071601,hydromorphone hcl,hydromorphone hydrochloride,hydromorphone,NA,NA,NA,3 mg,NA,100,NA,NA,NA,NA
+00879071701,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,100,halsey,9/30/90,9/30/90,active
+00879071750,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,50,halsey,7/1/91,7/1/91,active
+10544037404,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,140,blenheim pharma,NA,NA,active
+10544037408,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,168,blenheim pharma,NA,NA,active
+10544037428,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,28,blenheim pharma,NA,NA,active
+10544037430,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,30,blenheim pharma,NA,NA,active
+10544037456,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,56,blenheim pharma,NA,NA,active
+10544037460,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,60,blenheim pharma,NA,NA,active
+10544039428,hydromorphone hcl,hydromorphone hydrochloride,hydromorphone,NA,NA,NA,2 mg,NA,28,NA,NA,NA,NA
+13107010701,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,2,mg,100,aurobindo pharm,5/13/16,5/13/16,active
+13107010705,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,2,mg/1,500 tablet in 1 bottle (13107-107-05),"aurolife pharma, llc",5/17/16,NA,NA
+13107010720,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,2,mg/1,20 tablet in 1 bottle (13107-107-20),"aurolife pharma, llc",5/17/16,NA,NA
+13107010799,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,2,mg/1,1000 tablet in 1 bottle (13107-107-99),"aurolife pharma, llc",5/17/16,NA,NA
+13107010801,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,100,aurobindo pharm,5/13/16,5/13/16,active
+13107010805,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,4,mg/1,500 tablet in 1 bottle (13107-108-05),"aurolife pharma, llc",5/17/16,NA,NA
+13107010820,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,4,mg/1,20 tablet in 1 bottle (13107-108-20),"aurolife pharma, llc",5/17/16,NA,NA
+13107010899,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,4,mg/1,1000 tablet in 1 bottle (13107-108-99),"aurolife pharma, llc",5/17/16,NA,NA
+13107010901,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,8,mg,100,aurobindo pharm,5/13/16,5/13/16,active
+13107010905,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,8,mg/1,500 tablet in 1 bottle (13107-109-05),"aurolife pharma, llc",5/17/16,NA,NA
+13107010920,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,8,mg/1,20 tablet in 1 bottle (13107-109-20),"aurolife pharma, llc",5/17/16,NA,NA
+13107010999,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,8,mg/1,1000 tablet in 1 bottle (13107-109-99),"aurolife pharma, llc",5/17/16,NA,NA
+13811070110,hydromorphone,hydromorphone,hydromorphone,NA,tablet extended release 24 hr,oral,8,mg,100,trigen laborato,7/7/16,7/7/16,active
+13811070210,hydromorphone,hydromorphone,hydromorphone,NA,tablet extended release 24 hr,oral,12,mg,100,trigen laborato,7/7/16,7/7/16,active
+13811070310,hydromorphone,hydromorphone,hydromorphone,NA,tablet extended release 24 hr,oral,16,mg,100,trigen laborato,7/7/16,7/7/16,active
+13811070410,hydromorphone,hydromorphone,hydromorphone,NA,tablet extended release 24 hr,oral,32,mg,100,trigen laborato,NA,NA,active
+16590071515,hydromorphone hcl,hydromorphone hydrochloride,hydromorphone,NA,NA,NA,4 mg,NA,15,NA,NA,NA,NA
+16590071520,hydromorphone hcl,hydromorphone hydrochloride,hydromorphone,NA,NA,NA,4 mg,NA,20,NA,NA,NA,NA
+16590071528,hydromorphone hcl,hydromorphone hydrochloride,hydromorphone,NA,NA,NA,4 mg,NA,28,NA,NA,NA,NA
+16590071530,hydromorphone hcl,hydromorphone hydrochloride,hydromorphone,NA,NA,NA,4 mg,NA,30,NA,NA,NA,NA
+16590071556,hydromorphone hcl,hydromorphone hydrochloride,hydromorphone,NA,NA,NA,4 mg,NA,56,NA,NA,NA,NA
+16590071560,hydromorphone hcl,hydromorphone hydrochloride,hydromorphone,NA,NA,NA,4 mg,NA,60,NA,NA,NA,NA
+16590071572,hydromorphone hcl,hydromorphone hydrochloride,hydromorphone,NA,NA,NA,4 mg,NA,120,NA,NA,NA,NA
+16590071573,hydromorphone hcl,hydromorphone hydrochloride,hydromorphone,NA,NA,NA,4 mg,NA,112,NA,NA,NA,NA
+16590071582,hydromorphone hcl,hydromorphone hydrochloride,hydromorphone,NA,NA,NA,4 mg,NA,180,NA,NA,NA,NA
+16590071590,hydromorphone hcl,hydromorphone hydrochloride,hydromorphone,NA,NA,NA,4 mg,NA,90,NA,NA,NA,NA
+16590076820,dilaudid,hydromorphone,hydromorphone,NA,tablet,oral,2,mg,20,stat rx usa,NA,NA,active
+16590077430,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,8,mg,30,stat rx usa,NA,NA,active
+16590077460,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,8,mg/1,60 tablet in 1 bottle (16590-774-60),stat rx usa llc,11/23/09,NA,NA
+16590077472,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,8,mg,120,stat rx usa,NA,NA,active
+16590077490,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,8,mg,90,stat rx usa,NA,NA,active
+16590082720,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,2,mg/1,20 tablet in 1 bottle (16590-827-20),stat rx usa llc,5/14/09,NA,NA
+16590082728,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,2,mg,28,stat rx usa,NA,NA,active
+16590082730,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,2,mg,30,stat rx usa,NA,NA,active
+16590082740,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,2,mg/1,40 tablet in 1 bottle (16590-827-40),stat rx usa llc,5/14/09,NA,NA
+16590082756,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,2,mg,56,stat rx usa,NA,NA,active
+16590082760,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,2,mg/1,60 tablet in 1 bottle (16590-827-60),stat rx usa llc,5/14/09,NA,NA
+16590094230,exalgo er,hydromorphone,hydromorphone,NA,tablet extended release 24 hr,oral,8,mg,30,stat rx usa,NA,NA,active
+16590094260,exalgo,hydromorphone hydrochloride,hydromorphone,NA,"tablet, extended release",oral,8,mg/1,"60 tablet, extended release in 1 bottle (16590-942-60)",stat rx usa llc,3/14/11,NA,NA
+16590094290,exalgo,hydromorphone hydrochloride,hydromorphone,NA,"tablet, extended release",oral,8,mg/1,"90 tablet, extended release in 1 bottle (16590-942-90)",stat rx usa llc,3/14/11,NA,NA
+17236091401,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,2,mg,100,dixon-shane,NA,NA,active
+17236091501,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,100,dixon-shane,NA,NA,active
+17478054001,hydromorphone (pf),hydromorphone,hydromorphone,NA,solution,injection,10,mg/ml,1,akorn inc.,4/14/10,4/14/10,active
+17478054005,hydromorphone (pf),hydromorphone,hydromorphone,NA,solution,injection,10,mg/ml,5,akorn inc.,4/14/10,4/14/10,active
+17478054050,hydromorphone (pf),hydromorphone,hydromorphone,NA,solution,injection,10,mg/ml,50,akorn inc.,4/14/10,4/14/10,active
+17856038601,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,solution,oral,1 mg/ml,NA,72 cup in 1 case (17856-0386-1)  > 5 ml in 1 cup,atlantic biologicals corps,NA,NA,NA
+23490777801,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,2,mg,6,palmetto state,NA,NA,active
+23490777803,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,2,mg,30,palmetto state,NA,NA,active
+23490777806,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,2,mg,60,palmetto state,NA,NA,active
+23490777809,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,2,mg,90,palmetto state,NA,NA,active
+23490777903,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,30,palmetto state,NA,NA,active
+23490777906,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,60,palmetto state,NA,NA,active
+23490777908,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,100,palmetto state,NA,NA,active
+23490777909,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,90,palmetto state,NA,NA,active
+23635040801,exalgo er,hydromorphone,hydromorphone,NA,tablet extended release 24 hr,oral,8,mg,100,mallinckrodt br,3/1/10,3/1/10,active
+23635041201,exalgo er,hydromorphone,hydromorphone,NA,tablet extended release 24 hr,oral,12,mg,100,mallinckrodt br,3/1/10,3/1/10,active
+23635041601,exalgo er,hydromorphone,hydromorphone,NA,tablet extended release 24 hr,oral,16,mg,100,mallinckrodt br,3/1/10,3/1/10,active
+23635043201,exalgo er,hydromorphone,hydromorphone,NA,tablet extended release 24 hr,oral,32,mg,100,mallinckrodt br,3/1/10,3/1/10,active
+24200028507,hydromorphone hcl-sodium chloride,hydromorphone hydrochloride; sodium chloride,hydromorphone,NA,NA,NA,10 mcg/ml-0.9%,NA,1,NA,NA,NA,NA
+24200028980,hydromorphone-bupiv (pf)-nacl,hydromorphone,hydromorphone,NA,syringe,epidural,10 mcg/ml,-0.125 %,50,ameridose llc,NA,NA,inactive
+24200029203,hydromorphone hcl-sodium chloride,hydromorphone hydrochloride; sodium chloride,hydromorphone,NA,NA,NA,0.2 mg/ml-0.9%,NA,1,NA,NA,NA,NA
+24200029261,hydromorphone (pf)-0.9% nacl,hydromorphone,hydromorphone,NA,patient control.analgesia soln,intravenous,6 mg/30 ml,(0.2 mg/ml),30,ameridose llc,NA,NA,active
+24200029262,hydromorphone (pf)-0.9% nacl,hydromorphone,hydromorphone,NA,pt controlled analgesia syring,intravenous,5 mg/25 ml,(0.2 mg/ml),25,ameridose llc,NA,NA,inactive
+24200029264,hydromorphone hcl-sodium chloride,hydromorphone hydrochloride; sodium chloride,hydromorphone,NA,NA,NA,0.2 mg/ml-0.9%,NA,1,NA,NA,NA,NA
+24200029265,hydromorphone hcl-sodium chloride,hydromorphone hydrochloride; sodium chloride,hydromorphone,NA,NA,NA,0.2 mg/ml-0.9%,NA,1,NA,NA,NA,NA
+24200029266,hydromorphone (pf)-0.9% nacl,hydromorphone,hydromorphone,NA,pt controlled analgesia syring,intravenous,6 mg/30 ml,(0.2 mg/ml),30,ameridose llc,NA,NA,active
+24200029272,hydromorphone hcl-sodium chloride,hydromorphone hydrochloride; sodium chloride,hydromorphone,NA,NA,NA,0.2 mg/ml-0.9%,NA,1,NA,NA,NA,NA
+24200029273,hydromorphone hcl-sodium chloride,hydromorphone hydrochloride; sodium chloride,hydromorphone,NA,NA,NA,0.2 mg/ml-0.9%,NA,1,NA,NA,NA,NA
+24200029281,hydromorphone hcl-sodium chloride,hydromorphone hydrochloride; sodium chloride,hydromorphone,NA,NA,NA,0.2 mg/ml-0.9%,NA,1,NA,NA,NA,NA
+24200029282,hydromorphone hcl-sodium chloride,hydromorphone hydrochloride; sodium chloride,hydromorphone,NA,NA,NA,0.2 mg/ml-0.9%,NA,1,NA,NA,NA,NA
+24200029283,hydromorphone hcl-sodium chloride,hydromorphone hydrochloride; sodium chloride,hydromorphone,NA,NA,NA,0.2 mg/ml-0.9%,NA,1,NA,NA,NA,NA
+24200029290,hydromorphone hcl-sodium chloride,hydromorphone hydrochloride; sodium chloride,hydromorphone,NA,NA,NA,0.2 mg/ml-0.9%,NA,1,NA,NA,NA,NA
+24200029292,hydromorphone hcl-sodium chloride,hydromorphone hydrochloride; sodium chloride,hydromorphone,NA,NA,NA,0.2 mg/ml-0.9%,NA,1,NA,NA,NA,NA
+24200029293,hydromorphone hcl-sodium chloride,hydromorphone hydrochloride; sodium chloride,hydromorphone,NA,NA,NA,0.2 mg/ml-0.9%,NA,1,NA,NA,NA,NA
+24200029361,hydromorphone hcl-sodium chloride,hydromorphone hydrochloride; sodium chloride,hydromorphone,NA,NA,NA,1 mg/ml-0.9%,NA,1,NA,NA,NA,NA
+24200029364,hydromorphone hcl-sodium chloride,hydromorphone hydrochloride; sodium chloride,hydromorphone,NA,NA,NA,1 mg/ml-0.9%,NA,1,NA,NA,NA,NA
+24200029404,hydromorphone hcl-sodium chloride,hydromorphone hydrochloride; sodium chloride,hydromorphone,NA,NA,NA,0.4 mg/ml-0.9%,NA,1,NA,NA,NA,NA
+24200029461,hydromorphone hcl-sodium chloride,hydromorphone hydrochloride; sodium chloride,hydromorphone,NA,NA,NA,0.4 mg/ml-0.9%,NA,1,NA,NA,NA,NA
+24200029464,hydromorphone hcl-sodium chloride,hydromorphone hydrochloride; sodium chloride,hydromorphone,NA,NA,NA,0.4 mg/ml-0.9%,NA,1,NA,NA,NA,NA
+24200029466,hydromorphone hcl-sodium chloride,hydromorphone hydrochloride; sodium chloride,hydromorphone,NA,NA,NA,0.4 mg/ml-0.9%,NA,1,NA,NA,NA,NA
+24200029483,hydromorphone hcl-sodium chloride,hydromorphone hydrochloride; sodium chloride,hydromorphone,NA,NA,NA,0.4 mg/ml-0.9%,NA,1,NA,NA,NA,NA
+24200029490,hydromorphone hcl-sodium chloride,hydromorphone hydrochloride; sodium chloride,hydromorphone,NA,NA,NA,0.4 mg/ml-0.9%,NA,1,NA,NA,NA,NA
+24200029603,hydromorphone hcl-sodium chloride,hydromorphone hydrochloride; sodium chloride,hydromorphone,NA,NA,NA,1 mg/ml-0.9%,NA,1,NA,NA,NA,NA
+24200029604,hydromorphone hcl-sodium chloride,hydromorphone hydrochloride; sodium chloride,hydromorphone,NA,NA,NA,1 mg/ml-0.9%,NA,1,NA,NA,NA,NA
+24200029645,hydromorphone (pf)-0.9% nacl,hydromorphone,hydromorphone,NA,syringe,intravenous,1,mg/ml,1,ameridose llc,NA,NA,inactive
+24200029662,hydromorphone hcl-sodium chloride,hydromorphone hydrochloride; sodium chloride,hydromorphone,NA,NA,NA,1 mg/ml-0.9%,NA,1,NA,NA,NA,NA
+24200029665,hydromorphone hcl-sodium chloride,hydromorphone hydrochloride; sodium chloride,hydromorphone,NA,NA,NA,1 mg/ml-0.9%,NA,1,NA,NA,NA,NA
+24200029666,hydromorphone hcl-sodium chloride,hydromorphone hydrochloride; sodium chloride,hydromorphone,NA,NA,NA,1 mg/ml-0.9%,NA,1,NA,NA,NA,NA
+24200029672,hydromorphone hcl-sodium chloride,hydromorphone hydrochloride; sodium chloride,hydromorphone,NA,NA,NA,1 mg/ml-0.9%,NA,1,NA,NA,NA,NA
+24200029673,hydromorphone hcl-sodium chloride,hydromorphone hydrochloride; sodium chloride,hydromorphone,NA,NA,NA,1 mg/ml-0.9%,NA,1,NA,NA,NA,NA
+24200029680,hydromorphone hcl-sodium chloride,hydromorphone hydrochloride; sodium chloride,hydromorphone,NA,NA,NA,1 mg/ml-0.9%,NA,1,NA,NA,NA,NA
+24200029681,hydromorphone hcl-sodium chloride,hydromorphone hydrochloride; sodium chloride,hydromorphone,NA,NA,NA,1 mg/ml-0.9%,NA,1,NA,NA,NA,NA
+24200029682,hydromorphone hcl-sodium chloride,hydromorphone hydrochloride; sodium chloride,hydromorphone,NA,NA,NA,1 mg/ml-0.9%,NA,1,NA,NA,NA,NA
+24200029686,hydromorphone hcl-sodium chloride,hydromorphone hydrochloride; sodium chloride,hydromorphone,NA,NA,NA,1 mg/ml-0.9%,NA,1,NA,NA,NA,NA
+24200029690,hydromorphone hcl-sodium chloride,hydromorphone hydrochloride; sodium chloride,hydromorphone,NA,NA,NA,1 mg/ml-0.9%,NA,1,NA,NA,NA,NA
+24200029692,hydromorphone hcl-sodium chloride,hydromorphone hydrochloride; sodium chloride,hydromorphone,NA,NA,NA,1 mg/ml-0.9%,NA,1,NA,NA,NA,NA
+24200029693,hydromorphone hcl-sodium chloride,hydromorphone hydrochloride; sodium chloride,hydromorphone,NA,NA,NA,1 mg/ml-0.9%,NA,1,NA,NA,NA,NA
+24200029704,hydromorphone hcl-sodium chloride,hydromorphone hydrochloride; sodium chloride,hydromorphone,NA,NA,NA,0.1 mg/ml-0.9%,NA,1,NA,NA,NA,NA
+24200029705,hydromorphone hcl-sodium chloride,hydromorphone hydrochloride; sodium chloride,hydromorphone,NA,NA,NA,0.1 mg/ml-0.9%,NA,1,NA,NA,NA,NA
+24200029761,hydromorphone hcl-sodium chloride,hydromorphone hydrochloride; sodium chloride,hydromorphone,NA,NA,NA,0.1 mg/ml-0.9%,NA,1,NA,NA,NA,NA
+24200029764,hydromorphone hcl-sodium chloride,hydromorphone hydrochloride; sodium chloride,hydromorphone,NA,NA,NA,0.1 mg/ml-0.9%,NA,1,NA,NA,NA,NA
+24200029766,hydromorphone hcl-sodium chloride,hydromorphone hydrochloride; sodium chloride,hydromorphone,NA,NA,NA,0.1 mg/ml-0.9%,NA,1,NA,NA,NA,NA
+24200029773,hydromorphone hcl-sodium chloride,hydromorphone hydrochloride; sodium chloride,hydromorphone,NA,NA,NA,0.1 mg/ml-0.9%,NA,1,NA,NA,NA,NA
+24200029780,hydromorphone (pf)-0.9% nacl,hydromorphone,hydromorphone,NA,pt controlled analgesia syring,intravenous,10 mg/50 ml,(0.2 mg/ml),50,ameridose llc,NA,NA,active
+24200029781,hydromorphone (pf)-0.9% nacl,hydromorphone,hydromorphone,NA,pt controlled analgesia syring,intravenous,5.5 mg/55 ml,(0.1 mg/ml),55,ameridose llc,NA,NA,inactive
+24200029783,hydromorphone hcl-sodium chloride,hydromorphone hydrochloride; sodium chloride,hydromorphone,NA,NA,NA,0.1 mg/ml-0.9%,NA,1,NA,NA,NA,NA
+24200029804,hydromorphone hcl-sodium chloride,hydromorphone hydrochloride; sodium chloride,hydromorphone,NA,NA,NA,0.2 mg/ml-0.9%,NA,1,NA,NA,NA,NA
+24200029805,hydromorphone hcl-sodium chloride,hydromorphone hydrochloride; sodium chloride,hydromorphone,NA,NA,NA,0.2 mg/ml-0.9%,NA,1,NA,NA,NA,NA
+24200029880,hydromorphone hcl-sodium chloride,hydromorphone hydrochloride; sodium chloride,hydromorphone,NA,NA,NA,0.4 mg/ml-0.9%,NA,1,NA,NA,NA,NA
+24200030045,hydromorphone hcl-sodium chloride,hydromorphone hydrochloride; sodium chloride,hydromorphone,NA,NA,NA,2 mg/ml-0.9%,NA,1,NA,NA,NA,NA
+24200030061,hydromorphone hcl-sodium chloride,hydromorphone hydrochloride; sodium chloride,hydromorphone,NA,NA,NA,2 mg/ml-0.9%,NA,1,NA,NA,NA,NA
+24200030064,hydromorphone hcl-sodium chloride,hydromorphone hydrochloride; sodium chloride,hydromorphone,NA,NA,NA,2 mg/ml-0.9%,NA,1,NA,NA,NA,NA
+24200030092,hydromorphone hcl-sodium chloride,hydromorphone hydrochloride; sodium chloride,hydromorphone,NA,NA,NA,2 mg/ml-0.9%,NA,1,NA,NA,NA,NA
+24200030104,hydromorphone hcl-sodium chloride,hydromorphone hydrochloride; sodium chloride,hydromorphone,NA,NA,NA,0.5 mg/ml-0.9%,NA,1,NA,NA,NA,NA
+24200030146,hydromorphone (pf)-0.9% nacl,hydromorphone,hydromorphone,NA,syringe,intravenous,1,mg/0.5 ml,.5,ameridose llc,NA,NA,inactive
+24200030161,hydromorphone hcl-sodium chloride,hydromorphone hydrochloride; sodium chloride,hydromorphone,NA,NA,NA,0.5 mg/ml-0.9%,NA,1,NA,NA,NA,NA
+24200030164,hydromorphone hcl-sodium chloride,hydromorphone hydrochloride; sodium chloride,hydromorphone,NA,NA,NA,0.5 mg/ml-0.9%,NA,1,NA,NA,NA,NA
+24200030173,hydromorphone hcl-sodium chloride,hydromorphone hydrochloride; sodium chloride,hydromorphone,NA,NA,NA,0.5 mg/ml-0.9%,NA,1,NA,NA,NA,NA
+24200030180,hydromorphone hcl-sodium chloride,hydromorphone hydrochloride; sodium chloride,hydromorphone,NA,NA,NA,0.5 mg/ml-0.9%,NA,1,NA,NA,NA,NA
+24200030190,hydromorphone hcl-sodium chloride,hydromorphone hydrochloride; sodium chloride,hydromorphone,NA,NA,NA,0.5 mg/ml-0.9%,NA,1,NA,NA,NA,NA
+24200030780,hydromorphone hcl-sodium chloride,hydromorphone hydrochloride; sodium chloride,hydromorphone,NA,NA,NA,0.3 mg/ml-0.9%,NA,1,NA,NA,NA,NA
+24200031010,hydromorphone hcl-bupivacaine hcl-sodium chloride,bupivacaine hcl; hydromorphone hcl; na cl,hydromorphone,NA,NA,NA,0.1%-10 mcg/ml-0.9%,NA,1,NA,NA,NA,NA
+24200031088,hydromorphone hcl-bupivacaine hcl-sodium chloride,bupivacaine hcl; hydromorphone hcl; na cl,hydromorphone,NA,NA,NA,0.1%-10 mcg/ml-0.9%,NA,1,NA,NA,NA,NA
+24200031111,hydromorphone hcl-bupivacaine hcl-sodium chloride,bupivacaine hcl; hydromorphone hcl; na cl,hydromorphone,NA,NA,NA,0.06%-20 mcg/ml-0.9%,NA,1,NA,NA,NA,NA
+24200031311,hydromorphone hcl-bupivacaine hcl-sodium chloride,bupivacaine hcl; hydromorphone hcl; na cl,hydromorphone,NA,NA,NA,0.125%-20 mcg/ml-0.9%,NA,1,NA,NA,NA,NA
+24200031410,hydromorphone hcl-bupivacaine hcl-sodium chloride,bupivacaine hcl; hydromorphone hcl; na cl,hydromorphone,NA,NA,NA,0.1%-20 mcg/ml-0.9%,NA,1,NA,NA,NA,NA
+24200129473,hydromorphone (pf)-0.9% nacl,hydromorphone,hydromorphone,NA,pt controlled analgesia syring,intravenous,12 mg/30 ml,(0.4 mg/ml),30,ameridose llc,NA,NA,inactive
+24200230181,hydromorphone (pf)-0.9% nacl,hydromorphone,hydromorphone,NA,pt controlled analgesia syring,intravenous,110 mg/55 ml,(2 mg/ml),55,ameridose llc,NA,NA,inactive
+33358017800,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,2,mg,100,rxchange co.,NA,NA,active
+33358017806,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,2,mg,6,rxchange co.,NA,NA,active
+35356000700,dilaudid,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,100,quality care,NA,NA,active
+35356000730,dilaudid,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,30,quality care,NA,NA,active
+35356051430,dilaudid,hydromorphone,hydromorphone,NA,tablet,oral,2,mg,30,quality care,NA,NA,active
+35356060830,exalgo er,hydromorphone,hydromorphone,NA,tablet extended release 24 hr,oral,12,mg,30,quality care,NA,NA,active
+35356060930,exalgo er,hydromorphone,hydromorphone,NA,tablet extended release 24 hr,oral,16,mg,30,quality care,NA,NA,active
+35356060960,exalgo er,hydromorphone,hydromorphone,NA,tablet extended release 24 hr,oral,16,mg,60,quality care,NA,NA,active
+35356061030,exalgo er,hydromorphone,hydromorphone,NA,tablet extended release 24 hr,oral,8,mg,30,quality care,NA,NA,active
+35356061060,exalgo er,hydromorphone,hydromorphone,NA,tablet extended release 24 hr,oral,8,mg,60,quality care,NA,NA,active
+35356063030,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,2,mg,30,quality care,NA,NA,active
+35356063060,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,2,mg,60,quality care,NA,NA,active
+35356081401,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,8,mg/1,"120 tablet in 1 bottle, plastic (35356-814-01)",lake erie medical dba quality care products llc,12/9/09,NA,NA
+35356081430,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,8,mg,30,quality care,NA,NA,active
+35356081460,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,8,mg,60,quality care,NA,NA,active
+35356081490,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,8,mg,90,quality care,NA,NA,active
+35356081501,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,4,mg/1,"120 tablet in 1 bottle, plastic (35356-815-01)",lake erie medical dba quality care products llc,12/9/09,NA,NA
+35356081530,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,30,quality care,NA,NA,active
+35356081560,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,60,quality care,NA,NA,active
+35356081590,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,90,quality care,NA,NA,active
+35356081601,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,2,mg/1,"120 tablet in 1 bottle, plastic (35356-816-01)",lake erie medical dba quality care products llc,12/9/09,NA,NA
+35356081630,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,2,mg,30,quality care,NA,NA,active
+35356081660,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,2,mg,60,quality care,NA,NA,active
+35356081690,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,2,mg/1,"90 tablet in 1 bottle, plastic (35356-816-90)",lake erie medical dba quality care products llc,12/9/09,NA,NA
+38779073101,hydromorphone (bulk),hydromorphone,hydromorphone,NA,powder,miscellaneous,100,%,10,medisca inc.,2/10/98,2/10/98,active
+38779073103,hydromorphone (bulk),hydromorphone,hydromorphone,NA,powder,miscellaneous,100,%,5,medisca inc.,2/10/98,2/10/98,active
+38779073104,hydromorphone (bulk),hydromorphone,hydromorphone,NA,powder,miscellaneous,100,%,25,medisca inc.,2/10/98,2/10/98,active
+38779073105,hydromorphone (bulk),hydromorphone,hydromorphone,NA,powder,miscellaneous,100,%,100,medisca inc.,2/10/98,2/10/98,active
+38779073106,hydromorphone (bulk),hydromorphone,hydromorphone,NA,powder,miscellaneous,100,%,1,medisca inc.,2/10/98,2/10/98,active
+38779073107,hydromorphone (bulk),hydromorphone,hydromorphone,NA,powder,miscellaneous,100,%,250,medisca inc.,NA,NA,active
+42549057404,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,140,4uortho llc,NA,NA,active
+42549057408,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,168,4uortho llc,NA,NA,active
+42549057428,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,28,4uortho llc,NA,NA,active
+42549057430,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,30,4uortho llc,NA,NA,active
+42549057456,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,56,4uortho llc,NA,NA,active
+42549057460,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,60,4uortho llc,NA,NA,active
+42549059428,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,2,mg,28,4uortho llc,NA,NA,active
+42549059430,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,2,mg,30,4uortho llc,NA,NA,active
+42549059460,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,2,mg,60,4uortho llc,NA,NA,active
+42549059490,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,2,mg,90,4uortho llc,NA,NA,active
+42549068730,hydromorphone hcl,hydromorphone hydrochloride,hydromorphone,NA,NA,NA,4 mg,NA,30,NA,NA,NA,NA
+42549068760,hydromorphone hcl,hydromorphone hydrochloride,hydromorphone,NA,NA,NA,4 mg,NA,60,NA,NA,NA,NA
+42549068790,hydromorphone hcl,hydromorphone hydrochloride,hydromorphone,NA,NA,NA,4 mg,NA,90,NA,NA,NA,NA
+42858012201,dilaudid,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,2 mg/1,NA,"100 tablet in 1 bottle, plastic (42858-122-01)",rhodes pharmaceuticals l.p.,NA,NA,NA
+42858012225,dilaudid,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,2 mg/1,NA,4 blister pack in 1 carton (42858-122-25)  > 25 tablet in 1 blister pack,rhodes pharmaceuticals l.p.,NA,NA,NA
+42858023401,dilaudid,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,4 mg/1,NA,"100 tablet in 1 bottle, plastic (42858-234-01)",rhodes pharmaceuticals l.p.,NA,NA,NA
+42858023425,dilaudid,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,4 mg/1,NA,4 blister pack in 1 carton (42858-234-25)  > 25 tablet in 1 blister pack,rhodes pharmaceuticals l.p.,NA,NA,NA
+42858023450,dilaudid,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,4 mg/1,NA,"500 tablet in 1 bottle, plastic (42858-234-50)",rhodes pharmaceuticals l.p.,NA,NA,NA
+42858030101,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,2,mg,100,rhodes pharmace,8/20/07,8/20/07,active
+42858030125,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,2,mg,100,rhodes pharmace,8/20/07,8/20/07,active
+42858030201,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,100,rhodes pharmace,8/20/07,8/20/07,active
+42858030225,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,100,rhodes pharmace,8/20/07,8/20/07,active
+42858030250,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,500,rhodes pharmace,8/20/07,8/20/07,active
+42858030301,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,8,mg,100,rhodes pharmace,8/20/07,8/20/07,active
+42858030416,hydromorphone,hydromorphone,hydromorphone,NA,liquid,oral,1,mg/ml,473,rhodes pharmace,8/20/07,8/20/07,active
+42858033801,dilaudid,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,8 mg/1,NA,"100 tablet in 1 bottle, plastic (42858-338-01)",rhodes pharmaceuticals l.p.,NA,NA,NA
+42858041616,dilaudid,hydromorphone hydrochloride,hydromorphone,NA,solution,oral,5 mg/5ml,NA,"473 ml in 1 bottle, plastic (42858-416-16)",rhodes pharmaceuticals l.p.,NA,NA,NA
+43063005106,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,2,mg,6,pd-rx pharm,NA,NA,active
+45183067976,hydromorphone (pf)-0.9% nacl,hydromorphone,hydromorphone,NA,pt controlled analgesia syring,intravenous,5.5 mg/55 ml,(0.1 mg/ml),55,pharmakon compo,NA,NA,inactive
+45183070268,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,patient control.analgesia soln,intravenous,6,mg/30 ml,30,pharmakon compo,NA,NA,active
+45183090375,hydromorphone (pf)-0.9% nacl,hydromorphone,hydromorphone,NA,syringe,epidural,10 mg/50 ml,(0.2 mg/ml),50,pharmakon compo,NA,NA,inactive
+45183091276,hydromorphone (pf)-0.9% nacl,hydromorphone,hydromorphone,NA,syringe,epidural,5.5 mg/55 ml,(0.1 mg/ml),55,pharmakon compo,NA,NA,inactive
+45183091337,hydromorphone-bupiv (pf)-nacl,hydromorphone,hydromorphone,NA,solution,epidural,20-0.125,mcg/ml-%,200,pharmakon compo,NA,NA,active
+45183091467,hydromorphone (pf)-0.9% nacl,hydromorphone,hydromorphone,NA,pt controlled analgesia syring,intravenous,5 mg/25 ml,(0.2 mg/ml),25,pharmakon compo,NA,NA,inactive
+45183092648,hydromorphone (pf)-0.9% nacl,hydromorphone,hydromorphone,NA,solution,epidural,0.2,mg/ml,100,pharmakon compo,NA,NA,inactive
+45183093048,hydromorphone (pf)-0.9% nacl,hydromorphone,hydromorphone,NA,solution,intravenous,0.2,mg/ml,100,pharmakon compo,NA,NA,active
+47679088790,hydromorphone,hydromorphone,hydromorphone,NA,solution,injection,2,mg/ml,20,baxter pharm.,NA,NA,active
+49452002901,hydromorphone (bulk),hydromorphone,hydromorphone,NA,powder,miscellaneous,100,%,1,spectrum,NA,NA,active
+49452002902,hydromorphone (bulk),hydromorphone,hydromorphone,NA,powder,miscellaneous,100,%,5,spectrum,NA,NA,active
+49452002903,hydromorphone hcl,hydromorphone hydrochloride,hydromorphone,NA,NA,NA,NA,NA,1,NA,NA,NA,NA
+49452002904,hydromorphone (bulk),hydromorphone,hydromorphone,NA,powder,miscellaneous,100,%,25,spectrum,NA,NA,active
+49452002909,hydromorphone (bulk),hydromorphone,hydromorphone,NA,powder,miscellaneous,100,%,100,spectrum,NA,NA,active
+49999083501,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,120,quality care,NA,NA,active
+49999083530,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,30,quality care,NA,NA,active
+49999083560,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,60,quality care,NA,NA,active
+49999083590,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,90,quality care,NA,NA,active
+49999083601,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,8,mg,120,quality care,NA,NA,active
+49999083630,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,8,mg,30,quality care,NA,NA,active
+49999083690,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,8,mg,90,quality care,NA,NA,active
+51224010250,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,8,mg,100,tagi pharma,10/18/05,10/18/05,active
+51552068201,hydromorphone (bulk),hydromorphone,hydromorphone,NA,powder,miscellaneous,100,%,1,fagron inc,9/30/90,9/30/90,active
+51552068202,hydromorphone (bulk),hydromorphone,hydromorphone,NA,powder,miscellaneous,100,%,5,fagron inc,9/30/90,9/30/90,active
+51552068203,hydromorphone (bulk),hydromorphone,hydromorphone,NA,powder,miscellaneous,100,%,10,fagron inc,9/30/90,9/30/90,active
+51552068204,hydromorphone (bulk),hydromorphone,hydromorphone,NA,powder,miscellaneous,100,%,25,fagron inc,9/30/90,9/30/90,active
+51927100300,hydromorphone (bulk),hydromorphone,hydromorphone,NA,powder,miscellaneous,100,%,1,professional co,NA,NA,active
+52152025802,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,2,mg,100,amide pharmaceu,NA,NA,active
+52152025902,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,100,amide pharmaceu,NA,NA,active
+52152026002,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,8,mg,100,actavis totowa,10/18/05,10/18/05,active
+52372085101,hydromorphone (bulk),hydromorphone,hydromorphone,NA,powder,miscellaneous,100,%,1,freedom pharmac,NA,NA,active
+52372085102,hydromorphone (bulk),hydromorphone,hydromorphone,NA,powder,miscellaneous,100,%,5,freedom pharmac,NA,NA,active
+52372085103,hydromorphone (bulk),hydromorphone,hydromorphone,NA,powder,miscellaneous,100,%,10,freedom pharmac,NA,NA,active
+52372085104,hydromorphone (bulk),hydromorphone,hydromorphone,NA,powder,miscellaneous,100,%,25,freedom pharmac,NA,NA,active
+52372085105,hydromorphone (bulk),hydromorphone,hydromorphone,NA,powder,miscellaneous,100,%,100,freedom pharmac,NA,NA,active
+52446021721,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,2,mg,100,qualitest,9/30/90,9/30/90,active
+52446021821,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,100,qualitest,9/30/90,9/30/90,active
+52533000203,hydromorphone hcl,hydromorphone hydrochloride,hydromorphone,NA,"injection, solution",intravenous,.2,mg/ml,"30 ml in 1 syringe, plastic (52533-002-03)",cantrell drug company,10/17/11,NA,NA
+52533000204,hydromorphone hcl,hydromorphone hydrochloride,hydromorphone,NA,"injection, solution",intravenous,.2,mg/ml,"50 ml in 1 syringe, plastic (52533-002-04)",cantrell drug company,8/23/10,NA,NA
+52533000205,hydromorphone hcl,hydromorphone hydrochloride,hydromorphone,NA,"injection, solution",intravenous,.2,mg/ml,"30 ml in 1 vial, patent delivery system (52533-002-05)",cantrell drug company,8/23/10,NA,NA
+52533000210,hydromorphone hcl,hydromorphone hydrochloride,hydromorphone,NA,"injection, solution",intravenous,.2,mg/ml,"30 ml in 1 vial, patent delivery system (52533-002-10)",cantrell drug company,4/4/13,NA,NA
+52533000243,hydromorphone hcl-sodium chloride,hydromorphone hydrochloride; sodium chloride,hydromorphone,NA,NA,NA,0.2 mg/ml-0.9%,NA,1,NA,NA,NA,NA
+52533000275,hydromorphone hcl,hydromorphone hydrochloride,hydromorphone,NA,"injection, solution",intravenous,.2,mg/ml,100 ml in 1 bag (52533-002-75),cantrell drug company,4/1/15,NA,NA
+52533000405,hydromorphone hcl,hydromorphone hydrochloride,hydromorphone,NA,"injection, solution",intravenous,.1,mg/ml,"30 ml in 1 vial, glass (52533-004-05)",cantrell drug company,8/21/14,NA,NA
+52533000505,hydromorphone hcl,hydromorphone hydrochloride,hydromorphone,NA,"injection, solution",intravenous,.5,mg/ml,"30 ml in 1 vial, glass (52533-005-05)",cantrell drug company,1/18/12,NA,NA
+52533000510,hydromorphone hcl,hydromorphone hydrochloride,hydromorphone,NA,"injection, solution",intravenous,.5,mg/ml,"30 ml in 1 vial, glass (52533-005-10)",cantrell drug company,8/13/14,NA,NA
+52533000545,hydromorphone hcl,hydromorphone hydrochloride,hydromorphone,NA,"injection, solution",intramuscular; intravenous; subcutaneous,.5,mg/ml,"1 ml in 1 syringe, plastic (52533-005-45)",cantrell drug company,10/11/13,NA,NA
+52533000604,hydromorphone (pf)-0.9% nacl,hydromorphone,hydromorphone,NA,pt controlled analgesia syring,intravenous,50 mg/50 ml,(1 mg/ml),50,cantrell drug c,NA,NA,active
+52533000605,hydromorphone hcl,hydromorphone hydrochloride,hydromorphone,NA,"injection, solution",intravenous,1,mg/ml,"30 ml in 1 vial, patent delivery system (52533-006-05)",cantrell drug company,6/30/11,NA,NA
+52533000610,hydromorphone hcl,hydromorphone hydrochloride,hydromorphone,NA,"injection, solution",intravenous,1,mg/ml,"30 ml in 1 vial, patent delivery system (52533-006-10)",cantrell drug company,8/13/14,NA,NA
+52533000631,hydromorphone hcl,hydromorphone hydrochloride,hydromorphone,NA,"injection, solution",intravenous,1,mg/ml,50 ml in 1 bag (52533-006-31),cantrell drug company,4/1/15,NA,NA
+52533000645,hydromorphone hcl,hydromorphone hydrochloride,hydromorphone,NA,"injection, solution",intravenous,1,mg/ml,"1 ml in 1 syringe, plastic (52533-006-45)",cantrell drug company,10/31/12,NA,NA
+52533000648,hydromorphone (pf)-0.9% nacl,hydromorphone,hydromorphone,NA,pt controlled analgesia syring,intravenous,30 mg/30 ml,(1 mg/ml),30,cantrell drug c,NA,NA,active
+52533000675,hydromorphone hcl,hydromorphone hydrochloride,hydromorphone,NA,"injection, solution",intravenous,1,mg/ml,100 ml in 1 bag (52533-006-75),cantrell drug company,4/1/15,NA,NA
+52533000805,hydromorphone hcl,hydromorphone hydrochloride,hydromorphone,NA,"injection, solution",intravenous,10,mg/ml,"30 ml in 1 vial, glass (52533-008-05)",cantrell drug company,8/21/14,NA,NA
+52533000810,hydromorphone hcl,hydromorphone hydrochloride,hydromorphone,NA,"injection, solution",intravenous,10,mg/ml,"30 ml in 1 vial, glass (52533-008-10)",cantrell drug company,8/13/14,NA,NA
+52533014505,hydromorphone hcl,hydromorphone hydrochloride,hydromorphone,NA,"injection, solution",intravenous,.4,mg/ml,"30 ml in 1 vial, glass (52533-145-05)",cantrell drug company,8/13/14,NA,NA
+52533014510,hydromorphone hcl,hydromorphone hydrochloride,hydromorphone,NA,"injection, solution",intravenous,.4,mg/ml,"30 ml in 1 vial, glass (52533-145-10)",cantrell drug company,8/13/14,NA,NA
+52533014605,hydromorphone hcl,hydromorphone hydrochloride,hydromorphone,NA,"injection, solution",intravenous,2,mg/ml,"30 ml in 1 vial, glass (52533-146-05)",cantrell drug company,8/20/14,NA,NA
+52533014610,hydromorphone hcl,hydromorphone hydrochloride,hydromorphone,NA,"injection, solution",intravenous,2,mg/ml,"30 ml in 1 vial, glass (52533-146-10)",cantrell drug company,8/13/14,NA,NA
+52959040802,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,120,pharma pac,NA,NA,active
+52959040830,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,30,pharma pac,NA,NA,active
+52959040860,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,60,pharma pac,NA,NA,active
+52959041302,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,8,mg/1,"120 tablet in 1 bottle, plastic (52959-413-02)","h.j. harkins company, inc.",12/9/09,NA,NA
+52959041360,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,8,mg/1,"60 tablet in 1 bottle, plastic (52959-413-60)","h.j. harkins company, inc.",12/9/09,NA,NA
+52959042002,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,2,mg,120,pharma pac,NA,NA,active
+54868241300,dilaudid,hydromorphone,hydromorphone,NA,tablet,oral,2,mg,120,physicians tc.,NA,NA,active
+54868290500,dilaudid,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,60,physicians tc.,NA,NA,active
+54868290501,dilaudid,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,100,physicians tc.,NA,NA,active
+54868290502,dilaudid,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,120,physicians tc.,NA,NA,active
+54868290503,dilaudid,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,30,physicians tc.,NA,NA,active
+54868290504,dilaudid,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,20,physicians tc.,NA,NA,active
+54868290505,dilaudid,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,100,physicians tc.,NA,NA,active
+54868316500,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,2,mg,20,physicians tc.,NA,NA,active
+54868316501,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,2,mg,10,physicians tc.,NA,NA,active
+54868316502,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,2,mg,50,physicians tc.,NA,NA,active
+54868316503,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,2,mg,100,physicians tc.,NA,NA,active
+54868316504,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,2,mg,90,physicians tc.,NA,NA,active
+54868316505,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,2,mg,30,physicians tc.,NA,NA,active
+54868316506,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,2,mg,120,physicians tc.,NA,NA,active
+54868316507,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,2,mg,60,physicians tc.,NA,NA,active
+54868334500,palladone,hydromorphone,hydromorphone,NA,"capsule,ext rel. pellets 24 hr",oral,12,mg,30,physicians tc.,NA,NA,inactive
+54868414700,dilaudid,hydromorphone,hydromorphone,NA,tablet,oral,8,mg,60,physicians tc.,NA,NA,active
+54868414701,dilaudid,hydromorphone,hydromorphone,NA,tablet,oral,8,mg,100,physicians tc.,NA,NA,active
+54868414702,dilaudid,hydromorphone,hydromorphone,NA,tablet,oral,8,mg,20,physicians tc.,NA,NA,active
+54868459800,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,8,mg,60,physicians tc.,NA,NA,active
+54868459801,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,8,mg,100,physicians tc.,NA,NA,active
+54868459802,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,8,mg,120,physicians tc.,NA,NA,active
+54868459803,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,8,mg,20,physicians tc.,NA,NA,active
+54868459804,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,8,mg,30,physicians tc.,NA,NA,active
+54868459805,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,8,mg,150,physicians tc.,NA,NA,active
+54868459806,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,8,mg,90,physicians tc.,NA,NA,active
+54868459807,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,8,mg,180,physicians tc.,NA,NA,active
+54868496900,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,60,physicians tc.,NA,NA,active
+54868496901,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,120,physicians tc.,NA,NA,active
+54868496902,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,90,physicians tc.,NA,NA,active
+54868496903,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,100,physicians tc.,NA,NA,active
+54868496904,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,30,physicians tc.,NA,NA,active
+54868496905,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,50,physicians tc.,NA,NA,active
+54868496906,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,100,physicians tc.,NA,NA,active
+54868513700,dilaudid (pf),hydromorphone,hydromorphone,NA,solution,injection,4,mg/ml,1,physicians tc.,NA,NA,inactive
+54868522300,palladone,hydromorphone,hydromorphone,NA,"capsule,ext rel. pellets 24 hr",oral,16,mg,30,physicians tc.,NA,NA,inactive
+54868531900,hydromorphone,hydromorphone,hydromorphone,NA,solution,injection,2,mg/ml,1,physicians tc.,NA,NA,active
+54868638700,exalgo er,hydromorphone,hydromorphone,NA,tablet extended release 24 hr,oral,8,mg,30,physicians tc.,NA,NA,active
+54868638800,exalgo er,hydromorphone,hydromorphone,NA,tablet extended release 24 hr,oral,16,mg,30,physicians tc.,NA,NA,active
+54977014650,hydromorphone hcl,hydromorphone hydrochloride,hydromorphone,NA,NA,NA,2 mg,NA,50,NA,NA,NA,NA
+54977014750,hydromorphone hcl,hydromorphone hydrochloride,hydromorphone,NA,NA,NA,4 mg,NA,50,NA,NA,NA,NA
+55700040030,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,"tablet, extended release",oral,16,mg/1,"30 tablet, extended release in 1 bottle (55700-400-30)",lake erie medical dba quality care products llc,6/12/14,NA,NA
+57866414701,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,8,mg,90,vibranta inc.,NA,NA,active
+57866414702,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,8,mg,120,vibranta inc.,NA,NA,active
+57866707701,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,2,mg,10,vibranta inc.,NA,NA,active
+57866707801,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,10,vibranta inc.,NA,NA,active
+57866707802,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,30,vibranta inc.,NA,NA,active
+57866707803,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,60,vibranta inc.,NA,NA,active
+57866707804,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,120,vibranta inc.,NA,NA,active
+57866707805,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,90,vibranta inc.,NA,NA,active
+58177029804,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,2,mg,100,ethex corp,3/19/03,3/19/03,active
+58177029811,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,2,mg,100,ethex corp,3/19/03,3/19/03,active
+58177029904,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,100,ethex corp,3/29/03,3/29/03,active
+58177029911,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,100,ethex corp,3/29/03,3/29/03,active
+58177044904,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,8,mg,100,ethex corp,1/11/06,1/11/06,active
+58177062004,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,2,mg,100,ethex corp,11/9/05,11/9/05,active
+58177062011,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,2,mg,100,ethex corp,11/9/05,11/9/05,active
+58177062104,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,100,ethex corp,11/9/05,11/9/05,active
+58177062111,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,100,ethex corp,11/9/05,11/9/05,active
+58298053401,hydromorphone (bulk),hydromorphone,hydromorphone,NA,powder,miscellaneous,100,%,1,elge inc.,NA,NA,active
+58298053402,hydromorphone hcl,hydromorphone hydrochloride,hydromorphone,NA,NA,NA,NA,NA,1,NA,NA,NA,NA
+58298053403,hydromorphone (bulk),hydromorphone,hydromorphone,NA,powder,miscellaneous,100,%,10,elge inc.,NA,NA,active
+58298053405,hydromorphone (bulk),hydromorphone,hydromorphone,NA,powder,miscellaneous,100,%,5,elge inc.,NA,NA,active
+58521000101,hydrostat ir,hydromorphone hydrochloride,hydromorphone,NA,NA,NA,1 mg,NA,100,NA,NA,NA,NA
+58521000201,hydrostat,hydromorphone,hydromorphone,NA,tablet,oral,2,mg,100,shire richwood,6/14/93,6/14/93,inactive
+58521000301,hydrostat ir,hydromorphone hydrochloride,hydromorphone,NA,NA,NA,3 mg,NA,100,NA,NA,NA,NA
+58521000401,hydrostat,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,100,shire richwood,6/14/93,6/14/93,inactive
+59011031220,palladone,hydromorphone,hydromorphone,NA,"capsule,ext rel. pellets 24 hr",oral,12,mg,20,purdue pharma l,NA,NA,inactive
+59011031260,palladone,hydromorphone,hydromorphone,NA,"capsule,ext rel. pellets 24 hr",oral,12,mg,60,purdue pharma l,9/24/04,9/24/04,inactive
+59011031320,palladone,hydromorphone,hydromorphone,NA,"capsule,ext rel. pellets 24 hr",oral,16,mg,20,purdue pharma l,NA,NA,inactive
+59011031360,palladone,hydromorphone,hydromorphone,NA,"capsule,ext rel. pellets 24 hr",oral,16,mg,60,purdue pharma l,9/24/04,9/24/04,inactive
+59011031420,palladone,hydromorphone,hydromorphone,NA,"capsule,ext rel. pellets 24 hr",oral,24,mg,20,purdue pharma l,NA,NA,inactive
+59011031460,palladone,hydromorphone,hydromorphone,NA,"capsule,ext rel. pellets 24 hr",oral,24,mg,60,purdue pharma l,9/24/04,9/24/04,inactive
+59011031520,palladone,hydromorphone,hydromorphone,NA,"capsule,ext rel. pellets 24 hr",oral,32,mg,20,purdue pharma l,NA,NA,inactive
+59011031560,palladone,hydromorphone,hydromorphone,NA,"capsule,ext rel. pellets 24 hr",oral,32,mg,60,purdue pharma l,9/24/04,9/24/04,inactive
+59011044110,dilaudid (pf),hydromorphone,hydromorphone,NA,solution,injection,1,mg/ml,1,purdue pharma l,9/30/90,9/30/90,inactive
+59011044210,dilaudid (pf),hydromorphone,hydromorphone,NA,solution,injection,2,mg/ml,1,purdue pharma l,9/30/90,9/30/90,inactive
+59011044225,dilaudid (pf),hydromorphone,hydromorphone,NA,solution,injection,2,mg/ml,1,purdue pharma l,9/30/90,9/30/90,inactive
+59011044410,dilaudid (pf),hydromorphone,hydromorphone,NA,solution,injection,4,mg/ml,1,purdue pharma l,9/30/90,9/30/90,inactive
+59011044501,dilaudid-hp (pf),hydromorphone,hydromorphone,NA,solution,injection,10,mg/ml,1,purdue pharma l,9/30/90,9/30/90,inactive
+59011044505,dilaudid-hp (pf),hydromorphone,hydromorphone,NA,solution,injection,10,mg/ml,5,purdue pharma l,9/30/90,9/30/90,inactive
+59011044550,dilaudid-hp (pf),hydromorphone,hydromorphone,NA,solution,injection,10,mg/ml,50,purdue pharma l,9/30/90,9/30/90,inactive
+59011044625,dilaudid-hp (pf),hydromorphone,hydromorphone,NA,recon soln,injection,250,mg,1,purdue pharma l,9/30/90,9/30/90,inactive
+59011045101,dilaudid,hydromorphone,hydromorphone,NA,liquid,oral,1,mg/ml,473,purdue pharma l,12/7/92,12/7/92,active
+59011045201,dilaudid,hydromorphone,hydromorphone,NA,tablet,oral,2,mg,100,purdue pharma l,12/7/92,12/7/92,active
+59011045210,dilaudid,hydromorphone,hydromorphone,NA,tablet,oral,2,mg,100,purdue pharma l,12/7/92,12/7/92,active
+59011045401,dilaudid,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,100,purdue pharma l,12/7/92,12/7/92,active
+59011045405,dilaudid,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,500,purdue pharma l,12/7/92,12/7/92,active
+59011045410,dilaudid,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,100,purdue pharma l,12/7/92,12/7/92,active
+59011045810,dilaudid,hydromorphone,hydromorphone,NA,tablet,oral,8,mg,100,purdue pharma l,12/7/92,12/7/92,active
+60951075270,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,2,mg,100,endo gen prod,9/30/90,9/30/90,active
+60951075770,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,100,endo gen prod,9/30/90,9/30/90,active
+60951075785,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,500,endo gen prod,9/30/90,9/30/90,active
+61553011778,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,syringe,intravenous,4,mg/ml (1 ml),1,pharmedium,NA,NA,active
+61553015737,hydromorphone-bupiv (pf)-nacl,hydromorphone,hydromorphone,NA,solution,epidural,20-0.06,mcg/ml-%,200,pharmedium,NA,NA,active
+61553015837,hydromorphone-bupiv (pf)-nacl,hydromorphone,hydromorphone,NA,solution,epidural,20-0.125,mcg/ml-%,200,pharmedium,NA,NA,active
+61553016141,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,solution,intravenous,0.2,mg/ml,50,pharmedium,NA,NA,active
+61553016153,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,solution,intravenous,0.2,mg/ml,50,pharmedium/of,NA,NA,active
+61553016174,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,pt controlled analgesia syring,intravenous,6 mg/30 ml,(0.2 mg/ml),30,pharmedium/of,NA,NA,active
+61553016244,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,pt controlled analgesia syring,intravenous,6 mg/30 ml,(0.2 mg/ml),30,pharmedium,NA,NA,active
+61553016267,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,pt controlled analgesia syring,intravenous,5 mg/25 ml,(0.2 mg/ml),25,pharmedium,NA,NA,active
+61553016375,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,pt controlled analgesia syring,intravenous,10 mg/50 ml,(0.2 mg/ml),50,pharmedium,NA,NA,active
+61553016541,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,solution,injection,50,mg/50 ml,50,pharmedium,NA,NA,active
+61553016578,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,syringe,intravenous,1,mg/ml (1 ml),1,pharmedium,NA,NA,active
+61553016644,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,pt controlled analgesia syring,intravenous,30 mg/30 ml,(1 mg/ml),30,pharmedium,NA,NA,active
+61553016667,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,pt controlled analgesia syring,injection,25,mg/25 ml,25,pharmedium,NA,NA,active
+61553016775,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,pt controlled analgesia syring,intravenous,50,mg/50 ml,50,pharmedium,NA,NA,active
+61553020648,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,solution,intravenous,0.2,mg/ml,100,pharmedium,NA,NA,active
+61553020701,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,solution,intravenous,0.2,mg/ml,150,pharmedium,NA,NA,active
+61553020837,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,solution,intravenous,0.2,mg/ml,200,pharmedium,NA,NA,active
+61553020902,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,solution,intravenous,0.2,mg/ml,250,pharmedium,NA,NA,active
+61553021696,hydromorphone-bupiv (pf)-nacl,hydromorphone,hydromorphone,NA,prefilled pump reservoir,epidural,20 mcg/ml-,0.1 %,100,pharmedium/of,NA,NA,active
+61553023354,hydromorphone-bupiv (pf)-nacl,hydromorphone,hydromorphone,NA,solution,epidural,5 mcg/ml-,0.1 %,200,pharmedium/of,NA,NA,active
+61553024248,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,solution,injection,1,mg/ml,100,pharmedium,NA,NA,active
+61553031965,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,syringe,intravenous,2 mg/10 ml,(0.2 mg/ml),10,pharmedium,NA,NA,active
+61553031972,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,syringe,intravenous,2 mg/10 ml,(0.2 mg/ml),10,pharmedium,NA,NA,active
+61553032572,hydromorphone (pf)-0.9% nacl,hydromorphone,hydromorphone,NA,syringe,intravenous,2 mg/10 ml,(0.2 mg/ml),10,pharmedium,NA,NA,active
+61553035240,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,syringe,intravenous,0.5,mg/ml,1,pharmedium,NA,NA,active
+61553047861,hydromorphone-bupiv (pf)-nacl,hydromorphone,hydromorphone,NA,solution,epidural,10-0.0625,mcg/ml-%,250,pharmedium,NA,NA,active
+61553048261,hydromorphone-bupiv (pf)-nacl,hydromorphone,hydromorphone,NA,solution,epidural,10-0.125,mcg/ml-%,250,pharmedium,NA,NA,active
+61553048361,hydromorphone-bupiv (pf)-nacl,hydromorphone,hydromorphone,NA,solution,epidural,5-0.0625,mcg/ml-%,250,pharmedium,NA,NA,active
+61553049561,hydromorphone-bupiv (pf)-nacl,hydromorphone,hydromorphone,NA,solution,epidural,20-0.125,mcg/ml-%,250,pharmedium,NA,NA,active
+61553050169,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,patient control.analgesia soln,intravenous,3,mg/30 ml,30,pharmedium,NA,NA,active
+61553050268,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,patient control.analgesia soln,intravenous,6,mg/30 ml,30,pharmedium,NA,NA,active
+61553050269,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,patient control.analgesia soln,intravenous,6,mg/30 ml,30,pharmedium,NA,NA,active
+61553050469,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,patient control.analgesia soln,intravenous,12,mg/30 ml,30,pharmedium,NA,NA,active
+61553050569,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,patient control.analgesia soln,intravenous,15 mg/30 ml,(0.5 mg/ml),30,pharmedium/of,NA,NA,active
+61553050868,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,patient control.analgesia soln,intravenous,24 mg/30 ml,(0.8 mg/ml),30,pharmedium,NA,NA,active
+61553051069,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,patient control.analgesia soln,intravenous,30,mg/30 ml,30,pharmedium,NA,NA,active
+61553052069,hydromorphone,hydromorphone,hydromorphone,NA,patient control.analgesia soln,intravenous,60 mg/30 ml,(2 mg/ml),30,pharmedium,NA,NA,active
+61553060120,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,pt controlled analgesia syring,intravenous,50,mg/50 ml,50,pharmedium,NA,NA,active
+61553061275,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,pt controlled analgesia syring,intravenous,10 mg/50 ml,(0.2 mg/ml),50,pharmedium,NA,NA,active
+61553062037,hydromorphone-bupiv (pf)-nacl,hydromorphone,hydromorphone,NA,solution,epidural,20-0.06,mcg/ml-%,200,pharmedium,NA,NA,active
+61553062137,hydromorphone-bupiv (pf)-nacl,hydromorphone,hydromorphone,NA,solution,epidural,20-0.125,mcg/ml-%,200,pharmedium,NA,NA,active
+61553062248,hydromorphone-bupiv (pf)-nacl,hydromorphone,hydromorphone,NA,solution,epidural,20-0.125,mcg/ml-%,100,pharmedium,NA,NA,active
+61553062448,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,solution,intravenous,0.2,mg/ml,100,pharmedium,NA,NA,active
+61553062452,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,solution,intravenous,0.2,mg/ml,100,pharmedium,NA,NA,active
+61553062768,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,pt controlled analgesia syring,intravenous,6 mg/30 ml,(0.2 mg/ml),30,pharmedium,NA,NA,active
+61553062975,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,pt controlled analgesia syring,intravenous,25 mg/50 ml,(0.5 mg/ml),50,pharmedium,NA,NA,active
+61553063144,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,pt controlled analgesia syring,intravenous,15 mg/30 ml,(0.5 mg/ml),30,pharmedium/of,NA,NA,active
+61553063375,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,pt controlled analgesia syring,intravenous,25 mg/50 ml,(0.5 mg/ml),50,pharmedium,NA,NA,active
+61553063768,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,pt controlled analgesia syring,intravenous,30 mg/30 ml,(1 mg/ml),30,pharmedium,NA,NA,active
+61553064167,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,pt controlled analgesia syring,injection,10,mg/25 ml,25,pharmedium,NA,NA,active
+61553067867,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,pt controlled analgesia syring,injection,2.5,mg/25 ml,25,pharmedium,NA,NA,active
+61553067976,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,pt controlled analgesia syring,intravenous,5.5 mg/55 ml,(0.1 mg/ml),55,pharmedium,NA,NA,active
+61553068067,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,pt controlled analgesia syring,intravenous,5 mg/25 ml,(0.2 mg/ml),25,pharmedium/of,NA,NA,active
+61553068176,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,pt controlled analgesia syring,injection,11,mg/55 ml,55,pharmedium,NA,NA,active
+61553068267,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,pt controlled analgesia syring,injection,25,mg/25 ml,25,pharmedium,NA,NA,active
+61553068376,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,pt controlled analgesia syring,injection,55 mg/55 ml,(1 mg/ml),55,pharmedium,NA,NA,active
+61553068444,hydromorphone,hydromorphone,hydromorphone,NA,pt controlled analgesia syring,intravenous,60 mg/30 ml,(2 mg/ml),30,pharmedium/of,NA,NA,active
+61553068453,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,prefilled pump reservoir,intravenous,100 mg/50 ml,(2 mg/ml),50,pharmedium/of,NA,NA,active
+61553068478,hydromorphone,hydromorphone,hydromorphone,NA,syringe,intravenous,2,mg/ml (1 ml),1,pharmedium,NA,NA,active
+61553068576,hydromorphone,hydromorphone,hydromorphone,NA,pt controlled analgesia syring,intravenous,110 mg/55 ml,(2 mg/ml),55,pharmedium,NA,NA,active
+61553068667,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,pt controlled analgesia syring,injection,7.5,mg/25 ml,25,pharmedium,NA,NA,active
+61553069168,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,pt controlled analgesia syring,intravenous,12 mg/30 ml,(0.4 mg/ml),30,pharmedium,NA,NA,active
+61553070168,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,patient control.analgesia soln,intravenous,3,mg/30 ml,30,pharmedium,NA,NA,active
+61553070268,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,patient control.analgesia soln,intravenous,6,mg/30 ml,30,pharmedium,NA,NA,active
+61553070468,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,patient control.analgesia soln,intravenous,12,mg/30 ml,30,pharmedium,NA,NA,active
+61553070568,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,patient control.analgesia soln,intravenous,15 mg/30 ml,(0.5 mg/ml),30,pharmedium,NA,NA,active
+61553070668,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,patient control.analgesia soln,intravenous,18 mg/30 ml,(0.6 mg/ml),30,pharmedium,NA,NA,active
+61553071068,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,patient control.analgesia soln,intravenous,30,mg/30 ml,30,pharmedium,NA,NA,active
+61553071268,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,patient control.analgesia soln,intravenous,36 mg/30 ml,(1.2 mg/ml),30,pharmedium,NA,NA,active
+61553073668,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,patient control.analgesia soln,intravenous,9 mg/30 ml,(0.3 mg/ml),30,pharmedium,NA,NA,active
+61553078068,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,patient control.analgesia soln,intravenous,60 mg/30 ml,(2 mg/ml),30,pharmedium,NA,NA,active
+61553080096,hydromorphone-bupiv (pf)-nacl,hydromorphone,hydromorphone,NA,prefilled pump reservoir,epidural,10-0.0625,mcg/ml-%,100,pharmedium,NA,NA,active
+61553082348,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,prefilled pump reservoir,injection,100 mg/100 ml,(1 mg/ml),100,pharmedium,NA,NA,active
+61553083041,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,prefilled pump reservoir,injection,0.2,mg/ml,50,pharmedium,NA,NA,active
+61553083241,hydromorphone hcl-sodium chloride,hydromorphone hydrochloride; sodium chloride,hydromorphone,NA,NA,NA,0.2 mg/1 ml-0.9%,NA,1,NA,NA,NA,NA
+61553083996,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,solution,intravenous,0.5,mg/ml,100,pharmedium,NA,NA,active
+61553089048,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,prefilled pump reservoir,intravenous,20 mg/100 ml,(0.2 mg/ml),100,pharmedium,NA,NA,active
+61553090096,hydromorphone-bupiv (pf)-nacl,hydromorphone,hydromorphone,NA,prefilled pump reservoir,epidural,10-0.0625,mcg/ml-%,100,pharmedium,NA,NA,active
+61553090341,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,prefilled pump reservoir,intravenous,50 mg/50 ml,(1 mg/ml),50,pharmedium,NA,NA,active
+61553091148,hydromorphone-bupiv (pf)-nacl,hydromorphone,hydromorphone,NA,prefilled pump reservoir,epidural,10 mcg/ml,-0.1 %,100,pharmedium,NA,NA,active
+61553091302,hydromorphone-bupiv (pf)-nacl,hydromorphone,hydromorphone,NA,prefilled pump reservoir,epidural,20-0.125,mcg/ml-%,250,pharmedium,NA,NA,active
+61553091402,hydromorphone-bupiv (pf)-nacl,hydromorphone,hydromorphone,NA,prefilled pump reservoir,epidural,20-0.06,mcg/ml-%,250,pharmedium,NA,NA,active
+61553097096,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,solution,intravenous,2,mg/ml,100,pharmedium/of,NA,NA,active
+61553097848,hydromorphone-bupiv (pf)-nacl,hydromorphone,hydromorphone,NA,prefilled pump reservoir,epidural,10 mcg/ml,-0.1 %,100,pharmedium/of,NA,NA,active
+61553098648,hydromorphone-bupiv (pf)-nacl,hydromorphone,hydromorphone,NA,prefilled pump reservoir,epidural,20-0.125,mcg/ml-%,100,pharmedium/of,NA,NA,active
+61553098941,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,prefilled pump reservoir,intravenous,50 mg/50 ml,(1 mg/ml),50,pharmedium,NA,NA,active
+61703024345,hydromorphone (pf),hydromorphone,hydromorphone,NA,solution,injection,10,mg/ml,1,mayne pharma in,5/30/03,5/30/03,active
+61703024350,hydromorphone (pf),hydromorphone,hydromorphone,NA,solution,injection,10,mg/ml,50,mayne pharma in,5/30/03,5/30/03,active
+61703024353,hydromorphone (pf),hydromorphone,hydromorphone,NA,solution,injection,10,mg/ml,5,mayne pharma in,5/30/03,5/30/03,active
+61703024615,hydromorphone (pf),hydromorphone,hydromorphone,NA,solution,injection,2,mg/ml,1,mayne pharma in,2/1/04,2/1/04,inactive
+61703042594,hydromorphone,hydromorphone,hydromorphone,NA,solution,injection,10,mg/ml,1,mayne pharma in,3/7/06,3/7/06,inactive
+61703042595,hydromorphone,hydromorphone,hydromorphone,NA,solution,injection,10,mg/ml,5,mayne pharma in,3/7/06,3/7/06,inactive
+62991140701,hydromorphone (bulk),hydromorphone,hydromorphone,NA,powder,miscellaneous,100,%,1,"letco medical,",NA,NA,active
+62991140702,hydromorphone (bulk),hydromorphone,hydromorphone,NA,powder,miscellaneous,100,%,5,"letco medical,",NA,NA,active
+62991140703,hydromorphone (bulk),hydromorphone,hydromorphone,NA,powder,miscellaneous,100,%,10,"letco medical,",NA,NA,active
+62991140704,hydromorphone (bulk),hydromorphone,hydromorphone,NA,powder,miscellaneous,100,%,25,"letco medical,",NA,NA,active
+62991140705,hydromorphone (bulk),hydromorphone,hydromorphone,NA,powder,miscellaneous,100,%,50,meridian chem,NA,NA,active
+62991140706,hydromorphone (bulk),hydromorphone,hydromorphone,NA,powder,miscellaneous,100,%,100,"letco medical,",NA,NA,active
+62991309201,hydromorphone (bulk),hydromorphone,hydromorphone,NA,powder,miscellaneous,100,%,1,"letco medical,",NA,NA,active
+62991309202,hydromorphone (bulk),hydromorphone,hydromorphone,NA,powder,miscellaneous,100,%,5,"letco medical,",NA,NA,active
+62991309203,hydromorphone (bulk),hydromorphone,hydromorphone,NA,powder,miscellaneous,100,%,10,"letco medical,",NA,NA,active
+62991309204,hydromorphone (bulk),hydromorphone,hydromorphone,NA,powder,miscellaneous,100,%,25,"letco medical,",NA,NA,active
+62991309205,hydromorphone (bulk),hydromorphone,hydromorphone,NA,powder,miscellaneous,100,%,100,"letco medical,",NA,NA,active
+63275200101,hydromorphone (bulk),hydromorphone,hydromorphone,NA,powder,miscellaneous,100,%,1,b&b pharm,NA,NA,active
+63275200502,hydromorphone (bulk),hydromorphone,hydromorphone,NA,powder,miscellaneous,100,%,5,b&b pharm,NA,NA,active
+63275201003,hydromorphone (bulk),hydromorphone,hydromorphone,NA,powder,miscellaneous,100,%,10,b&b pharm,NA,NA,active
+63275202504,hydromorphone (bulk),hydromorphone,hydromorphone,NA,powder,miscellaneous,100,%,25,b&b pharm,NA,NA,active
+63275210005,hydromorphone (bulk),hydromorphone,hydromorphone,NA,powder,miscellaneous,100,%,100,b&b pharm,NA,NA,active
+63275210009,hydromorphone hcl,hydromorphone hydrochloride,hydromorphone,NA,NA,NA,NA,NA,1,NA,NA,NA,NA
+63323085110,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,"injection, solution",intramuscular; intravenous; subcutaneous,10 mg/ml,NA,"10 vial, single-dose in 1 carton (63323-851-10)  > 1 ml in 1 vial, single-dose (63323-851-03)","fresenius kabi usa, llc",NA,NA,NA
+63323085115,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,"injection, solution",intramuscular; intravenous; subcutaneous,10 mg/ml,NA,"10 vial, single-dose in 1 carton (63323-851-15)  > 5 ml in 1 vial, single-dose (63323-851-07)","fresenius kabi usa, llc",NA,NA,NA
+63323085150,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,"injection, solution",intramuscular; intravenous; subcutaneous,10 mg/ml,NA,"50 ml in 1 vial, single-dose (63323-851-50)","fresenius kabi usa, llc",NA,NA,NA
+63323085225,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,"injection, solution",intramuscular; intravenous; subcutaneous,1 mg/ml,NA,"25 vial, single-dose in 1 carton (63323-852-25)  > 1 ml in 1 vial, single-dose (63323-852-03)","fresenius kabi usa, llc",NA,NA,NA
+63323085325,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,"injection, solution",intramuscular; intravenous; subcutaneous,2 mg/ml,NA,"25 vial, single-dose in 1 carton (63323-853-25)  > 1 ml in 1 vial, single-dose (63323-853-03)","fresenius kabi usa, llc",NA,NA,NA
+63323085410,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,"injection, solution",intramuscular; intravenous; subcutaneous,4 mg/ml,NA,"25 vial, single-dose in 1 carton (63323-854-10)  > 1 ml in 1 vial, single-dose (63323-854-03)","fresenius kabi usa, llc",NA,NA,NA
+63370093010,hydromorphone hcl,hydromorphone hydrochloride,hydromorphone,NA,NA,NA,NA,NA,1,NA,NA,NA,NA
+63370093015,hydromorphone hcl,hydromorphone hydrochloride,hydromorphone,NA,NA,NA,NA,NA,1,NA,NA,NA,NA
+63370093020,hydromorphone (bulk),hydromorphone,hydromorphone,NA,powder,miscellaneous,100,%,10,hawkins chemica,NA,NA,active
+63370093025,hydromorphone (bulk),hydromorphone,hydromorphone,NA,powder,miscellaneous,100,%,25,hawkins chemica,NA,NA,active
+63370093035,hydromorphone (bulk),hydromorphone,hydromorphone,NA,powder,miscellaneous,100,%,100,hawkins chemica,NA,NA,active
+63370093045,hydromorphone (bulk),hydromorphone,hydromorphone,NA,powder,miscellaneous,100,%,500,hawkins chemica,NA,NA,active
+63629379800,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,90,bryant ranch pr,NA,NA,active
+63629379801,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,30,bryant ranch pr,NA,NA,active
+63629379802,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,180,bryant ranch pr,NA,NA,active
+63629379803,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,15,bryant ranch pr,NA,NA,active
+63629379804,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,20,bryant ranch pr,NA,NA,active
+63629379805,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,25,bryant ranch pr,NA,NA,active
+63629379806,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,100,bryant ranch pr,NA,NA,active
+63629379807,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,60,bryant ranch pr,NA,NA,active
+63629379808,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,56,bryant ranch pr,NA,NA,active
+63629379809,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,140,bryant ranch pr,NA,NA,active
+63629428401,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,2,mg,25,bryant ranch pr,NA,NA,active
+63629428402,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,2,mg,60,bryant ranch pr,NA,NA,active
+63629428403,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,2,mg,30,bryant ranch pr,NA,NA,active
+63629428404,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,2,mg,28,bryant ranch pr,NA,NA,active
+63629428405,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,2,mg,90,bryant ranch pr,NA,NA,active
+63629428406,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,2,mg,120,bryant ranch pr,NA,NA,active
+63629428407,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,2,mg/1,40 tablet in 1 bottle (63629-4284-7),bryant ranch prepack,11/23/09,NA,NA
+63629428408,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,2,mg/1,20 tablet in 1 bottle (63629-4284-8),bryant ranch prepack,11/23/09,NA,NA
+63629452101,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,8,mg,30,bryant ranch pr,NA,NA,active
+63629452102,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,8,mg,60,bryant ranch pr,NA,NA,active
+63629452103,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,8,mg,90,bryant ranch pr,NA,NA,active
+63629452104,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,8,mg,120,bryant ranch pr,NA,NA,active
+63739027510,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,2,mg,100,mckesson packag,NA,NA,active
+63739079110,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,100,mckesson packag,12/9/09,12/9/09,active
+65084044010,dilaudid,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,4,mg/1,100 tablet in 1 bottle (65084-440-10),mckesson rxpak inc,1/1/56,NA,NA
+66336030330,hydromorphone hcl,hydromorphone hydrochloride,hydromorphone,NA,NA,NA,4 mg,NA,30,NA,NA,NA,NA
+66336030360,hydromorphone hcl,hydromorphone hydrochloride,hydromorphone,NA,NA,NA,4 mg,NA,60,NA,NA,NA,NA
+66336030390,hydromorphone hcl,hydromorphone hydrochloride,hydromorphone,NA,NA,NA,4 mg,NA,90,NA,NA,NA,NA
+66336030430,dilaudid,hydromorphone hydrochloride,hydromorphone,NA,NA,NA,4 mg,NA,30,NA,NA,NA,NA
+66336030606,hydromorphone hcl,hydromorphone hydrochloride,hydromorphone,NA,NA,NA,2 mg,NA,6,NA,NA,NA,NA
+66336030610,hydromorphone hcl,hydromorphone hydrochloride,hydromorphone,NA,NA,NA,2 mg,NA,10,NA,NA,NA,NA
+66336030630,hydromorphone hcl,hydromorphone hydrochloride,hydromorphone,NA,NA,NA,2 mg,NA,30,NA,NA,NA,NA
+66336030660,hydromorphone hcl,hydromorphone hydrochloride,hydromorphone,NA,NA,NA,2 mg,NA,60,NA,NA,NA,NA
+66336031330,hydromorphone hcl,hydromorphone hydrochloride,hydromorphone,NA,NA,NA,8 mg,NA,30,NA,NA,NA,NA
+66336031360,hydromorphone hcl,hydromorphone hydrochloride,hydromorphone,NA,NA,NA,8 mg,NA,60,NA,NA,NA,NA
+66336031390,hydromorphone hcl,hydromorphone hydrochloride,hydromorphone,NA,NA,NA,8 mg,NA,90,NA,NA,NA,NA
+66647201042,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,syringe,intravenous,2 mg/10 ml,(0.2 mg/ml),10,central admixtu,NA,NA,active
+66647201094,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,pt controlled analgesia syring,intravenous,10 mg/50 ml,(0.2 mg/ml),50,central admixtu,NA,NA,active
+66647201173,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,pt controlled analgesia syring,intravenous,15 mg/30 ml,(0.5 mg/ml),30,central admixtu,NA,NA,active
+66647201273,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,pt controlled analgesia syring,intravenous,30 mg/30 ml,(1 mg/ml),30,central admixtu,NA,NA,active
+66647201325,hydromorphone in d5w (pf),hydromorphone,hydromorphone,NA,pt controlled analgesia syring,intravenous,0.5 mg/5 ml,(0.1 mg/ml),5,central admixtu,NA,NA,active
+66647201373,hydromorphone in d5w (pf),hydromorphone,hydromorphone,NA,pt controlled analgesia syring,intravenous,3 mg/30 ml,(0.1 mg/ml),30,central admixtu,NA,NA,active
+66647201594,hydromorphone in d5w (pf),hydromorphone,hydromorphone,NA,pt controlled analgesia syring,intravenous,100 mg/50 ml,(2 mg/ml),50,central admixtu,NA,NA,inactive
+66647211000,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,solution,intravenous,0.2,mg/ml,50,central admixtu,NA,NA,active
+66647211011,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,solution,intravenous,0.2,mg/ml,100,central admixtu,NA,NA,active
+66647221200,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,patient control.analgesia soln,intravenous,30,mg/30 ml,30,central admixtu,NA,NA,active
+66647241011,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,prefilled pump reservoir,intravenous,20 mg/100 ml,(0.2 mg/ml),100,central admixtu,NA,NA,active
+66647251206,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,syringe,intravenous,0.6,mg/0.6 ml,.6,central admixtu,NA,NA,inactive
+66647251297,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,pt controlled analgesia syring,injection,55 mg/55 ml,(1 mg/ml),55,central admixtu,NA,NA,active
+68084042301,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,2,mg,100,ahp,4/11/11,4/11/11,active
+68084042311,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,2,mg,100,ahp,4/11/11,4/11/11,active
+68084047201,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,100,ahp,4/11/11,4/11/11,active
+68084047211,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,4,mg,100,ahp,4/11/11,4/11/11,active
+68084079811,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,8,mg,1,ahp,8/14/14,8/14/14,active
+68084079821,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,8,mg,30,ahp,8/14/14,8/14/14,active
+68094085261,hydromorphone,hydromorphone,hydromorphone,NA,tablet,oral,8,mg,100,precision dose,10/18/05,10/18/05,active
+69189030101,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,2,mg/1,1 tablet in 1 dose pack (69189-0301-1),avera mckennan hospital,5/28/15,NA,NA
+69189030105,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,2,mg/1,.5 tablet in 1 dose pack (69189-0301-5),avera mckennan hospital,5/28/15,NA,NA
+70004030316,hydromorphone (pf)-0.9% nacl,hydromorphone,hydromorphone,NA,pt controlled analgesia syring,intravenous,30 mg/30 ml,(1 mg/ml),30,sca pharmaceuti,NA,NA,active
+70092111050,hydromorphone (pf)-0.9% nacl,hydromorphone,hydromorphone,NA,pt controlled analgesia syring,intravenous,55 mg/55 ml,(1 mg/ml),55,"quva pharma, in",NA,NA,active
+70092111249,hydromorphone (pf)-0.9% nacl,hydromorphone,hydromorphone,NA,pt controlled analgesia syring,intravenous,6 mg/30 ml,(0.2 mg/ml),30,"quva pharma, in",NA,NA,active
+70092111379,hydromorphone (pf)-0.9% nacl,hydromorphone,hydromorphone,NA,patient control.analgesia soln,intravenous,6 mg/30 ml,(0.2 mg/ml),30,"quva pharma, in",NA,NA,active
+70092111450,hydromorphone (pf)-0.9% nacl,hydromorphone,hydromorphone,NA,pt controlled analgesia syring,intravenous,10 mg/50 ml,(0.2 mg/ml),50,"quva pharma, in",NA,NA,active
+70092111536,hydromorphone (pf)-0.9% nacl,hydromorphone,hydromorphone,NA,solution,intravenous,0.2,mg/ml,100,"quva pharma, in",NA,NA,active
+70092111779,hydromorphone (pf)-0.9% nacl,hydromorphone,hydromorphone,NA,patient control.analgesia soln,intravenous,30 mg/30 ml,(1 mg/ml),30,"quva pharma, in",NA,NA,active
+70092116835,hydromorphone (pf)-0.9% nacl,hydromorphone,hydromorphone,NA,solution,intravenous,0.5,mg/ml,50,"quva pharma, in",NA,NA,active
+70092121302,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,solution,intravenous,0.5,mg/50 ml,50,"quva pharma, in",NA,NA,active
+70092121402,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,solution,intravenous,1,mg/50 ml,50,"quva pharma, in",NA,NA,active
+70092121502,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,solution,intravenous,2,mg/50 ml,50,"quva pharma, in",NA,NA,active
+70166025003,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,solution,oral,1 mg/ml,NA,30 bag in 1 box (70166-250-03)  > 1 syringe in 1 bag > 1 ml in 1 syringe,lohxa,NA,NA,NA
+70399010250,dilaudid,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,8 mg/1,NA,100 tablet in 1 bottle (70399-102-50),v1 pharma llc,NA,NA,NA
+71335022901,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,8 mg/1,NA,30 tablet in 1 bottle (71335-0229-1),bryant ranch prepack,NA,NA,NA
+71335022902,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,8 mg/1,NA,60 tablet in 1 bottle (71335-0229-2),bryant ranch prepack,NA,NA,NA
+71335022903,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,8 mg/1,NA,90 tablet in 1 bottle (71335-0229-3),bryant ranch prepack,NA,NA,NA
+71335022904,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,8 mg/1,NA,120 tablet in 1 bottle (71335-0229-4),bryant ranch prepack,NA,NA,NA
+71335022905,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,8 mg/1,NA,20 tablet in 1 bottle (71335-0229-5),bryant ranch prepack,NA,NA,NA
+71335023301,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,8 mg/1,NA,30 tablet in 1 bottle (71335-0233-1),bryant ranch prepack,NA,NA,NA
+71335023302,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,8 mg/1,NA,60 tablet in 1 bottle (71335-0233-2),bryant ranch prepack,NA,NA,NA
+71335023303,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,8 mg/1,NA,90 tablet in 1 bottle (71335-0233-3),bryant ranch prepack,NA,NA,NA
+71335023304,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,8 mg/1,NA,120 tablet in 1 bottle (71335-0233-4),bryant ranch prepack,NA,NA,NA
+71335023305,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,8 mg/1,NA,20 tablet in 1 bottle (71335-0233-5),bryant ranch prepack,NA,NA,NA
+71335026501,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,2 mg/1,NA,25 tablet in 1 bottle (71335-0265-1),bryant ranch prepack,NA,NA,NA
+71335026502,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,2 mg/1,NA,60 tablet in 1 bottle (71335-0265-2),bryant ranch prepack,NA,NA,NA
+71335026503,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,2 mg/1,NA,30 tablet in 1 bottle (71335-0265-3),bryant ranch prepack,NA,NA,NA
+71335026504,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,2 mg/1,NA,28 tablet in 1 bottle (71335-0265-4),bryant ranch prepack,NA,NA,NA
+71335026505,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,2 mg/1,NA,90 tablet in 1 bottle (71335-0265-5),bryant ranch prepack,NA,NA,NA
+71335026506,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,2 mg/1,NA,120 tablet in 1 bottle (71335-0265-6),bryant ranch prepack,NA,NA,NA
+71335026507,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,2 mg/1,NA,40 tablet in 1 bottle (71335-0265-7),bryant ranch prepack,NA,NA,NA
+71335026508,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,2 mg/1,NA,20 tablet in 1 bottle (71335-0265-8),bryant ranch prepack,NA,NA,NA
+71335026509,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,2 mg/1,NA,10 tablet in 1 bottle (71335-0265-9),bryant ranch prepack,NA,NA,NA
+71335030300,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,4 mg/1,NA,90 tablet in 1 bottle (71335-0303-0),bryant ranch prepack,NA,NA,NA
+71335030301,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,4 mg/1,NA,30 tablet in 1 bottle (71335-0303-1),bryant ranch prepack,NA,NA,NA
+71335030302,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,4 mg/1,NA,180 tablet in 1 bottle (71335-0303-2),bryant ranch prepack,NA,NA,NA
+71335030303,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,4 mg/1,NA,120 tablet in 1 bottle (71335-0303-3),bryant ranch prepack,NA,NA,NA
+71335030304,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,4 mg/1,NA,20 tablet in 1 bottle (71335-0303-4),bryant ranch prepack,NA,NA,NA
+71335030305,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,4 mg/1,NA,25 tablet in 1 bottle (71335-0303-5),bryant ranch prepack,NA,NA,NA
+71335030306,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,4 mg/1,NA,100 tablet in 1 bottle (71335-0303-6),bryant ranch prepack,NA,NA,NA
+71335030307,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,4 mg/1,NA,60 tablet in 1 bottle (71335-0303-7),bryant ranch prepack,NA,NA,NA
+71335030308,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,4 mg/1,NA,56 tablet in 1 bottle (71335-0303-8),bryant ranch prepack,NA,NA,NA
+71335030309,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,4 mg/1,NA,140 tablet in 1 bottle (71335-0303-9),bryant ranch prepack,NA,NA,NA
+71335072300,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,4 mg/1,NA,90 tablet in 1 bottle (71335-0723-0),bryant ranch prepack,NA,NA,NA
+71335072301,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,4 mg/1,NA,30 tablet in 1 bottle (71335-0723-1),bryant ranch prepack,NA,NA,NA
+71335072302,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,4 mg/1,NA,180 tablet in 1 bottle (71335-0723-2),bryant ranch prepack,NA,NA,NA
+71335072303,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,4 mg/1,NA,120 tablet in 1 bottle (71335-0723-3),bryant ranch prepack,NA,NA,NA
+71335072304,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,4 mg/1,NA,20 tablet in 1 bottle (71335-0723-4),bryant ranch prepack,NA,NA,NA
+71335072305,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,4 mg/1,NA,25 tablet in 1 bottle (71335-0723-5),bryant ranch prepack,NA,NA,NA
+71335072306,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,4 mg/1,NA,100 tablet in 1 bottle (71335-0723-6),bryant ranch prepack,NA,NA,NA
+71335072307,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,4 mg/1,NA,60 tablet in 1 bottle (71335-0723-7),bryant ranch prepack,NA,NA,NA
+71335072308,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,4 mg/1,NA,56 tablet in 1 bottle (71335-0723-8),bryant ranch prepack,NA,NA,NA
+71335072309,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,4 mg/1,NA,140 tablet in 1 bottle (71335-0723-9),bryant ranch prepack,NA,NA,NA
+71335075901,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,2 mg/1,NA,25 tablet in 1 bottle (71335-0759-1),bryant ranch prepack,NA,NA,NA
+71335075902,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,2 mg/1,NA,60 tablet in 1 bottle (71335-0759-2),bryant ranch prepack,NA,NA,NA
+71335075903,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,2 mg/1,NA,30 tablet in 1 bottle (71335-0759-3),bryant ranch prepack,NA,NA,NA
+71335075904,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,2 mg/1,NA,28 tablet in 1 bottle (71335-0759-4),bryant ranch prepack,NA,NA,NA
+71335075905,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,2 mg/1,NA,90 tablet in 1 bottle (71335-0759-5),bryant ranch prepack,NA,NA,NA
+71335075906,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,2 mg/1,NA,120 tablet in 1 bottle (71335-0759-6),bryant ranch prepack,NA,NA,NA
+71335075907,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,2 mg/1,NA,40 tablet in 1 bottle (71335-0759-7),bryant ranch prepack,NA,NA,NA
+71335075908,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,2 mg/1,NA,20 tablet in 1 bottle (71335-0759-8),bryant ranch prepack,NA,NA,NA
+71335075909,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,2 mg/1,NA,10 tablet in 1 bottle (71335-0759-9),bryant ranch prepack,NA,NA,NA
+71335088701,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,2 mg/1,NA,25 tablet in 1 bottle (71335-0887-1),bryant ranch prepack,NA,NA,NA
+71335088702,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,2 mg/1,NA,60 tablet in 1 bottle (71335-0887-2),bryant ranch prepack,NA,NA,NA
+71335088703,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,2 mg/1,NA,30 tablet in 1 bottle (71335-0887-3),bryant ranch prepack,NA,NA,NA
+71335088704,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,2 mg/1,NA,28 tablet in 1 bottle (71335-0887-4),bryant ranch prepack,NA,NA,NA
+71335088705,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,2 mg/1,NA,90 tablet in 1 bottle (71335-0887-5),bryant ranch prepack,NA,NA,NA
+71335088706,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,2 mg/1,NA,120 tablet in 1 bottle (71335-0887-6),bryant ranch prepack,NA,NA,NA
+71335088707,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,2 mg/1,NA,40 tablet in 1 bottle (71335-0887-7),bryant ranch prepack,NA,NA,NA
+71335088708,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,2 mg/1,NA,20 tablet in 1 bottle (71335-0887-8),bryant ranch prepack,NA,NA,NA
+71335088709,hydromorphone hydrochloride,hydromorphone hydrochloride,hydromorphone,NA,tablet,oral,2 mg/1,NA,10 tablet in 1 bottle (71335-0887-9),bryant ranch prepack,NA,NA,NA
+75901800402,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,solution,intravenous,0.2,mg/ml,100,healix infusion,NA,NA,active
+75901800407,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,solution,intravenous,0.2,mg/ml,30,healix infusion,NA,NA,active
+75901800432,hydromorphone in 0.9 % nacl,hydromorphone,hydromorphone,NA,pt controlled analgesia syring,intravenous,10 mg/50 ml,(0.2 mg/ml),50,healix infusion,NA,NA,active
+76045000905,dilaudid (pf),hydromorphone,hydromorphone,NA,syringe,injection,0.5,mg/0.5 ml,.5,fresenius kabi,NA,NA,active
+76045000906,dilaudid,hydromorphone hydrochloride,hydromorphone,NA,"injection, solution",intramuscular; intravenous; subcutaneous,1 mg/ml,NA,10 syringe in 1 carton (76045-009-06)  > .5 ml in 1 syringe (76045-009-96),"fresenius kabi usa, llc",NA,NA,NA
+76045000910,dilaudid (pf),hydromorphone,hydromorphone,NA,syringe,injection,1,mg/ml,1,fresenius kabi,NA,NA,active
+76045000911,dilaudid,hydromorphone hydrochloride,hydromorphone,NA,"injection, solution",intramuscular; intravenous; subcutaneous,1 mg/ml,NA,10 syringe in 1 carton (76045-009-11)  > 1 ml in 1 syringe (76045-009-01),"fresenius kabi usa, llc",NA,NA,NA
+76045001010,dilaudid (pf),hydromorphone,hydromorphone,NA,syringe,injection,2,mg/ml,1,fresenius kabi,NA,NA,active
+76045001011,dilaudid,hydromorphone hydrochloride,hydromorphone,NA,"injection, solution",intramuscular; intravenous; subcutaneous,2 mg/ml,NA,10 syringe in 1 carton (76045-010-11)  > 1 ml in 1 syringe (76045-010-01),"fresenius kabi usa, llc",NA,NA,NA
+76045001110,dilaudid (pf),hydromorphone,hydromorphone,NA,syringe,injection,4,mg/ml,1,fresenius kabi,NA,NA,active

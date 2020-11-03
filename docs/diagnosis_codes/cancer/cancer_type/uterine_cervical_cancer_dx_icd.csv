@@ -1,36 +1,36 @@
-icd_cm,ver
-'179',9
-'1820',9
-'1821',9
-'1828',9
-'V1042',9
-'C540',10
-'C541',10
-'C542',10
-'C543',10
-'C548',10
-'C549',10
-'C55',10
-'Z8542',10
-'1800',9
-'1801',9
-'1808',9
-'1809',9
-'7950',9
-'79501',9
-'79502',9
-'79503',9
-'79504',9
-'79506',9
-'V1041',9
-'C530',10
-'C531',10
-'C538',10
-'C539',10
-'R87610',10
-'R87611',10
-'R87612',10
-'R87613',10
-'R87614',10
-'Z8541',10
-'Z86001',10
+icd_cm,ver,icd_cm_label,hcup_ccs_single,hcup_ccs_single_label
+'179',9,"malignant neoplasm of uterus, part unspecified",25,(25) cancer of uterus
+'1820',9,"malignant neoplasm of corpus uteri, except isthmus",25,(25) cancer of uterus
+'1821',9,malignant neoplasm of isthmus,25,(25) cancer of uterus
+'1828',9,malignant neoplasm of other specified sites of body of uterus,25,(25) cancer of uterus
+'V1042',9,personal history of malignant neoplasm of other parts of uterus,25,(25) cancer of uterus
+'C540',10,malignant neoplasm of isthmus uteri,25,(25) cancer of uterus
+'C541',10,malignant neoplasm of endometrium,25,(25) cancer of uterus
+'C542',10,malignant neoplasm of myometrium,25,(25) cancer of uterus
+'C543',10,malignant neoplasm of fundus uteri,25,(25) cancer of uterus
+'C548',10,malignant neoplasm of overlapping sites of corpus uteri,25,(25) cancer of uterus
+'C549',10,"malignant neoplasm of corpus uteri, unspecified",25,(25) cancer of uterus
+'C55',10,"malignant neoplasm of uterus, part unspecified",25,(25) cancer of uterus
+'Z8542',10,personal history of malignant neoplasm of other parts of uterus,25,(25) cancer of uterus
+'1800',9,malignant neoplasm of endocervix,26,(26) cancer of cervix
+'1801',9,malignant neoplasm of exocervix,26,(26) cancer of cervix
+'1808',9,malignant neoplasm of other specified sites of cervix,26,(26) cancer of cervix
+'1809',9,"malignant neoplasm of cervix uteri, unspecified site",26,(26) cancer of cervix
+'7950',9,abn pap smear-cervix#,26,(26) cancer of cervix
+'79501',9,papanicolaou smear of cervix with atypical squamous cells of undetermined significance (asc-us),26,(26) cancer of cervix
+'79502',9,papanicolaou smear of cervix with atypical squamous cells cannot exclude high grade squamous intraepithelial lesion (asc-h),26,(26) cancer of cervix
+'79503',9,papanicolaou smear of cervix with low grade squamous intraepithelial lesion (lgsil),26,(26) cancer of cervix
+'79504',9,papanicolaou smear of cervix with high grade squamous intraepithelial lesion (hgsil),26,(26) cancer of cervix
+'79506',9,papanicolaou smear of cervix with cytologic evidence of malignancy,26,(26) cancer of cervix
+'V1041',9,personal history of malignant neoplasm of cervix uteri,26,(26) cancer of cervix
+'C530',10,malignant neoplasm of endocervix,26,(26) cancer of cervix
+'C531',10,malignant neoplasm of exocervix,26,(26) cancer of cervix
+'C538',10,malignant neoplasm of overlapping sites of cervix uteri,26,(26) cancer of cervix
+'C539',10,"malignant neoplasm of cervix uteri, unspecified",26,(26) cancer of cervix
+'R87610',10,atypical squamous cells of undetermined significance on cytologic smear of cervix (asc-us),26,(26) cancer of cervix
+'R87611',10,atypical squamous cells cannot exclude high grade squamous intraepithelial lesion on cytologic smear of cervix (asc-h),26,(26) cancer of cervix
+'R87612',10,low grade squamous intraepithelial lesion on cytologic smear of cervix (lgsil),26,(26) cancer of cervix
+'R87613',10,high grade squamous intraepithelial lesion on cytologic smear of cervix (hgsil),26,(26) cancer of cervix
+'R87614',10,cytologic evidence of malignancy on smear of cervix,26,(26) cancer of cervix
+'Z8541',10,personal history of malignant neoplasm of cervix uteri,26,(26) cancer of cervix
+'Z86001',10,personal history of in-situ neoplasm of cervix uteri,26,(26) cancer of cervix

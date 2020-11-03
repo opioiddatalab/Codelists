@@ -1,48 +1,48 @@
-icd_cm,ver
-'185',9
-'V1046',9
-'C61',10
-'Z8546',10
-'1860',9
-'1869',9
-'V1047',9
-'C6200',10
-'C6201',10
-'C6202',10
-'C6210',10
-'C6211',10
-'C6212',10
-'C6290',10
-'C6291',10
-'C6292',10
-'Z8547',10
-'1871',9
-'1872',9
-'1873',9
-'1874',9
-'1875',9
-'1876',9
-'1877',9
-'1878',9
-'1879',9
-'V1045',9
-'V1048',9
-'V1049',9
-'C600',10
-'C601',10
-'C602',10
-'C608',10
-'C609',10
-'C6300',10
-'C6301',10
-'C6302',10
-'C6310',10
-'C6311',10
-'C6312',10
-'C632',10
-'C637',10
-'C638',10
-'C639',10
-'Z8545',10
-'Z8548',10
-'Z8549',10
+icd_cm,ver,icd_cm_label,hcup_ccs_single,hcup_ccs_single_label
+'185',9,malignant neoplasm of prostate,29,(29) cancer of prostate
+'V1046',9,personal history of malignant neoplasm of prostate,29,(29) cancer of prostate
+'C61',10,malignant neoplasm of prostate,29,(29) cancer of prostate
+'Z8546',10,personal history of malignant neoplasm of prostate,29,(29) cancer of prostate
+'1860',9,malignant neoplasm of undescended testis,30,(30) cancer of testis
+'1869',9,malignant neoplasm of other and unspecified testis,30,(30) cancer of testis
+'V1047',9,personal history of malignant neoplasm of testis,30,(30) cancer of testis
+'C6200',10,malignant neoplasm of unspecified undescended testis,30,(30) cancer of testis
+'C6201',10,malignant neoplasm of undescended right testis,30,(30) cancer of testis
+'C6202',10,malignant neoplasm of undescended left testis,30,(30) cancer of testis
+'C6210',10,malignant neoplasm of unspecified descended testis,30,(30) cancer of testis
+'C6211',10,malignant neoplasm of descended right testis,30,(30) cancer of testis
+'C6212',10,malignant neoplasm of descended left testis,30,(30) cancer of testis
+'C6290',10,"malignant neoplasm of unspecified testis, unspecified whether descended or undescended",30,(30) cancer of testis
+'C6291',10,"malignant neoplasm of right testis, unspecified whether descended or undescended",30,(30) cancer of testis
+'C6292',10,"malignant neoplasm of left testis, unspecified whether descended or undescended",30,(30) cancer of testis
+'Z8547',10,personal history of malignant neoplasm of testis,30,(30) cancer of testis
+'1871',9,malignant neoplasm of prepuce,31,(31) cancer of other male genital organs
+'1872',9,malignant neoplasm of glans penis,31,(31) cancer of other male genital organs
+'1873',9,malignant neoplasm of body of penis,31,(31) cancer of other male genital organs
+'1874',9,"malignant neoplasm of penis, part unspecified",31,(31) cancer of other male genital organs
+'1875',9,malignant neoplasm of epididymis,31,(31) cancer of other male genital organs
+'1876',9,malignant neoplasm of spermatic cord,31,(31) cancer of other male genital organs
+'1877',9,malignant neoplasm of scrotum,31,(31) cancer of other male genital organs
+'1878',9,malignant neoplasm of other specified sites of male genital organs,31,(31) cancer of other male genital organs
+'1879',9,"malignant neoplasm of male genital organ, site unspecified",31,(31) cancer of other male genital organs
+'V1045',9,"personal history of malignant neoplasm of male genital organ, unspecified",31,(31) cancer of other male genital organs
+'V1048',9,personal history of malignant neoplasm of epididymis,31,(31) cancer of other male genital organs
+'V1049',9,personal history of malignant neoplasm of other male genital organs,31,(31) cancer of other male genital organs
+'C600',10,malignant neoplasm of prepuce,31,(31) cancer of other male genital organs
+'C601',10,malignant neoplasm of glans penis,31,(31) cancer of other male genital organs
+'C602',10,malignant neoplasm of body of penis,31,(31) cancer of other male genital organs
+'C608',10,malignant neoplasm of overlapping sites of penis,31,(31) cancer of other male genital organs
+'C609',10,"malignant neoplasm of penis, unspecified",31,(31) cancer of other male genital organs
+'C6300',10,malignant neoplasm of unspecified epididymis,31,(31) cancer of other male genital organs
+'C6301',10,malignant neoplasm of right epididymis,31,(31) cancer of other male genital organs
+'C6302',10,malignant neoplasm of left epididymis,31,(31) cancer of other male genital organs
+'C6310',10,malignant neoplasm of unspecified spermatic cord,31,(31) cancer of other male genital organs
+'C6311',10,malignant neoplasm of right spermatic cord,31,(31) cancer of other male genital organs
+'C6312',10,malignant neoplasm of left spermatic cord,31,(31) cancer of other male genital organs
+'C632',10,malignant neoplasm of scrotum,31,(31) cancer of other male genital organs
+'C637',10,malignant neoplasm of other specified male genital organs,31,(31) cancer of other male genital organs
+'C638',10,malignant neoplasm of overlapping sites of male genital organs,31,(31) cancer of other male genital organs
+'C639',10,"malignant neoplasm of male genital organ, unspecified",31,(31) cancer of other male genital organs
+'Z8545',10,personal history of malignant neoplasm of unspecified male genital organ,31,(31) cancer of other male genital organs
+'Z8548',10,personal history of malignant neoplasm of epididymis,31,(31) cancer of other male genital organs
+'Z8549',10,personal history of malignant neoplasm of other male genital organs,31,(31) cancer of other male genital organs

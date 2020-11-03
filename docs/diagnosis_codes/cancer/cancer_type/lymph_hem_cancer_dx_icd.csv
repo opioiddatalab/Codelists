@@ -1,816 +1,816 @@
-icd_cm,ver
-'20100',9
-'20101',9
-'20102',9
-'20103',9
-'20104',9
-'20105',9
-'20106',9
-'20107',9
-'20108',9
-'20110',9
-'20111',9
-'20112',9
-'20113',9
-'20114',9
-'20115',9
-'20116',9
-'20117',9
-'20118',9
-'20120',9
-'20121',9
-'20122',9
-'20123',9
-'20124',9
-'20125',9
-'20126',9
-'20127',9
-'20128',9
-'20140',9
-'20141',9
-'20142',9
-'20143',9
-'20144',9
-'20145',9
-'20146',9
-'20147',9
-'20148',9
-'20150',9
-'20151',9
-'20152',9
-'20153',9
-'20154',9
-'20155',9
-'20156',9
-'20157',9
-'20158',9
-'20160',9
-'20161',9
-'20162',9
-'20163',9
-'20164',9
-'20165',9
-'20166',9
-'20167',9
-'20168',9
-'20170',9
-'20171',9
-'20172',9
-'20173',9
-'20174',9
-'20175',9
-'20176',9
-'20177',9
-'20178',9
-'20190',9
-'20191',9
-'20192',9
-'20193',9
-'20194',9
-'20195',9
-'20196',9
-'20197',9
-'20198',9
-'V1072',9
-'C8100',10
-'C8101',10
-'C8102',10
-'C8103',10
-'C8104',10
-'C8105',10
-'C8106',10
-'C8107',10
-'C8108',10
-'C8109',10
-'C8110',10
-'C8111',10
-'C8112',10
-'C8113',10
-'C8114',10
-'C8115',10
-'C8116',10
-'C8117',10
-'C8118',10
-'C8119',10
-'C8120',10
-'C8121',10
-'C8122',10
-'C8123',10
-'C8124',10
-'C8125',10
-'C8126',10
-'C8127',10
-'C8128',10
-'C8129',10
-'C8130',10
-'C8131',10
-'C8132',10
-'C8133',10
-'C8134',10
-'C8135',10
-'C8136',10
-'C8137',10
-'C8138',10
-'C8139',10
-'C8140',10
-'C8141',10
-'C8142',10
-'C8143',10
-'C8144',10
-'C8145',10
-'C8146',10
-'C8147',10
-'C8148',10
-'C8149',10
-'C8170',10
-'C8171',10
-'C8172',10
-'C8173',10
-'C8174',10
-'C8175',10
-'C8176',10
-'C8177',10
-'C8178',10
-'C8179',10
-'C8190',10
-'C8191',10
-'C8192',10
-'C8193',10
-'C8194',10
-'C8195',10
-'C8196',10
-'C8197',10
-'C8198',10
-'C8199',10
-'Z8571',10
-'20000',9
-'20001',9
-'20002',9
-'20003',9
-'20004',9
-'20005',9
-'20006',9
-'20007',9
-'20008',9
-'20010',9
-'20011',9
-'20012',9
-'20013',9
-'20014',9
-'20015',9
-'20016',9
-'20017',9
-'20018',9
-'20020',9
-'20021',9
-'20022',9
-'20023',9
-'20024',9
-'20025',9
-'20026',9
-'20027',9
-'20028',9
-'20030',9
-'20031',9
-'20032',9
-'20033',9
-'20034',9
-'20035',9
-'20036',9
-'20037',9
-'20038',9
-'20040',9
-'20041',9
-'20042',9
-'20043',9
-'20044',9
-'20045',9
-'20046',9
-'20047',9
-'20048',9
-'20050',9
-'20051',9
-'20052',9
-'20053',9
-'20054',9
-'20055',9
-'20056',9
-'20057',9
-'20058',9
-'20060',9
-'20061',9
-'20062',9
-'20063',9
-'20064',9
-'20065',9
-'20066',9
-'20067',9
-'20068',9
-'20070',9
-'20071',9
-'20072',9
-'20073',9
-'20074',9
-'20075',9
-'20076',9
-'20077',9
-'20078',9
-'20080',9
-'20081',9
-'20082',9
-'20083',9
-'20084',9
-'20085',9
-'20086',9
-'20087',9
-'20088',9
-'20200',9
-'20201',9
-'20202',9
-'20203',9
-'20204',9
-'20205',9
-'20206',9
-'20207',9
-'20208',9
-'20210',9
-'20211',9
-'20212',9
-'20213',9
-'20214',9
-'20215',9
-'20216',9
-'20217',9
-'20218',9
-'20220',9
-'20221',9
-'20222',9
-'20223',9
-'20224',9
-'20225',9
-'20226',9
-'20227',9
-'20228',9
-'20270',9
-'20271',9
-'20272',9
-'20273',9
-'20274',9
-'20275',9
-'20276',9
-'20277',9
-'20278',9
-'20280',9
-'20281',9
-'20282',9
-'20283',9
-'20284',9
-'20285',9
-'20286',9
-'20287',9
-'20288',9
-'20290',9
-'20291',9
-'20292',9
-'20293',9
-'20294',9
-'20295',9
-'20296',9
-'20297',9
-'20298',9
-'V1071',9
-'V1079',9
-'C8200',10
-'C8201',10
-'C8202',10
-'C8203',10
-'C8204',10
-'C8205',10
-'C8206',10
-'C8207',10
-'C8208',10
-'C8209',10
-'C8210',10
-'C8211',10
-'C8212',10
-'C8213',10
-'C8214',10
-'C8215',10
-'C8216',10
-'C8217',10
-'C8218',10
-'C8219',10
-'C8220',10
-'C8221',10
-'C8222',10
-'C8223',10
-'C8224',10
-'C8225',10
-'C8226',10
-'C8227',10
-'C8228',10
-'C8229',10
-'C8230',10
-'C8231',10
-'C8232',10
-'C8233',10
-'C8234',10
-'C8235',10
-'C8236',10
-'C8237',10
-'C8238',10
-'C8239',10
-'C8240',10
-'C8241',10
-'C8242',10
-'C8243',10
-'C8244',10
-'C8245',10
-'C8246',10
-'C8247',10
-'C8248',10
-'C8249',10
-'C8250',10
-'C8251',10
-'C8252',10
-'C8253',10
-'C8254',10
-'C8255',10
-'C8256',10
-'C8257',10
-'C8258',10
-'C8259',10
-'C8260',10
-'C8261',10
-'C8262',10
-'C8263',10
-'C8264',10
-'C8265',10
-'C8266',10
-'C8267',10
-'C8268',10
-'C8269',10
-'C8280',10
-'C8281',10
-'C8282',10
-'C8283',10
-'C8284',10
-'C8285',10
-'C8286',10
-'C8287',10
-'C8288',10
-'C8289',10
-'C8290',10
-'C8291',10
-'C8292',10
-'C8293',10
-'C8294',10
-'C8295',10
-'C8296',10
-'C8297',10
-'C8298',10
-'C8299',10
-'C8300',10
-'C8301',10
-'C8302',10
-'C8303',10
-'C8304',10
-'C8305',10
-'C8306',10
-'C8307',10
-'C8308',10
-'C8309',10
-'C8310',10
-'C8311',10
-'C8312',10
-'C8313',10
-'C8314',10
-'C8315',10
-'C8316',10
-'C8317',10
-'C8318',10
-'C8319',10
-'C8330',10
-'C8331',10
-'C8332',10
-'C8333',10
-'C8334',10
-'C8335',10
-'C8336',10
-'C8337',10
-'C8338',10
-'C8339',10
-'C8350',10
-'C8351',10
-'C8352',10
-'C8353',10
-'C8354',10
-'C8355',10
-'C8356',10
-'C8357',10
-'C8358',10
-'C8359',10
-'C8370',10
-'C8371',10
-'C8372',10
-'C8373',10
-'C8374',10
-'C8375',10
-'C8376',10
-'C8377',10
-'C8378',10
-'C8379',10
-'C8380',10
-'C8381',10
-'C8382',10
-'C8383',10
-'C8384',10
-'C8385',10
-'C8386',10
-'C8387',10
-'C8388',10
-'C8389',10
-'C8390',10
-'C8391',10
-'C8392',10
-'C8393',10
-'C8394',10
-'C8395',10
-'C8396',10
-'C8397',10
-'C8398',10
-'C8399',10
-'C8400',10
-'C8401',10
-'C8402',10
-'C8403',10
-'C8404',10
-'C8405',10
-'C8406',10
-'C8407',10
-'C8408',10
-'C8409',10
-'C8410',10
-'C8411',10
-'C8412',10
-'C8413',10
-'C8414',10
-'C8415',10
-'C8416',10
-'C8417',10
-'C8418',10
-'C8419',10
-'C8440',10
-'C8441',10
-'C8442',10
-'C8443',10
-'C8444',10
-'C8445',10
-'C8446',10
-'C8447',10
-'C8448',10
-'C8449',10
-'C8460',10
-'C8461',10
-'C8462',10
-'C8463',10
-'C8464',10
-'C8465',10
-'C8466',10
-'C8467',10
-'C8468',10
-'C8469',10
-'C8470',10
-'C8471',10
-'C8472',10
-'C8473',10
-'C8474',10
-'C8475',10
-'C8476',10
-'C8477',10
-'C8478',10
-'C8479',10
-'C8490',10
-'C8491',10
-'C8492',10
-'C8493',10
-'C8494',10
-'C8495',10
-'C8496',10
-'C8497',10
-'C8498',10
-'C8499',10
-'C84A0',10
-'C84A1',10
-'C84A2',10
-'C84A3',10
-'C84A4',10
-'C84A5',10
-'C84A6',10
-'C84A7',10
-'C84A8',10
-'C84A9',10
-'C84Z0',10
-'C84Z1',10
-'C84Z2',10
-'C84Z3',10
-'C84Z4',10
-'C84Z5',10
-'C84Z6',10
-'C84Z7',10
-'C84Z8',10
-'C84Z9',10
-'C8510',10
-'C8511',10
-'C8512',10
-'C8513',10
-'C8514',10
-'C8515',10
-'C8516',10
-'C8517',10
-'C8518',10
-'C8519',10
-'C8520',10
-'C8521',10
-'C8522',10
-'C8523',10
-'C8524',10
-'C8525',10
-'C8526',10
-'C8527',10
-'C8528',10
-'C8529',10
-'C8580',10
-'C8581',10
-'C8582',10
-'C8583',10
-'C8584',10
-'C8585',10
-'C8586',10
-'C8587',10
-'C8588',10
-'C8589',10
-'C8590',10
-'C8591',10
-'C8592',10
-'C8593',10
-'C8594',10
-'C8595',10
-'C8596',10
-'C8597',10
-'C8598',10
-'C8599',10
-'C860',10
-'C861',10
-'C862',10
-'C863',10
-'C864',10
-'C865',10
-'C866',10
-'C880',10
-'C882',10
-'C883',10
-'C884',10
-'C888',10
-'C889',10
-'C964',10
-'C969',10
-'C96Z',10
-'Z8572',10
-'Z8579',10
-'20240',9
-'20241',9
-'20242',9
-'20243',9
-'20244',9
-'20245',9
-'20246',9
-'20247',9
-'20248',9
-'2031',9
-'20310',9
-'20311',9
-'20312',9
-'2040',9
-'20400',9
-'20401',9
-'20402',9
-'2041',9
-'20410',9
-'20411',9
-'20412',9
-'2042',9
-'20420',9
-'20421',9
-'20422',9
-'2048',9
-'20480',9
-'20481',9
-'20482',9
-'2049',9
-'20490',9
-'20491',9
-'20492',9
-'2050',9
-'20500',9
-'20501',9
-'20502',9
-'2051',9
-'20510',9
-'20511',9
-'20512',9
-'2052',9
-'20520',9
-'20521',9
-'20522',9
-'2053',9
-'20530',9
-'20531',9
-'20532',9
-'2058',9
-'20580',9
-'20581',9
-'20582',9
-'2059',9
-'20590',9
-'20591',9
-'20592',9
-'2060',9
-'20600',9
-'20601',9
-'20602',9
-'2061',9
-'20610',9
-'20611',9
-'20612',9
-'2062',9
-'20620',9
-'20621',9
-'20622',9
-'2068',9
-'20680',9
-'20681',9
-'20682',9
-'2069',9
-'20690',9
-'20691',9
-'20692',9
-'2070',9
-'20700',9
-'20701',9
-'20702',9
-'2071',9
-'20710',9
-'20711',9
-'20712',9
-'2072',9
-'20720',9
-'20721',9
-'20722',9
-'2078',9
-'20780',9
-'20781',9
-'20782',9
-'2080',9
-'20800',9
-'20801',9
-'20802',9
-'2081',9
-'20810',9
-'20811',9
-'20812',9
-'2082',9
-'20820',9
-'20821',9
-'20822',9
-'2088',9
-'20880',9
-'20881',9
-'20882',9
-'2089',9
-'20890',9
-'20891',9
-'20892',9
-'V1060',9
-'V1061',9
-'V1062',9
-'V1063',9
-'V1069',9
-'C9010',10
-'C9011',10
-'C9012',10
-'C9100',10
-'C9101',10
-'C9102',10
-'C9110',10
-'C9111',10
-'C9112',10
-'C9130',10
-'C9131',10
-'C9132',10
-'C9140',10
-'C9141',10
-'C9142',10
-'C9150',10
-'C9151',10
-'C9152',10
-'C9160',10
-'C9161',10
-'C9162',10
-'C9190',10
-'C9191',10
-'C9192',10
-'C91A0',10
-'C91A1',10
-'C91A2',10
-'C91Z0',10
-'C91Z1',10
-'C91Z2',10
-'C9200',10
-'C9201',10
-'C9202',10
-'C9210',10
-'C9211',10
-'C9212',10
-'C9220',10
-'C9221',10
-'C9222',10
-'C9230',10
-'C9231',10
-'C9232',10
-'C9240',10
-'C9241',10
-'C9242',10
-'C9250',10
-'C9251',10
-'C9252',10
-'C9260',10
-'C9261',10
-'C9262',10
-'C9290',10
-'C9291',10
-'C9292',10
-'C92A0',10
-'C92A1',10
-'C92A2',10
-'C92Z0',10
-'C92Z1',10
-'C92Z2',10
-'C9300',10
-'C9301',10
-'C9302',10
-'C9310',10
-'C9311',10
-'C9312',10
-'C9330',10
-'C9331',10
-'C9332',10
-'C9390',10
-'C9391',10
-'C9392',10
-'C93Z0',10
-'C93Z1',10
-'C93Z2',10
-'C9400',10
-'C9401',10
-'C9402',10
-'C9420',10
-'C9421',10
-'C9422',10
-'C9430',10
-'C9431',10
-'C9432',10
-'C9440',10
-'C9441',10
-'C9442',10
-'C946',10
-'C9480',10
-'C9481',10
-'C9482',10
-'C9500',10
-'C9501',10
-'C9502',10
-'C9510',10
-'C9511',10
-'C9512',10
-'C9590',10
-'C9591',10
-'C9592',10
-'Z856',10
-'2030',9
-'20300',9
-'20301',9
-'20302',9
-'2038',9
-'20380',9
-'20381',9
-'20382',9
-'C9000',10
-'C9001',10
-'C9002',10
-'C9020',10
-'C9021',10
-'C9022',10
-'C9030',10
-'C9031',10
-'C9032',10
+icd_cm,ver,icd_cm_label,hcup_ccs_single,hcup_ccs_single_label
+'20100',9,"hodgkin's paragranuloma, unspecified site, extranodal and solid organ sites",37,(37) hodgkin`s disease
+'20101',9,"hodgkin's paragranuloma, lymph nodes of head, face, and neck",37,(37) hodgkin`s disease
+'20102',9,"hodgkin's paragranuloma, intrathoracic lymph nodes",37,(37) hodgkin`s disease
+'20103',9,"hodgkin's paragranuloma, intra-abdominal lymph nodes",37,(37) hodgkin`s disease
+'20104',9,"hodgkin's paragranuloma, lymph nodes of axilla and upper limb",37,(37) hodgkin`s disease
+'20105',9,"hodgkin's paragranuloma, lymph nodes of inguinal region and lower limb",37,(37) hodgkin`s disease
+'20106',9,"hodgkin's paragranuloma, intrapelvic lymph nodes",37,(37) hodgkin`s disease
+'20107',9,"hodgkin's paragranuloma, spleen",37,(37) hodgkin`s disease
+'20108',9,"hodgkin's paragranuloma, lymph nodes of multiple sites",37,(37) hodgkin`s disease
+'20110',9,"hodgkin's granuloma, unspecified site, extranodal and solid organ sites",37,(37) hodgkin`s disease
+'20111',9,"hodgkin's granuloma, lymph nodes of head, face, and neck",37,(37) hodgkin`s disease
+'20112',9,"hodgkin's granuloma, intrathoracic lymph nodes",37,(37) hodgkin`s disease
+'20113',9,"hodgkin's granuloma, intra-abdominal lymph nodes",37,(37) hodgkin`s disease
+'20114',9,"hodgkin's granuloma, lymph nodes of axilla and upper limb",37,(37) hodgkin`s disease
+'20115',9,"hodgkin's granuloma, lymph nodes of inguinal region and lower limb",37,(37) hodgkin`s disease
+'20116',9,"hodgkin's granuloma, intrapelvic lymph nodes",37,(37) hodgkin`s disease
+'20117',9,"hodgkin's granuloma, spleen",37,(37) hodgkin`s disease
+'20118',9,"hodgkin's granuloma, lymph nodes of multiple sites",37,(37) hodgkin`s disease
+'20120',9,"hodgkin's sarcoma, unspecified site, extranodal and solid organ sites",37,(37) hodgkin`s disease
+'20121',9,"hodgkin's sarcoma, lymph nodes of head, face, and neck",37,(37) hodgkin`s disease
+'20122',9,"hodgkin's sarcoma, intrathoracic lymph nodes",37,(37) hodgkin`s disease
+'20123',9,"hodgkin's sarcoma, intra-abdominal lymph nodes",37,(37) hodgkin`s disease
+'20124',9,"hodgkin's sarcoma, lymph nodes of axilla and upper limb",37,(37) hodgkin`s disease
+'20125',9,"hodgkin's sarcoma, lymph nodes of inguinal region and lower limb",37,(37) hodgkin`s disease
+'20126',9,"hodgkin's sarcoma, intrapelvic lymph nodes",37,(37) hodgkin`s disease
+'20127',9,"hodgkin's sarcoma, spleen",37,(37) hodgkin`s disease
+'20128',9,"hodgkin's sarcoma, lymph nodes of multiple sites",37,(37) hodgkin`s disease
+'20140',9,"hodgkin's disease, lymphocytic-histiocytic predominance, unspecified site, extranodal and solid organ sites",37,(37) hodgkin`s disease
+'20141',9,"hodgkin's disease, lymphocytic-histiocytic predominance, lymph nodes of head, face, and neck",37,(37) hodgkin`s disease
+'20142',9,"hodgkin's disease, lymphocytic-histiocytic predominance, intrathoracic lymph nodes",37,(37) hodgkin`s disease
+'20143',9,"hodgkin's disease, lymphocytic-histiocytic predominance, intra-abdominal lymph nodes",37,(37) hodgkin`s disease
+'20144',9,"hodgkin's disease, lymphocytic-histiocytic predominance, lymph nodes of axilla and upper limb",37,(37) hodgkin`s disease
+'20145',9,"hodgkin's disease, lymphocytic-histiocytic predominance, lymph nodes of inguinal region and lower limb",37,(37) hodgkin`s disease
+'20146',9,"hodgkin's disease, lymphocytic-histiocytic predominance, intrapelvic lymph nodes",37,(37) hodgkin`s disease
+'20147',9,"hodgkin's disease, lymphocytic-histiocytic predominance, spleen",37,(37) hodgkin`s disease
+'20148',9,"hodgkin's disease, lymphocytic-histiocytic predominance, lymph nodes of multiple sites",37,(37) hodgkin`s disease
+'20150',9,"hodgkin's disease, nodular sclerosis, unspecified site, extranodal and solid organ sites",37,(37) hodgkin`s disease
+'20151',9,"hodgkin's disease, nodular sclerosis, lymph nodes of head, face, and neck",37,(37) hodgkin`s disease
+'20152',9,"hodgkin's disease, nodular sclerosis, intrathoracic lymph nodes",37,(37) hodgkin`s disease
+'20153',9,"hodgkin's disease, nodular sclerosis, intra-abdominal lymph nodes",37,(37) hodgkin`s disease
+'20154',9,"hodgkin's disease, nodular sclerosis, lymph nodes of axilla and upper limb",37,(37) hodgkin`s disease
+'20155',9,"hodgkin's disease, nodular sclerosis, lymph nodes of inguinal region and lower limb",37,(37) hodgkin`s disease
+'20156',9,"hodgkin's disease, nodular sclerosis, intrapelvic lymph nodes",37,(37) hodgkin`s disease
+'20157',9,"hodgkin's disease, nodular sclerosis, spleen",37,(37) hodgkin`s disease
+'20158',9,"hodgkin's disease, nodular sclerosis, lymph nodes of multiple sites",37,(37) hodgkin`s disease
+'20160',9,"hodgkin's disease, mixed cellularity, unspecified site, extranodal and solid organ sites",37,(37) hodgkin`s disease
+'20161',9,"hodgkin's disease, mixed cellularity, lymph nodes of head, face, and neck",37,(37) hodgkin`s disease
+'20162',9,"hodgkin's disease, mixed cellularity, intrathoracic lymph nodes",37,(37) hodgkin`s disease
+'20163',9,"hodgkin's disease, mixed cellularity, intra-abdominal lymph nodes",37,(37) hodgkin`s disease
+'20164',9,"hodgkin's disease, mixed cellularity, lymph nodes of axilla and upper limb",37,(37) hodgkin`s disease
+'20165',9,"hodgkin's disease, mixed cellularity, lymph nodes of inguinal region and lower limb",37,(37) hodgkin`s disease
+'20166',9,"hodgkin's disease, mixed cellularity, intrapelvic lymph nodes",37,(37) hodgkin`s disease
+'20167',9,"hodgkin's disease, mixed cellularity, spleen",37,(37) hodgkin`s disease
+'20168',9,"hodgkin's disease, mixed cellularity, lymph nodes of multiple sites",37,(37) hodgkin`s disease
+'20170',9,"hodgkin's disease, lymphocytic depletion, unspecified site, extranodal and solid organ sites",37,(37) hodgkin`s disease
+'20171',9,"hodgkin's disease, lymphocytic depletion, lymph nodes of head, face, and neck",37,(37) hodgkin`s disease
+'20172',9,"hodgkin's disease, lymphocytic depletion, intrathoracic lymph nodes",37,(37) hodgkin`s disease
+'20173',9,"hodgkin's disease, lymphocytic depletion, intra-abdominal lymph nodes",37,(37) hodgkin`s disease
+'20174',9,"hodgkin's disease, lymphocytic depletion, lymph nodes of axilla and upper limb",37,(37) hodgkin`s disease
+'20175',9,"hodgkin's disease, lymphocytic depletion, lymph nodes of inguinal region and lower limb",37,(37) hodgkin`s disease
+'20176',9,"hodgkin's disease, lymphocytic depletion, intrapelvic lymph nodes",37,(37) hodgkin`s disease
+'20177',9,"hodgkin's disease, lymphocytic depletion, spleen",37,(37) hodgkin`s disease
+'20178',9,"hodgkin's disease, lymphocytic depletion, lymph nodes of multiple sites",37,(37) hodgkin`s disease
+'20190',9,"hodgkin's disease, unspecified type, unspecified site, extranodal and solid organ sites",37,(37) hodgkin`s disease
+'20191',9,"hodgkin's disease, unspecified type, lymph nodes of head, face, and neck",37,(37) hodgkin`s disease
+'20192',9,"hodgkin's disease, unspecified type, intrathoracic lymph nodes",37,(37) hodgkin`s disease
+'20193',9,"hodgkin's disease, unspecified type, intra-abdominal lymph nodes",37,(37) hodgkin`s disease
+'20194',9,"hodgkin's disease, unspecified type, lymph nodes of axilla and upper limb",37,(37) hodgkin`s disease
+'20195',9,"hodgkin's disease, unspecified type, lymph nodes of inguinal region and lower limb",37,(37) hodgkin`s disease
+'20196',9,"hodgkin's disease, unspecified type, intrapelvic lymph nodes",37,(37) hodgkin`s disease
+'20197',9,"hodgkin's disease, unspecified type, spleen",37,(37) hodgkin`s disease
+'20198',9,"hodgkin's disease, unspecified type, lymph nodes of multiple sites",37,(37) hodgkin`s disease
+'V1072',9,personal history of hodgkin's disease,37,(37) hodgkin`s disease
+'C8100',10,"nodular lymphocyte predominant hodgkin lymphoma, unspecified site",37,(37) hodgkin`s disease
+'C8101',10,"nodular lymphocyte predominant hodgkin lymphoma, lymph nodes of head, face, and neck",37,(37) hodgkin`s disease
+'C8102',10,"nodular lymphocyte predominant hodgkin lymphoma, intrathoracic lymph nodes",37,(37) hodgkin`s disease
+'C8103',10,"nodular lymphocyte predominant hodgkin lymphoma, intra-abdominal lymph nodes",37,(37) hodgkin`s disease
+'C8104',10,"nodular lymphocyte predominant hodgkin lymphoma, lymph nodes of axilla and upper limb",37,(37) hodgkin`s disease
+'C8105',10,"nodular lymphocyte predominant hodgkin lymphoma, lymph nodes of inguinal region and lower limb",37,(37) hodgkin`s disease
+'C8106',10,"nodular lymphocyte predominant hodgkin lymphoma, intrapelvic lymph nodes",37,(37) hodgkin`s disease
+'C8107',10,"nodular lymphocyte predominant hodgkin lymphoma, spleen",37,(37) hodgkin`s disease
+'C8108',10,"nodular lymphocyte predominant hodgkin lymphoma, lymph nodes of multiple sites",37,(37) hodgkin`s disease
+'C8109',10,"nodular lymphocyte predominant hodgkin lymphoma, extranodal and solid organ sites",37,(37) hodgkin`s disease
+'C8110',10,"nodular sclerosis hodgkin lymphoma, unspecified site",37,(37) hodgkin`s disease
+'C8111',10,"nodular sclerosis hodgkin lymphoma, lymph nodes of head, face, and neck",37,(37) hodgkin`s disease
+'C8112',10,"nodular sclerosis hodgkin lymphoma, intrathoracic lymph nodes",37,(37) hodgkin`s disease
+'C8113',10,"nodular sclerosis hodgkin lymphoma, intra-abdominal lymph nodes",37,(37) hodgkin`s disease
+'C8114',10,"nodular sclerosis hodgkin lymphoma, lymph nodes of axilla and upper limb",37,(37) hodgkin`s disease
+'C8115',10,"nodular sclerosis hodgkin lymphoma, lymph nodes of inguinal region and lower limb",37,(37) hodgkin`s disease
+'C8116',10,"nodular sclerosis hodgkin lymphoma, intrapelvic lymph nodes",37,(37) hodgkin`s disease
+'C8117',10,"nodular sclerosis hodgkin lymphoma, spleen",37,(37) hodgkin`s disease
+'C8118',10,"nodular sclerosis hodgkin lymphoma, lymph nodes of multiple sites",37,(37) hodgkin`s disease
+'C8119',10,"nodular sclerosis hodgkin lymphoma, extranodal and solid organ sites",37,(37) hodgkin`s disease
+'C8120',10,"mixed cellularity hodgkin lymphoma, unspecified site",37,(37) hodgkin`s disease
+'C8121',10,"mixed cellularity hodgkin lymphoma, lymph nodes of head, face, and neck",37,(37) hodgkin`s disease
+'C8122',10,"mixed cellularity hodgkin lymphoma, intrathoracic lymph nodes",37,(37) hodgkin`s disease
+'C8123',10,"mixed cellularity hodgkin lymphoma, intra-abdominal lymph nodes",37,(37) hodgkin`s disease
+'C8124',10,"mixed cellularity hodgkin lymphoma, lymph nodes of axilla and upper limb",37,(37) hodgkin`s disease
+'C8125',10,"mixed cellularity hodgkin lymphoma, lymph nodes of inguinal region and lower limb",37,(37) hodgkin`s disease
+'C8126',10,"mixed cellularity hodgkin lymphoma, intrapelvic lymph nodes",37,(37) hodgkin`s disease
+'C8127',10,"mixed cellularity hodgkin lymphoma, spleen",37,(37) hodgkin`s disease
+'C8128',10,"mixed cellularity hodgkin lymphoma, lymph nodes of multiple sites",37,(37) hodgkin`s disease
+'C8129',10,"mixed cellularity hodgkin lymphoma, extranodal and solid organ sites",37,(37) hodgkin`s disease
+'C8130',10,"lymphocyte depleted hodgkin lymphoma, unspecified site",37,(37) hodgkin`s disease
+'C8131',10,"lymphocyte depleted hodgkin lymphoma, lymph nodes of head, face, and neck",37,(37) hodgkin`s disease
+'C8132',10,"lymphocyte depleted hodgkin lymphoma, intrathoracic lymph nodes",37,(37) hodgkin`s disease
+'C8133',10,"lymphocyte depleted hodgkin lymphoma, intra-abdominal lymph nodes",37,(37) hodgkin`s disease
+'C8134',10,"lymphocyte depleted hodgkin lymphoma, lymph nodes of axilla and upper limb",37,(37) hodgkin`s disease
+'C8135',10,"lymphocyte depleted hodgkin lymphoma, lymph nodes of inguinal region and lower limb",37,(37) hodgkin`s disease
+'C8136',10,"lymphocyte depleted hodgkin lymphoma, intrapelvic lymph nodes",37,(37) hodgkin`s disease
+'C8137',10,"lymphocyte depleted hodgkin lymphoma, spleen",37,(37) hodgkin`s disease
+'C8138',10,"lymphocyte depleted hodgkin lymphoma, lymph nodes of multiple sites",37,(37) hodgkin`s disease
+'C8139',10,"lymphocyte depleted hodgkin lymphoma, extranodal and solid organ sites",37,(37) hodgkin`s disease
+'C8140',10,"lymphocyte-rich hodgkin lymphoma, unspecified site",37,(37) hodgkin`s disease
+'C8141',10,"lymphocyte-rich hodgkin lymphoma, lymph nodes of head, face, and neck",37,(37) hodgkin`s disease
+'C8142',10,"lymphocyte-rich hodgkin lymphoma, intrathoracic lymph nodes",37,(37) hodgkin`s disease
+'C8143',10,"lymphocyte-rich hodgkin lymphoma, intra-abdominal lymph nodes",37,(37) hodgkin`s disease
+'C8144',10,"lymphocyte-rich hodgkin lymphoma, lymph nodes of axilla and upper limb",37,(37) hodgkin`s disease
+'C8145',10,"lymphocyte-rich hodgkin lymphoma, lymph nodes of inguinal region and lower limb",37,(37) hodgkin`s disease
+'C8146',10,"lymphocyte-rich hodgkin lymphoma, intrapelvic lymph nodes",37,(37) hodgkin`s disease
+'C8147',10,"lymphocyte-rich hodgkin lymphoma, spleen",37,(37) hodgkin`s disease
+'C8148',10,"lymphocyte-rich hodgkin lymphoma, lymph nodes of multiple sites",37,(37) hodgkin`s disease
+'C8149',10,"lymphocyte-rich hodgkin lymphoma, extranodal and solid organ sites",37,(37) hodgkin`s disease
+'C8170',10,"other hodgkin lymphoma, unspecified site",37,(37) hodgkin`s disease
+'C8171',10,"other hodgkin lymphoma, lymph nodes of head, face, and neck",37,(37) hodgkin`s disease
+'C8172',10,"other hodgkin lymphoma, intrathoracic lymph nodes",37,(37) hodgkin`s disease
+'C8173',10,"other hodgkin lymphoma, intra-abdominal lymph nodes",37,(37) hodgkin`s disease
+'C8174',10,"other hodgkin lymphoma, lymph nodes of axilla and upper limb",37,(37) hodgkin`s disease
+'C8175',10,"other hodgkin lymphoma, lymph nodes of inguinal region and lower limb",37,(37) hodgkin`s disease
+'C8176',10,"other hodgkin lymphoma, intrapelvic lymph nodes",37,(37) hodgkin`s disease
+'C8177',10,"other hodgkin lymphoma, spleen",37,(37) hodgkin`s disease
+'C8178',10,"other hodgkin lymphoma, lymph nodes of multiple sites",37,(37) hodgkin`s disease
+'C8179',10,"other hodgkin lymphoma, extranodal and solid organ sites",37,(37) hodgkin`s disease
+'C8190',10,"hodgkin lymphoma, unspecified, unspecified site",37,(37) hodgkin`s disease
+'C8191',10,"hodgkin lymphoma, unspecified, lymph nodes of head, face, and neck",37,(37) hodgkin`s disease
+'C8192',10,"hodgkin lymphoma, unspecified, intrathoracic lymph nodes",37,(37) hodgkin`s disease
+'C8193',10,"hodgkin lymphoma, unspecified, intra-abdominal lymph nodes",37,(37) hodgkin`s disease
+'C8194',10,"hodgkin lymphoma, unspecified, lymph nodes of axilla and upper limb",37,(37) hodgkin`s disease
+'C8195',10,"hodgkin lymphoma, unspecified, lymph nodes of inguinal region and lower limb",37,(37) hodgkin`s disease
+'C8196',10,"hodgkin lymphoma, unspecified, intrapelvic lymph nodes",37,(37) hodgkin`s disease
+'C8197',10,"hodgkin lymphoma, unspecified, spleen",37,(37) hodgkin`s disease
+'C8198',10,"hodgkin lymphoma, unspecified, lymph nodes of multiple sites",37,(37) hodgkin`s disease
+'C8199',10,"hodgkin lymphoma, unspecified, extranodal and solid organ sites",37,(37) hodgkin`s disease
+'Z8571',10,personal history of hodgkin lymphoma,37,(37) hodgkin`s disease
+'20000',9,"reticulosarcoma, unspecified site, extranodal and solid organ sites",38,(38) non-hodgkin`s lymphoma
+'20001',9,"reticulosarcoma, lymph nodes of head, face, and neck",38,(38) non-hodgkin`s lymphoma
+'20002',9,"reticulosarcoma, intrathoracic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'20003',9,"reticulosarcoma, intra-abdominal lymph nodes",38,(38) non-hodgkin`s lymphoma
+'20004',9,"reticulosarcoma, lymph nodes of axilla and upper limb",38,(38) non-hodgkin`s lymphoma
+'20005',9,"reticulosarcoma, lymph nodes of inguinal region and lower limb",38,(38) non-hodgkin`s lymphoma
+'20006',9,"reticulosarcoma, intrapelvic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'20007',9,"reticulosarcoma, spleen",38,(38) non-hodgkin`s lymphoma
+'20008',9,"reticulosarcoma, lymph nodes of multiple sites",38,(38) non-hodgkin`s lymphoma
+'20010',9,"lymphosarcoma, unspecified site, extranodal and solid organ sites",38,(38) non-hodgkin`s lymphoma
+'20011',9,"lymphosarcoma, lymph nodes of head, face, and neck",38,(38) non-hodgkin`s lymphoma
+'20012',9,"lymphosarcoma, intrathoracic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'20013',9,"lymphosarcoma, intra-abdominal lymph nodes",38,(38) non-hodgkin`s lymphoma
+'20014',9,"lymphosarcoma, lymph nodes of axilla and upper limb",38,(38) non-hodgkin`s lymphoma
+'20015',9,"lymphosarcoma, lymph nodes of inguinal region and lower limb",38,(38) non-hodgkin`s lymphoma
+'20016',9,"lymphosarcoma, intrapelvic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'20017',9,"lymphosarcoma, spleen",38,(38) non-hodgkin`s lymphoma
+'20018',9,"lymphosarcoma, lymph nodes of multiple sites",38,(38) non-hodgkin`s lymphoma
+'20020',9,"burkitt's tumor or lymphoma, unspecified site, extranodal and solid organ sites",38,(38) non-hodgkin`s lymphoma
+'20021',9,"burkitt's tumor or lymphoma, lymph nodes of head, face, and neck",38,(38) non-hodgkin`s lymphoma
+'20022',9,"burkitt's tumor or lymphoma, intrathoracic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'20023',9,"burkitt's tumor or lymphoma, intra-abdominal lymph nodes",38,(38) non-hodgkin`s lymphoma
+'20024',9,"burkitt's tumor or lymphoma, lymph nodes of axilla and upper limb",38,(38) non-hodgkin`s lymphoma
+'20025',9,"burkitt's tumor or lymphoma, lymph nodes of inguinal region and lower limb",38,(38) non-hodgkin`s lymphoma
+'20026',9,"burkitt's tumor or lymphoma, intrapelvic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'20027',9,"burkitt's tumor or lymphoma, spleen",38,(38) non-hodgkin`s lymphoma
+'20028',9,"burkitt's tumor or lymphoma, lymph nodes of multiple sites",38,(38) non-hodgkin`s lymphoma
+'20030',9,"marginal zone lymphoma, unspecified site, extranodal and solid organ sites",38,(38) non-hodgkin`s lymphoma
+'20031',9,"marginal zone lymphoma, lymph nodes of head, face, and neck",38,(38) non-hodgkin`s lymphoma
+'20032',9,"marginal zone lymphoma, intrathoracic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'20033',9,"marginal zone lymphoma, intraabdominal lymph nodes",38,(38) non-hodgkin`s lymphoma
+'20034',9,"marginal zone lymphoma, lymph nodes of axilla and upper limb",38,(38) non-hodgkin`s lymphoma
+'20035',9,"marginal zone lymphoma, lymph nodes of inguinal region and lower limb",38,(38) non-hodgkin`s lymphoma
+'20036',9,"marginal zone lymphoma, intrapelvic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'20037',9,"marginal zone lymphoma, spleen",38,(38) non-hodgkin`s lymphoma
+'20038',9,"marginal zone lymphoma, lymph nodes of multiple sites",38,(38) non-hodgkin`s lymphoma
+'20040',9,"mantle cell lymphoma, unspecified site, extranodal and solid organ sites",38,(38) non-hodgkin`s lymphoma
+'20041',9,"mantle cell lymphoma, lymph nodes of head, face, and neck",38,(38) non-hodgkin`s lymphoma
+'20042',9,"mantle cell lymphoma, intrathoracic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'20043',9,"mantle cell lymphoma, intra-abdominal lymph nodes",38,(38) non-hodgkin`s lymphoma
+'20044',9,"mantle cell lymphoma, lymph nodes of axilla and upper limb",38,(38) non-hodgkin`s lymphoma
+'20045',9,"mantle cell lymphoma, lymph nodes of inguinal region and lower limb",38,(38) non-hodgkin`s lymphoma
+'20046',9,"mantle cell lymphoma, intrapelvic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'20047',9,"mantle cell lymphoma, spleen",38,(38) non-hodgkin`s lymphoma
+'20048',9,"mantle cell lymphoma, lymph nodes of multiple sites",38,(38) non-hodgkin`s lymphoma
+'20050',9,"primary central nervous system lymphoma, unspecified site, extranodal and solid organ sites",38,(38) non-hodgkin`s lymphoma
+'20051',9,"primary central nervous system lymphoma, lymph nodes of head, face, and neck",38,(38) non-hodgkin`s lymphoma
+'20052',9,"primary central nervous system lymphoma, intrathoracic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'20053',9,"primary central nervous system lymphoma, intra-abdominal lymph nodes",38,(38) non-hodgkin`s lymphoma
+'20054',9,"primary central nervous system lymphoma, lymph nodes of axilla and upper limb",38,(38) non-hodgkin`s lymphoma
+'20055',9,"primary central nervous system lymphoma, lymph nodes of inguinal region and lower limb",38,(38) non-hodgkin`s lymphoma
+'20056',9,"primary central nervous system lymphoma, intrapelvic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'20057',9,"primary central nervous system lymphoma, spleen",38,(38) non-hodgkin`s lymphoma
+'20058',9,"primary central nervous system lymphoma, lymph nodes of multiple sites",38,(38) non-hodgkin`s lymphoma
+'20060',9,"anaplastic large cell lymphoma, unspecified site, extranodal and solid organ sites",38,(38) non-hodgkin`s lymphoma
+'20061',9,"anaplastic large cell lymphoma, lymph nodes of head, face, and neck",38,(38) non-hodgkin`s lymphoma
+'20062',9,"anaplastic large cell lymphoma, intrathoracic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'20063',9,"anaplastic large cell lymphoma, intra-abdominal lymph nodes",38,(38) non-hodgkin`s lymphoma
+'20064',9,"anaplastic large cell lymphoma, lymph nodes of axilla and upper limb",38,(38) non-hodgkin`s lymphoma
+'20065',9,"anaplastic large cell lymphoma, lymph nodes of inguinal region and lower limb",38,(38) non-hodgkin`s lymphoma
+'20066',9,"anaplastic large cell lymphoma, intrapelvic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'20067',9,"anaplastic large cell lymphoma, spleen",38,(38) non-hodgkin`s lymphoma
+'20068',9,"anaplastic large cell lymphoma, lymph nodes of multiple sites",38,(38) non-hodgkin`s lymphoma
+'20070',9,"large cell lymphoma, unspecified site, extranodal and solid organ sites",38,(38) non-hodgkin`s lymphoma
+'20071',9,"large cell lymphoma, lymph nodes of head, face, and neck",38,(38) non-hodgkin`s lymphoma
+'20072',9,"large cell lymphoma, intrathoracic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'20073',9,"large cell lymphoma, intra-abdominal lymph nodes",38,(38) non-hodgkin`s lymphoma
+'20074',9,"large cell lymphoma, lymph nodes of axilla and upper limb",38,(38) non-hodgkin`s lymphoma
+'20075',9,"large cell lymphoma, lymph nodes of inguinal region and lower limb",38,(38) non-hodgkin`s lymphoma
+'20076',9,"large cell lymphoma, intrapelvic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'20077',9,"large cell lymphoma, spleen",38,(38) non-hodgkin`s lymphoma
+'20078',9,"large cell lymphoma, lymph nodes of multiple sites",38,(38) non-hodgkin`s lymphoma
+'20080',9,"other named variants of lymphosarcoma and reticulosarcoma, unspecified site, extranodal and solid organ sites",38,(38) non-hodgkin`s lymphoma
+'20081',9,"other named variants of lymphosarcoma and reticulosarcoma, lymph nodes of head, face, and neck",38,(38) non-hodgkin`s lymphoma
+'20082',9,"other named variants of lymphosarcoma and reticulosarcoma,intrathoracic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'20083',9,"other named variants of lymphosarcoma and reticulosarcoma, intra-abdominal lymph nodes",38,(38) non-hodgkin`s lymphoma
+'20084',9,"other named variants of lymphosarcoma and reticulosarcoma, lymph nodes of axilla and upper limb",38,(38) non-hodgkin`s lymphoma
+'20085',9,"other named variants of lymphosarcoma and reticulosarcoma, lymph nodes of inguinal region and lower limb",38,(38) non-hodgkin`s lymphoma
+'20086',9,"other named variants of lymphosarcoma and reticulosarcoma, intrapelvic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'20087',9,"other named variants of lymphosarcoma and reticulosarcoma, spleen",38,(38) non-hodgkin`s lymphoma
+'20088',9,"other named variants of lymphosarcoma and reticulosarcoma, lymph nodes of multiple sites",38,(38) non-hodgkin`s lymphoma
+'20200',9,"nodular lymphoma, unspecified site, extranodal and solid organ sites",38,(38) non-hodgkin`s lymphoma
+'20201',9,"nodular lymphoma, lymph nodes of head, face, and neck",38,(38) non-hodgkin`s lymphoma
+'20202',9,"nodular lymphoma, intrathoracic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'20203',9,"nodular lymphoma, intra-abdominal lymph nodes",38,(38) non-hodgkin`s lymphoma
+'20204',9,"nodular lymphoma, lymph nodes of axilla and upper limb",38,(38) non-hodgkin`s lymphoma
+'20205',9,"nodular lymphoma, lymph nodes of inguinal region and lower limb",38,(38) non-hodgkin`s lymphoma
+'20206',9,"nodular lymphoma, intrapelvic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'20207',9,"nodular lymphoma, spleen",38,(38) non-hodgkin`s lymphoma
+'20208',9,"nodular lymphoma, lymph nodes of multiple sites",38,(38) non-hodgkin`s lymphoma
+'20210',9,"mycosis fungoides, unspecified site, extranodal and solid organ sites",38,(38) non-hodgkin`s lymphoma
+'20211',9,"mycosis fungoides, lymph nodes of head, face, and neck",38,(38) non-hodgkin`s lymphoma
+'20212',9,"mycosis fungoides, intrathoracic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'20213',9,"mycosis fungoides, intra-abdominal lymph nodes",38,(38) non-hodgkin`s lymphoma
+'20214',9,"mycosis fungoides, lymph nodes of axilla and upper limb",38,(38) non-hodgkin`s lymphoma
+'20215',9,"mycosis fungoides, lymph nodes of inguinal region and lower limb",38,(38) non-hodgkin`s lymphoma
+'20216',9,"mycosis fungoides, intrapelvic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'20217',9,"mycosis fungoides, spleen",38,(38) non-hodgkin`s lymphoma
+'20218',9,"mycosis fungoides, lymph nodes of multiple sites",38,(38) non-hodgkin`s lymphoma
+'20220',9,"sezary's disease, unspecified site, extranodal and solid organ sites",38,(38) non-hodgkin`s lymphoma
+'20221',9,"sezary's disease, lymph nodes of head, face, and neck",38,(38) non-hodgkin`s lymphoma
+'20222',9,"sezary's disease, intrathoracic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'20223',9,"sezary's disease, intra-abdominal lymph nodes",38,(38) non-hodgkin`s lymphoma
+'20224',9,"sezary's disease, lymph nodes of axilla and upper limb",38,(38) non-hodgkin`s lymphoma
+'20225',9,"sezary's disease, lymph nodes of inguinal region and lower limb",38,(38) non-hodgkin`s lymphoma
+'20226',9,"sezary's disease, intrapelvic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'20227',9,"sezary's disease, spleen",38,(38) non-hodgkin`s lymphoma
+'20228',9,"sezary's disease, lymph nodes of multiple sites",38,(38) non-hodgkin`s lymphoma
+'20270',9,"peripheral t cell lymphoma, unspecified site, extranodal and solid organ sites",38,(38) non-hodgkin`s lymphoma
+'20271',9,"peripheral t cell lymphoma, lymph nodes of head, face, and neck",38,(38) non-hodgkin`s lymphoma
+'20272',9,"peripheral t cell lymphoma, intrathoracic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'20273',9,"peripheral t cell lymphoma, intra-abdominal lymph nodes",38,(38) non-hodgkin`s lymphoma
+'20274',9,"peripheral t cell lymphoma, lymph nodes of axilla and upper limb",38,(38) non-hodgkin`s lymphoma
+'20275',9,"peripheral t cell lymphoma, lymph nodes of inguinal region and lower limb",38,(38) non-hodgkin`s lymphoma
+'20276',9,"peripheral t cell lymphoma, intrapelvic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'20277',9,"peripheral t cell lymphoma, spleen",38,(38) non-hodgkin`s lymphoma
+'20278',9,"peripheral t cell lymphoma, lymph nodes of multiple sites",38,(38) non-hodgkin`s lymphoma
+'20280',9,"other malignant lymphomas, unspecified site, extranodal and solid organ sites",38,(38) non-hodgkin`s lymphoma
+'20281',9,"other malignant lymphomas, lymph nodes of head, face, and neck",38,(38) non-hodgkin`s lymphoma
+'20282',9,"other malignant lymphomas, intrathoracic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'20283',9,"other malignant lymphomas, intra-abdominal lymph nodes",38,(38) non-hodgkin`s lymphoma
+'20284',9,"other malignant lymphomas, lymph nodes of axilla and upper limb",38,(38) non-hodgkin`s lymphoma
+'20285',9,"other malignant lymphomas, lymph nodes of inguinal region and lower limb",38,(38) non-hodgkin`s lymphoma
+'20286',9,"other malignant lymphomas, intrapelvic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'20287',9,"other malignant lymphomas, spleen",38,(38) non-hodgkin`s lymphoma
+'20288',9,"other malignant lymphomas, lymph nodes of multiple sites",38,(38) non-hodgkin`s lymphoma
+'20290',9,"other and unspecified malignant neoplasms of lymphoid and histiocytic tissue, unspecified site, extranodal and solid organ sites",38,(38) non-hodgkin`s lymphoma
+'20291',9,"other and unspecified malignant neoplasms of lymphoid and histiocytic tissue, lymph nodes of head, face, and neck",38,(38) non-hodgkin`s lymphoma
+'20292',9,"other and unspecified malignant neoplasms of lymphoid and histiocytic tissue, intrathoracic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'20293',9,"other and unspecified malignant neoplasms of lymphoid and histiocytic tissue, intra-abdominal lymph nodes",38,(38) non-hodgkin`s lymphoma
+'20294',9,"other and unspecified malignant neoplasms of lymphoid and histiocytic tissue, lymph nodes of axilla and upper limb",38,(38) non-hodgkin`s lymphoma
+'20295',9,"other and unspecified malignant neoplasms of lymphoid and histiocytic tissue, lymph nodes of inguinal region and lower limb",38,(38) non-hodgkin`s lymphoma
+'20296',9,"other and unspecified malignant neoplasms of lymphoid and histiocytic tissue, intrapelvic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'20297',9,"other and unspecified malignant neoplasms of lymphoid and histiocytic tissue, spleen",38,(38) non-hodgkin`s lymphoma
+'20298',9,"other and unspecified malignant neoplasms of lymphoid and histiocytic tissue, lymph nodes of multiple sites",38,(38) non-hodgkin`s lymphoma
+'V1071',9,personal history of lymphosarcoma and reticulosarcoma,38,(38) non-hodgkin`s lymphoma
+'V1079',9,personal history of other lymphatic and hematopoietic neoplasms,38,(38) non-hodgkin`s lymphoma
+'C8200',10,"follicular lymphoma grade i, unspecified site",38,(38) non-hodgkin`s lymphoma
+'C8201',10,"follicular lymphoma grade i, lymph nodes of head, face, and neck",38,(38) non-hodgkin`s lymphoma
+'C8202',10,"follicular lymphoma grade i, intrathoracic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C8203',10,"follicular lymphoma grade i, intra-abdominal lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C8204',10,"follicular lymphoma grade i, lymph nodes of axilla and upper limb",38,(38) non-hodgkin`s lymphoma
+'C8205',10,"follicular lymphoma grade i, lymph nodes of inguinal region and lower limb",38,(38) non-hodgkin`s lymphoma
+'C8206',10,"follicular lymphoma grade i, intrapelvic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C8207',10,"follicular lymphoma grade i, spleen",38,(38) non-hodgkin`s lymphoma
+'C8208',10,"follicular lymphoma grade i, lymph nodes of multiple sites",38,(38) non-hodgkin`s lymphoma
+'C8209',10,"follicular lymphoma grade i, extranodal and solid organ sites",38,(38) non-hodgkin`s lymphoma
+'C8210',10,"follicular lymphoma grade ii, unspecified site",38,(38) non-hodgkin`s lymphoma
+'C8211',10,"follicular lymphoma grade ii, lymph nodes of head, face, and neck",38,(38) non-hodgkin`s lymphoma
+'C8212',10,"follicular lymphoma grade ii, intrathoracic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C8213',10,"follicular lymphoma grade ii, intra-abdominal lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C8214',10,"follicular lymphoma grade ii, lymph nodes of axilla and upper limb",38,(38) non-hodgkin`s lymphoma
+'C8215',10,"follicular lymphoma grade ii, lymph nodes of inguinal region and lower limb",38,(38) non-hodgkin`s lymphoma
+'C8216',10,"follicular lymphoma grade ii, intrapelvic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C8217',10,"follicular lymphoma grade ii, spleen",38,(38) non-hodgkin`s lymphoma
+'C8218',10,"follicular lymphoma grade ii, lymph nodes of multiple sites",38,(38) non-hodgkin`s lymphoma
+'C8219',10,"follicular lymphoma grade ii, extranodal and solid organ sites",38,(38) non-hodgkin`s lymphoma
+'C8220',10,"follicular lymphoma grade iii, unspecified, unspecified site",38,(38) non-hodgkin`s lymphoma
+'C8221',10,"follicular lymphoma grade iii, unspecified, lymph nodes of head, face, and neck",38,(38) non-hodgkin`s lymphoma
+'C8222',10,"follicular lymphoma grade iii, unspecified, intrathoracic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C8223',10,"follicular lymphoma grade iii, unspecified, intra-abdominal lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C8224',10,"follicular lymphoma grade iii, unspecified, lymph nodes of axilla and upper limb",38,(38) non-hodgkin`s lymphoma
+'C8225',10,"follicular lymphoma grade iii, unspecified, lymph nodes of inguinal region and lower limb",38,(38) non-hodgkin`s lymphoma
+'C8226',10,"follicular lymphoma grade iii, unspecified, intrapelvic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C8227',10,"follicular lymphoma grade iii, unspecified, spleen",38,(38) non-hodgkin`s lymphoma
+'C8228',10,"follicular lymphoma grade iii, unspecified, lymph nodes of multiple sites",38,(38) non-hodgkin`s lymphoma
+'C8229',10,"follicular lymphoma grade iii, unspecified, extranodal and solid organ sites",38,(38) non-hodgkin`s lymphoma
+'C8230',10,"follicular lymphoma grade iiia, unspecified site",38,(38) non-hodgkin`s lymphoma
+'C8231',10,"follicular lymphoma grade iiia, lymph nodes of head, face, and neck",38,(38) non-hodgkin`s lymphoma
+'C8232',10,"follicular lymphoma grade iiia, intrathoracic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C8233',10,"follicular lymphoma grade iiia, intra-abdominal lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C8234',10,"follicular lymphoma grade iiia, lymph nodes of axilla and upper limb",38,(38) non-hodgkin`s lymphoma
+'C8235',10,"follicular lymphoma grade iiia, lymph nodes of inguinal region and lower limb",38,(38) non-hodgkin`s lymphoma
+'C8236',10,"follicular lymphoma grade iiia, intrapelvic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C8237',10,"follicular lymphoma grade iiia, spleen",38,(38) non-hodgkin`s lymphoma
+'C8238',10,"follicular lymphoma grade iiia, lymph nodes of multiple sites",38,(38) non-hodgkin`s lymphoma
+'C8239',10,"follicular lymphoma grade iiia, extranodal and solid organ sites",38,(38) non-hodgkin`s lymphoma
+'C8240',10,"follicular lymphoma grade iiib, unspecified site",38,(38) non-hodgkin`s lymphoma
+'C8241',10,"follicular lymphoma grade iiib, lymph nodes of head, face, and neck",38,(38) non-hodgkin`s lymphoma
+'C8242',10,"follicular lymphoma grade iiib, intrathoracic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C8243',10,"follicular lymphoma grade iiib, intra-abdominal lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C8244',10,"follicular lymphoma grade iiib, lymph nodes of axilla and upper limb",38,(38) non-hodgkin`s lymphoma
+'C8245',10,"follicular lymphoma grade iiib, lymph nodes of inguinal region and lower limb",38,(38) non-hodgkin`s lymphoma
+'C8246',10,"follicular lymphoma grade iiib, intrapelvic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C8247',10,"follicular lymphoma grade iiib, spleen",38,(38) non-hodgkin`s lymphoma
+'C8248',10,"follicular lymphoma grade iiib, lymph nodes of multiple sites",38,(38) non-hodgkin`s lymphoma
+'C8249',10,"follicular lymphoma grade iiib, extranodal and solid organ sites",38,(38) non-hodgkin`s lymphoma
+'C8250',10,"diffuse follicle center lymphoma, unspecified site",38,(38) non-hodgkin`s lymphoma
+'C8251',10,"diffuse follicle center lymphoma, lymph nodes of head, face, and neck",38,(38) non-hodgkin`s lymphoma
+'C8252',10,"diffuse follicle center lymphoma, intrathoracic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C8253',10,"diffuse follicle center lymphoma, intra-abdominal lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C8254',10,"diffuse follicle center lymphoma, lymph nodes of axilla and upper limb",38,(38) non-hodgkin`s lymphoma
+'C8255',10,"diffuse follicle center lymphoma, lymph nodes of inguinal region and lower limb",38,(38) non-hodgkin`s lymphoma
+'C8256',10,"diffuse follicle center lymphoma, intrapelvic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C8257',10,"diffuse follicle center lymphoma, spleen",38,(38) non-hodgkin`s lymphoma
+'C8258',10,"diffuse follicle center lymphoma, lymph nodes of multiple sites",38,(38) non-hodgkin`s lymphoma
+'C8259',10,"diffuse follicle center lymphoma, extranodal and solid organ sites",38,(38) non-hodgkin`s lymphoma
+'C8260',10,"cutaneous follicle center lymphoma, unspecified site",38,(38) non-hodgkin`s lymphoma
+'C8261',10,"cutaneous follicle center lymphoma, lymph nodes of head, face, and neck",38,(38) non-hodgkin`s lymphoma
+'C8262',10,"cutaneous follicle center lymphoma, intrathoracic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C8263',10,"cutaneous follicle center lymphoma, intra-abdominal lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C8264',10,"cutaneous follicle center lymphoma, lymph nodes of axilla and upper limb",38,(38) non-hodgkin`s lymphoma
+'C8265',10,"cutaneous follicle center lymphoma, lymph nodes of inguinal region and lower limb",38,(38) non-hodgkin`s lymphoma
+'C8266',10,"cutaneous follicle center lymphoma, intrapelvic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C8267',10,"cutaneous follicle center lymphoma, spleen",38,(38) non-hodgkin`s lymphoma
+'C8268',10,"cutaneous follicle center lymphoma, lymph nodes of multiple sites",38,(38) non-hodgkin`s lymphoma
+'C8269',10,"cutaneous follicle center lymphoma, extranodal and solid organ sites",38,(38) non-hodgkin`s lymphoma
+'C8280',10,"other types of follicular lymphoma, unspecified site",38,(38) non-hodgkin`s lymphoma
+'C8281',10,"other types of follicular lymphoma, lymph nodes of head, face, and neck",38,(38) non-hodgkin`s lymphoma
+'C8282',10,"other types of follicular lymphoma, intrathoracic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C8283',10,"other types of follicular lymphoma, intra-abdominal lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C8284',10,"other types of follicular lymphoma, lymph nodes of axilla and upper limb",38,(38) non-hodgkin`s lymphoma
+'C8285',10,"other types of follicular lymphoma, lymph nodes of inguinal region and lower limb",38,(38) non-hodgkin`s lymphoma
+'C8286',10,"other types of follicular lymphoma, intrapelvic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C8287',10,"other types of follicular lymphoma, spleen",38,(38) non-hodgkin`s lymphoma
+'C8288',10,"other types of follicular lymphoma, lymph nodes of multiple sites",38,(38) non-hodgkin`s lymphoma
+'C8289',10,"other types of follicular lymphoma, extranodal and solid organ sites",38,(38) non-hodgkin`s lymphoma
+'C8290',10,"follicular lymphoma, unspecified, unspecified site",38,(38) non-hodgkin`s lymphoma
+'C8291',10,"follicular lymphoma, unspecified, lymph nodes of head, face, and neck",38,(38) non-hodgkin`s lymphoma
+'C8292',10,"follicular lymphoma, unspecified, intrathoracic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C8293',10,"follicular lymphoma, unspecified, intra-abdominal lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C8294',10,"follicular lymphoma, unspecified, lymph nodes of axilla and upper limb",38,(38) non-hodgkin`s lymphoma
+'C8295',10,"follicular lymphoma, unspecified, lymph nodes of inguinal region and lower limb",38,(38) non-hodgkin`s lymphoma
+'C8296',10,"follicular lymphoma, unspecified, intrapelvic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C8297',10,"follicular lymphoma, unspecified, spleen",38,(38) non-hodgkin`s lymphoma
+'C8298',10,"follicular lymphoma, unspecified, lymph nodes of multiple sites",38,(38) non-hodgkin`s lymphoma
+'C8299',10,"follicular lymphoma, unspecified, extranodal and solid organ sites",38,(38) non-hodgkin`s lymphoma
+'C8300',10,"small cell b-cell lymphoma, unspecified site",38,(38) non-hodgkin`s lymphoma
+'C8301',10,"small cell b-cell lymphoma, lymph nodes of head, face, and neck",38,(38) non-hodgkin`s lymphoma
+'C8302',10,"small cell b-cell lymphoma, intrathoracic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C8303',10,"small cell b-cell lymphoma, intra-abdominal lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C8304',10,"small cell b-cell lymphoma, lymph nodes of axilla and upper limb",38,(38) non-hodgkin`s lymphoma
+'C8305',10,"small cell b-cell lymphoma, lymph nodes of inguinal region and lower limb",38,(38) non-hodgkin`s lymphoma
+'C8306',10,"small cell b-cell lymphoma, intrapelvic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C8307',10,"small cell b-cell lymphoma, spleen",38,(38) non-hodgkin`s lymphoma
+'C8308',10,"small cell b-cell lymphoma, lymph nodes of multiple sites",38,(38) non-hodgkin`s lymphoma
+'C8309',10,"small cell b-cell lymphoma, extranodal and solid organ sites",38,(38) non-hodgkin`s lymphoma
+'C8310',10,"mantle cell lymphoma, unspecified site",38,(38) non-hodgkin`s lymphoma
+'C8311',10,"mantle cell lymphoma, lymph nodes of head, face, and neck",38,(38) non-hodgkin`s lymphoma
+'C8312',10,"mantle cell lymphoma, intrathoracic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C8313',10,"mantle cell lymphoma, intra-abdominal lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C8314',10,"mantle cell lymphoma, lymph nodes of axilla and upper limb",38,(38) non-hodgkin`s lymphoma
+'C8315',10,"mantle cell lymphoma, lymph nodes of inguinal region and lower limb",38,(38) non-hodgkin`s lymphoma
+'C8316',10,"mantle cell lymphoma, intrapelvic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C8317',10,"mantle cell lymphoma, spleen",38,(38) non-hodgkin`s lymphoma
+'C8318',10,"mantle cell lymphoma, lymph nodes of multiple sites",38,(38) non-hodgkin`s lymphoma
+'C8319',10,"mantle cell lymphoma, extranodal and solid organ sites",38,(38) non-hodgkin`s lymphoma
+'C8330',10,"diffuse large b-cell lymphoma, unspecified site",38,(38) non-hodgkin`s lymphoma
+'C8331',10,"diffuse large b-cell lymphoma, lymph nodes of head, face, and neck",38,(38) non-hodgkin`s lymphoma
+'C8332',10,"diffuse large b-cell lymphoma, intrathoracic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C8333',10,"diffuse large b-cell lymphoma, intra-abdominal lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C8334',10,"diffuse large b-cell lymphoma, lymph nodes of axilla and upper limb",38,(38) non-hodgkin`s lymphoma
+'C8335',10,"diffuse large b-cell lymphoma, lymph nodes of inguinal region and lower limb",38,(38) non-hodgkin`s lymphoma
+'C8336',10,"diffuse large b-cell lymphoma, intrapelvic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C8337',10,"diffuse large b-cell lymphoma, spleen",38,(38) non-hodgkin`s lymphoma
+'C8338',10,"diffuse large b-cell lymphoma, lymph nodes of multiple sites",38,(38) non-hodgkin`s lymphoma
+'C8339',10,"diffuse large b-cell lymphoma, extranodal and solid organ sites",38,(38) non-hodgkin`s lymphoma
+'C8350',10,"lymphoblastic (diffuse) lymphoma, unspecified site",38,(38) non-hodgkin`s lymphoma
+'C8351',10,"lymphoblastic (diffuse) lymphoma, lymph nodes of head, face, and neck",38,(38) non-hodgkin`s lymphoma
+'C8352',10,"lymphoblastic (diffuse) lymphoma, intrathoracic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C8353',10,"lymphoblastic (diffuse) lymphoma, intra-abdominal lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C8354',10,"lymphoblastic (diffuse) lymphoma, lymph nodes of axilla and upper limb",38,(38) non-hodgkin`s lymphoma
+'C8355',10,"lymphoblastic (diffuse) lymphoma, lymph nodes of inguinal region and lower limb",38,(38) non-hodgkin`s lymphoma
+'C8356',10,"lymphoblastic (diffuse) lymphoma, intrapelvic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C8357',10,"lymphoblastic (diffuse) lymphoma, spleen",38,(38) non-hodgkin`s lymphoma
+'C8358',10,"lymphoblastic (diffuse) lymphoma, lymph nodes of multiple sites",38,(38) non-hodgkin`s lymphoma
+'C8359',10,"lymphoblastic (diffuse) lymphoma, extranodal and solid organ sites",38,(38) non-hodgkin`s lymphoma
+'C8370',10,"burkitt lymphoma, unspecified site",38,(38) non-hodgkin`s lymphoma
+'C8371',10,"burkitt lymphoma, lymph nodes of head, face, and neck",38,(38) non-hodgkin`s lymphoma
+'C8372',10,"burkitt lymphoma, intrathoracic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C8373',10,"burkitt lymphoma, intra-abdominal lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C8374',10,"burkitt lymphoma, lymph nodes of axilla and upper limb",38,(38) non-hodgkin`s lymphoma
+'C8375',10,"burkitt lymphoma, lymph nodes of inguinal region and lower limb",38,(38) non-hodgkin`s lymphoma
+'C8376',10,"burkitt lymphoma, intrapelvic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C8377',10,"burkitt lymphoma, spleen",38,(38) non-hodgkin`s lymphoma
+'C8378',10,"burkitt lymphoma, lymph nodes of multiple sites",38,(38) non-hodgkin`s lymphoma
+'C8379',10,"burkitt lymphoma, extranodal and solid organ sites",38,(38) non-hodgkin`s lymphoma
+'C8380',10,"other non-follicular lymphoma, unspecified site",38,(38) non-hodgkin`s lymphoma
+'C8381',10,"other non-follicular lymphoma, lymph nodes of head, face, and neck",38,(38) non-hodgkin`s lymphoma
+'C8382',10,"other non-follicular lymphoma, intrathoracic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C8383',10,"other non-follicular lymphoma, intra-abdominal lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C8384',10,"other non-follicular lymphoma, lymph nodes of axilla and upper limb",38,(38) non-hodgkin`s lymphoma
+'C8385',10,"other non-follicular lymphoma, lymph nodes of inguinal region and lower limb",38,(38) non-hodgkin`s lymphoma
+'C8386',10,"other non-follicular lymphoma, intrapelvic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C8387',10,"other non-follicular lymphoma, spleen",38,(38) non-hodgkin`s lymphoma
+'C8388',10,"other non-follicular lymphoma, lymph nodes of multiple sites",38,(38) non-hodgkin`s lymphoma
+'C8389',10,"other non-follicular lymphoma, extranodal and solid organ sites",38,(38) non-hodgkin`s lymphoma
+'C8390',10,"non-follicular (diffuse) lymphoma, unspecified, unspecified site",38,(38) non-hodgkin`s lymphoma
+'C8391',10,"non-follicular (diffuse) lymphoma, unspecified, lymph nodes of head, face, and neck",38,(38) non-hodgkin`s lymphoma
+'C8392',10,"non-follicular (diffuse) lymphoma, unspecified, intrathoracic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C8393',10,"non-follicular (diffuse) lymphoma, unspecified, intra-abdominal lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C8394',10,"non-follicular (diffuse) lymphoma, unspecified, lymph nodes of axilla and upper limb",38,(38) non-hodgkin`s lymphoma
+'C8395',10,"non-follicular (diffuse) lymphoma, unspecified, lymph nodes of inguinal region and lower limb",38,(38) non-hodgkin`s lymphoma
+'C8396',10,"non-follicular (diffuse) lymphoma, unspecified, intrapelvic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C8397',10,"non-follicular (diffuse) lymphoma, unspecified, spleen",38,(38) non-hodgkin`s lymphoma
+'C8398',10,"non-follicular (diffuse) lymphoma, unspecified, lymph nodes of multiple sites",38,(38) non-hodgkin`s lymphoma
+'C8399',10,"non-follicular (diffuse) lymphoma, unspecified, extranodal and solid organ sites",38,(38) non-hodgkin`s lymphoma
+'C8400',10,"mycosis fungoides, unspecified site",38,(38) non-hodgkin`s lymphoma
+'C8401',10,"mycosis fungoides, lymph nodes of head, face, and neck",38,(38) non-hodgkin`s lymphoma
+'C8402',10,"mycosis fungoides, intrathoracic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C8403',10,"mycosis fungoides, intra-abdominal lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C8404',10,"mycosis fungoides, lymph nodes of axilla and upper limb",38,(38) non-hodgkin`s lymphoma
+'C8405',10,"mycosis fungoides, lymph nodes of inguinal region and lower limb",38,(38) non-hodgkin`s lymphoma
+'C8406',10,"mycosis fungoides, intrapelvic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C8407',10,"mycosis fungoides, spleen",38,(38) non-hodgkin`s lymphoma
+'C8408',10,"mycosis fungoides, lymph nodes of multiple sites",38,(38) non-hodgkin`s lymphoma
+'C8409',10,"mycosis fungoides, extranodal and solid organ sites",38,(38) non-hodgkin`s lymphoma
+'C8410',10,"sezary disease, unspecified site",38,(38) non-hodgkin`s lymphoma
+'C8411',10,"sezary disease, lymph nodes of head, face, and neck",38,(38) non-hodgkin`s lymphoma
+'C8412',10,"sezary disease, intrathoracic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C8413',10,"sezary disease, intra-abdominal lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C8414',10,"sezary disease, lymph nodes of axilla and upper limb",38,(38) non-hodgkin`s lymphoma
+'C8415',10,"sezary disease, lymph nodes of inguinal region and lower limb",38,(38) non-hodgkin`s lymphoma
+'C8416',10,"sezary disease, intrapelvic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C8417',10,"sezary disease, spleen",38,(38) non-hodgkin`s lymphoma
+'C8418',10,"sezary disease, lymph nodes of multiple sites",38,(38) non-hodgkin`s lymphoma
+'C8419',10,"sezary disease, extranodal and solid organ sites",38,(38) non-hodgkin`s lymphoma
+'C8440',10,"peripheral t-cell lymphoma, not classified, unspecified site",38,(38) non-hodgkin`s lymphoma
+'C8441',10,"peripheral t-cell lymphoma, not classified, lymph nodes of head, face, and neck",38,(38) non-hodgkin`s lymphoma
+'C8442',10,"peripheral t-cell lymphoma, not classified, intrathoracic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C8443',10,"peripheral t-cell lymphoma, not classified, intra-abdominal lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C8444',10,"peripheral t-cell lymphoma, not classified, lymph nodes of axilla and upper limb",38,(38) non-hodgkin`s lymphoma
+'C8445',10,"peripheral t-cell lymphoma, not classified, lymph nodes of inguinal region and lower limb",38,(38) non-hodgkin`s lymphoma
+'C8446',10,"peripheral t-cell lymphoma, not classified, intrapelvic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C8447',10,"peripheral t-cell lymphoma, not classified, spleen",38,(38) non-hodgkin`s lymphoma
+'C8448',10,"peripheral t-cell lymphoma, not classified, lymph nodes of multiple sites",38,(38) non-hodgkin`s lymphoma
+'C8449',10,"peripheral t-cell lymphoma, not classified, extranodal and solid organ sites",38,(38) non-hodgkin`s lymphoma
+'C8460',10,"anaplastic large cell lymphoma, alk-positive, unspecified site",38,(38) non-hodgkin`s lymphoma
+'C8461',10,"anaplastic large cell lymphoma, alk-positive, lymph nodes of head, face, and neck",38,(38) non-hodgkin`s lymphoma
+'C8462',10,"anaplastic large cell lymphoma, alk-positive, intrathoracic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C8463',10,"anaplastic large cell lymphoma, alk-positive, intra-abdominal lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C8464',10,"anaplastic large cell lymphoma, alk-positive, lymph nodes of axilla and upper limb",38,(38) non-hodgkin`s lymphoma
+'C8465',10,"anaplastic large cell lymphoma, alk-positive, lymph nodes of inguinal region and lower limb",38,(38) non-hodgkin`s lymphoma
+'C8466',10,"anaplastic large cell lymphoma, alk-positive, intrapelvic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C8467',10,"anaplastic large cell lymphoma, alk-positive, spleen",38,(38) non-hodgkin`s lymphoma
+'C8468',10,"anaplastic large cell lymphoma, alk-positive, lymph nodes of multiple sites",38,(38) non-hodgkin`s lymphoma
+'C8469',10,"anaplastic large cell lymphoma, alk-positive, extranodal and solid organ sites",38,(38) non-hodgkin`s lymphoma
+'C8470',10,"anaplastic large cell lymphoma, alk-negative, unspecified site",38,(38) non-hodgkin`s lymphoma
+'C8471',10,"anaplastic large cell lymphoma, alk-negative, lymph nodes of head, face, and neck",38,(38) non-hodgkin`s lymphoma
+'C8472',10,"anaplastic large cell lymphoma, alk-negative, intrathoracic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C8473',10,"anaplastic large cell lymphoma, alk-negative, intra-abdominal lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C8474',10,"anaplastic large cell lymphoma, alk-negative, lymph nodes of axilla and upper limb",38,(38) non-hodgkin`s lymphoma
+'C8475',10,"anaplastic large cell lymphoma, alk-negative, lymph nodes of inguinal region and lower limb",38,(38) non-hodgkin`s lymphoma
+'C8476',10,"anaplastic large cell lymphoma, alk-negative, intrapelvic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C8477',10,"anaplastic large cell lymphoma, alk-negative, spleen",38,(38) non-hodgkin`s lymphoma
+'C8478',10,"anaplastic large cell lymphoma, alk-negative, lymph nodes of multiple sites",38,(38) non-hodgkin`s lymphoma
+'C8479',10,"anaplastic large cell lymphoma, alk-negative, extranodal and solid organ sites",38,(38) non-hodgkin`s lymphoma
+'C8490',10,"mature t/nk-cell lymphomas, unspecified, unspecified site",38,(38) non-hodgkin`s lymphoma
+'C8491',10,"mature t/nk-cell lymphomas, unspecified, lymph nodes of head, face, and neck",38,(38) non-hodgkin`s lymphoma
+'C8492',10,"mature t/nk-cell lymphomas, unspecified, intrathoracic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C8493',10,"mature t/nk-cell lymphomas, unspecified, intra-abdominal lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C8494',10,"mature t/nk-cell lymphomas, unspecified, lymph nodes of axilla and upper limb",38,(38) non-hodgkin`s lymphoma
+'C8495',10,"mature t/nk-cell lymphomas, unspecified, lymph nodes of inguinal region and lower limb",38,(38) non-hodgkin`s lymphoma
+'C8496',10,"mature t/nk-cell lymphomas, unspecified, intrapelvic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C8497',10,"mature t/nk-cell lymphomas, unspecified, spleen",38,(38) non-hodgkin`s lymphoma
+'C8498',10,"mature t/nk-cell lymphomas, unspecified, lymph nodes of multiple sites",38,(38) non-hodgkin`s lymphoma
+'C8499',10,"mature t/nk-cell lymphomas, unspecified, extranodal and solid organ sites",38,(38) non-hodgkin`s lymphoma
+'C84A0',10,"cutaneous t-cell lymphoma, unspecified, unspecified site",38,(38) non-hodgkin`s lymphoma
+'C84A1',10,"cutaneous t-cell lymphoma, unspecified lymph nodes of head, face, and neck",38,(38) non-hodgkin`s lymphoma
+'C84A2',10,"cutaneous t-cell lymphoma, unspecified, intrathoracic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C84A3',10,"cutaneous t-cell lymphoma, unspecified, intra-abdominal lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C84A4',10,"cutaneous t-cell lymphoma, unspecified, lymph nodes of axilla and upper limb",38,(38) non-hodgkin`s lymphoma
+'C84A5',10,"cutaneous t-cell lymphoma, unspecified, lymph nodes of inguinal region and lower limb",38,(38) non-hodgkin`s lymphoma
+'C84A6',10,"cutaneous t-cell lymphoma, unspecified, intrapelvic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C84A7',10,"cutaneous t-cell lymphoma, unspecified, spleen",38,(38) non-hodgkin`s lymphoma
+'C84A8',10,"cutaneous t-cell lymphoma, unspecified, lymph nodes of multiple sites",38,(38) non-hodgkin`s lymphoma
+'C84A9',10,"cutaneous t-cell lymphoma, unspecified, extranodal and solid organ sites",38,(38) non-hodgkin`s lymphoma
+'C84Z0',10,"other mature t/nk-cell lymphomas, unspecified site",38,(38) non-hodgkin`s lymphoma
+'C84Z1',10,"other mature t/nk-cell lymphomas, lymph nodes of head, face, and neck",38,(38) non-hodgkin`s lymphoma
+'C84Z2',10,"other mature t/nk-cell lymphomas, intrathoracic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C84Z3',10,"other mature t/nk-cell lymphomas, intra-abdominal lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C84Z4',10,"other mature t/nk-cell lymphomas, lymph nodes of axilla and upper limb",38,(38) non-hodgkin`s lymphoma
+'C84Z5',10,"other mature t/nk-cell lymphomas, lymph nodes of inguinal region and lower limb",38,(38) non-hodgkin`s lymphoma
+'C84Z6',10,"other mature t/nk-cell lymphomas, intrapelvic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C84Z7',10,"other mature t/nk-cell lymphomas, spleen",38,(38) non-hodgkin`s lymphoma
+'C84Z8',10,"other mature t/nk-cell lymphomas, lymph nodes of multiple sites",38,(38) non-hodgkin`s lymphoma
+'C84Z9',10,"other mature t/nk-cell lymphomas, extranodal and solid organ sites",38,(38) non-hodgkin`s lymphoma
+'C8510',10,"unspecified b-cell lymphoma, unspecified site",38,(38) non-hodgkin`s lymphoma
+'C8511',10,"unspecified b-cell lymphoma, lymph nodes of head, face, and neck",38,(38) non-hodgkin`s lymphoma
+'C8512',10,"unspecified b-cell lymphoma, intrathoracic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C8513',10,"unspecified b-cell lymphoma, intra-abdominal lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C8514',10,"unspecified b-cell lymphoma, lymph nodes of axilla and upper limb",38,(38) non-hodgkin`s lymphoma
+'C8515',10,"unspecified b-cell lymphoma, lymph nodes of inguinal region and lower limb",38,(38) non-hodgkin`s lymphoma
+'C8516',10,"unspecified b-cell lymphoma, intrapelvic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C8517',10,"unspecified b-cell lymphoma, spleen",38,(38) non-hodgkin`s lymphoma
+'C8518',10,"unspecified b-cell lymphoma, lymph nodes of multiple sites",38,(38) non-hodgkin`s lymphoma
+'C8519',10,"unspecified b-cell lymphoma, extranodal and solid organ sites",38,(38) non-hodgkin`s lymphoma
+'C8520',10,"mediastinal (thymic) large b-cell lymphoma, unspecified site",38,(38) non-hodgkin`s lymphoma
+'C8521',10,"mediastinal (thymic) large b-cell lymphoma, lymph nodes of head, face, and neck",38,(38) non-hodgkin`s lymphoma
+'C8522',10,"mediastinal (thymic) large b-cell lymphoma, intrathoracic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C8523',10,"mediastinal (thymic) large b-cell lymphoma, intra-abdominal lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C8524',10,"mediastinal (thymic) large b-cell lymphoma, lymph nodes of axilla and upper limb",38,(38) non-hodgkin`s lymphoma
+'C8525',10,"mediastinal (thymic) large b-cell lymphoma, lymph nodes of inguinal region and lower limb",38,(38) non-hodgkin`s lymphoma
+'C8526',10,"mediastinal (thymic) large b-cell lymphoma, intrapelvic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C8527',10,"mediastinal (thymic) large b-cell lymphoma, spleen",38,(38) non-hodgkin`s lymphoma
+'C8528',10,"mediastinal (thymic) large b-cell lymphoma, lymph nodes of multiple sites",38,(38) non-hodgkin`s lymphoma
+'C8529',10,"mediastinal (thymic) large b-cell lymphoma, extranodal and solid organ sites",38,(38) non-hodgkin`s lymphoma
+'C8580',10,"other specified types of non-hodgkin lymphoma, unspecified site",38,(38) non-hodgkin`s lymphoma
+'C8581',10,"other specified types of non-hodgkin lymphoma, lymph nodes of head, face, and neck",38,(38) non-hodgkin`s lymphoma
+'C8582',10,"other specified types of non-hodgkin lymphoma, intrathoracic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C8583',10,"other specified types of non-hodgkin lymphoma, intra-abdominal lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C8584',10,"other specified types of non-hodgkin lymphoma, lymph nodes of axilla and upper limb",38,(38) non-hodgkin`s lymphoma
+'C8585',10,"other specified types of non-hodgkin lymphoma, lymph nodes of inguinal region and lower limb",38,(38) non-hodgkin`s lymphoma
+'C8586',10,"other specified types of non-hodgkin lymphoma, intrapelvic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C8587',10,"other specified types of non-hodgkin lymphoma, spleen",38,(38) non-hodgkin`s lymphoma
+'C8588',10,"other specified types of non-hodgkin lymphoma, lymph nodes of multiple sites",38,(38) non-hodgkin`s lymphoma
+'C8589',10,"other specified types of non-hodgkin lymphoma, extranodal and solid organ sites",38,(38) non-hodgkin`s lymphoma
+'C8590',10,"non-hodgkin lymphoma, unspecified, unspecified site",38,(38) non-hodgkin`s lymphoma
+'C8591',10,"non-hodgkin lymphoma, unspecified, lymph nodes of head, face, and neck",38,(38) non-hodgkin`s lymphoma
+'C8592',10,"non-hodgkin lymphoma, unspecified, intrathoracic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C8593',10,"non-hodgkin lymphoma, unspecified, intra-abdominal lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C8594',10,"non-hodgkin lymphoma, unspecified, lymph nodes of axilla and upper limb",38,(38) non-hodgkin`s lymphoma
+'C8595',10,"non-hodgkin lymphoma, unspecified, lymph nodes of inguinal region and lower limb",38,(38) non-hodgkin`s lymphoma
+'C8596',10,"non-hodgkin lymphoma, unspecified, intrapelvic lymph nodes",38,(38) non-hodgkin`s lymphoma
+'C8597',10,"non-hodgkin lymphoma, unspecified, spleen",38,(38) non-hodgkin`s lymphoma
+'C8598',10,"non-hodgkin lymphoma, unspecified, lymph nodes of multiple sites",38,(38) non-hodgkin`s lymphoma
+'C8599',10,"non-hodgkin lymphoma, unspecified, extranodal and solid organ sites",38,(38) non-hodgkin`s lymphoma
+'C860',10,"extranodal nk/t-cell lymphoma, nasal type",38,(38) non-hodgkin`s lymphoma
+'C861',10,hepatosplenic t-cell lymphoma,38,(38) non-hodgkin`s lymphoma
+'C862',10,enteropathy-type (intestinal) t-cell lymphoma,38,(38) non-hodgkin`s lymphoma
+'C863',10,subcutaneous panniculitis-like t-cell lymphoma,38,(38) non-hodgkin`s lymphoma
+'C864',10,blastic nk-cell lymphoma,38,(38) non-hodgkin`s lymphoma
+'C865',10,angioimmunoblastic t-cell lymphoma,38,(38) non-hodgkin`s lymphoma
+'C866',10,primary cutaneous cd30-positive t-cell proliferations,38,(38) non-hodgkin`s lymphoma
+'C880',10,waldenstrom macroglobulinemia,38,(38) non-hodgkin`s lymphoma
+'C882',10,heavy chain disease,38,(38) non-hodgkin`s lymphoma
+'C883',10,immunoproliferative small intestinal disease,38,(38) non-hodgkin`s lymphoma
+'C884',10,extranodal marginal zone b-cell lymphoma of mucosa-associated lymphoid tissue [malt-lymphoma],38,(38) non-hodgkin`s lymphoma
+'C888',10,other malignant immunoproliferative diseases,38,(38) non-hodgkin`s lymphoma
+'C889',10,"malignant immunoproliferative disease, unspecified",38,(38) non-hodgkin`s lymphoma
+'C964',10,sarcoma of dendritic cells (accessory cells),38,(38) non-hodgkin`s lymphoma
+'C969',10,"malignant neoplasm of lymphoid, hematopoietic and related tissue, unspecified",38,(38) non-hodgkin`s lymphoma
+'C96Z',10,"other specified malignant neoplasms of lymphoid, hematopoietic and related tissue",38,(38) non-hodgkin`s lymphoma
+'Z8572',10,personal history of non-hodgkin lymphomas,38,(38) non-hodgkin`s lymphoma
+'Z8579',10,"personal history of other malignant neoplasms of lymphoid, hematopoietic and related tissues",38,(38) non-hodgkin`s lymphoma
+'20240',9,"leukemic reticuloendotheliosis, unspecified site, extranodal and solid organ sites",39,(39) leukemias
+'20241',9,"leukemic reticuloendotheliosis, lymph nodes of head, face, and neck",39,(39) leukemias
+'20242',9,"leukemic reticuloendotheliosis, intrathoracic lymph nodes",39,(39) leukemias
+'20243',9,"leukemic reticuloendotheliosis, intra-abdominal lymph nodes",39,(39) leukemias
+'20244',9,"leukemic reticuloendotheliosis, lymph nodes of axilla and upper arm",39,(39) leukemias
+'20245',9,"leukemic reticuloendotheliosis, lymph nodes of inguinal region and lower limb",39,(39) leukemias
+'20246',9,"leukemic reticuloendotheliosis, intrapelvic lymph nodes",39,(39) leukemias
+'20247',9,"leukemic reticuloendotheliosis, spleen",39,(39) leukemias
+'20248',9,"leukemic reticuloendotheliosis, lymph nodes of multiple sites",39,(39) leukemias
+'2031',9,plasma cell leukemia*,39,(39) leukemias
+'20310',9,"plasma cell leukemia, without mention of having achieved remission",39,(39) leukemias
+'20311',9,"plasma cell leukemia, in remission",39,(39) leukemias
+'20312',9,"plasma cell leukemia, in relapse",39,(39) leukemias
+'2040',9,acute lymphoid leukemia*,39,(39) leukemias
+'20400',9,"acute lymphoid leukemia, without mention of having achieved remission",39,(39) leukemias
+'20401',9,"acute lymphoid leukemia, in remission",39,(39) leukemias
+'20402',9,"acute lymphoid leukemia, in relapse",39,(39) leukemias
+'2041',9,chr lymphoid leukemia*,39,(39) leukemias
+'20410',9,"chronic lymphoid leukemia, without mention of having achieved remission",39,(39) leukemias
+'20411',9,"chronic lymphoid leukemia, in remission",39,(39) leukemias
+'20412',9,"chronic lymphoid leukemia, in relapse",39,(39) leukemias
+'2042',9,subac lymphoid leukemia*,39,(39) leukemias
+'20420',9,"subacute lymphoid leukemia, without mention of having achieved remission",39,(39) leukemias
+'20421',9,"subacute lymphoid leukemia, in remission",39,(39) leukemias
+'20422',9,"subacute lymphoid leukemia, in relapse",39,(39) leukemias
+'2048',9,lymphoid leukemia nec*,39,(39) leukemias
+'20480',9,"other lymphoid leukemia, without mention of having achieved remission",39,(39) leukemias
+'20481',9,"other lymphoid leukemia, in remission",39,(39) leukemias
+'20482',9,"other lymphoid leukemia, in relapse",39,(39) leukemias
+'2049',9,lymphoid leukemia nos*,39,(39) leukemias
+'20490',9,"unspecified lymphoid leukemia, without mention of having achieved remission",39,(39) leukemias
+'20491',9,"unspecified lymphoid leukemia, in remission",39,(39) leukemias
+'20492',9,"unspecified lymphoid leukemia, in relapse",39,(39) leukemias
+'2050',9,acute myeloid leukemia*,39,(39) leukemias
+'20500',9,"acute myeloid leukemia, without mention of having achieved remission",39,(39) leukemias
+'20501',9,"acute myeloid leukemia, in remission",39,(39) leukemias
+'20502',9,"acute myeloid leukemia, in relapse",39,(39) leukemias
+'2051',9,chronic myeloid leukemia*,39,(39) leukemias
+'20510',9,"chronic myeloid leukemia, without mention of having achieved remission",39,(39) leukemias
+'20511',9,"chronic myeloid leukemia, in remission",39,(39) leukemias
+'20512',9,"chronic myeloid leukemia, in relapse",39,(39) leukemias
+'2052',9,subacut myeloid leukemia*,39,(39) leukemias
+'20520',9,"subacute myeloid leukemia, without mention of having achieved remission",39,(39) leukemias
+'20521',9,"subacute myeloid leukemia,in remission",39,(39) leukemias
+'20522',9,"subacute myeloid leukemia, in relapse",39,(39) leukemias
+'2053',9,myeloid sarcoma*,39,(39) leukemias
+'20530',9,"myeloid sarcoma, without mention of having achieved remission",39,(39) leukemias
+'20531',9,"myeloid sarcoma, in remission",39,(39) leukemias
+'20532',9,"myeloid sarcoma, in relapse",39,(39) leukemias
+'2058',9,myeloid leukemia nec*,39,(39) leukemias
+'20580',9,"other myeloid leukemia, without mention of having achieved remission",39,(39) leukemias
+'20581',9,"other myeloid leukemia, in remission",39,(39) leukemias
+'20582',9,"other myeloid leukemia, in relapse",39,(39) leukemias
+'2059',9,myeloid leukemia nos*,39,(39) leukemias
+'20590',9,"unspecified myeloid leukemia, without mention of having achieved remission",39,(39) leukemias
+'20591',9,"unspecified myeloid leukemia, in remission",39,(39) leukemias
+'20592',9,"unspecified myeloid leukemia, in relapse",39,(39) leukemias
+'2060',9,acute monocytic leukemia*,39,(39) leukemias
+'20600',9,"acute monocytic leukemia, without mention of having achieved remission",39,(39) leukemias
+'20601',9,"acute monocytic leukemia,in remission",39,(39) leukemias
+'20602',9,"acute monocytic leukemia, in relapse",39,(39) leukemias
+'2061',9,chr monocytic leukemia*,39,(39) leukemias
+'20610',9,"chronic monocytic leukemia, without mention of having achieved remission",39,(39) leukemias
+'20611',9,"chronic monocytic leukemia, in remission",39,(39) leukemias
+'20612',9,"chronic monocytic leukemia, in relapse",39,(39) leukemias
+'2062',9,subac monocytic leukemia*,39,(39) leukemias
+'20620',9,"subacute monocytic leukemia, without mention of having achieved remission",39,(39) leukemias
+'20621',9,"subacute monocytic leukemia, in remission",39,(39) leukemias
+'20622',9,"subacute monocytic leukemia, in relapse",39,(39) leukemias
+'2068',9,monocytic leukemia nec*,39,(39) leukemias
+'20680',9,"other monocytic leukemia, without mention of having achieved remission",39,(39) leukemias
+'20681',9,"other monocytic leukemia, in remission",39,(39) leukemias
+'20682',9,"other monocytic leukemia, in relapse",39,(39) leukemias
+'2069',9,monocytic leukemia nos*,39,(39) leukemias
+'20690',9,"unspecified monocytic leukemia, without mention of having achieved remission",39,(39) leukemias
+'20691',9,"unspecified monocytic leukemia, in remission",39,(39) leukemias
+'20692',9,"unspecified monocytic leukemia, in relapse",39,(39) leukemias
+'2070',9,acute erythremia*,39,(39) leukemias
+'20700',9,"acute erythremia and erythroleukemia, without mention of having achieved remission",39,(39) leukemias
+'20701',9,"acute erythremia and erythroleukemia, in remission",39,(39) leukemias
+'20702',9,"acute erythremia and erythroleukemia, in relapse",39,(39) leukemias
+'2071',9,chronic erythremia*,39,(39) leukemias
+'20710',9,"chronic erythremia, without mention of having achieved remission",39,(39) leukemias
+'20711',9,"chronic erythremia, in remission",39,(39) leukemias
+'20712',9,"chronic erythremia, in relapse",39,(39) leukemias
+'2072',9,megakaryocytic leukemia*,39,(39) leukemias
+'20720',9,"megakaryocytic leukemia, without mention of having achieved remission",39,(39) leukemias
+'20721',9,"megakaryocytic leukemia, in remission",39,(39) leukemias
+'20722',9,"megakaryocytic leukemia, in relapse",39,(39) leukemias
+'2078',9,specified leukemia nec*,39,(39) leukemias
+'20780',9,"other specified leukemia, without mention of having achieved remission",39,(39) leukemias
+'20781',9,"other specified leukemia, in remission",39,(39) leukemias
+'20782',9,"other specified leukemia, in relapse",39,(39) leukemias
+'2080',9,act leuk uns cl w/o rmsn*,39,(39) leukemias
+'20800',9,"acute leukemia of unspecified cell type, without mention of having achieved remission",39,(39) leukemias
+'20801',9,"acute leukemia of unspecified cell type, in remission",39,(39) leukemias
+'20802',9,"acute leukemia of unspecified cell type, in relapse",39,(39) leukemias
+'2081',9,chronic leukemia nos*,39,(39) leukemias
+'20810',9,"chronic leukemia of unspecified cell type, without mention of having achieved remission",39,(39) leukemias
+'20811',9,"chronic leukemia of unspecified cell type, in remission",39,(39) leukemias
+'20812',9,"chronic leukemia of unspecified cell type, in relapse",39,(39) leukemias
+'2082',9,subacute leukemia nos*,39,(39) leukemias
+'20820',9,"subacute leukemia of unspecified cell type, without mention of having achieved remission",39,(39) leukemias
+'20821',9,"subacute leukemia of unspecified cell type, in remission",39,(39) leukemias
+'20822',9,"subacute leukemia of unspecified cell type, in relapse",39,(39) leukemias
+'2088',9,leukemia-unspec cell nec*,39,(39) leukemias
+'20880',9,"other leukemia of unspecified cell type, without mention of having achieved remission",39,(39) leukemias
+'20881',9,"other leukemia of unspecified cell type, in remission",39,(39) leukemias
+'20882',9,"other leukemia of unspecified cell type, in relapse",39,(39) leukemias
+'2089',9,leukemia-unspec cell nos*,39,(39) leukemias
+'20890',9,"unspecified leukemia, without mention of having achieved remission",39,(39) leukemias
+'20891',9,"unspecified leukemia, in remission",39,(39) leukemias
+'20892',9,"unspecified leukemia, in relapse",39,(39) leukemias
+'V1060',9,"personal history of leukemia, unspecified",39,(39) leukemias
+'V1061',9,personal history of lymphoid leukemia,39,(39) leukemias
+'V1062',9,personal history of myeloid leukemia,39,(39) leukemias
+'V1063',9,personal history of monocytic leukemia,39,(39) leukemias
+'V1069',9,personal history of other leukemia,39,(39) leukemias
+'C9010',10,plasma cell leukemia not having achieved remission,39,(39) leukemias
+'C9011',10,plasma cell leukemia in remission,39,(39) leukemias
+'C9012',10,plasma cell leukemia in relapse,39,(39) leukemias
+'C9100',10,acute lymphoblastic leukemia not having achieved remission,39,(39) leukemias
+'C9101',10,"acute lymphoblastic leukemia, in remission",39,(39) leukemias
+'C9102',10,"acute lymphoblastic leukemia, in relapse",39,(39) leukemias
+'C9110',10,chronic lymphocytic leukemia of b-cell type not having achieved remission,39,(39) leukemias
+'C9111',10,chronic lymphocytic leukemia of b-cell type in remission,39,(39) leukemias
+'C9112',10,chronic lymphocytic leukemia of b-cell type in relapse,39,(39) leukemias
+'C9130',10,prolymphocytic leukemia of b-cell type not having achieved remission,39,(39) leukemias
+'C9131',10,"prolymphocytic leukemia of b-cell type, in remission",39,(39) leukemias
+'C9132',10,"prolymphocytic leukemia of b-cell type, in relapse",39,(39) leukemias
+'C9140',10,hairy cell leukemia not having achieved remission,39,(39) leukemias
+'C9141',10,"hairy cell leukemia, in remission",39,(39) leukemias
+'C9142',10,"hairy cell leukemia, in relapse",39,(39) leukemias
+'C9150',10,adult t-cell lymphoma/leukemia (htlv-1-associated) not having achieved remission,39,(39) leukemias
+'C9151',10,"adult t-cell lymphoma/leukemia (htlv-1-associated), in remission",39,(39) leukemias
+'C9152',10,"adult t-cell lymphoma/leukemia (htlv-1-associated), in relapse",39,(39) leukemias
+'C9160',10,prolymphocytic leukemia of t-cell type not having achieved remission,39,(39) leukemias
+'C9161',10,"prolymphocytic leukemia of t-cell type, in remission",39,(39) leukemias
+'C9162',10,"prolymphocytic leukemia of t-cell type, in relapse",39,(39) leukemias
+'C9190',10,"lymphoid leukemia, unspecified not having achieved remission",39,(39) leukemias
+'C9191',10,"lymphoid leukemia, unspecified, in remission",39,(39) leukemias
+'C9192',10,"lymphoid leukemia, unspecified, in relapse",39,(39) leukemias
+'C91A0',10,mature b-cell leukemia burkitt-type not having achieved remission,39,(39) leukemias
+'C91A1',10,"mature b-cell leukemia burkitt-type, in remission",39,(39) leukemias
+'C91A2',10,"mature b-cell leukemia burkitt-type, in relapse",39,(39) leukemias
+'C91Z0',10,other lymphoid leukemia not having achieved remission,39,(39) leukemias
+'C91Z1',10,"other lymphoid leukemia, in remission",39,(39) leukemias
+'C91Z2',10,"other lymphoid leukemia, in relapse",39,(39) leukemias
+'C9200',10,"acute myeloblastic leukemia, not having achieved remission",39,(39) leukemias
+'C9201',10,"acute myeloblastic leukemia, in remission",39,(39) leukemias
+'C9202',10,"acute myeloblastic leukemia, in relapse",39,(39) leukemias
+'C9210',10,"chronic myeloid leukemia, bcr/abl-positive, not having achieved remission",39,(39) leukemias
+'C9211',10,"chronic myeloid leukemia, bcr/abl-positive, in remission",39,(39) leukemias
+'C9212',10,"chronic myeloid leukemia, bcr/abl-positive, in relapse",39,(39) leukemias
+'C9220',10,"atypical chronic myeloid leukemia, bcr/abl-negative, not having achieved remission",39,(39) leukemias
+'C9221',10,"atypical chronic myeloid leukemia, bcr/abl-negative, in remission",39,(39) leukemias
+'C9222',10,"atypical chronic myeloid leukemia, bcr/abl-negative, in relapse",39,(39) leukemias
+'C9230',10,"myeloid sarcoma, not having achieved remission",39,(39) leukemias
+'C9231',10,"myeloid sarcoma, in remission",39,(39) leukemias
+'C9232',10,"myeloid sarcoma, in relapse",39,(39) leukemias
+'C9240',10,"acute promyelocytic leukemia, not having achieved remission",39,(39) leukemias
+'C9241',10,"acute promyelocytic leukemia, in remission",39,(39) leukemias
+'C9242',10,"acute promyelocytic leukemia, in relapse",39,(39) leukemias
+'C9250',10,"acute myelomonocytic leukemia, not having achieved remission",39,(39) leukemias
+'C9251',10,"acute myelomonocytic leukemia, in remission",39,(39) leukemias
+'C9252',10,"acute myelomonocytic leukemia, in relapse",39,(39) leukemias
+'C9260',10,acute myeloid leukemia with 11q23-abnormality not having achieved remission,39,(39) leukemias
+'C9261',10,acute myeloid leukemia with 11q23-abnormality in remission,39,(39) leukemias
+'C9262',10,acute myeloid leukemia with 11q23-abnormality in relapse,39,(39) leukemias
+'C9290',10,"myeloid leukemia, unspecified, not having achieved remission",39,(39) leukemias
+'C9291',10,"myeloid leukemia, unspecified in remission",39,(39) leukemias
+'C9292',10,"myeloid leukemia, unspecified in relapse",39,(39) leukemias
+'C92A0',10,"acute myeloid leukemia with multilineage dysplasia, not having achieved remission",39,(39) leukemias
+'C92A1',10,"acute myeloid leukemia with multilineage dysplasia, in remission",39,(39) leukemias
+'C92A2',10,"acute myeloid leukemia with multilineage dysplasia, in relapse",39,(39) leukemias
+'C92Z0',10,other myeloid leukemia not having achieved remission,39,(39) leukemias
+'C92Z1',10,"other myeloid leukemia, in remission",39,(39) leukemias
+'C92Z2',10,"other myeloid leukemia, in relapse",39,(39) leukemias
+'C9300',10,"acute monoblastic/monocytic leukemia, not having achieved remission",39,(39) leukemias
+'C9301',10,"acute monoblastic/monocytic leukemia, in remission",39,(39) leukemias
+'C9302',10,"acute monoblastic/monocytic leukemia, in relapse",39,(39) leukemias
+'C9310',10,chronic myelomonocytic leukemia not having achieved remission,39,(39) leukemias
+'C9311',10,"chronic myelomonocytic leukemia, in remission",39,(39) leukemias
+'C9312',10,"chronic myelomonocytic leukemia, in relapse",39,(39) leukemias
+'C9330',10,"juvenile myelomonocytic leukemia, not having achieved remission",39,(39) leukemias
+'C9331',10,"juvenile myelomonocytic leukemia, in remission",39,(39) leukemias
+'C9332',10,"juvenile myelomonocytic leukemia, in relapse",39,(39) leukemias
+'C9390',10,"monocytic leukemia, unspecified, not having achieved remission",39,(39) leukemias
+'C9391',10,"monocytic leukemia, unspecified in remission",39,(39) leukemias
+'C9392',10,"monocytic leukemia, unspecified in relapse",39,(39) leukemias
+'C93Z0',10,"other monocytic leukemia, not having achieved remission",39,(39) leukemias
+'C93Z1',10,"other monocytic leukemia, in remission",39,(39) leukemias
+'C93Z2',10,"other monocytic leukemia, in relapse",39,(39) leukemias
+'C9400',10,"acute erythroid leukemia, not having achieved remission",39,(39) leukemias
+'C9401',10,"acute erythroid leukemia, in remission",39,(39) leukemias
+'C9402',10,"acute erythroid leukemia, in relapse",39,(39) leukemias
+'C9420',10,acute megakaryoblastic leukemia not having achieved remission,39,(39) leukemias
+'C9421',10,"acute megakaryoblastic leukemia, in remission",39,(39) leukemias
+'C9422',10,"acute megakaryoblastic leukemia, in relapse",39,(39) leukemias
+'C9430',10,mast cell leukemia not having achieved remission,39,(39) leukemias
+'C9431',10,"mast cell leukemia, in remission",39,(39) leukemias
+'C9432',10,"mast cell leukemia, in relapse",39,(39) leukemias
+'C9440',10,acute panmyelosis with myelofibrosis not having achieved remission,39,(39) leukemias
+'C9441',10,"acute panmyelosis with myelofibrosis, in remission",39,(39) leukemias
+'C9442',10,"acute panmyelosis with myelofibrosis, in relapse",39,(39) leukemias
+'C946',10,"myelodysplastic disease, not classified",39,(39) leukemias
+'C9480',10,other specified leukemias not having achieved remission,39,(39) leukemias
+'C9481',10,"other specified leukemias, in remission",39,(39) leukemias
+'C9482',10,"other specified leukemias, in relapse",39,(39) leukemias
+'C9500',10,acute leukemia of unspecified cell type not having achieved remission,39,(39) leukemias
+'C9501',10,"acute leukemia of unspecified cell type, in remission",39,(39) leukemias
+'C9502',10,"acute leukemia of unspecified cell type, in relapse",39,(39) leukemias
+'C9510',10,chronic leukemia of unspecified cell type not having achieved remission,39,(39) leukemias
+'C9511',10,"chronic leukemia of unspecified cell type, in remission",39,(39) leukemias
+'C9512',10,"chronic leukemia of unspecified cell type, in relapse",39,(39) leukemias
+'C9590',10,"leukemia, unspecified not having achieved remission",39,(39) leukemias
+'C9591',10,"leukemia, unspecified, in remission",39,(39) leukemias
+'C9592',10,"leukemia, unspecified, in relapse",39,(39) leukemias
+'Z856',10,personal history of leukemia,39,(39) leukemias
+'2030',9,multiple myeloma*,40,(40) multiple myeloma
+'20300',9,"multiple myeloma, without mention of having achieved remission",40,(40) multiple myeloma
+'20301',9,"multiple myeloma, in remission",40,(40) multiple myeloma
+'20302',9,"multiple myeloma, in relapse",40,(40) multiple myeloma
+'2038',9,immunoproliferat neo nec*,40,(40) multiple myeloma
+'20380',9,"other immunoproliferative neoplasms, without mention of having achieved remission",40,(40) multiple myeloma
+'20381',9,"other immunoproliferative neoplasms, in remission",40,(40) multiple myeloma
+'20382',9,"other immunoproliferative neoplasms, in relapse",40,(40) multiple myeloma
+'C9000',10,multiple myeloma not having achieved remission,40,(40) multiple myeloma
+'C9001',10,multiple myeloma in remission,40,(40) multiple myeloma
+'C9002',10,multiple myeloma in relapse,40,(40) multiple myeloma
+'C9020',10,extramedullary plasmacytoma not having achieved remission,40,(40) multiple myeloma
+'C9021',10,extramedullary plasmacytoma in remission,40,(40) multiple myeloma
+'C9022',10,extramedullary plasmacytoma in relapse,40,(40) multiple myeloma
+'C9030',10,solitary plasmacytoma not having achieved remission,40,(40) multiple myeloma
+'C9031',10,solitary plasmacytoma in remission,40,(40) multiple myeloma
+'C9032',10,solitary plasmacytoma in relapse,40,(40) multiple myeloma

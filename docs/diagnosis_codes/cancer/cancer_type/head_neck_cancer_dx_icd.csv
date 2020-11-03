@@ -1,168 +1,168 @@
-icd_cm,ver
-'1400',9
-'1401',9
-'1403',9
-'1404',9
-'1405',9
-'1406',9
-'1408',9
-'1409',9
-'1410',9
-'1411',9
-'1412',9
-'1413',9
-'1414',9
-'1415',9
-'1416',9
-'1418',9
-'1419',9
-'1420',9
-'1421',9
-'1422',9
-'1428',9
-'1429',9
-'1430',9
-'1431',9
-'1438',9
-'1439',9
-'1440',9
-'1441',9
-'1448',9
-'1449',9
-'1450',9
-'1451',9
-'1452',9
-'1453',9
-'1454',9
-'1455',9
-'1456',9
-'1458',9
-'1459',9
-'1460',9
-'1461',9
-'1462',9
-'1463',9
-'1464',9
-'1465',9
-'1466',9
-'1467',9
-'1468',9
-'1469',9
-'1470',9
-'1471',9
-'1472',9
-'1473',9
-'1478',9
-'1479',9
-'1480',9
-'1481',9
-'1482',9
-'1483',9
-'1488',9
-'1489',9
-'1490',9
-'1491',9
-'1498',9
-'1499',9
-'1600',9
-'1601',9
-'1602',9
-'1603',9
-'1604',9
-'1605',9
-'1608',9
-'1609',9
-'1610',9
-'1611',9
-'1612',9
-'1613',9
-'1618',9
-'1619',9
-'1950',9
-'V1001',9
-'V1002',9
-'V1021',9
-'C000',10
-'C001',10
-'C002',10
-'C003',10
-'C004',10
-'C005',10
-'C006',10
-'C008',10
-'C009',10
-'C01',10
-'C020',10
-'C021',10
-'C022',10
-'C023',10
-'C024',10
-'C028',10
-'C029',10
-'C030',10
-'C031',10
-'C039',10
-'C040',10
-'C041',10
-'C048',10
-'C049',10
-'C050',10
-'C051',10
-'C052',10
-'C058',10
-'C059',10
-'C060',10
-'C061',10
-'C062',10
-'C0680',10
-'C0689',10
-'C069',10
-'C07',10
-'C080',10
-'C081',10
-'C089',10
-'C090',10
-'C091',10
-'C098',10
-'C099',10
-'C100',10
-'C101',10
-'C102',10
-'C103',10
-'C104',10
-'C108',10
-'C109',10
-'C110',10
-'C111',10
-'C112',10
-'C113',10
-'C118',10
-'C119',10
-'C12',10
-'C130',10
-'C131',10
-'C132',10
-'C138',10
-'C139',10
-'C140',10
-'C142',10
-'C148',10
-'C300',10
-'C301',10
-'C310',10
-'C311',10
-'C312',10
-'C313',10
-'C318',10
-'C319',10
-'C320',10
-'C321',10
-'C322',10
-'C323',10
-'C328',10
-'C329',10
-'C760',10
-'Z8521',10
-'Z85810',10
-'Z85818',10
-'Z85819',10
+icd_cm,ver,icd_cm_label,hcup_ccs_single,hcup_ccs_single_label
+'1400',9,"malignant neoplasm of upper lip, vermilion border",11,(11) cancer of head and neck
+'1401',9,"malignant neoplasm of lower lip, vermilion border",11,(11) cancer of head and neck
+'1403',9,"malignant neoplasm of upper lip, inner aspect",11,(11) cancer of head and neck
+'1404',9,"malignant neoplasm of lower lip, inner aspect",11,(11) cancer of head and neck
+'1405',9,"malignant neoplasm of lip, unspecified, inner aspect",11,(11) cancer of head and neck
+'1406',9,malignant neoplasm of commissure of lip,11,(11) cancer of head and neck
+'1408',9,malignant neoplasm of other sites of lip,11,(11) cancer of head and neck
+'1409',9,"malignant neoplasm of lip, unspecified, vermilion border",11,(11) cancer of head and neck
+'1410',9,malignant neoplasm of base of tongue,11,(11) cancer of head and neck
+'1411',9,malignant neoplasm of dorsal surface of tongue,11,(11) cancer of head and neck
+'1412',9,malignant neoplasm of tip and lateral border of tongue,11,(11) cancer of head and neck
+'1413',9,malignant neoplasm of ventral surface of tongue,11,(11) cancer of head and neck
+'1414',9,"malignant neoplasm of anterior two-thirds of tongue, part unspecified",11,(11) cancer of head and neck
+'1415',9,malignant neoplasm of junctional zone of tongue,11,(11) cancer of head and neck
+'1416',9,malignant neoplasm of lingual tonsil,11,(11) cancer of head and neck
+'1418',9,malignant neoplasm of other sites of tongue,11,(11) cancer of head and neck
+'1419',9,"malignant neoplasm of tongue, unspecified",11,(11) cancer of head and neck
+'1420',9,malignant neoplasm of parotid gland,11,(11) cancer of head and neck
+'1421',9,malignant neoplasm of submandibular gland,11,(11) cancer of head and neck
+'1422',9,malignant neoplasm of sublingual gland,11,(11) cancer of head and neck
+'1428',9,malignant neoplasm of other major salivary glands,11,(11) cancer of head and neck
+'1429',9,"malignant neoplasm of salivary gland, unspecified",11,(11) cancer of head and neck
+'1430',9,malignant neoplasm of upper gum,11,(11) cancer of head and neck
+'1431',9,malignant neoplasm of lower gum,11,(11) cancer of head and neck
+'1438',9,malignant neoplasm of other sites of gum,11,(11) cancer of head and neck
+'1439',9,"malignant neoplasm of gum, unspecified",11,(11) cancer of head and neck
+'1440',9,malignant neoplasm of anterior portion of floor of mouth,11,(11) cancer of head and neck
+'1441',9,malignant neoplasm of lateral portion of floor of mouth,11,(11) cancer of head and neck
+'1448',9,malignant neoplasm of other sites of floor of mouth,11,(11) cancer of head and neck
+'1449',9,"malignant neoplasm of floor of mouth, part unspecified",11,(11) cancer of head and neck
+'1450',9,malignant neoplasm of cheek mucosa,11,(11) cancer of head and neck
+'1451',9,malignant neoplasm of vestibule of mouth,11,(11) cancer of head and neck
+'1452',9,malignant neoplasm of hard palate,11,(11) cancer of head and neck
+'1453',9,malignant neoplasm of soft palate,11,(11) cancer of head and neck
+'1454',9,malignant neoplasm of uvula,11,(11) cancer of head and neck
+'1455',9,"malignant neoplasm of palate, unspecified",11,(11) cancer of head and neck
+'1456',9,malignant neoplasm of retromolar area,11,(11) cancer of head and neck
+'1458',9,malignant neoplasm of other specified parts of mouth,11,(11) cancer of head and neck
+'1459',9,"malignant neoplasm of mouth, unspecified",11,(11) cancer of head and neck
+'1460',9,malignant neoplasm of tonsil,11,(11) cancer of head and neck
+'1461',9,malignant neoplasm of tonsillar fossa,11,(11) cancer of head and neck
+'1462',9,malignant neoplasm of tonsillar pillars (anterior) (posterior),11,(11) cancer of head and neck
+'1463',9,malignant neoplasm of vallecula epiglottica,11,(11) cancer of head and neck
+'1464',9,malignant neoplasm of anterior aspect of epiglottis,11,(11) cancer of head and neck
+'1465',9,malignant neoplasm of junctional region of oropharynx,11,(11) cancer of head and neck
+'1466',9,malignant neoplasm of lateral wall of oropharynx,11,(11) cancer of head and neck
+'1467',9,malignant neoplasm of posterior wall of oropharynx,11,(11) cancer of head and neck
+'1468',9,malignant neoplasm of other specified sites of oropharynx,11,(11) cancer of head and neck
+'1469',9,"malignant neoplasm of oropharynx, unspecified site",11,(11) cancer of head and neck
+'1470',9,malignant neoplasm of superior wall of nasopharynx,11,(11) cancer of head and neck
+'1471',9,malignant neoplasm of posterior wall of nasopharynx,11,(11) cancer of head and neck
+'1472',9,malignant neoplasm of lateral wall of nasopharynx,11,(11) cancer of head and neck
+'1473',9,malignant neoplasm of anterior wall of nasopharynx,11,(11) cancer of head and neck
+'1478',9,malignant neoplasm of other specified sites of nasopharynx,11,(11) cancer of head and neck
+'1479',9,"malignant neoplasm of nasopharynx, unspecified site",11,(11) cancer of head and neck
+'1480',9,malignant neoplasm of postcricoid region of hypopharynx,11,(11) cancer of head and neck
+'1481',9,malignant neoplasm of pyriform sinus,11,(11) cancer of head and neck
+'1482',9,"malignant neoplasm of aryepiglottic fold, hypopharyngeal aspect",11,(11) cancer of head and neck
+'1483',9,malignant neoplasm of posterior hypopharyngeal wall,11,(11) cancer of head and neck
+'1488',9,malignant neoplasm of other specified sites of hypopharynx,11,(11) cancer of head and neck
+'1489',9,"malignant neoplasm of hypopharynx, unspecified site",11,(11) cancer of head and neck
+'1490',9,"malignant neoplasm of pharynx, unspecified",11,(11) cancer of head and neck
+'1491',9,malignant neoplasm of waldeyer's ring,11,(11) cancer of head and neck
+'1498',9,malignant neoplasm of other sites within the lip and oral cavity,11,(11) cancer of head and neck
+'1499',9,malignant neoplasm of ill-defined sites within the lip and oral cavity,11,(11) cancer of head and neck
+'1600',9,malignant neoplasm of nasal cavities,11,(11) cancer of head and neck
+'1601',9,"malignant neoplasm of auditory tube, middle ear, and mastoid air cells",11,(11) cancer of head and neck
+'1602',9,malignant neoplasm of maxillary sinus,11,(11) cancer of head and neck
+'1603',9,malignant neoplasm of ethmoidal sinus,11,(11) cancer of head and neck
+'1604',9,malignant neoplasm of frontal sinus,11,(11) cancer of head and neck
+'1605',9,malignant neoplasm of sphenoidal sinus,11,(11) cancer of head and neck
+'1608',9,malignant neoplasm of other accessory sinuses,11,(11) cancer of head and neck
+'1609',9,"malignant neoplasm of accessory sinus, unspecified",11,(11) cancer of head and neck
+'1610',9,malignant neoplasm of glottis,11,(11) cancer of head and neck
+'1611',9,malignant neoplasm of supraglottis,11,(11) cancer of head and neck
+'1612',9,malignant neoplasm of subglottis,11,(11) cancer of head and neck
+'1613',9,malignant neoplasm of laryngeal cartilages,11,(11) cancer of head and neck
+'1618',9,malignant neoplasm of other specified sites of larynx,11,(11) cancer of head and neck
+'1619',9,"malignant neoplasm of larynx, unspecified",11,(11) cancer of head and neck
+'1950',9,"malignant neoplasm of head, face, and neck",11,(11) cancer of head and neck
+'V1001',9,personal history of malignant neoplasm of tongue,11,(11) cancer of head and neck
+'V1002',9,personal history of malignant neoplasm of other and unspecified oral cavity and pharynx,11,(11) cancer of head and neck
+'V1021',9,personal history of malignant neoplasm of larynx,11,(11) cancer of head and neck
+'C000',10,malignant neoplasm of external upper lip,11,(11) cancer of head and neck
+'C001',10,malignant neoplasm of external lower lip,11,(11) cancer of head and neck
+'C002',10,"malignant neoplasm of external lip, unspecified",11,(11) cancer of head and neck
+'C003',10,"malignant neoplasm of upper lip, inner aspect",11,(11) cancer of head and neck
+'C004',10,"malignant neoplasm of lower lip, inner aspect",11,(11) cancer of head and neck
+'C005',10,"malignant neoplasm of lip, unspecified, inner aspect",11,(11) cancer of head and neck
+'C006',10,"malignant neoplasm of commissure of lip, unspecified",11,(11) cancer of head and neck
+'C008',10,malignant neoplasm of overlapping sites of lip,11,(11) cancer of head and neck
+'C009',10,"malignant neoplasm of lip, unspecified",11,(11) cancer of head and neck
+'C01',10,malignant neoplasm of base of tongue,11,(11) cancer of head and neck
+'C020',10,malignant neoplasm of dorsal surface of tongue,11,(11) cancer of head and neck
+'C021',10,malignant neoplasm of border of tongue,11,(11) cancer of head and neck
+'C022',10,malignant neoplasm of ventral surface of tongue,11,(11) cancer of head and neck
+'C023',10,"malignant neoplasm of anterior two-thirds of tongue, part unspecified",11,(11) cancer of head and neck
+'C024',10,malignant neoplasm of lingual tonsil,11,(11) cancer of head and neck
+'C028',10,malignant neoplasm of overlapping sites of tongue,11,(11) cancer of head and neck
+'C029',10,"malignant neoplasm of tongue, unspecified",11,(11) cancer of head and neck
+'C030',10,malignant neoplasm of upper gum,11,(11) cancer of head and neck
+'C031',10,malignant neoplasm of lower gum,11,(11) cancer of head and neck
+'C039',10,"malignant neoplasm of gum, unspecified",11,(11) cancer of head and neck
+'C040',10,malignant neoplasm of anterior floor of mouth,11,(11) cancer of head and neck
+'C041',10,malignant neoplasm of lateral floor of mouth,11,(11) cancer of head and neck
+'C048',10,malignant neoplasm of overlapping sites of floor of mouth,11,(11) cancer of head and neck
+'C049',10,"malignant neoplasm of floor of mouth, unspecified",11,(11) cancer of head and neck
+'C050',10,malignant neoplasm of hard palate,11,(11) cancer of head and neck
+'C051',10,malignant neoplasm of soft palate,11,(11) cancer of head and neck
+'C052',10,malignant neoplasm of uvula,11,(11) cancer of head and neck
+'C058',10,malignant neoplasm of overlapping sites of palate,11,(11) cancer of head and neck
+'C059',10,"malignant neoplasm of palate, unspecified",11,(11) cancer of head and neck
+'C060',10,malignant neoplasm of cheek mucosa,11,(11) cancer of head and neck
+'C061',10,malignant neoplasm of vestibule of mouth,11,(11) cancer of head and neck
+'C062',10,malignant neoplasm of retromolar area,11,(11) cancer of head and neck
+'C0680',10,malignant neoplasm of overlapping sites of unspecified parts of mouth,11,(11) cancer of head and neck
+'C0689',10,malignant neoplasm of overlapping sites of other parts of mouth,11,(11) cancer of head and neck
+'C069',10,"malignant neoplasm of mouth, unspecified",11,(11) cancer of head and neck
+'C07',10,malignant neoplasm of parotid gland,11,(11) cancer of head and neck
+'C080',10,malignant neoplasm of submandibular gland,11,(11) cancer of head and neck
+'C081',10,malignant neoplasm of sublingual gland,11,(11) cancer of head and neck
+'C089',10,"malignant neoplasm of major salivary gland, unspecified",11,(11) cancer of head and neck
+'C090',10,malignant neoplasm of tonsillar fossa,11,(11) cancer of head and neck
+'C091',10,malignant neoplasm of tonsillar pillar (anterior) (posterior),11,(11) cancer of head and neck
+'C098',10,malignant neoplasm of overlapping sites of tonsil,11,(11) cancer of head and neck
+'C099',10,"malignant neoplasm of tonsil, unspecified",11,(11) cancer of head and neck
+'C100',10,malignant neoplasm of vallecula,11,(11) cancer of head and neck
+'C101',10,malignant neoplasm of anterior surface of epiglottis,11,(11) cancer of head and neck
+'C102',10,malignant neoplasm of lateral wall of oropharynx,11,(11) cancer of head and neck
+'C103',10,malignant neoplasm of posterior wall of oropharynx,11,(11) cancer of head and neck
+'C104',10,malignant neoplasm of branchial cleft,11,(11) cancer of head and neck
+'C108',10,malignant neoplasm of overlapping sites of oropharynx,11,(11) cancer of head and neck
+'C109',10,"malignant neoplasm of oropharynx, unspecified",11,(11) cancer of head and neck
+'C110',10,malignant neoplasm of superior wall of nasopharynx,11,(11) cancer of head and neck
+'C111',10,malignant neoplasm of posterior wall of nasopharynx,11,(11) cancer of head and neck
+'C112',10,malignant neoplasm of lateral wall of nasopharynx,11,(11) cancer of head and neck
+'C113',10,malignant neoplasm of anterior wall of nasopharynx,11,(11) cancer of head and neck
+'C118',10,malignant neoplasm of overlapping sites of nasopharynx,11,(11) cancer of head and neck
+'C119',10,"malignant neoplasm of nasopharynx, unspecified",11,(11) cancer of head and neck
+'C12',10,malignant neoplasm of pyriform sinus,11,(11) cancer of head and neck
+'C130',10,malignant neoplasm of postcricoid region,11,(11) cancer of head and neck
+'C131',10,"malignant neoplasm of aryepiglottic fold, hypopharyngeal aspect",11,(11) cancer of head and neck
+'C132',10,malignant neoplasm of posterior wall of hypopharynx,11,(11) cancer of head and neck
+'C138',10,malignant neoplasm of overlapping sites of hypopharynx,11,(11) cancer of head and neck
+'C139',10,"malignant neoplasm of hypopharynx, unspecified",11,(11) cancer of head and neck
+'C140',10,"malignant neoplasm of pharynx, unspecified",11,(11) cancer of head and neck
+'C142',10,malignant neoplasm of waldeyer's ring,11,(11) cancer of head and neck
+'C148',10,"malignant neoplasm of overlapping sites of lip, oral cavity and pharynx",11,(11) cancer of head and neck
+'C300',10,malignant neoplasm of nasal cavity,11,(11) cancer of head and neck
+'C301',10,malignant neoplasm of middle ear,11,(11) cancer of head and neck
+'C310',10,malignant neoplasm of maxillary sinus,11,(11) cancer of head and neck
+'C311',10,malignant neoplasm of ethmoidal sinus,11,(11) cancer of head and neck
+'C312',10,malignant neoplasm of frontal sinus,11,(11) cancer of head and neck
+'C313',10,malignant neoplasm of sphenoid sinus,11,(11) cancer of head and neck
+'C318',10,malignant neoplasm of overlapping sites of accessory sinuses,11,(11) cancer of head and neck
+'C319',10,"malignant neoplasm of accessory sinus, unspecified",11,(11) cancer of head and neck
+'C320',10,malignant neoplasm of glottis,11,(11) cancer of head and neck
+'C321',10,malignant neoplasm of supraglottis,11,(11) cancer of head and neck
+'C322',10,malignant neoplasm of subglottis,11,(11) cancer of head and neck
+'C323',10,malignant neoplasm of laryngeal cartilage,11,(11) cancer of head and neck
+'C328',10,malignant neoplasm of overlapping sites of larynx,11,(11) cancer of head and neck
+'C329',10,"malignant neoplasm of larynx, unspecified",11,(11) cancer of head and neck
+'C760',10,"malignant neoplasm of head, face and neck",11,(11) cancer of head and neck
+'Z8521',10,personal history of malignant neoplasm of larynx,11,(11) cancer of head and neck
+'Z85810',10,personal history of malignant neoplasm of tongue,11,(11) cancer of head and neck
+'Z85818',10,"personal history of malignant neoplasm of other sites of lip, oral cavity, and pharynx",11,(11) cancer of head and neck
+'Z85819',10,"personal history of malignant neoplasm of unspecified site of lip, oral cavity, and pharynx",11,(11) cancer of head and neck

@@ -1,0 +1,305 @@
+﻿icd_cm,ver,icd_cm_label,hcup_ccs_single,hcup_ccs_single_label
+3370,9,idiopath auto neuropathy#,81,(81) other hereditary and degenerative nervous system conditions
+33700,9,"idiopathic peripheral autonomic neuropathy, unspecified",81,(81) other hereditary and degenerative nervous system conditions
+33709,9,other idiopathic peripheral autonomic neuropathy,81,(81) other hereditary and degenerative nervous system conditions
+3371,9,peripheral autonomic neuropathy in disorders classified elsewhere,81,(81) other hereditary and degenerative nervous system conditions
+3501,9,trigeminal neuralgia,95,(95) other nervous system disorders
+3502,9,atypical face pain,95,(95) other nervous system disorders
+3508,9,other specified trigeminal nerve disorders,95,(95) other nervous system disorders
+3509,9,"trigeminal nerve disorder, unspecified",95,(95) other nervous system disorders
+3510,9,bell's palsy,95,(95) other nervous system disorders
+3511,9,geniculate ganglionitis,95,(95) other nervous system disorders
+3518,9,other facial nerve disorders,95,(95) other nervous system disorders
+3519,9,"facial nerve disorder, unspecified",95,(95) other nervous system disorders
+3520,9,disorders of olfactory (1st) nerve,95,(95) other nervous system disorders
+3521,9,glossopharyngeal neuralgia,95,(95) other nervous system disorders
+3522,9,other disorders of glossopharyngeal [9th] nerve,95,(95) other nervous system disorders
+3523,9,disorders of pneumogastric [10th] nerve,95,(95) other nervous system disorders
+3524,9,disorders of accessory [11th] nerve,95,(95) other nervous system disorders
+3525,9,disorders of hypoglossal [12th] nerve,95,(95) other nervous system disorders
+3526,9,multiple cranial nerve palsies,95,(95) other nervous system disorders
+3529,9,unspecified disorder of cranial nerves,95,(95) other nervous system disorders
+3530,9,brachial plexus lesions,95,(95) other nervous system disorders
+3531,9,lumbosacral plexus lesions,95,(95) other nervous system disorders
+3532,9,"cervical root lesions, not elsewhere classified",95,(95) other nervous system disorders
+3533,9,"thoracic root lesions, not elsewhere classified",95,(95) other nervous system disorders
+3534,9,"lumbosacral root lesions, not elsewhere classified",95,(95) other nervous system disorders
+3535,9,neuralgic amyotrophy,95,(95) other nervous system disorders
+3536,9,phantom limb (syndrome),95,(95) other nervous system disorders
+3538,9,other nerve root and plexus disorders,95,(95) other nervous system disorders
+3539,9,unspecified nerve root and plexus disorder,95,(95) other nervous system disorders
+3540,9,carpal tunnel syndrome,95,(95) other nervous system disorders
+3541,9,other lesion of median nerve,95,(95) other nervous system disorders
+3542,9,lesion of ulnar nerve,95,(95) other nervous system disorders
+3543,9,lesion of radial nerve,95,(95) other nervous system disorders
+3544,9,causalgia of upper limb,95,(95) other nervous system disorders
+3545,9,mononeuritis multiplex,95,(95) other nervous system disorders
+3548,9,other mononeuritis of upper limb,95,(95) other nervous system disorders
+3549,9,"mononeuritis of upper limb, unspecified",95,(95) other nervous system disorders
+3550,9,lesion of sciatic nerve,95,(95) other nervous system disorders
+3551,9,meralgia paresthetica,95,(95) other nervous system disorders
+3552,9,other lesion of femoral nerve,95,(95) other nervous system disorders
+3553,9,lesion of lateral popliteal nerve,95,(95) other nervous system disorders
+3554,9,lesion of medial popliteal nerve,95,(95) other nervous system disorders
+3555,9,tarsal tunnel syndrome,95,(95) other nervous system disorders
+3556,9,lesion of plantar nerve,95,(95) other nervous system disorders
+3557,9,mononeuritis leg nec*,95,(95) other nervous system disorders
+35571,9,causalgia of lower limb,95,(95) other nervous system disorders
+35579,9,other mononeuritis of lower limb,95,(95) other nervous system disorders
+3558,9,"mononeuritis of lower limb, unspecified",95,(95) other nervous system disorders
+3559,9,mononeuritis of unspecified site,95,(95) other nervous system disorders
+3560,9,hereditary peripheral neuropathy,95,(95) other nervous system disorders
+3561,9,peroneal muscular atrophy,95,(95) other nervous system disorders
+3562,9,hereditary sensory neuropathy,95,(95) other nervous system disorders
+3563,9,refsum's disease,95,(95) other nervous system disorders
+3564,9,idiopathic progressive polyneuropathy,95,(95) other nervous system disorders
+3568,9,other specified idiopathic peripheral neuropathy,95,(95) other nervous system disorders
+3569,9,unspecified hereditary and idiopathic peripheral neuropathy,95,(95) other nervous system disorders
+3570,9,acute infective polyneuritis,95,(95) other nervous system disorders
+3571,9,polyneuropathy in collagen vascular disease,95,(95) other nervous system disorders
+3572,9,polyneuropathy in diabetes,95,(95) other nervous system disorders
+3573,9,polyneuropathy in malignant disease,95,(95) other nervous system disorders
+3574,9,polyneuropathy in other diseases classified elsewhere,95,(95) other nervous system disorders
+3576,9,polyneuropathy due to drugs,95,(95) other nervous system disorders
+3577,9,polyneuropathy due to other toxic agents,95,(95) other nervous system disorders
+3578,9,inflam/tox neuropthy nec#,95,(95) other nervous system disorders
+35781,9,chronic inflammatory demyelinating polyneuritis,95,(95) other nervous system disorders
+35782,9,critical illness polyneuropathy,95,(95) other nervous system disorders
+35789,9,other inflammatory and toxic neuropathy,95,(95) other nervous system disorders
+3579,9,unspecified inflammatory and toxic neuropathy,95,(95) other nervous system disorders
+3580,9,myasthenia gravis#,95,(95) other nervous system disorders
+35800,9,myasthenia gravis without (acute) exacerbation,95,(95) other nervous system disorders
+35801,9,myasthenia gravis with (acute) exacerbation,95,(95) other nervous system disorders
+3581,9,myasthenic syndromes in diseases classified elsewhere,95,(95) other nervous system disorders
+3582,9,toxic myoneural disorders,95,(95) other nervous system disorders
+35830,9,"lambert-eaton syndrome, unspecified",95,(95) other nervous system disorders
+35831,9,lambert-eaton syndrome in neoplastic disease,95,(95) other nervous system disorders
+35839,9,lambert-eaton syndrome in other diseases classified elsewhere,95,(95) other nervous system disorders
+3588,9,other specified myoneural disorders,95,(95) other nervous system disorders
+3589,9,"myoneural disorders, unspecified",95,(95) other nervous system disorders
+3590,9,congenital hereditary muscular dystrophy,95,(95) other nervous system disorders
+3591,9,hereditary progressive muscular dystrophy,95,(95) other nervous system disorders
+3592,9,myotonic disorders#,95,(95) other nervous system disorders
+35921,9,myotonic muscular dystrophy,95,(95) other nervous system disorders
+35922,9,myotonia congenita,95,(95) other nervous system disorders
+35923,9,myotonic chondrodystrophy,95,(95) other nervous system disorders
+35924,9,drug- induced myotonia,95,(95) other nervous system disorders
+35929,9,other specified myotonic disorder,95,(95) other nervous system disorders
+3593,9,periodic paralysis,95,(95) other nervous system disorders
+3594,9,toxic myopathy,95,(95) other nervous system disorders
+3595,9,myopathy in endocrine diseases classified elsewhere,95,(95) other nervous system disorders
+3596,9,symptomatic inflammatory myopathy in diseases classified elsewhere,95,(95) other nervous system disorders
+35971,9,inclusion body myositis,95,(95) other nervous system disorders
+35979,9,"other inflammatory and immune myopathies, nec",95,(95) other nervous system disorders
+3598,9,myopathy nec#,95,(95) other nervous system disorders
+35981,9,critical illness myopathy,95,(95) other nervous system disorders
+35989,9,other myopathies,95,(95) other nervous system disorders
+3599,9,"myopathy, unspecified",95,(95) other nervous system disorders
+37730,9,"optic neuritis, unspecified",90,(90) inflammation; infection of eye (except that caused by tuberculosis or sexually transmitteddisease)
+37732,9,retrobulbar neuritis (acute),90,(90) inflammation; infection of eye (except that caused by tuberculosis or sexually transmitteddisease)
+37733,9,nutritional optic neuropathy,90,(90) inflammation; infection of eye (except that caused by tuberculosis or sexually transmitteddisease)
+37734,9,toxic optic neuropathy,90,(90) inflammation; infection of eye (except that caused by tuberculosis or sexually transmitteddisease)
+37739,9,other optic neuritis,90,(90) inflammation; infection of eye (except that caused by tuberculosis or sexually transmitteddisease)
+37741,9,ischemic optic neuropathy,91,(91) other eye disorders
+7234,9,brachial neuritis or radiculitis nos,205,(205) spondylosis; intervertebral disc disorders; other back problems
+7244,9,"thoracic or lumbosacral neuritis or radiculitis, unspecified",205,(205) spondylosis; intervertebral disc disorders; other back problems
+7292,9,"neuralgia, neuritis, and radiculitis, unspecified",211,(211) other connective tissue disease
+V5302,9,fitting and adjustment of neuropacemaker (brain) (peripheral nerve) (spinal cord),95,(95) other nervous system disorders
+B2701,10,gammaherpesviral mononucleosis with polyneuropathy,95,(95) other nervous system disorders
+B2711,10,cytomegaloviral mononucleosis with polyneuropathy,95,(95) other nervous system disorders
+B2781,10,other infectious mononucleosis with polyneuropathy,95,(95) other nervous system disorders
+B2791,10,"infectious mononucleosis, unspecified with polyneuropathy",95,(95) other nervous system disorders
+E0840,10,"diabetes mellitus due to underlying condition with diabetic neuropathy, unspecified",50,(50) diabetes mellitus with complications
+E0841,10,diabetes mellitus due to underlying condition with diabetic mononeuropathy,50,(50) diabetes mellitus with complications
+E0842,10,diabetes mellitus due to underlying condition with diabetic polyneuropathy,50,(50) diabetes mellitus with complications
+E0843,10,diabetes mellitus due to underlying condition with diabetic autonomic (poly)neuropathy,50,(50) diabetes mellitus with complications
+E0940,10,"drug or chemical induced diabetes mellitus with neurological complications with diabetic neuropathy, unspecified",50,(50) diabetes mellitus with complications
+E0941,10,drug or chemical induced diabetes mellitus with neurological complications with diabetic mononeuropathy,50,(50) diabetes mellitus with complications
+E0942,10,drug or chemical induced diabetes mellitus with neurological complications with diabetic polyneuropathy,50,(50) diabetes mellitus with complications
+E0943,10,drug or chemical induced diabetes mellitus with neurological complications with diabetic autonomic (poly)neuropathy,50,(50) diabetes mellitus with complications
+E1040,10,"type 1 diabetes mellitus with diabetic neuropathy, unspecified",50,(50) diabetes mellitus with complications
+E1041,10,type 1 diabetes mellitus with diabetic mononeuropathy,50,(50) diabetes mellitus with complications
+E1042,10,type 1 diabetes mellitus with diabetic polyneuropathy,50,(50) diabetes mellitus with complications
+E1043,10,type 1 diabetes mellitus with diabetic autonomic (poly)neuropathy,50,(50) diabetes mellitus with complications
+E1140,10,"type 2 diabetes mellitus with diabetic neuropathy, unspecified",50,(50) diabetes mellitus with complications
+E1141,10,type 2 diabetes mellitus with diabetic mononeuropathy,50,(50) diabetes mellitus with complications
+E1142,10,type 2 diabetes mellitus with diabetic polyneuropathy,50,(50) diabetes mellitus with complications
+E1143,10,type 2 diabetes mellitus with diabetic autonomic (poly)neuropathy,50,(50) diabetes mellitus with complications
+E1340,10,"other specified diabetes mellitus with diabetic neuropathy, unspecified",50,(50) diabetes mellitus with complications
+E1341,10,other specified diabetes mellitus with diabetic mononeuropathy,50,(50) diabetes mellitus with complications
+E1342,10,other specified diabetes mellitus with diabetic polyneuropathy,50,(50) diabetes mellitus with complications
+E1343,10,other specified diabetes mellitus with diabetic autonomic (poly)neuropathy,50,(50) diabetes mellitus with complications
+G130,10,paraneoplastic neuromyopathy and neuropathy,95,(95) other nervous system disorders
+G500,10,trigeminal neuralgia,95,(95) other nervous system disorders
+G501,10,atypical facial pain,95,(95) other nervous system disorders
+G508,10,other disorders of trigeminal nerve,95,(95) other nervous system disorders
+G509,10,"disorder of trigeminal nerve, unspecified",95,(95) other nervous system disorders
+G510,10,bell's palsy,95,(95) other nervous system disorders
+G511,10,geniculate ganglionitis,95,(95) other nervous system disorders
+G512,10,melkersson's syndrome,95,(95) other nervous system disorders
+G513,10,clonic hemifacial spasm,95,(95) other nervous system disorders
+G5131,10,"clonic hemifacial spasm, right",95,(95) other nervous system disorders
+G5132,10,"clonic hemifacial spasm, left",95,(95) other nervous system disorders
+G5133,10,"clonic hemifacial spasm, bilateral",95,(95) other nervous system disorders
+G5139,10,"clonic hemifacial spasm, unspecified",95,(95) other nervous system disorders
+G514,10,facial myokymia,95,(95) other nervous system disorders
+G518,10,other disorders of facial nerve,95,(95) other nervous system disorders
+G519,10,"disorder of facial nerve, unspecified",95,(95) other nervous system disorders
+G520,10,disorders of olfactory nerve,95,(95) other nervous system disorders
+G521,10,disorders of glossopharyngeal nerve,95,(95) other nervous system disorders
+G522,10,disorders of vagus nerve,95,(95) other nervous system disorders
+G523,10,disorders of hypoglossal nerve,95,(95) other nervous system disorders
+G527,10,disorders of multiple cranial nerves,95,(95) other nervous system disorders
+G528,10,disorders of other specified cranial nerves,95,(95) other nervous system disorders
+G529,10,"cranial nerve disorder, unspecified",95,(95) other nervous system disorders
+G53,10,cranial nerve disorders in diseases classified elsewhere,95,(95) other nervous system disorders
+G540,10,brachial plexus disorders,95,(95) other nervous system disorders
+G541,10,lumbosacral plexus disorders,95,(95) other nervous system disorders
+G542,10,"cervical root disorders, not elsewhere classified",95,(95) other nervous system disorders
+G543,10,"thoracic root disorders, not elsewhere classified",95,(95) other nervous system disorders
+G544,10,"lumbosacral root disorders, not elsewhere classified",95,(95) other nervous system disorders
+G545,10,neuralgic amyotrophy,95,(95) other nervous system disorders
+G546,10,phantom limb syndrome with pain,95,(95) other nervous system disorders
+G547,10,phantom limb syndrome without pain,95,(95) other nervous system disorders
+G548,10,other nerve root and plexus disorders,95,(95) other nervous system disorders
+G549,10,"nerve root and plexus disorder, unspecified",95,(95) other nervous system disorders
+G55,10,nerve root and plexus compressions in diseases classified elsewhere,95,(95) other nervous system disorders
+G5600,10,"carpal tunnel syndrome, unspecified upper limb",95,(95) other nervous system disorders
+G5601,10,"carpal tunnel syndrome, right upper limb",95,(95) other nervous system disorders
+G5602,10,"carpal tunnel syndrome, left upper limb",95,(95) other nervous system disorders
+G5603,10,"carpal tunnel syndrome, bilateral upper limbs",95,(95) other nervous system disorders
+G5610,10,"other lesions of median nerve, unspecified upper limb",95,(95) other nervous system disorders
+G5611,10,"other lesions of median nerve, right upper limb",95,(95) other nervous system disorders
+G5612,10,"other lesions of median nerve, left upper limb",95,(95) other nervous system disorders
+G5613,10,"other lesions of median nerve, bilateral upper limbs",95,(95) other nervous system disorders
+G5620,10,"lesion of ulnar nerve, unspecified upper limb",95,(95) other nervous system disorders
+G5621,10,"lesion of ulnar nerve, right upper limb",95,(95) other nervous system disorders
+G5622,10,"lesion of ulnar nerve, left upper limb",95,(95) other nervous system disorders
+G5623,10,"lesion of ulnar nerve, bilateral upper limbs",95,(95) other nervous system disorders
+G5630,10,"lesion of radial nerve, unspecified upper limb",95,(95) other nervous system disorders
+G5631,10,"lesion of radial nerve, right upper limb",95,(95) other nervous system disorders
+G5632,10,"lesion of radial nerve, left upper limb",95,(95) other nervous system disorders
+G5633,10,"lesion of radial nerve, bilateral upper limbs",95,(95) other nervous system disorders
+G5640,10,causalgia of unspecified upper limb,95,(95) other nervous system disorders
+G5641,10,causalgia of right upper limb,95,(95) other nervous system disorders
+G5642,10,causalgia of left upper limb,95,(95) other nervous system disorders
+G5643,10,causalgia of bilateral upper limbs,95,(95) other nervous system disorders
+G5680,10,other specified mononeuropathies of unspecified upper limb,95,(95) other nervous system disorders
+G5681,10,other specified mononeuropathies of right upper limb,95,(95) other nervous system disorders
+G5682,10,other specified mononeuropathies of left upper limb,95,(95) other nervous system disorders
+G5683,10,other specified mononeuropathies of bilateral upper limbs,95,(95) other nervous system disorders
+G5690,10,unspecified mononeuropathy of unspecified upper limb,95,(95) other nervous system disorders
+G5691,10,unspecified mononeuropathy of right upper limb,95,(95) other nervous system disorders
+G5692,10,unspecified mononeuropathy of left upper limb,95,(95) other nervous system disorders
+G5693,10,unspecified mononeuropathy of bilateral upper limbs,95,(95) other nervous system disorders
+G5700,10,"lesion of sciatic nerve, unspecified lower limb",95,(95) other nervous system disorders
+G5701,10,"lesion of sciatic nerve, right lower limb",95,(95) other nervous system disorders
+G5702,10,"lesion of sciatic nerve, left lower limb",95,(95) other nervous system disorders
+G5703,10,"lesion of sciatic nerve, bilateral lower limbs",95,(95) other nervous system disorders
+G5710,10,"meralgia paresthetica, unspecified lower limb",95,(95) other nervous system disorders
+G5711,10,"meralgia paresthetica, right lower limb",95,(95) other nervous system disorders
+G5712,10,"meralgia paresthetica, left lower limb",95,(95) other nervous system disorders
+G5713,10,"meralgia paresthetica, bilateral lower limbs",95,(95) other nervous system disorders
+G5720,10,"lesion of femoral nerve, unspecified lower limb",95,(95) other nervous system disorders
+G5721,10,"lesion of femoral nerve, right lower limb",95,(95) other nervous system disorders
+G5722,10,"lesion of femoral nerve, left lower limb",95,(95) other nervous system disorders
+G5723,10,"lesion of femoral nerve, bilateral lower limbs",95,(95) other nervous system disorders
+G5730,10,"lesion of lateral popliteal nerve, unspecified lower limb",95,(95) other nervous system disorders
+G5731,10,"lesion of lateral popliteal nerve, right lower limb",95,(95) other nervous system disorders
+G5732,10,"lesion of lateral popliteal nerve, left lower limb",95,(95) other nervous system disorders
+G5733,10,"lesion of lateral popliteal nerve, bilateral lower limbs",95,(95) other nervous system disorders
+G5740,10,"lesion of medial popliteal nerve, unspecified lower limb",95,(95) other nervous system disorders
+G5741,10,"lesion of medial popliteal nerve, right lower limb",95,(95) other nervous system disorders
+G5742,10,"lesion of medial popliteal nerve, left lower limb",95,(95) other nervous system disorders
+G5743,10,"lesion of medial popliteal nerve, bilateral lower limbs",95,(95) other nervous system disorders
+G5750,10,"tarsal tunnel syndrome, unspecified lower limb",95,(95) other nervous system disorders
+G5751,10,"tarsal tunnel syndrome, right lower limb",95,(95) other nervous system disorders
+G5752,10,"tarsal tunnel syndrome, left lower limb",95,(95) other nervous system disorders
+G5753,10,"tarsal tunnel syndrome, bilateral lower limbs",95,(95) other nervous system disorders
+G5760,10,"lesion of plantar nerve, unspecified lower limb",95,(95) other nervous system disorders
+G5761,10,"lesion of plantar nerve, right lower limb",95,(95) other nervous system disorders
+G5762,10,"lesion of plantar nerve, left lower limb",95,(95) other nervous system disorders
+G5763,10,"lesion of plantar nerve, bilateral lower limbs",95,(95) other nervous system disorders
+G5770,10,causalgia of unspecified lower limb,95,(95) other nervous system disorders
+G5771,10,causalgia of right lower limb,95,(95) other nervous system disorders
+G5772,10,causalgia of left lower limb,95,(95) other nervous system disorders
+G5773,10,causalgia of bilateral lower limbs,95,(95) other nervous system disorders
+G5780,10,other specified mononeuropathies of unspecified lower limb,95,(95) other nervous system disorders
+G5781,10,other specified mononeuropathies of right lower limb,95,(95) other nervous system disorders
+G5782,10,other specified mononeuropathies of left lower limb,95,(95) other nervous system disorders
+G5783,10,other specified mononeuropathies of bilateral lower limbs,95,(95) other nervous system disorders
+G5790,10,unspecified mononeuropathy of unspecified lower limb,95,(95) other nervous system disorders
+G5791,10,unspecified mononeuropathy of right lower limb,95,(95) other nervous system disorders
+G5792,10,unspecified mononeuropathy of left lower limb,95,(95) other nervous system disorders
+G5793,10,unspecified mononeuropathy of bilateral lower limbs,95,(95) other nervous system disorders
+G580,10,intercostal neuropathy,95,(95) other nervous system disorders
+G587,10,mononeuritis multiplex,95,(95) other nervous system disorders
+G588,10,other specified mononeuropathies,95,(95) other nervous system disorders
+G589,10,"mononeuropathy, unspecified",95,(95) other nervous system disorders
+G59,10,mononeuropathy in diseases classified elsewhere,95,(95) other nervous system disorders
+G600,10,hereditary motor and sensory neuropathy,95,(95) other nervous system disorders
+G602,10,neuropathy in association with hereditary ataxia,95,(95) other nervous system disorders
+G603,10,idiopathic progressive neuropathy,95,(95) other nervous system disorders
+G608,10,other hereditary and idiopathic neuropathies,95,(95) other nervous system disorders
+G609,10,"hereditary and idiopathic neuropathy, unspecified",95,(95) other nervous system disorders
+G611,10,serum neuropathy,95,(95) other nervous system disorders
+G6181,10,chronic inflammatory demyelinating polyneuritis,95,(95) other nervous system disorders
+G6182,10,multifocal motor neuropathy,95,(95) other nervous system disorders
+G6189,10,other inflammatory polyneuropathies,95,(95) other nervous system disorders
+G619,10,"inflammatory polyneuropathy, unspecified",95,(95) other nervous system disorders
+G620,10,drug-induced polyneuropathy,95,(95) other nervous system disorders
+G622,10,polyneuropathy due to other toxic agents,95,(95) other nervous system disorders
+G6281,10,critical illness polyneuropathy,95,(95) other nervous system disorders
+G6282,10,radiation-induced polyneuropathy,95,(95) other nervous system disorders
+G6289,10,other specified polyneuropathies,95,(95) other nervous system disorders
+G629,10,"polyneuropathy, unspecified",95,(95) other nervous system disorders
+G63,10,polyneuropathy in diseases classified elsewhere,95,(95) other nervous system disorders
+G651,10,sequelae of other inflammatory polyneuropathy,95,(95) other nervous system disorders
+G652,10,sequelae of toxic polyneuropathy,95,(95) other nervous system disorders
+G701,10,toxic myoneural disorders,95,(95) other nervous system disorders
+G7089,10,other specified myoneural disorders,95,(95) other nervous system disorders
+G709,10,"myoneural disorder, unspecified",95,(95) other nervous system disorders
+G9009,10,other idiopathic peripheral autonomic neuropathy,81,(81) other hereditary and degenerative nervous system conditions
+G990,10,autonomic neuropathy in diseases classified elsewhere,81,(81) other hereditary and degenerative nervous system conditions
+H4610,10,"retrobulbar neuritis, unspecified eye",90,(90) inflammation; infection of eye (except that caused by tuberculosis or sexually transmitteddisease)
+H4611,10,"retrobulbar neuritis, right eye",90,(90) inflammation; infection of eye (except that caused by tuberculosis or sexually transmitteddisease)
+H4612,10,"retrobulbar neuritis, left eye",90,(90) inflammation; infection of eye (except that caused by tuberculosis or sexually transmitteddisease)
+H4613,10,"retrobulbar neuritis, bilateral",90,(90) inflammation; infection of eye (except that caused by tuberculosis or sexually transmitteddisease)
+H462,10,nutritional optic neuropathy,90,(90) inflammation; infection of eye (except that caused by tuberculosis or sexually transmitteddisease)
+H463,10,toxic optic neuropathy,90,(90) inflammation; infection of eye (except that caused by tuberculosis or sexually transmitteddisease)
+H468,10,other optic neuritis,90,(90) inflammation; infection of eye (except that caused by tuberculosis or sexually transmitteddisease)
+H469,10,unspecified optic neuritis,90,(90) inflammation; infection of eye (except that caused by tuberculosis or sexually transmitteddisease)
+H47011,10,"ischemic optic neuropathy, right eye",91,(91) other eye disorders
+H47012,10,"ischemic optic neuropathy, left eye",91,(91) other eye disorders
+H47013,10,"ischemic optic neuropathy, bilateral",91,(91) other eye disorders
+H47019,10,"ischemic optic neuropathy, unspecified eye",91,(91) other eye disorders
+H9400,10,"acoustic neuritis in infectious and parasitic diseases classified elsewhere, unspecified ear",94,(94) other ear and sense organ disorders
+H9401,10,"acoustic neuritis in infectious and parasitic diseases classified elsewhere, right ear",94,(94) other ear and sense organ disorders
+H9402,10,"acoustic neuritis in infectious and parasitic diseases classified elsewhere, left ear",94,(94) other ear and sense organ disorders
+H9403,10,"acoustic neuritis in infectious and parasitic diseases classified elsewhere, bilateral",94,(94) other ear and sense organ disorders
+M0550,10,rheumatoid polyneuropathy with rheumatoid arthritis of unspecified site,202,(202) rheumatoid arthritis and related disease
+M05511,10,rheumatoid polyneuropathy with rheumatoid arthritis of right shoulder,202,(202) rheumatoid arthritis and related disease
+M05512,10,rheumatoid polyneuropathy with rheumatoid arthritis of left shoulder,202,(202) rheumatoid arthritis and related disease
+M05519,10,rheumatoid polyneuropathy with rheumatoid arthritis of unspecified shoulder,202,(202) rheumatoid arthritis and related disease
+M05521,10,rheumatoid polyneuropathy with rheumatoid arthritis of right elbow,202,(202) rheumatoid arthritis and related disease
+M05522,10,rheumatoid polyneuropathy with rheumatoid arthritis of left elbow,202,(202) rheumatoid arthritis and related disease
+M05529,10,rheumatoid polyneuropathy with rheumatoid arthritis of unspecified elbow,202,(202) rheumatoid arthritis and related disease
+M05531,10,rheumatoid polyneuropathy with rheumatoid arthritis of right wrist,202,(202) rheumatoid arthritis and related disease
+M05532,10,rheumatoid polyneuropathy with rheumatoid arthritis of left wrist,202,(202) rheumatoid arthritis and related disease
+M05539,10,rheumatoid polyneuropathy with rheumatoid arthritis of unspecified wrist,202,(202) rheumatoid arthritis and related disease
+M05541,10,rheumatoid polyneuropathy with rheumatoid arthritis of right hand,202,(202) rheumatoid arthritis and related disease
+M05542,10,rheumatoid polyneuropathy with rheumatoid arthritis of left hand,202,(202) rheumatoid arthritis and related disease
+M05549,10,rheumatoid polyneuropathy with rheumatoid arthritis of unspecified hand,202,(202) rheumatoid arthritis and related disease
+M05551,10,rheumatoid polyneuropathy with rheumatoid arthritis of right hip,202,(202) rheumatoid arthritis and related disease
+M05552,10,rheumatoid polyneuropathy with rheumatoid arthritis of left hip,202,(202) rheumatoid arthritis and related disease
+M05559,10,rheumatoid polyneuropathy with rheumatoid arthritis of unspecified hip,202,(202) rheumatoid arthritis and related disease
+M05561,10,rheumatoid polyneuropathy with rheumatoid arthritis of right knee,202,(202) rheumatoid arthritis and related disease
+M05562,10,rheumatoid polyneuropathy with rheumatoid arthritis of left knee,202,(202) rheumatoid arthritis and related disease
+M05569,10,rheumatoid polyneuropathy with rheumatoid arthritis of unspecified knee,202,(202) rheumatoid arthritis and related disease
+M05571,10,rheumatoid polyneuropathy with rheumatoid arthritis of right ankle and foot,202,(202) rheumatoid arthritis and related disease
+M05572,10,rheumatoid polyneuropathy with rheumatoid arthritis of left ankle and foot,202,(202) rheumatoid arthritis and related disease
+M05579,10,rheumatoid polyneuropathy with rheumatoid arthritis of unspecified ankle and foot,202,(202) rheumatoid arthritis and related disease
+M0559,10,rheumatoid polyneuropathy with rheumatoid arthritis of multiple sites,202,(202) rheumatoid arthritis and related disease
+M3483,10,systemic sclerosis with polyneuropathy,210,(210) systemic lupus erythematosus and connective tissue disorders
+M5481,10,occipital neuralgia,205,(205) spondylosis; intervertebral disc disorders; other back problems
+M792,10,"neuralgia and neuritis, unspecified",211,(211) other connective tissue disease

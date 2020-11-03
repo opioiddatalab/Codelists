@@ -1,0 +1,30 @@
+ndc,drug_name,generic_name,opioid_ingredient1,opioid_ingredient2,form,route,strength,strength_uom,package_size,manufacturer,startdate,enddate,status
+00074226602,alfentanil,alfentanil,alfentanil,NA,solution,injection,500,mcg/ml,2,hospira,11/1/99,11/1/99,active
+00074226605,alfentanil,alfentanil,alfentanil,NA,solution,injection,500,mcg/ml,5,hospira,11/1/99,11/1/99,active
+00074226610,alfentanil,alfentanil,alfentanil,NA,solution,injection,500,mcg/ml,10,abbott hosp,11/1/99,11/1/99,active
+00074226649,alfentanil,alfentanil,alfentanil,NA,solution,injection,500,mcg/ml,2,novaplus,11/1/99,11/1/99,active
+00074226651,alfentanil,alfentanil,alfentanil,NA,solution,injection,500,mcg/ml,5,novaplus,11/1/99,11/1/99,active
+00074226652,alfentanil,alfentanil,alfentanil,NA,solution,injection,500,mcg/ml,10,novaplus,NA,NA,active
+00409226602,alfentanil,alfentanil,alfentanil,NA,solution,injection,500,mcg/ml,2,hospira,10/28/99,10/28/99,active
+00409226605,alfentanil,alfentanil,alfentanil,NA,solution,injection,500,mcg/ml,5,hospira,10/28/99,10/28/99,active
+00409226649,alfentanil,alfentanil,alfentanil,NA,solution,injection,500,mcg/ml,2,hospira/novaplu,10/28/99,10/28/99,active
+00409226651,alfentanil,alfentanil,alfentanil,NA,solution,injection,500,mcg/ml,5,hospira,10/28/99,10/28/99,active
+10019006001,alfentanil,alfentanil,alfentanil,NA,solution,injection,500,mcg/ml,2,baxter anesthes,9/30/90,9/30/90,active
+10019006002,alfentanil,alfentanil,alfentanil,NA,solution,injection,500,mcg/ml,5,baxter anesthes,9/30/90,9/30/90,active
+11098006002,alfenta,alfentanil,alfentanil,NA,solution,injection,500,mcg/ml,2,taylor pharm,9/30/90,9/30/90,inactive
+11098006005,alfenta,alfentanil,alfentanil,NA,solution,injection,500,mcg/ml,5,taylor pharm,9/30/90,9/30/90,inactive
+11098006010,alfenta,alfentanil,alfentanil,NA,solution,injection,500,mcg/ml,10,taylor pharm,9/30/90,9/30/90,inactive
+11098006020,alfenta,alfentanil,alfentanil,NA,solution,injection,500,mcg/ml,20,taylor pharm,12/29/86,12/29/86,inactive
+17478006702,alfentanil,alfentanil,alfentanil,NA,solution,injection,500,mcg/ml,2,akorn inc.,9/30/90,9/30/90,active
+17478006705,alfentanil,alfentanil,alfentanil,NA,solution,injection,500,mcg/ml,5,akorn inc.,9/30/90,9/30/90,active
+17478006710,alfentanil hydrochloride,alfentanil hydrochloride,alfentanil,NA,injection,intravenous,500,ug/ml,5 ampule in 1 carton (17478-067-10) > 10 ml in 1 ampule,"akorn, inc.",2/1/10,NA,NA
+17478006720,alfentanil hydrochloride,alfentanil hydrochloride,alfentanil,NA,injection,intravenous,500,ug/ml,5 ampule in 1 carton (17478-067-20) > 20 ml in 1 ampule,"akorn, inc.",2/1/10,NA,NA
+17478084102,alfentanil,alfentanil,alfentanil,NA,solution,injection,500,mcg/ml,2,akorn inc.,NA,NA,active
+17478084105,alfentanil,alfentanil hydrochloride,alfentanil,NA,injection,intravenous,500,ug/ml,10 ampule in 1 carton (17478-841-05) > 5 ml in 1 ampule,"akorn, inc.",7/19/13,NA,NA
+17478084110,alfentanil,alfentanil hydrochloride,alfentanil,NA,injection,intravenous,500,ug/ml,5 ampule in 1 carton (17478-841-10) > 10 ml in 1 ampule,"akorn, inc.",7/19/13,NA,NA
+17478084120,alfentanil,alfentanil hydrochloride,alfentanil,NA,injection,intravenous,500,ug/ml,5 ampule in 1 carton (17478-841-20) > 20 ml in 1 ampule,"akorn, inc.",7/19/13,NA,NA
+17487084102,premierpro rx alfentanil hcl,alfentanil hydrochloride,alfentanil,NA,NA,NA,0.5 mg/ml,NA,10,NA,NA,NA,NA
+50458006002,alfenta,alfentanil,alfentanil,NA,solution,injection,500,mcg/ml,2,janssen pharm.,1/1/87,1/1/87,inactive
+50458006005,alfenta,alfentanil,alfentanil,NA,solution,injection,500,mcg/ml,5,janssen pharm.,1/1/87,1/1/87,inactive
+50458006010,alfenta,alfentanil,alfentanil,NA,solution,injection,500,mcg/ml,10,janssen pharm.,1/1/87,1/1/87,inactive
+50458006020,alfenta,alfentanil,alfentanil,NA,solution,injection,500,mcg/ml,20,janssen pharm.,1/1/87,1/1/87,inactive

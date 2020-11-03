@@ -1,0 +1,77 @@
+ndc,drug_name,generic_name,opioid_ingredient1,opioid_ingredient2,form,route,strength,strength_uom,package_size,manufacturer,startdate,enddate,status
+16590028930,nucynta,tapentadol,tapentadol,NA,tablet,oral,100,mg,30,stat rx usa,NA,NA,active
+16590028960,nucynta,tapentadol hydrochloride,tapentadol,NA,"tablet, film coated",oral,100,mg/1,"60 tablet, film coated in 1 bottle (16590-289-60)",stat rx usa,6/1/09,NA,NA
+16590028972,nucynta,tapentadol,tapentadol,NA,tablet,oral,100,mg,120,stat rx usa,NA,NA,active
+16590086315,nucynta,tapentadol,tapentadol,NA,tablet,oral,50,mg,15,stat rx usa,NA,NA,active
+16590086330,nucynta,tapentadol,tapentadol,NA,tablet,oral,50,mg,30,stat rx usa,NA,NA,active
+16590086340,nucynta,tapentadol hydrochloride,tapentadol,NA,NA,NA,50 mg,NA,40,NA,NA,NA,NA
+16590086350,nucynta,tapentadol hydrochloride,tapentadol,NA,NA,NA,50 mg,NA,50,NA,NA,NA,NA
+16590086360,nucynta,tapentadol,tapentadol,NA,tablet,oral,50,mg,60,stat rx usa,NA,NA,active
+16590086375,nucynta,tapentadol hydrochloride,tapentadol,NA,NA,NA,50 mg,NA,75,NA,NA,NA,NA
+16590086390,nucynta,tapentadol,tapentadol,NA,tablet,oral,50,mg,90,stat rx usa,NA,NA,active
+16590088930,nucynta,tapentadol hydrochloride,tapentadol,NA,"tablet, film coated",oral,75,mg/1,"30 tablet, film coated in 1 bottle (16590-889-30)",stat rx usa llc,6/1/09,NA,NA
+16590088960,nucynta,tapentadol hydrochloride,tapentadol,NA,"tablet, film coated",oral,75,mg/1,"60 tablet, film coated in 1 bottle (16590-889-60)",stat rx usa llc,6/1/09,NA,NA
+16590088972,nucynta,tapentadol,tapentadol,NA,tablet,oral,75,mg,120,stat rx usa,NA,NA,active
+16590088990,nucynta,tapentadol hydrochloride,tapentadol,NA,NA,NA,75 mg,NA,90,NA,NA,NA,NA
+21695006972,nucynta,tapentadol,tapentadol,NA,tablet,oral,50,mg,120,physician partn,NA,NA,active
+21695006990,nucynta,tapentadol,tapentadol,NA,tablet,oral,50,mg,90,physician partn,NA,NA,active
+35356052500,nucynta,tapentadol,tapentadol,NA,tablet,oral,50,mg,100,quality care,NA,NA,active
+35356052530,nucynta,tapentadol,tapentadol,NA,tablet,oral,50,mg,30,quality care,NA,NA,active
+35356059330,nucynta,tapentadol,tapentadol,NA,tablet,oral,75,mg,30,quality care,NA,NA,active
+35356059390,nucynta,tapentadol hydrochloride,tapentadol,NA,"tablet, film coated",oral,75,mg/1,"90 tablet, film coated in 1 bottle, plastic (35356-593-90)",lake erie medical dba quality care products llc,7/13/11,NA,NA
+35356061130,nucynta,tapentadol,tapentadol,NA,tablet,oral,100,mg,30,quality care,NA,NA,active
+35356061160,nucynta,tapentadol,tapentadol,NA,tablet,oral,100,mg,60,quality care,NA,NA,active
+35356061190,nucynta,tapentadol,tapentadol,NA,tablet,oral,100,mg,90,quality care,NA,NA,active
+35356077060,nucynta er,tapentadol,tapentadol,NA,tablet extended release 12 hr,oral,100,mg,60,quality care,NA,NA,active
+35356081060,nucynta er,tapentadol,tapentadol,NA,tablet extended release 12 hr,oral,50,mg,60,quality care,NA,NA,active
+50458081701,nucynta,tapentadol hydrochloride,tapentadol,NA,solution,oral,20,mg/ml,100 ml in 1 bottle (50458-817-01),"janssen pharmaceuticals, inc.",10/15/12,NA,NA
+50458081702,nucynta,tapentadol hydrochloride,tapentadol,NA,solution,oral,20,mg/ml,200 ml in 1 bottle (50458-817-02),"janssen pharmaceuticals, inc.",10/15/12,NA,NA
+50458082002,nucynta,tapentadol,tapentadol,NA,tablet,oral,50,mg,100,janssen pharmac,11/20/08,11/20/08,active
+50458082004,nucynta,tapentadol,tapentadol,NA,tablet,oral,50,mg,100,janssen pharmac,11/20/08,11/20/08,active
+50458083002,nucynta,tapentadol,tapentadol,NA,tablet,oral,75,mg,100,janssen pharmac,11/20/08,11/20/08,active
+50458083004,nucynta,tapentadol,tapentadol,NA,tablet,oral,75,mg,100,janssen pharmac,11/20/08,11/20/08,active
+50458084002,nucynta,tapentadol,tapentadol,NA,tablet,oral,100,mg,100,janssen pharmac,11/20/08,11/20/08,active
+50458084004,nucynta,tapentadol,tapentadol,NA,tablet,oral,100,mg,100,janssen pharmac,11/20/08,11/20/08,active
+50458086001,nucynta er,tapentadol,tapentadol,NA,tablet extended release 12 hr,oral,50,mg,60,janssen pharmac,8/25/11,8/25/11,active
+50458086002,nucynta,tapentadol hydrochloride,tapentadol,NA,"tablet, film coated, extended release",oral,50,mg/1,"10 blister pack in 1 box, unit-dose (50458-860-02) > 10 tablet, film coated, extended release in 1 blister pack","janssen pharmaceuticals, inc.",8/25/11,NA,NA
+50458086101,nucynta er,tapentadol,tapentadol,NA,tablet extended release 12 hr,oral,100,mg,60,janssen pharmac,8/25/11,8/25/11,active
+50458086102,nucynta,tapentadol hydrochloride,tapentadol,NA,"tablet, film coated, extended release",oral,100,mg/1,"10 blister pack in 1 box, unit-dose (50458-861-02) > 10 tablet, film coated, extended release in 1 blister pack","janssen pharmaceuticals, inc.",8/25/11,NA,NA
+50458086201,nucynta er,tapentadol,tapentadol,NA,tablet extended release 12 hr,oral,150,mg,60,janssen pharmac,8/25/11,8/25/11,active
+50458086202,nucynta,tapentadol hydrochloride,tapentadol,NA,"tablet, film coated, extended release",oral,150,mg/1,"10 blister pack in 1 box, unit-dose (50458-862-02) > 10 tablet, film coated, extended release in 1 blister pack","janssen pharmaceuticals, inc.",8/25/11,NA,NA
+50458086301,nucynta er,tapentadol,tapentadol,NA,tablet extended release 12 hr,oral,200,mg,60,janssen pharmac,8/25/11,8/25/11,active
+50458086302,nucynta,tapentadol hydrochloride,tapentadol,NA,"tablet, film coated, extended release",oral,200,mg/1,"10 blister pack in 1 box, unit-dose (50458-863-02) > 10 tablet, film coated, extended release in 1 blister pack","janssen pharmaceuticals, inc.",8/25/11,NA,NA
+50458086401,nucynta er,tapentadol,tapentadol,NA,tablet extended release 12 hr,oral,250,mg,60,janssen pharmac,8/25/11,8/25/11,active
+50458086402,nucynta,tapentadol hydrochloride,tapentadol,NA,"tablet, film coated, extended release",oral,250,mg/1,"10 blister pack in 1 box, unit-dose (50458-864-02) > 10 tablet, film coated, extended release in 1 blister pack","janssen pharmaceuticals, inc.",8/25/11,NA,NA
+54868597900,nucynta,tapentadol,tapentadol,NA,tablet,oral,50,mg,30,physicians tc.,NA,NA,active
+54868597901,nucynta,tapentadol,tapentadol,NA,tablet,oral,50,mg,10,physicians tc.,NA,NA,active
+54868600200,nucynta,tapentadol,tapentadol,NA,tablet,oral,75,mg,30,physicians tc.,NA,NA,active
+54868603900,nucynta,tapentadol,tapentadol,NA,tablet,oral,100,mg,60,physicians tc.,NA,NA,active
+55700055560,nucynta,tapentadol hydrochloride,tapentadol,NA,"tablet, film coated, extended release",oral,100 mg/1,NA,"60 tablet, film coated, extended release in 1 bottle (55700-555-60)",lake erie medical dba quality care products llc,NA,NA,NA
+55700056560,nucynta,tapentadol hydrochloride,tapentadol,NA,"tablet, film coated, extended release",oral,50 mg/1,NA,"60 tablet, film coated, extended release in 1 bottle (55700-565-60)",lake erie medical dba quality care products llc,NA,NA,NA
+55700060630,nucynta,tapentadol hydrochloride,tapentadol,NA,"tablet, film coated",oral,50 mg/1,NA,"30 tablet, film coated in 1 bottle (55700-606-30)",lake erie medical dba quality care products llc,NA,NA,NA
+63629417901,nucynta,tapentadol hydrochloride,tapentadol,NA,"tablet, film coated",oral,50,mg/1,"30 tablet, film coated in 1 bottle (63629-4179-1)",bryant ranch prepack,6/1/09,NA,NA
+63629417902,nucynta,tapentadol hydrochloride,tapentadol,NA,"tablet, film coated",oral,50,mg/1,"90 tablet, film coated in 1 bottle (63629-4179-2)",bryant ranch prepack,6/1/09,NA,NA
+63629417903,nucynta,tapentadol hydrochloride,tapentadol,NA,"tablet, film coated",oral,50,mg/1,"120 tablet, film coated in 1 bottle (63629-4179-3)",bryant ranch prepack,6/1/09,NA,NA
+63629417904,nucynta,tapentadol hydrochloride,tapentadol,NA,"tablet, film coated",oral,50,mg/1,"60 tablet, film coated in 1 bottle (63629-4179-4)",bryant ranch prepack,6/1/09,NA,NA
+63629417905,nucynta,tapentadol hydrochloride,tapentadol,NA,"tablet, film coated",oral,50,mg/1,"10 tablet, film coated in 1 bottle (63629-4179-5)",bryant ranch prepack,6/1/09,NA,NA
+63629461101,nucynta,tapentadol,tapentadol,NA,tablet,oral,100,mg,30,bryant ranch pr,NA,NA,active
+63629461102,nucynta,tapentadol,tapentadol,NA,tablet,oral,100,mg,180,bryant ranch pr,NA,NA,active
+63629461103,nucynta,tapentadol,tapentadol,NA,tablet,oral,100,mg,60,bryant ranch pr,NA,NA,active
+68071083291,nucynta,tapentadol hydrochloride,tapentadol,NA,NA,NA,50 mg,NA,120,NA,NA,NA,NA
+68071083391,nucynta,tapentadol hydrochloride,tapentadol,NA,NA,NA,75 mg,NA,120,NA,NA,NA,NA
+69865021001,nucynta,tapentadol hydrochloride,tapentadol,NA,"tablet, film coated",oral,50 mg/1,NA,"10 blister pack in 1 carton (69865-210-01)  > 10 tablet, film coated in 1 blister pack","depo nf sub, llc",NA,NA,NA
+69865021002,nucynta,tapentadol hydrochloride,tapentadol,NA,"tablet, film coated",oral,50 mg/1,NA,"100 tablet, film coated in 1 bottle (69865-210-02)","depo nf sub, llc",NA,NA,NA
+69865022001,nucynta,tapentadol hydrochloride,tapentadol,NA,"tablet, film coated",oral,75 mg/1,NA,"10 blister pack in 1 carton (69865-220-01)  > 10 tablet, film coated in 1 blister pack","depo nf sub, llc",NA,NA,NA
+69865022002,nucynta,tapentadol hydrochloride,tapentadol,NA,"tablet, film coated",oral,75 mg/1,NA,"100 tablet, film coated in 1 bottle (69865-220-02)","depo nf sub, llc",NA,NA,NA
+69865023001,nucynta,tapentadol hydrochloride,tapentadol,NA,"tablet, film coated",oral,100 mg/1,NA,"10 blister pack in 1 carton (69865-230-01)  > 10 tablet, film coated in 1 blister pack","depo nf sub, llc",NA,NA,NA
+69865023002,nucynta,tapentadol hydrochloride,tapentadol,NA,"tablet, film coated",oral,100 mg/1,NA,"100 tablet, film coated in 1 bottle (69865-230-02)","depo nf sub, llc",NA,NA,NA
+69865024001,nucynta,tapentadol hydrochloride,tapentadol,NA,"tablet, film coated, extended release",oral,50 mg/1,NA,"10 blister pack in 1 carton (69865-240-01)  > 10 tablet, film coated, extended release in 1 blister pack","depo nf sub, llc",NA,NA,NA
+69865024002,nucynta,tapentadol hydrochloride,tapentadol,NA,"tablet, film coated, extended release",oral,50 mg/1,NA,"60 tablet, film coated, extended release in 1 bottle (69865-240-02)","depo nf sub, llc",NA,NA,NA
+69865024501,nucynta,tapentadol hydrochloride,tapentadol,NA,"tablet, film coated, extended release",oral,100 mg/1,NA,"10 blister pack in 1 carton (69865-245-01)  > 10 tablet, film coated, extended release in 1 blister pack","depo nf sub, llc",NA,NA,NA
+69865024502,nucynta,tapentadol hydrochloride,tapentadol,NA,"tablet, film coated, extended release",oral,100 mg/1,NA,"60 tablet, film coated, extended release in 1 bottle (69865-245-02)","depo nf sub, llc",NA,NA,NA
+69865025001,nucynta,tapentadol hydrochloride,tapentadol,NA,"tablet, film coated, extended release",oral,150 mg/1,NA,"10 blister pack in 1 carton (69865-250-01)  > 10 tablet, film coated, extended release in 1 blister pack","depo nf sub, llc",NA,NA,NA
+69865025002,nucynta,tapentadol hydrochloride,tapentadol,NA,"tablet, film coated, extended release",oral,150 mg/1,NA,"60 tablet, film coated, extended release in 1 bottle (69865-250-02)","depo nf sub, llc",NA,NA,NA
+69865026001,nucynta,tapentadol hydrochloride,tapentadol,NA,"tablet, film coated, extended release",oral,200 mg/1,NA,"10 blister pack in 1 carton (69865-260-01)  > 10 tablet, film coated, extended release in 1 blister pack","depo nf sub, llc",NA,NA,NA
+69865026002,nucynta,tapentadol hydrochloride,tapentadol,NA,"tablet, film coated, extended release",oral,200 mg/1,NA,"60 tablet, film coated, extended release in 1 bottle (69865-260-02)","depo nf sub, llc",NA,NA,NA
+69865026501,nucynta,tapentadol hydrochloride,tapentadol,NA,"tablet, film coated, extended release",oral,250 mg/1,NA,"60 tablet, film coated, extended release in 1 bottle (69865-265-01)","depo nf sub, llc",NA,NA,NA
+69865026502,nucynta,tapentadol hydrochloride,tapentadol,NA,"tablet, film coated, extended release",oral,250 mg/1,NA,"10 blister pack in 1 carton (69865-265-02)  > 10 tablet, film coated, extended release in 1 blister pack","depo nf sub, llc",NA,NA,NA

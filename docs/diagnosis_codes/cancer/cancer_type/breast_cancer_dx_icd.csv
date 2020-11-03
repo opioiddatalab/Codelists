@@ -1,69 +1,69 @@
-icd_cm,ver
-'1740',9
-'1741',9
-'1742',9
-'1743',9
-'1744',9
-'1745',9
-'1746',9
-'1748',9
-'1749',9
-'1750',9
-'1759',9
-'V103',9
-'C50011',10
-'C50012',10
-'C50019',10
-'C50021',10
-'C50022',10
-'C50029',10
-'C50111',10
-'C50112',10
-'C50119',10
-'C50121',10
-'C50122',10
-'C50129',10
-'C50211',10
-'C50212',10
-'C50219',10
-'C50221',10
-'C50222',10
-'C50229',10
-'C50311',10
-'C50312',10
-'C50319',10
-'C50321',10
-'C50322',10
-'C50329',10
-'C50411',10
-'C50412',10
-'C50419',10
-'C50421',10
-'C50422',10
-'C50429',10
-'C50511',10
-'C50512',10
-'C50519',10
-'C50521',10
-'C50522',10
-'C50529',10
-'C50611',10
-'C50612',10
-'C50619',10
-'C50621',10
-'C50622',10
-'C50629',10
-'C50811',10
-'C50812',10
-'C50819',10
-'C50821',10
-'C50822',10
-'C50829',10
-'C50911',10
-'C50912',10
-'C50919',10
-'C50921',10
-'C50922',10
-'C50929',10
-'Z853',10
-'Z86000',10
+icd_cm,ver,icd_cm_label,hcup_ccs_single,hcup_ccs_single_label
+'1740',9,malignant neoplasm of nipple and areola of female breast,24,(24) cancer of breast
+'1741',9,malignant neoplasm of central portion of female breast,24,(24) cancer of breast
+'1742',9,malignant neoplasm of upper-inner quadrant of female breast,24,(24) cancer of breast
+'1743',9,malignant neoplasm of lower-inner quadrant of female breast,24,(24) cancer of breast
+'1744',9,malignant neoplasm of upper-outer quadrant of female breast,24,(24) cancer of breast
+'1745',9,malignant neoplasm of lower-outer quadrant of female breast,24,(24) cancer of breast
+'1746',9,malignant neoplasm of axillary tail of female breast,24,(24) cancer of breast
+'1748',9,malignant neoplasm of other specified sites of female breast,24,(24) cancer of breast
+'1749',9,"malignant neoplasm of breast (female), unspecified",24,(24) cancer of breast
+'1750',9,malignant neoplasm of nipple and areola of male breast,24,(24) cancer of breast
+'1759',9,malignant neoplasm of other and unspecified sites of male breast,24,(24) cancer of breast
+'V103',9,personal history of malignant neoplasm of breast,24,(24) cancer of breast
+'C50011',10,"malignant neoplasm of nipple and areola, right female breast",24,(24) cancer of breast
+'C50012',10,"malignant neoplasm of nipple and areola, left female breast",24,(24) cancer of breast
+'C50019',10,"malignant neoplasm of nipple and areola, unspecified female breast",24,(24) cancer of breast
+'C50021',10,"malignant neoplasm of nipple and areola, right male breast",24,(24) cancer of breast
+'C50022',10,"malignant neoplasm of nipple and areola, left male breast",24,(24) cancer of breast
+'C50029',10,"malignant neoplasm of nipple and areola, unspecified male breast",24,(24) cancer of breast
+'C50111',10,malignant neoplasm of central portion of right female breast,24,(24) cancer of breast
+'C50112',10,malignant neoplasm of central portion of left female breast,24,(24) cancer of breast
+'C50119',10,malignant neoplasm of central portion of unspecified female breast,24,(24) cancer of breast
+'C50121',10,malignant neoplasm of central portion of right male breast,24,(24) cancer of breast
+'C50122',10,malignant neoplasm of central portion of left male breast,24,(24) cancer of breast
+'C50129',10,malignant neoplasm of central portion of unspecified male breast,24,(24) cancer of breast
+'C50211',10,malignant neoplasm of upper-inner quadrant of right female breast,24,(24) cancer of breast
+'C50212',10,malignant neoplasm of upper-inner quadrant of left female breast,24,(24) cancer of breast
+'C50219',10,malignant neoplasm of upper-inner quadrant of unspecified female breast,24,(24) cancer of breast
+'C50221',10,malignant neoplasm of upper-inner quadrant of right male breast,24,(24) cancer of breast
+'C50222',10,malignant neoplasm of upper-inner quadrant of left male breast,24,(24) cancer of breast
+'C50229',10,malignant neoplasm of upper-inner quadrant of unspecified male breast,24,(24) cancer of breast
+'C50311',10,malignant neoplasm of lower-inner quadrant of right female breast,24,(24) cancer of breast
+'C50312',10,malignant neoplasm of lower-inner quadrant of left female breast,24,(24) cancer of breast
+'C50319',10,malignant neoplasm of lower-inner quadrant of unspecified female breast,24,(24) cancer of breast
+'C50321',10,malignant neoplasm of lower-inner quadrant of right male breast,24,(24) cancer of breast
+'C50322',10,malignant neoplasm of lower-inner quadrant of left male breast,24,(24) cancer of breast
+'C50329',10,malignant neoplasm of lower-inner quadrant of unspecified male breast,24,(24) cancer of breast
+'C50411',10,malignant neoplasm of upper-outer quadrant of right female breast,24,(24) cancer of breast
+'C50412',10,malignant neoplasm of upper-outer quadrant of left female breast,24,(24) cancer of breast
+'C50419',10,malignant neoplasm of upper-outer quadrant of unspecified female breast,24,(24) cancer of breast
+'C50421',10,malignant neoplasm of upper-outer quadrant of right male breast,24,(24) cancer of breast
+'C50422',10,malignant neoplasm of upper-outer quadrant of left male breast,24,(24) cancer of breast
+'C50429',10,malignant neoplasm of upper-outer quadrant of unspecified male breast,24,(24) cancer of breast
+'C50511',10,malignant neoplasm of lower-outer quadrant of right female breast,24,(24) cancer of breast
+'C50512',10,malignant neoplasm of lower-outer quadrant of left female breast,24,(24) cancer of breast
+'C50519',10,malignant neoplasm of lower-outer quadrant of unspecified female breast,24,(24) cancer of breast
+'C50521',10,malignant neoplasm of lower-outer quadrant of right male breast,24,(24) cancer of breast
+'C50522',10,malignant neoplasm of lower-outer quadrant of left male breast,24,(24) cancer of breast
+'C50529',10,malignant neoplasm of lower-outer quadrant of unspecified male breast,24,(24) cancer of breast
+'C50611',10,malignant neoplasm of axillary tail of right female breast,24,(24) cancer of breast
+'C50612',10,malignant neoplasm of axillary tail of left female breast,24,(24) cancer of breast
+'C50619',10,malignant neoplasm of axillary tail of unspecified female breast,24,(24) cancer of breast
+'C50621',10,malignant neoplasm of axillary tail of right male breast,24,(24) cancer of breast
+'C50622',10,malignant neoplasm of axillary tail of left male breast,24,(24) cancer of breast
+'C50629',10,malignant neoplasm of axillary tail of unspecified male breast,24,(24) cancer of breast
+'C50811',10,malignant neoplasm of overlapping sites of right female breast,24,(24) cancer of breast
+'C50812',10,malignant neoplasm of overlapping sites of left female breast,24,(24) cancer of breast
+'C50819',10,malignant neoplasm of overlapping sites of unspecified female breast,24,(24) cancer of breast
+'C50821',10,malignant neoplasm of overlapping sites of right male breast,24,(24) cancer of breast
+'C50822',10,malignant neoplasm of overlapping sites of left male breast,24,(24) cancer of breast
+'C50829',10,malignant neoplasm of overlapping sites of unspecified male breast,24,(24) cancer of breast
+'C50911',10,malignant neoplasm of unspecified site of right female breast,24,(24) cancer of breast
+'C50912',10,malignant neoplasm of unspecified site of left female breast,24,(24) cancer of breast
+'C50919',10,malignant neoplasm of unspecified site of unspecified female breast,24,(24) cancer of breast
+'C50921',10,malignant neoplasm of unspecified site of right male breast,24,(24) cancer of breast
+'C50922',10,malignant neoplasm of unspecified site of left male breast,24,(24) cancer of breast
+'C50929',10,malignant neoplasm of unspecified site of unspecified male breast,24,(24) cancer of breast
+'Z853',10,personal history of malignant neoplasm of breast,24,(24) cancer of breast
+'Z86000',10,personal history of in-situ neoplasm of breast,24,(24) cancer of breast

@@ -1,54 +1,54 @@
-icd_cm,ver
-'1880',9
-'1881',9
-'1882',9
-'1883',9
-'1884',9
-'1885',9
-'1886',9
-'1887',9
-'1888',9
-'1889',9
-'V1051',9
-'C670',10
-'C671',10
-'C672',10
-'C673',10
-'C674',10
-'C675',10
-'C676',10
-'C677',10
-'C678',10
-'C679',10
-'Z8551',10
-'1890',9
-'1891',9
-'20924',9
-'V1052',9
-'V1053',9
-'C641',10
-'C642',10
-'C649',10
-'C651',10
-'C652',10
-'C659',10
-'C7A093',10
-'Z85528',10
-'Z8553',10
-'1892',9
-'1893',9
-'1894',9
-'1898',9
-'1899',9
-'V1050',9
-'V1059',9
-'C661',10
-'C662',10
-'C669',10
-'C680',10
-'C681',10
-'C688',10
-'C689',10
-'Z8550',10
-'Z8554',10
-'Z8559',10
+icd_cm,ver,icd_cm_label,hcup_ccs_single,hcup_ccs_single_label
+'1880',9,malignant neoplasm of trigone of urinary bladder,32,(32) cancer of bladder
+'1881',9,malignant neoplasm of dome of urinary bladder,32,(32) cancer of bladder
+'1882',9,malignant neoplasm of lateral wall of urinary bladder,32,(32) cancer of bladder
+'1883',9,malignant neoplasm of anterior wall of urinary bladder,32,(32) cancer of bladder
+'1884',9,malignant neoplasm of posterior wall of urinary bladder,32,(32) cancer of bladder
+'1885',9,malignant neoplasm of bladder neck,32,(32) cancer of bladder
+'1886',9,malignant neoplasm of ureteric orifice,32,(32) cancer of bladder
+'1887',9,malignant neoplasm of urachus,32,(32) cancer of bladder
+'1888',9,malignant neoplasm of other specified sites of bladder,32,(32) cancer of bladder
+'1889',9,"malignant neoplasm of bladder, part unspecified",32,(32) cancer of bladder
+'V1051',9,personal history of malignant neoplasm of bladder,32,(32) cancer of bladder
+'C670',10,malignant neoplasm of trigone of bladder,32,(32) cancer of bladder
+'C671',10,malignant neoplasm of dome of bladder,32,(32) cancer of bladder
+'C672',10,malignant neoplasm of lateral wall of bladder,32,(32) cancer of bladder
+'C673',10,malignant neoplasm of anterior wall of bladder,32,(32) cancer of bladder
+'C674',10,malignant neoplasm of posterior wall of bladder,32,(32) cancer of bladder
+'C675',10,malignant neoplasm of bladder neck,32,(32) cancer of bladder
+'C676',10,malignant neoplasm of ureteric orifice,32,(32) cancer of bladder
+'C677',10,malignant neoplasm of urachus,32,(32) cancer of bladder
+'C678',10,malignant neoplasm of overlapping sites of bladder,32,(32) cancer of bladder
+'C679',10,"malignant neoplasm of bladder, unspecified",32,(32) cancer of bladder
+'Z8551',10,personal history of malignant neoplasm of bladder,32,(32) cancer of bladder
+'1890',9,"malignant neoplasm of kidney, except pelvis",33,(33) cancer of kidney and renal pelvis
+'1891',9,malignant neoplasm of renal pelvis,33,(33) cancer of kidney and renal pelvis
+'20924',9,malignant carcinoid tumor of the kidney,33,(33) cancer of kidney and renal pelvis
+'V1052',9,personal history of malignant neoplasm of kidney,33,(33) cancer of kidney and renal pelvis
+'V1053',9,personal history of malignant neoplasm of renal pelvis,33,(33) cancer of kidney and renal pelvis
+'C641',10,"malignant neoplasm of right kidney, except renal pelvis",33,(33) cancer of kidney and renal pelvis
+'C642',10,"malignant neoplasm of left kidney, except renal pelvis",33,(33) cancer of kidney and renal pelvis
+'C649',10,"malignant neoplasm of unspecified kidney, except renal pelvis",33,(33) cancer of kidney and renal pelvis
+'C651',10,malignant neoplasm of right renal pelvis,33,(33) cancer of kidney and renal pelvis
+'C652',10,malignant neoplasm of left renal pelvis,33,(33) cancer of kidney and renal pelvis
+'C659',10,malignant neoplasm of unspecified renal pelvis,33,(33) cancer of kidney and renal pelvis
+'C7A093',10,malignant carcinoid tumor of the kidney,33,(33) cancer of kidney and renal pelvis
+'Z85528',10,personal history of other malignant neoplasm of kidney,33,(33) cancer of kidney and renal pelvis
+'Z8553',10,personal history of malignant neoplasm of renal pelvis,33,(33) cancer of kidney and renal pelvis
+'1892',9,malignant neoplasm of ureter,34,(34) cancer of other urinary organs
+'1893',9,malignant neoplasm of urethra,34,(34) cancer of other urinary organs
+'1894',9,malignant neoplasm of paraurethral glands,34,(34) cancer of other urinary organs
+'1898',9,malignant neoplasm of other specified sites of urinary organs,34,(34) cancer of other urinary organs
+'1899',9,"malignant neoplasm of urinary organ, site unspecified",34,(34) cancer of other urinary organs
+'V1050',9,"personal history of malignant neoplasm of urinary organ, unspecified",34,(34) cancer of other urinary organs
+'V1059',9,personal history of malignant neoplasm of other urinary organs,34,(34) cancer of other urinary organs
+'C661',10,malignant neoplasm of right ureter,34,(34) cancer of other urinary organs
+'C662',10,malignant neoplasm of left ureter,34,(34) cancer of other urinary organs
+'C669',10,malignant neoplasm of unspecified ureter,34,(34) cancer of other urinary organs
+'C680',10,malignant neoplasm of urethra,34,(34) cancer of other urinary organs
+'C681',10,malignant neoplasm of paraurethral glands,34,(34) cancer of other urinary organs
+'C688',10,malignant neoplasm of overlapping sites of urinary organs,34,(34) cancer of other urinary organs
+'C689',10,"malignant neoplasm of urinary organ, unspecified",34,(34) cancer of other urinary organs
+'Z8550',10,personal history of malignant neoplasm of unspecified urinary tract organ,34,(34) cancer of other urinary organs
+'Z8554',10,personal history of malignant neoplasm of ureter,34,(34) cancer of other urinary organs
+'Z8559',10,personal history of malignant neoplasm of other urinary tract organ,34,(34) cancer of other urinary organs

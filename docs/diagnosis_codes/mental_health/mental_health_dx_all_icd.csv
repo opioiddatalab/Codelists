@@ -1,117 +1,117 @@
-﻿icd_cm,ver,depression,ptsd,anxiety
-29384,9,0,0,1
-29620,9,1,0,0
-29621,9,1,0,0
-29622,9,1,0,0
-29623,9,1,0,0
-29624,9,1,0,0
-29625,9,1,0,0
-29626,9,1,0,0
-29630,9,1,0,0
-29631,9,1,0,0
-29632,9,1,0,0
-29633,9,1,0,0
-29634,9,1,0,0
-29635,9,1,0,0
-29636,9,1,0,0
-30000,9,0,0,1
-30001,9,0,0,1
-30002,9,0,0,1
-30009,9,0,0,1
-30010,9,0,0,1
-30020,9,0,0,1
-30021,9,0,0,1
-30022,9,0,0,1
-30023,9,0,0,1
-30029,9,0,0,1
-3003,9,0,0,1
-3004,9,1,0,0
-3005,9,0,0,1
-30089,9,0,0,1
-3009,9,0,0,1
-3080,9,0,0,1
-3081,9,0,0,1
-3082,9,0,0,1
-3083,9,0,0,1
-3084,9,0,0,1
-3089,9,0,0,1
-30981,9,0,1,0
-311,9,1,0,0
-3130,9,0,0,1
-3131,9,0,0,1
-31321,9,0,0,1
-31322,9,0,0,1
-3133,9,0,0,1
-31382,9,0,0,1
-31383,9,0,0,1
-F064,10,0,0,1
-F320,10,1,0,0
-F321,10,1,0,0
-F322,10,1,0,0
-F323,10,1,0,0
-F324,10,1,0,0
-F325,10,1,0,0
-F328,10,1,0,0
-F3281,10,1,0,0
-F3289,10,1,0,0
-F329,10,1,0,0
-F330,10,1,0,0
-F331,10,1,0,0
-F332,10,1,0,0
-F333,10,1,0,0
-F3340,10,1,0,0
-F3341,10,1,0,0
-F3342,10,1,0,0
-F338,10,1,0,0
-F339,10,1,0,0
-F341,10,1,0,0
-F4000,10,0,0,1
-F4001,10,0,0,1
-F4002,10,0,0,1
-F4010,10,0,0,1
-F4011,10,0,0,1
-F40210,10,0,0,1
-F40218,10,0,0,1
-F40220,10,0,0,1
-F40228,10,0,0,1
-F40230,10,0,0,1
-F40231,10,0,0,1
-F40232,10,0,0,1
-F40233,10,0,0,1
-F40240,10,0,0,1
-F40241,10,0,0,1
-F40242,10,0,0,1
-F40243,10,0,0,1
-F40248,10,0,0,1
-F40290,10,0,0,1
-F40291,10,0,0,1
-F40298,10,0,0,1
-F408,10,0,0,1
-F409,10,0,0,1
-F410,10,0,0,1
-F411,10,0,0,1
-F413,10,0,0,1
-F418,10,0,0,1
-F419,10,0,0,1
-F42,10,0,0,1
-F422,10,0,0,1
-F423,10,0,0,1
-F424,10,0,0,1
-F428,10,0,0,1
-F429,10,0,0,1
-F430,10,0,0,1
-F4310,10,0,1,0
-F4311,10,0,1,0
-F4312,10,0,1,0
-F488,10,0,0,1
-F489,10,0,0,1
-R452,10,0,0,1
-R453,10,0,0,1
-R454,10,0,0,1
-R455,10,0,0,1
-R456,10,0,0,1
-R457,10,0,0,1
-R4581,10,0,0,1
-R4582,10,0,0,1
-R4583,10,0,0,1
-R4584,10,0,0,1
+﻿icd_cm,ver,icd_cm_label,depression,ptsd,anxiety
+29384,9,anxiety disorder in conditions classified elsewhere,0,0,1
+29620,9,"major depressive affective disorder, single episode, unspecified",1,0,0
+29621,9,"major depressive affective disorder, single episode, mild",1,0,0
+29622,9,"major depressive affective disorder, single episode, moderate",1,0,0
+29623,9,"major depressive affective disorder, single episode, severe, without mention of psychotic behavior",1,0,0
+29624,9,"major depressive affective disorder, single episode, severe, specified as with psychotic behavior",1,0,0
+29625,9,"major depressive affective disorder, single episode, in partial or unspecified remission",1,0,0
+29626,9,"major depressive affective disorder, single episode, in full remission",1,0,0
+29630,9,"major depressive affective disorder, recurrent episode, unspecified",1,0,0
+29631,9,"major depressive affective disorder, recurrent episode, mild",1,0,0
+29632,9,"major depressive affective disorder, recurrent episode, moderate",1,0,0
+29633,9,"major depressive affective disorder, recurrent episode, severe, without mention of psychotic behavior",1,0,0
+29634,9,"major depressive affective disorder, recurrent episode, severe, specified as with psychotic behavior",1,0,0
+29635,9,"major depressive affective disorder, recurrent episode, in partial or unspecified remission",1,0,0
+29636,9,"major depressive affective disorder, recurrent episode, in full remission",1,0,0
+30000,9,"anxiety state, unspecified",0,0,1
+30001,9,panic disorder without agoraphobia,0,0,1
+30002,9,generalized anxiety disorder,0,0,1
+30009,9,other anxiety states,0,0,1
+30010,9,"hysteria, unspecified",0,0,1
+30020,9,"phobia, unspecified",0,0,1
+30021,9,agoraphobia with panic disorder,0,0,1
+30022,9,agoraphobia without mention of panic attacks,0,0,1
+30023,9,social phobia,0,0,1
+30029,9,other isolated or specific phobias,0,0,1
+3003,9,obsessive-compulsive disorders,0,0,1
+3004,9,dysthymic disorder,1,0,0
+3005,9,neurasthenia,0,0,1
+30089,9,other somatoform disorders,0,0,1
+3009,9,unspecified nonpsychotic mental disorder,0,0,1
+3080,9,predominant disturbance of emotions,0,0,1
+3081,9,predominant disturbance of consciousness,0,0,1
+3082,9,predominant psychomotor disturbance,0,0,1
+3083,9,other acute reactions to stress,0,0,1
+3084,9,mixed disorders as reaction to stress,0,0,1
+3089,9,unspecified acute reaction to stress,0,0,1
+30981,9,posttraumatic stress disorder,0,1,0
+311,9,"depressive disorder, not elsewhere classified",1,0,0
+3130,9,overanxious disorder specific to childhood and adolescence,0,0,1
+3131,9,misery and unhappiness disorder specific to childhood and adolescence,0,0,1
+31321,9,shyness disorder of childhood,0,0,1
+31322,9,introverted disorder of childhood,0,0,1
+3133,9,relationship problems specific to childhood and adolescence,0,0,1
+31382,9,identity disorder of childhood or adolescence,0,0,1
+31383,9,academic underachievement disorder of childhood or adolescence,0,0,1
+F064,10,anxiety disorder due to known physiological condition,0,0,1
+F320,10,"major depressive disorder, single episode, mild",1,0,0
+F321,10,"major depressive disorder, single episode, moderate",1,0,0
+F322,10,"major depressive disorder, single episode, severe without psychotic features",1,0,0
+F323,10,"major depressive disorder, single episode, severe with psychotic features",1,0,0
+F324,10,"major depressive disorder, single episode, in partial remission",1,0,0
+F325,10,"major depressive disorder, single episode, in full remission",1,0,0
+F328,10,other depressive episodes,1,0,0
+F3281,10,premenstrual dysphoric disorder,1,0,0
+F3289,10,other specified depressive episodes,1,0,0
+F329,10,"major depressive disorder, single episode, unspecified",1,0,0
+F330,10,"major depressive disorder, recurrent, mild",1,0,0
+F331,10,"major depressive disorder, recurrent, moderate",1,0,0
+F332,10,"major depressive disorder, recurrent severe without psychotic features",1,0,0
+F333,10,"major depressive disorder, recurrent, severe with psychotic symptoms",1,0,0
+F3340,10,"major depressive disorder, recurrent, in remission, unspecified",1,0,0
+F3341,10,"major depressive disorder, recurrent, in partial remission",1,0,0
+F3342,10,"major depressive disorder, recurrent, in full remission",1,0,0
+F338,10,other recurrent depressive disorders,1,0,0
+F339,10,"major depressive disorder, recurrent, unspecified",1,0,0
+F341,10,dysthymic disorder,1,0,0
+F4000,10,"agoraphobia, unspecified",0,0,1
+F4001,10,agoraphobia with panic disorder,0,0,1
+F4002,10,agoraphobia without panic disorder,0,0,1
+F4010,10,"social phobia, unspecified",0,0,1
+F4011,10,"social phobia, generalized",0,0,1
+F40210,10,arachnophobia,0,0,1
+F40218,10,other animal type phobia,0,0,1
+F40220,10,fear of thunderstorms,0,0,1
+F40228,10,other natural environment type phobia,0,0,1
+F40230,10,fear of blood,0,0,1
+F40231,10,fear of injections and transfusions,0,0,1
+F40232,10,fear of other medical care,0,0,1
+F40233,10,fear of injury,0,0,1
+F40240,10,claustrophobia,0,0,1
+F40241,10,acrophobia,0,0,1
+F40242,10,fear of bridges,0,0,1
+F40243,10,fear of flying,0,0,1
+F40248,10,other situational type phobia,0,0,1
+F40290,10,androphobia,0,0,1
+F40291,10,gynephobia,0,0,1
+F40298,10,other specified phobia,0,0,1
+F408,10,other phobic anxiety disorders,0,0,1
+F409,10,"phobic anxiety disorder, unspecified",0,0,1
+F410,10,panic disorder [episodic paroxysmal anxiety],0,0,1
+F411,10,generalized anxiety disorder,0,0,1
+F413,10,other mixed anxiety disorders,0,0,1
+F418,10,other specified anxiety disorders,0,0,1
+F419,10,"anxiety disorder, unspecified",0,0,1
+F42,10,obsessive-compulsive disorder,0,0,1
+F422,10,mixed obsessional thoughts and acts,0,0,1
+F423,10,hoarding disorder,0,0,1
+F424,10,excoriation (skin-picking) disorder,0,0,1
+F428,10,other obsessive-compulsive disorder,0,0,1
+F429,10,"obsessive-compulsive disorder, unspecified",0,0,1
+F430,10,acute stress reaction,0,0,1
+F4310,10,"post-traumatic stress disorder, unspecified",0,1,0
+F4311,10,"post-traumatic stress disorder, acute",0,1,0
+F4312,10,"post-traumatic stress disorder, chronic",0,1,0
+F488,10,other specified nonpsychotic mental disorders,0,0,1
+F489,10,"nonpsychotic mental disorder, unspecified",0,0,1
+R452,10,unhappiness,0,0,1
+R453,10,demoralization and apathy,0,0,1
+R454,10,irritability and anger,0,0,1
+R455,10,hostility,0,0,1
+R456,10,violent behavior,0,0,1
+R457,10,"state of emotional shock and stress, unspecified",0,0,1
+R4581,10,low self-esteem,0,0,1
+R4582,10,worries,0,0,1
+R4583,10,"excessive crying of child, adolescent or adult",0,0,1
+R4584,10,anhedonia,0,0,1

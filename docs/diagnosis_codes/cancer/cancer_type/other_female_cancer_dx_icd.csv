@@ -1,52 +1,52 @@
-icd_cm,ver
-'1830',9
-'V1043',9
-'C561',10
-'C562',10
-'C569',10
-'Z8543',10
-'181',9
-'1832',9
-'1833',9
-'1834',9
-'1835',9
-'1838',9
-'1839',9
-'1840',9
-'1841',9
-'1842',9
-'1843',9
-'1844',9
-'1848',9
-'1849',9
-'79516',9
-'V1040',9
-'V1044',9
-'C510',10
-'C511',10
-'C512',10
-'C518',10
-'C519',10
-'C52',10
-'C5700',10
-'C5701',10
-'C5702',10
-'C5710',10
-'C5711',10
-'C5712',10
-'C5720',10
-'C5721',10
-'C5722',10
-'C573',10
-'C574',10
-'C577',10
-'C578',10
-'C579',10
-'C58',10
-'R87620',10
-'R87621',10
-'R87622',10
-'R87623',10
-'R87624',10
-'Z8540',10
-'Z8544',10
+icd_cm,ver,icd_cm_label,hcup_ccs_single,hcup_ccs_single_label
+'1830',9,malignant neoplasm of ovary,27,(27) cancer of ovary
+'V1043',9,personal history of malignant neoplasm of ovary,27,(27) cancer of ovary
+'C561',10,malignant neoplasm of right ovary,27,(27) cancer of ovary
+'C562',10,malignant neoplasm of left ovary,27,(27) cancer of ovary
+'C569',10,malignant neoplasm of unspecified ovary,27,(27) cancer of ovary
+'Z8543',10,personal history of malignant neoplasm of ovary,27,(27) cancer of ovary
+'181',9,malignant neoplasm of placenta,28,(28) cancer of other female genital organs
+'1832',9,malignant neoplasm of fallopian tube,28,(28) cancer of other female genital organs
+'1833',9,malignant neoplasm of broad ligament of uterus,28,(28) cancer of other female genital organs
+'1834',9,malignant neoplasm of parametrium,28,(28) cancer of other female genital organs
+'1835',9,malignant neoplasm of round ligament of uterus,28,(28) cancer of other female genital organs
+'1838',9,malignant neoplasm of other specified sites of uterine adnexa,28,(28) cancer of other female genital organs
+'1839',9,"malignant neoplasm of uterine adnexa, unspecified site",28,(28) cancer of other female genital organs
+'1840',9,malignant neoplasm of vagina,28,(28) cancer of other female genital organs
+'1841',9,malignant neoplasm of labia majora,28,(28) cancer of other female genital organs
+'1842',9,malignant neoplasm of labia minora,28,(28) cancer of other female genital organs
+'1843',9,malignant neoplasm of clitoris,28,(28) cancer of other female genital organs
+'1844',9,"malignant neoplasm of vulva, unspecified site",28,(28) cancer of other female genital organs
+'1848',9,malignant neoplasm of other specified sites of female genital organs,28,(28) cancer of other female genital organs
+'1849',9,"malignant neoplasm of female genital organ, site unspecified",28,(28) cancer of other female genital organs
+'79516',9,papanicolaou smear of vagina with cytologic evidence of malignancy,28,(28) cancer of other female genital organs
+'V1040',9,"personal history of malignant neoplasm of female genital organ, unspecified",28,(28) cancer of other female genital organs
+'V1044',9,personal history of malignant neoplasm of other female genital organs,28,(28) cancer of other female genital organs
+'C510',10,malignant neoplasm of labium majus,28,(28) cancer of other female genital organs
+'C511',10,malignant neoplasm of labium minus,28,(28) cancer of other female genital organs
+'C512',10,malignant neoplasm of clitoris,28,(28) cancer of other female genital organs
+'C518',10,malignant neoplasm of overlapping sites of vulva,28,(28) cancer of other female genital organs
+'C519',10,"malignant neoplasm of vulva, unspecified",28,(28) cancer of other female genital organs
+'C52',10,malignant neoplasm of vagina,28,(28) cancer of other female genital organs
+'C5700',10,malignant neoplasm of unspecified fallopian tube,28,(28) cancer of other female genital organs
+'C5701',10,malignant neoplasm of right fallopian tube,28,(28) cancer of other female genital organs
+'C5702',10,malignant neoplasm of left fallopian tube,28,(28) cancer of other female genital organs
+'C5710',10,malignant neoplasm of unspecified broad ligament,28,(28) cancer of other female genital organs
+'C5711',10,malignant neoplasm of right broad ligament,28,(28) cancer of other female genital organs
+'C5712',10,malignant neoplasm of left broad ligament,28,(28) cancer of other female genital organs
+'C5720',10,malignant neoplasm of unspecified round ligament,28,(28) cancer of other female genital organs
+'C5721',10,malignant neoplasm of right round ligament,28,(28) cancer of other female genital organs
+'C5722',10,malignant neoplasm of left round ligament,28,(28) cancer of other female genital organs
+'C573',10,malignant neoplasm of parametrium,28,(28) cancer of other female genital organs
+'C574',10,"malignant neoplasm of uterine adnexa, unspecified",28,(28) cancer of other female genital organs
+'C577',10,malignant neoplasm of other specified female genital organs,28,(28) cancer of other female genital organs
+'C578',10,malignant neoplasm of overlapping sites of female genital organs,28,(28) cancer of other female genital organs
+'C579',10,"malignant neoplasm of female genital organ, unspecified",28,(28) cancer of other female genital organs
+'C58',10,malignant neoplasm of placenta,28,(28) cancer of other female genital organs
+'R87620',10,atypical squamous cells of undetermined significance on cytologic smear of vagina (asc-us),28,(28) cancer of other female genital organs
+'R87621',10,atypical squamous cells cannot exclude high grade squamous intraepithelial lesion on cytologic smear of vagina (asc-h),28,(28) cancer of other female genital organs
+'R87622',10,low grade squamous intraepithelial lesion on cytologic smear of vagina (lgsil),28,(28) cancer of other female genital organs
+'R87623',10,high grade squamous intraepithelial lesion on cytologic smear of vagina (hgsil),28,(28) cancer of other female genital organs
+'R87624',10,cytologic evidence of malignancy on smear of vagina,28,(28) cancer of other female genital organs
+'Z8540',10,personal history of malignant neoplasm of unspecified female genital organ,28,(28) cancer of other female genital organs
+'Z8544',10,personal history of malignant neoplasm of other female genital organs,28,(28) cancer of other female genital organs

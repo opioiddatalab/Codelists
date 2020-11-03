@@ -1,120 +1,120 @@
-icd_cm,ver
-'1500',9
-'1501',9
-'1502',9
-'1503',9
-'1504',9
-'1505',9
-'1508',9
-'1509',9
-'V1003',9
-'C153',10
-'C154',10
-'C155',10
-'C158',10
-'C159',10
-'C49A1',10
-'Z8501',10
-'1510',9
-'1511',9
-'1512',9
-'1513',9
-'1514',9
-'1515',9
-'1516',9
-'1518',9
-'1519',9
-'20923',9
-'V1004',9
-'C160',10
-'C161',10
-'C162',10
-'C163',10
-'C164',10
-'C165',10
-'C166',10
-'C168',10
-'C169',10
-'C49A2',10
-'C49A3',10
-'C7A092',10
-'Z85028',10
-'1550',9
-'1551',9
-'1552',9
-'V1007',9
-'C220',10
-'C221',10
-'C222',10
-'C223',10
-'C224',10
-'C227',10
-'C228',10
-'C229',10
-'Z8505',10
-'1570',9
-'1571',9
-'1572',9
-'1573',9
-'1574',9
-'1578',9
-'1579',9
-'C250',10
-'C251',10
-'C252',10
-'C253',10
-'C254',10
-'C257',10
-'C258',10
-'C259',10
-'1520',9
-'1521',9
-'1522',9
-'1523',9
-'1528',9
-'1529',9
-'1560',9
-'1561',9
-'1562',9
-'1568',9
-'1569',9
-'1580',9
-'1588',9
-'1589',9
-'1591',9
-'1598',9
-'1599',9
-'20900',9
-'20901',9
-'20902',9
-'20903',9
-'V1000',9
-'V1009',9
-'C170',10
-'C171',10
-'C172',10
-'C173',10
-'C178',10
-'C179',10
-'C23',10
-'C240',10
-'C241',10
-'C248',10
-'C249',10
-'C261',10
-'C269',10
-'C451',10
-'C480',10
-'C481',10
-'C482',10
-'C488',10
-'C49A0',10
-'C49A9',10
-'C7A010',10
-'C7A011',10
-'C7A012',10
-'C7A019',10
-'Z8500',10
-'Z85068',10
-'Z8507',10
-'Z8509',10
+icd_cm,ver,icd_cm_label,hcup_ccs_single,hcup_ccs_single_label
+'1500',9,malignant neoplasm of cervical esophagus,12,(12) cancer of esophagus
+'1501',9,malignant neoplasm of thoracic esophagus,12,(12) cancer of esophagus
+'1502',9,malignant neoplasm of abdominal esophagus,12,(12) cancer of esophagus
+'1503',9,malignant neoplasm of upper third of esophagus,12,(12) cancer of esophagus
+'1504',9,malignant neoplasm of middle third of esophagus,12,(12) cancer of esophagus
+'1505',9,malignant neoplasm of lower third of esophagus,12,(12) cancer of esophagus
+'1508',9,malignant neoplasm of other specified part of esophagus,12,(12) cancer of esophagus
+'1509',9,"malignant neoplasm of esophagus, unspecified site",12,(12) cancer of esophagus
+'V1003',9,personal history of malignant neoplasm of esophagus,12,(12) cancer of esophagus
+'C153',10,malignant neoplasm of upper third of esophagus,12,(12) cancer of esophagus
+'C154',10,malignant neoplasm of middle third of esophagus,12,(12) cancer of esophagus
+'C155',10,malignant neoplasm of lower third of esophagus,12,(12) cancer of esophagus
+'C158',10,malignant neoplasm of overlapping sites of esophagus,12,(12) cancer of esophagus
+'C159',10,"malignant neoplasm of esophagus, unspecified",12,(12) cancer of esophagus
+'C49A1',10,gastrointestinal stromal tumor of esophagus,12,(12) cancer of esophagus
+'Z8501',10,personal history of malignant neoplasm of esophagus,12,(12) cancer of esophagus
+'1510',9,malignant neoplasm of cardia,13,(13) cancer of stomach
+'1511',9,malignant neoplasm of pylorus,13,(13) cancer of stomach
+'1512',9,malignant neoplasm of pyloric antrum,13,(13) cancer of stomach
+'1513',9,malignant neoplasm of fundus of stomach,13,(13) cancer of stomach
+'1514',9,malignant neoplasm of body of stomach,13,(13) cancer of stomach
+'1515',9,"malignant neoplasm of lesser curvature of stomach, unspecified",13,(13) cancer of stomach
+'1516',9,"malignant neoplasm of greater curvature of stomach, unspecified",13,(13) cancer of stomach
+'1518',9,malignant neoplasm of other specified sites of stomach,13,(13) cancer of stomach
+'1519',9,"malignant neoplasm of stomach, unspecified site",13,(13) cancer of stomach
+'20923',9,malignant carcinoid tumor of the stomach,13,(13) cancer of stomach
+'V1004',9,personal history of malignant neoplasm of stomach,13,(13) cancer of stomach
+'C160',10,malignant neoplasm of cardia,13,(13) cancer of stomach
+'C161',10,malignant neoplasm of fundus of stomach,13,(13) cancer of stomach
+'C162',10,malignant neoplasm of body of stomach,13,(13) cancer of stomach
+'C163',10,malignant neoplasm of pyloric antrum,13,(13) cancer of stomach
+'C164',10,malignant neoplasm of pylorus,13,(13) cancer of stomach
+'C165',10,"malignant neoplasm of lesser curvature of stomach, unspecified",13,(13) cancer of stomach
+'C166',10,"malignant neoplasm of greater curvature of stomach, unspecified",13,(13) cancer of stomach
+'C168',10,malignant neoplasm of overlapping sites of stomach,13,(13) cancer of stomach
+'C169',10,"malignant neoplasm of stomach, unspecified",13,(13) cancer of stomach
+'C49A2',10,gastrointestinal stromal tumor of stomach,13,(13) cancer of stomach
+'C49A3',10,gastrointestinal stromal tumor of small intestine,13,(13) cancer of stomach
+'C7A092',10,malignant carcinoid tumor of the stomach,13,(13) cancer of stomach
+'Z85028',10,personal history of other malignant neoplasm of stomach,13,(13) cancer of stomach
+'1550',9,"malignant neoplasm of liver, primary",16,(16) cancer of liver and intrahepatic bile duct
+'1551',9,malignant neoplasm of intrahepatic bile ducts,16,(16) cancer of liver and intrahepatic bile duct
+'1552',9,"malignant neoplasm of liver, not specified as primary or secondary",16,(16) cancer of liver and intrahepatic bile duct
+'V1007',9,personal history of malignant neoplasm of liver,16,(16) cancer of liver and intrahepatic bile duct
+'C220',10,liver cell carcinoma,16,(16) cancer of liver and intrahepatic bile duct
+'C221',10,intrahepatic bile duct carcinoma,16,(16) cancer of liver and intrahepatic bile duct
+'C222',10,hepatoblastoma,16,(16) cancer of liver and intrahepatic bile duct
+'C223',10,angiosarcoma of liver,16,(16) cancer of liver and intrahepatic bile duct
+'C224',10,other sarcomas of liver,16,(16) cancer of liver and intrahepatic bile duct
+'C227',10,other specified carcinomas of liver,16,(16) cancer of liver and intrahepatic bile duct
+'C228',10,"malignant neoplasm of liver, primary, unspecified as to type",16,(16) cancer of liver and intrahepatic bile duct
+'C229',10,"malignant neoplasm of liver, not specified as primary or secondary",16,(16) cancer of liver and intrahepatic bile duct
+'Z8505',10,personal history of malignant neoplasm of liver,16,(16) cancer of liver and intrahepatic bile duct
+'1570',9,malignant neoplasm of head of pancreas,17,(17) cancer of pancreas
+'1571',9,malignant neoplasm of body of pancreas,17,(17) cancer of pancreas
+'1572',9,malignant neoplasm of tail of pancreas,17,(17) cancer of pancreas
+'1573',9,malignant neoplasm of pancreatic duct,17,(17) cancer of pancreas
+'1574',9,malignant neoplasm of islets of langerhans,17,(17) cancer of pancreas
+'1578',9,malignant neoplasm of other specified sites of pancreas,17,(17) cancer of pancreas
+'1579',9,"malignant neoplasm of pancreas, part unspecified",17,(17) cancer of pancreas
+'C250',10,malignant neoplasm of head of pancreas,17,(17) cancer of pancreas
+'C251',10,malignant neoplasm of body of pancreas,17,(17) cancer of pancreas
+'C252',10,malignant neoplasm of tail of pancreas,17,(17) cancer of pancreas
+'C253',10,malignant neoplasm of pancreatic duct,17,(17) cancer of pancreas
+'C254',10,malignant neoplasm of endocrine pancreas,17,(17) cancer of pancreas
+'C257',10,malignant neoplasm of other parts of pancreas,17,(17) cancer of pancreas
+'C258',10,malignant neoplasm of overlapping sites of pancreas,17,(17) cancer of pancreas
+'C259',10,"malignant neoplasm of pancreas, unspecified",17,(17) cancer of pancreas
+'1520',9,malignant neoplasm of duodenum,18,(18) cancer of other gi organs; peritoneum
+'1521',9,malignant neoplasm of jejunum,18,(18) cancer of other gi organs; peritoneum
+'1522',9,malignant neoplasm of ileum,18,(18) cancer of other gi organs; peritoneum
+'1523',9,malignant neoplasm of meckel's diverticulum,18,(18) cancer of other gi organs; peritoneum
+'1528',9,malignant neoplasm of other specified sites of small intestine,18,(18) cancer of other gi organs; peritoneum
+'1529',9,"malignant neoplasm of small intestine, unspecified site",18,(18) cancer of other gi organs; peritoneum
+'1560',9,malignant neoplasm of gallbladder,18,(18) cancer of other gi organs; peritoneum
+'1561',9,malignant neoplasm of extrahepatic bile ducts,18,(18) cancer of other gi organs; peritoneum
+'1562',9,malignant neoplasm of ampulla of vater,18,(18) cancer of other gi organs; peritoneum
+'1568',9,malignant neoplasm of other specified sites of gallbladder and extrahepatic bile ducts,18,(18) cancer of other gi organs; peritoneum
+'1569',9,"malignant neoplasm of biliary tract, part unspecified site",18,(18) cancer of other gi organs; peritoneum
+'1580',9,malignant neoplasm of retroperitoneum,18,(18) cancer of other gi organs; peritoneum
+'1588',9,malignant neoplasm of specified parts of peritoneum,18,(18) cancer of other gi organs; peritoneum
+'1589',9,"malignant neoplasm of peritoneum, unspecified",18,(18) cancer of other gi organs; peritoneum
+'1591',9,"malignant neoplasm of spleen, not elsewhere classified",18,(18) cancer of other gi organs; peritoneum
+'1598',9,malignant neoplasm of other sites of digestive system and intra-abdominal organs,18,(18) cancer of other gi organs; peritoneum
+'1599',9,malignant neoplasm of ill-defined sites within the digestive organs and peritoneum,18,(18) cancer of other gi organs; peritoneum
+'20900',9,"malignant carcinoid tumor of the small intestine, unspecified portion",18,(18) cancer of other gi organs; peritoneum
+'20901',9,malignant carcinoid tumor of the duodenum,18,(18) cancer of other gi organs; peritoneum
+'20902',9,malignant carcinoid tumor of the jejunum,18,(18) cancer of other gi organs; peritoneum
+'20903',9,malignant carcinoid tumor of the ileum,18,(18) cancer of other gi organs; peritoneum
+'V1000',9,"personal history of malignant neoplasm of gastrointestinal tract, unspecified",18,(18) cancer of other gi organs; peritoneum
+'V1009',9,personal history of malignant neoplasm of other gastrointestinal tract,18,(18) cancer of other gi organs; peritoneum
+'C170',10,malignant neoplasm of duodenum,18,(18) cancer of other gi organs; peritoneum
+'C171',10,malignant neoplasm of jejunum,18,(18) cancer of other gi organs; peritoneum
+'C172',10,malignant neoplasm of ileum,18,(18) cancer of other gi organs; peritoneum
+'C173',10,"meckel's diverticulum, malignant",18,(18) cancer of other gi organs; peritoneum
+'C178',10,malignant neoplasm of overlapping sites of small intestine,18,(18) cancer of other gi organs; peritoneum
+'C179',10,"malignant neoplasm of small intestine, unspecified",18,(18) cancer of other gi organs; peritoneum
+'C23',10,malignant neoplasm of gallbladder,18,(18) cancer of other gi organs; peritoneum
+'C240',10,malignant neoplasm of extrahepatic bile duct,18,(18) cancer of other gi organs; peritoneum
+'C241',10,malignant neoplasm of ampulla of vater,18,(18) cancer of other gi organs; peritoneum
+'C248',10,malignant neoplasm of overlapping sites of biliary tract,18,(18) cancer of other gi organs; peritoneum
+'C249',10,"malignant neoplasm of biliary tract, unspecified",18,(18) cancer of other gi organs; peritoneum
+'C261',10,malignant neoplasm of spleen,18,(18) cancer of other gi organs; peritoneum
+'C269',10,malignant neoplasm of ill-defined sites within the digestive system,18,(18) cancer of other gi organs; peritoneum
+'C451',10,mesothelioma of peritoneum,18,(18) cancer of other gi organs; peritoneum
+'C480',10,malignant neoplasm of retroperitoneum,18,(18) cancer of other gi organs; peritoneum
+'C481',10,malignant neoplasm of specified parts of peritoneum,18,(18) cancer of other gi organs; peritoneum
+'C482',10,"malignant neoplasm of peritoneum, unspecified",18,(18) cancer of other gi organs; peritoneum
+'C488',10,malignant neoplasm of overlapping sites of retroperitoneum and peritoneum,18,(18) cancer of other gi organs; peritoneum
+'C49A0',10,"gastrointestinal stromal tumor, unspecified site",18,(18) cancer of other gi organs; peritoneum
+'C49A9',10,gastrointestinal stromal tumor of other sites,18,(18) cancer of other gi organs; peritoneum
+'C7A010',10,malignant carcinoid tumor of the duodenum,18,(18) cancer of other gi organs; peritoneum
+'C7A011',10,malignant carcinoid tumor of the jejunum,18,(18) cancer of other gi organs; peritoneum
+'C7A012',10,malignant carcinoid tumor of the ileum,18,(18) cancer of other gi organs; peritoneum
+'C7A019',10,"malignant carcinoid tumor of the small intestine, unspecified portion",18,(18) cancer of other gi organs; peritoneum
+'Z8500',10,personal history of malignant neoplasm of unspecified digestive organ,18,(18) cancer of other gi organs; peritoneum
+'Z85068',10,personal history of other malignant neoplasm of small intestine,18,(18) cancer of other gi organs; peritoneum
+'Z8507',10,personal history of malignant neoplasm of pancreas,18,(18) cancer of other gi organs; peritoneum
+'Z8509',10,personal history of malignant neoplasm of other digestive organs,18,(18) cancer of other gi organs; peritoneum

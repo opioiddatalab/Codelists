@@ -1,0 +1,28 @@
+﻿icd_cm,ver,icd_cm_label,hcup_ccs_single,hcup_ccs_single_label
+28241,9,sickle-cell thalassemia without crisis,61,(61) sickle cell anemia
+28242,9,sickle-cell thalassemia with crisis,61,(61) sickle cell anemia
+2825,9,sickle-cell trait,61,(61) sickle cell anemia
+28260,9,"sickle-cell disease, unspecified",61,(61) sickle cell anemia
+28261,9,hb-ss disease without crisis,61,(61) sickle cell anemia
+28262,9,hb-ss disease with crisis,61,(61) sickle cell anemia
+28263,9,sickle-cell/hb-c disease without crisis,61,(61) sickle cell anemia
+28264,9,sickle-cell/hb-c disease with crisis,61,(61) sickle cell anemia
+28268,9,other sickle-cell disease without crisis,61,(61) sickle cell anemia
+28269,9,other sickle-cell disease with crisis,61,(61) sickle cell anemia
+D5700,10,"hb-ss disease with crisis, unspecified",61,(61) sickle cell anemia
+D5701,10,hb-ss disease with acute chest syndrome,61,(61) sickle cell anemia
+D5702,10,hb-ss disease with splenic sequestration,61,(61) sickle cell anemia
+D571,10,sickle-cell disease without crisis,61,(61) sickle cell anemia
+D5720,10,sickle-cell/hb-c disease without crisis,61,(61) sickle cell anemia
+D57211,10,sickle-cell/hb-c disease with acute chest syndrome,61,(61) sickle cell anemia
+D57212,10,sickle-cell/hb-c disease with splenic sequestration,61,(61) sickle cell anemia
+D57219,10,"sickle-cell/hb-c disease with crisis, unspecified",61,(61) sickle cell anemia
+D573,10,sickle-cell trait,61,(61) sickle cell anemia
+D5740,10,sickle-cell thalassemia without crisis,61,(61) sickle cell anemia
+D57411,10,sickle-cell thalassemia with acute chest syndrome,61,(61) sickle cell anemia
+D57412,10,sickle-cell thalassemia with splenic sequestration,61,(61) sickle cell anemia
+D57419,10,"sickle-cell thalassemia with crisis, unspecified",61,(61) sickle cell anemia
+D5780,10,other sickle-cell disorders without crisis,61,(61) sickle cell anemia
+D57811,10,other sickle-cell disorders with acute chest syndrome,61,(61) sickle cell anemia
+D57812,10,other sickle-cell disorders with splenic sequestration,61,(61) sickle cell anemia
+D57819,10,"other sickle-cell disorders with crisis, unspecified",61,(61) sickle cell anemia

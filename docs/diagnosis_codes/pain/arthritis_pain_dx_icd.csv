@@ -1,0 +1,620 @@
+﻿icd_cm,ver,icd_cm_label,hcup_ccs_single,hcup_ccs_single_label
+7140,9,rheumatoid arthritis,202,(202) rheumatoid arthritis and related disease
+7141,9,felty's syndrome,202,(202) rheumatoid arthritis and related disease
+7142,9,other rheumatoid arthritis with visceral or systemic involvement,202,(202) rheumatoid arthritis and related disease
+71430,9,"polyarticular juvenile rheumatoid arthritis, chronic or unspecified",202,(202) rheumatoid arthritis and related disease
+71431,9,"polyarticular juvenile rheumatoid arthritis, acute",202,(202) rheumatoid arthritis and related disease
+71432,9,pauciarticular juvenile rheumatoid arthritis,202,(202) rheumatoid arthritis and related disease
+71433,9,monoarticular juvenile rheumatoid arthritis,202,(202) rheumatoid arthritis and related disease
+7144,9,chronic postrheumatic arthropathy,202,(202) rheumatoid arthritis and related disease
+71481,9,rheumatoid lung,202,(202) rheumatoid arthritis and related disease
+71489,9,other specified inflammatory polyarthropathies,202,(202) rheumatoid arthritis and related disease
+7149,9,unspecified inflammatory polyarthropathy,202,(202) rheumatoid arthritis and related disease
+71500,9,"osteoarthrosis, generalized, site unspecified",203,(203) osteoarthritis
+71504,9,"osteoarthrosis, generalized, hand",203,(203) osteoarthritis
+71509,9,"osteoarthrosis, generalized, multiple sites",203,(203) osteoarthritis
+71510,9,"osteoarthrosis, localized, primary, site unspecified",203,(203) osteoarthritis
+71511,9,"osteoarthrosis, localized, primary, shoulder region",203,(203) osteoarthritis
+71512,9,"osteoarthrosis, localized, primary, upper arm",203,(203) osteoarthritis
+71513,9,"osteoarthrosis, localized, primary, forearm",203,(203) osteoarthritis
+71514,9,"osteoarthrosis, localized, primary, hand",203,(203) osteoarthritis
+71515,9,"osteoarthrosis, localized, primary, pelvic region and thigh",203,(203) osteoarthritis
+71516,9,"osteoarthrosis, localized, primary, lower leg",203,(203) osteoarthritis
+71517,9,"osteoarthrosis, localized, primary, ankle and foot",203,(203) osteoarthritis
+71518,9,"osteoarthrosis, localized, primary, other specified sites",203,(203) osteoarthritis
+71520,9,"osteoarthrosis, localized, secondary, site unspecified",203,(203) osteoarthritis
+71521,9,"osteoarthrosis, localized, secondary, shoulder region",203,(203) osteoarthritis
+71522,9,"osteoarthrosis, localized, secondary, upper arm",203,(203) osteoarthritis
+71523,9,"osteoarthrosis, localized, secondary, forearm",203,(203) osteoarthritis
+71524,9,"osteoarthrosis, localized, secondary, hand",203,(203) osteoarthritis
+71525,9,"osteoarthrosis, localized, secondary, pelvic region and thigh",203,(203) osteoarthritis
+71526,9,"osteoarthrosis, localized, secondary, lower leg",203,(203) osteoarthritis
+71527,9,"osteoarthrosis, localized, secondary, ankle and foot",203,(203) osteoarthritis
+71528,9,"osteoarthrosis, localized, secondary, other specified sites",203,(203) osteoarthritis
+71530,9,"osteoarthrosis, localized, not specified whether primary or secondary, site unspecified",203,(203) osteoarthritis
+71531,9,"osteoarthrosis, localized, not specified whether primary or secondary, shoulder region",203,(203) osteoarthritis
+71532,9,"osteoarthrosis, localized, not specified whether primary or secondary, upper arm",203,(203) osteoarthritis
+71533,9,"osteoarthrosis, localized, not specified whether primary or secondary, forearm",203,(203) osteoarthritis
+71534,9,"osteoarthrosis, localized, not specified whether primary or secondary, hand",203,(203) osteoarthritis
+71535,9,"osteoarthrosis, localized, not specified whether primary or secondary, pelvic region and thigh",203,(203) osteoarthritis
+71536,9,"osteoarthrosis, localized, not specified whether primary or secondary, lower leg",203,(203) osteoarthritis
+71537,9,"osteoarthrosis, localized, not specified whether primary or secondary, ankle and foot",203,(203) osteoarthritis
+71538,9,"osteoarthrosis, localized, not specified whether primary or secondary, other specified sites",203,(203) osteoarthritis
+71580,9,"osteoarthrosis involving, or with mention of more than one site, but not specified as generalized, site unspecified",203,(203) osteoarthritis
+71589,9,"osteoarthrosis involving, or with mention of more than one site, but not specified as generalized, multiple sites",203,(203) osteoarthritis
+71590,9,"osteoarthrosis, unspecified whether generalized or localized, site unspecified",203,(203) osteoarthritis
+71591,9,"osteoarthrosis, unspecified whether generalized or localized, shoulder region",203,(203) osteoarthritis
+71592,9,"osteoarthrosis, unspecified whether generalized or localized, upper arm",203,(203) osteoarthritis
+71593,9,"osteoarthrosis, unspecified whether generalized or localized, forearm",203,(203) osteoarthritis
+71594,9,"osteoarthrosis, unspecified whether generalized or localized, hand",203,(203) osteoarthritis
+71595,9,"osteoarthrosis, unspecified whether generalized or localized, pelvic region and thigh",203,(203) osteoarthritis
+71596,9,"osteoarthrosis, unspecified whether generalized or localized, lower leg",203,(203) osteoarthritis
+71597,9,"osteoarthrosis, unspecified whether generalized or localized, ankle and foot",203,(203) osteoarthritis
+71598,9,"osteoarthrosis, unspecified whether generalized or localized, other specified sites",203,(203) osteoarthritis
+7200,9,ankylosing spondylitis,202,(202) rheumatoid arthritis and related disease
+M0500,10,"felty's syndrome, unspecified site",202,(202) rheumatoid arthritis and related disease
+M05011,10,"felty's syndrome, right shoulder",202,(202) rheumatoid arthritis and related disease
+M05012,10,"felty's syndrome, left shoulder",202,(202) rheumatoid arthritis and related disease
+M05019,10,"felty's syndrome, unspecified shoulder",202,(202) rheumatoid arthritis and related disease
+M05021,10,"felty's syndrome, right elbow",202,(202) rheumatoid arthritis and related disease
+M05022,10,"felty's syndrome, left elbow",202,(202) rheumatoid arthritis and related disease
+M05029,10,"felty's syndrome, unspecified elbow",202,(202) rheumatoid arthritis and related disease
+M05031,10,"felty's syndrome, right wrist",202,(202) rheumatoid arthritis and related disease
+M05032,10,"felty's syndrome, left wrist",202,(202) rheumatoid arthritis and related disease
+M05039,10,"felty's syndrome, unspecified wrist",202,(202) rheumatoid arthritis and related disease
+M05041,10,"felty's syndrome, right hand",202,(202) rheumatoid arthritis and related disease
+M05042,10,"felty's syndrome, left hand",202,(202) rheumatoid arthritis and related disease
+M05049,10,"felty's syndrome, unspecified hand",202,(202) rheumatoid arthritis and related disease
+M05051,10,"felty's syndrome, right hip",202,(202) rheumatoid arthritis and related disease
+M05052,10,"felty's syndrome, left hip",202,(202) rheumatoid arthritis and related disease
+M05059,10,"felty's syndrome, unspecified hip",202,(202) rheumatoid arthritis and related disease
+M05061,10,"felty's syndrome, right knee",202,(202) rheumatoid arthritis and related disease
+M05062,10,"felty's syndrome, left knee",202,(202) rheumatoid arthritis and related disease
+M05069,10,"felty's syndrome, unspecified knee",202,(202) rheumatoid arthritis and related disease
+M05071,10,"felty's syndrome, right ankle and foot",202,(202) rheumatoid arthritis and related disease
+M05072,10,"felty's syndrome, left ankle and foot",202,(202) rheumatoid arthritis and related disease
+M05079,10,"felty's syndrome, unspecified ankle and foot",202,(202) rheumatoid arthritis and related disease
+M0509,10,"felty's syndrome, multiple sites",202,(202) rheumatoid arthritis and related disease
+M0510,10,rheumatoid lung disease with rheumatoid arthritis of unspecified site,202,(202) rheumatoid arthritis and related disease
+M05111,10,rheumatoid lung disease with rheumatoid arthritis of right shoulder,202,(202) rheumatoid arthritis and related disease
+M05112,10,rheumatoid lung disease with rheumatoid arthritis of left shoulder,202,(202) rheumatoid arthritis and related disease
+M05119,10,rheumatoid lung disease with rheumatoid arthritis of unspecified shoulder,202,(202) rheumatoid arthritis and related disease
+M05121,10,rheumatoid lung disease with rheumatoid arthritis of right elbow,202,(202) rheumatoid arthritis and related disease
+M05122,10,rheumatoid lung disease with rheumatoid arthritis of left elbow,202,(202) rheumatoid arthritis and related disease
+M05129,10,rheumatoid lung disease with rheumatoid arthritis of unspecified elbow,202,(202) rheumatoid arthritis and related disease
+M05131,10,rheumatoid lung disease with rheumatoid arthritis of right wrist,202,(202) rheumatoid arthritis and related disease
+M05132,10,rheumatoid lung disease with rheumatoid arthritis of left wrist,202,(202) rheumatoid arthritis and related disease
+M05139,10,rheumatoid lung disease with rheumatoid arthritis of unspecified wrist,202,(202) rheumatoid arthritis and related disease
+M05141,10,rheumatoid lung disease with rheumatoid arthritis of right hand,202,(202) rheumatoid arthritis and related disease
+M05142,10,rheumatoid lung disease with rheumatoid arthritis of left hand,202,(202) rheumatoid arthritis and related disease
+M05149,10,rheumatoid lung disease with rheumatoid arthritis of unspecified hand,202,(202) rheumatoid arthritis and related disease
+M05151,10,rheumatoid lung disease with rheumatoid arthritis of right hip,202,(202) rheumatoid arthritis and related disease
+M05152,10,rheumatoid lung disease with rheumatoid arthritis of left hip,202,(202) rheumatoid arthritis and related disease
+M05159,10,rheumatoid lung disease with rheumatoid arthritis of unspecified hip,202,(202) rheumatoid arthritis and related disease
+M05161,10,rheumatoid lung disease with rheumatoid arthritis of right knee,202,(202) rheumatoid arthritis and related disease
+M05162,10,rheumatoid lung disease with rheumatoid arthritis of left knee,202,(202) rheumatoid arthritis and related disease
+M05169,10,rheumatoid lung disease with rheumatoid arthritis of unspecified knee,202,(202) rheumatoid arthritis and related disease
+M05171,10,rheumatoid lung disease with rheumatoid arthritis of right ankle and foot,202,(202) rheumatoid arthritis and related disease
+M05172,10,rheumatoid lung disease with rheumatoid arthritis of left ankle and foot,202,(202) rheumatoid arthritis and related disease
+M05179,10,rheumatoid lung disease with rheumatoid arthritis of unspecified ankle and foot,202,(202) rheumatoid arthritis and related disease
+M0519,10,rheumatoid lung disease with rheumatoid arthritis of multiple sites,202,(202) rheumatoid arthritis and related disease
+M0520,10,rheumatoid vasculitis with rheumatoid arthritis of unspecified site,202,(202) rheumatoid arthritis and related disease
+M05211,10,rheumatoid vasculitis with rheumatoid arthritis of right shoulder,202,(202) rheumatoid arthritis and related disease
+M05212,10,rheumatoid vasculitis with rheumatoid arthritis of left shoulder,202,(202) rheumatoid arthritis and related disease
+M05219,10,rheumatoid vasculitis with rheumatoid arthritis of unspecified shoulder,202,(202) rheumatoid arthritis and related disease
+M05221,10,rheumatoid vasculitis with rheumatoid arthritis of right elbow,202,(202) rheumatoid arthritis and related disease
+M05222,10,rheumatoid vasculitis with rheumatoid arthritis of left elbow,202,(202) rheumatoid arthritis and related disease
+M05229,10,rheumatoid vasculitis with rheumatoid arthritis of unspecified elbow,202,(202) rheumatoid arthritis and related disease
+M05231,10,rheumatoid vasculitis with rheumatoid arthritis of right wrist,202,(202) rheumatoid arthritis and related disease
+M05232,10,rheumatoid vasculitis with rheumatoid arthritis of left wrist,202,(202) rheumatoid arthritis and related disease
+M05239,10,rheumatoid vasculitis with rheumatoid arthritis of unspecified wrist,202,(202) rheumatoid arthritis and related disease
+M05241,10,rheumatoid vasculitis with rheumatoid arthritis of right hand,202,(202) rheumatoid arthritis and related disease
+M05242,10,rheumatoid vasculitis with rheumatoid arthritis of left hand,202,(202) rheumatoid arthritis and related disease
+M05249,10,rheumatoid vasculitis with rheumatoid arthritis of unspecified hand,202,(202) rheumatoid arthritis and related disease
+M05251,10,rheumatoid vasculitis with rheumatoid arthritis of right hip,202,(202) rheumatoid arthritis and related disease
+M05252,10,rheumatoid vasculitis with rheumatoid arthritis of left hip,202,(202) rheumatoid arthritis and related disease
+M05259,10,rheumatoid vasculitis with rheumatoid arthritis of unspecified hip,202,(202) rheumatoid arthritis and related disease
+M05261,10,rheumatoid vasculitis with rheumatoid arthritis of right knee,202,(202) rheumatoid arthritis and related disease
+M05262,10,rheumatoid vasculitis with rheumatoid arthritis of left knee,202,(202) rheumatoid arthritis and related disease
+M05269,10,rheumatoid vasculitis with rheumatoid arthritis of unspecified knee,202,(202) rheumatoid arthritis and related disease
+M05271,10,rheumatoid vasculitis with rheumatoid arthritis of right ankle and foot,202,(202) rheumatoid arthritis and related disease
+M05272,10,rheumatoid vasculitis with rheumatoid arthritis of left ankle and foot,202,(202) rheumatoid arthritis and related disease
+M05279,10,rheumatoid vasculitis with rheumatoid arthritis of unspecified ankle and foot,202,(202) rheumatoid arthritis and related disease
+M0529,10,rheumatoid vasculitis with rheumatoid arthritis of multiple sites,202,(202) rheumatoid arthritis and related disease
+M0530,10,rheumatoid heart disease with rheumatoid arthritis of unspecified site,202,(202) rheumatoid arthritis and related disease
+M05311,10,rheumatoid heart disease with rheumatoid arthritis of right shoulder,202,(202) rheumatoid arthritis and related disease
+M05312,10,rheumatoid heart disease with rheumatoid arthritis of left shoulder,202,(202) rheumatoid arthritis and related disease
+M05319,10,rheumatoid heart disease with rheumatoid arthritis of unspecified shoulder,202,(202) rheumatoid arthritis and related disease
+M05321,10,rheumatoid heart disease with rheumatoid arthritis of right elbow,202,(202) rheumatoid arthritis and related disease
+M05322,10,rheumatoid heart disease with rheumatoid arthritis of left elbow,202,(202) rheumatoid arthritis and related disease
+M05329,10,rheumatoid heart disease with rheumatoid arthritis of unspecified elbow,202,(202) rheumatoid arthritis and related disease
+M05331,10,rheumatoid heart disease with rheumatoid arthritis of right wrist,202,(202) rheumatoid arthritis and related disease
+M05332,10,rheumatoid heart disease with rheumatoid arthritis of left wrist,202,(202) rheumatoid arthritis and related disease
+M05339,10,rheumatoid heart disease with rheumatoid arthritis of unspecified wrist,202,(202) rheumatoid arthritis and related disease
+M05341,10,rheumatoid heart disease with rheumatoid arthritis of right hand,202,(202) rheumatoid arthritis and related disease
+M05342,10,rheumatoid heart disease with rheumatoid arthritis of left hand,202,(202) rheumatoid arthritis and related disease
+M05349,10,rheumatoid heart disease with rheumatoid arthritis of unspecified hand,202,(202) rheumatoid arthritis and related disease
+M05351,10,rheumatoid heart disease with rheumatoid arthritis of right hip,202,(202) rheumatoid arthritis and related disease
+M05352,10,rheumatoid heart disease with rheumatoid arthritis of left hip,202,(202) rheumatoid arthritis and related disease
+M05359,10,rheumatoid heart disease with rheumatoid arthritis of unspecified hip,202,(202) rheumatoid arthritis and related disease
+M05361,10,rheumatoid heart disease with rheumatoid arthritis of right knee,202,(202) rheumatoid arthritis and related disease
+M05362,10,rheumatoid heart disease with rheumatoid arthritis of left knee,202,(202) rheumatoid arthritis and related disease
+M05369,10,rheumatoid heart disease with rheumatoid arthritis of unspecified knee,202,(202) rheumatoid arthritis and related disease
+M05371,10,rheumatoid heart disease with rheumatoid arthritis of right ankle and foot,202,(202) rheumatoid arthritis and related disease
+M05372,10,rheumatoid heart disease with rheumatoid arthritis of left ankle and foot,202,(202) rheumatoid arthritis and related disease
+M05379,10,rheumatoid heart disease with rheumatoid arthritis of unspecified ankle and foot,202,(202) rheumatoid arthritis and related disease
+M0539,10,rheumatoid heart disease with rheumatoid arthritis of multiple sites,202,(202) rheumatoid arthritis and related disease
+M0540,10,rheumatoid myopathy with rheumatoid arthritis of unspecified site,202,(202) rheumatoid arthritis and related disease
+M05411,10,rheumatoid myopathy with rheumatoid arthritis of right shoulder,202,(202) rheumatoid arthritis and related disease
+M05412,10,rheumatoid myopathy with rheumatoid arthritis of left shoulder,202,(202) rheumatoid arthritis and related disease
+M05419,10,rheumatoid myopathy with rheumatoid arthritis of unspecified shoulder,202,(202) rheumatoid arthritis and related disease
+M05421,10,rheumatoid myopathy with rheumatoid arthritis of right elbow,202,(202) rheumatoid arthritis and related disease
+M05422,10,rheumatoid myopathy with rheumatoid arthritis of left elbow,202,(202) rheumatoid arthritis and related disease
+M05429,10,rheumatoid myopathy with rheumatoid arthritis of unspecified elbow,202,(202) rheumatoid arthritis and related disease
+M05431,10,rheumatoid myopathy with rheumatoid arthritis of right wrist,202,(202) rheumatoid arthritis and related disease
+M05432,10,rheumatoid myopathy with rheumatoid arthritis of left wrist,202,(202) rheumatoid arthritis and related disease
+M05439,10,rheumatoid myopathy with rheumatoid arthritis of unspecified wrist,202,(202) rheumatoid arthritis and related disease
+M05441,10,rheumatoid myopathy with rheumatoid arthritis of right hand,202,(202) rheumatoid arthritis and related disease
+M05442,10,rheumatoid myopathy with rheumatoid arthritis of left hand,202,(202) rheumatoid arthritis and related disease
+M05449,10,rheumatoid myopathy with rheumatoid arthritis of unspecified hand,202,(202) rheumatoid arthritis and related disease
+M05451,10,rheumatoid myopathy with rheumatoid arthritis of right hip,202,(202) rheumatoid arthritis and related disease
+M05452,10,rheumatoid myopathy with rheumatoid arthritis of left hip,202,(202) rheumatoid arthritis and related disease
+M05459,10,rheumatoid myopathy with rheumatoid arthritis of unspecified hip,202,(202) rheumatoid arthritis and related disease
+M05461,10,rheumatoid myopathy with rheumatoid arthritis of right knee,202,(202) rheumatoid arthritis and related disease
+M05462,10,rheumatoid myopathy with rheumatoid arthritis of left knee,202,(202) rheumatoid arthritis and related disease
+M05469,10,rheumatoid myopathy with rheumatoid arthritis of unspecified knee,202,(202) rheumatoid arthritis and related disease
+M05471,10,rheumatoid myopathy with rheumatoid arthritis of right ankle and foot,202,(202) rheumatoid arthritis and related disease
+M05472,10,rheumatoid myopathy with rheumatoid arthritis of left ankle and foot,202,(202) rheumatoid arthritis and related disease
+M05479,10,rheumatoid myopathy with rheumatoid arthritis of unspecified ankle and foot,202,(202) rheumatoid arthritis and related disease
+M0549,10,rheumatoid myopathy with rheumatoid arthritis of multiple sites,202,(202) rheumatoid arthritis and related disease
+M0550,10,rheumatoid polyneuropathy with rheumatoid arthritis of unspecified site,202,(202) rheumatoid arthritis and related disease
+M05511,10,rheumatoid polyneuropathy with rheumatoid arthritis of right shoulder,202,(202) rheumatoid arthritis and related disease
+M05512,10,rheumatoid polyneuropathy with rheumatoid arthritis of left shoulder,202,(202) rheumatoid arthritis and related disease
+M05519,10,rheumatoid polyneuropathy with rheumatoid arthritis of unspecified shoulder,202,(202) rheumatoid arthritis and related disease
+M05521,10,rheumatoid polyneuropathy with rheumatoid arthritis of right elbow,202,(202) rheumatoid arthritis and related disease
+M05522,10,rheumatoid polyneuropathy with rheumatoid arthritis of left elbow,202,(202) rheumatoid arthritis and related disease
+M05529,10,rheumatoid polyneuropathy with rheumatoid arthritis of unspecified elbow,202,(202) rheumatoid arthritis and related disease
+M05531,10,rheumatoid polyneuropathy with rheumatoid arthritis of right wrist,202,(202) rheumatoid arthritis and related disease
+M05532,10,rheumatoid polyneuropathy with rheumatoid arthritis of left wrist,202,(202) rheumatoid arthritis and related disease
+M05539,10,rheumatoid polyneuropathy with rheumatoid arthritis of unspecified wrist,202,(202) rheumatoid arthritis and related disease
+M05541,10,rheumatoid polyneuropathy with rheumatoid arthritis of right hand,202,(202) rheumatoid arthritis and related disease
+M05542,10,rheumatoid polyneuropathy with rheumatoid arthritis of left hand,202,(202) rheumatoid arthritis and related disease
+M05549,10,rheumatoid polyneuropathy with rheumatoid arthritis of unspecified hand,202,(202) rheumatoid arthritis and related disease
+M05551,10,rheumatoid polyneuropathy with rheumatoid arthritis of right hip,202,(202) rheumatoid arthritis and related disease
+M05552,10,rheumatoid polyneuropathy with rheumatoid arthritis of left hip,202,(202) rheumatoid arthritis and related disease
+M05559,10,rheumatoid polyneuropathy with rheumatoid arthritis of unspecified hip,202,(202) rheumatoid arthritis and related disease
+M05561,10,rheumatoid polyneuropathy with rheumatoid arthritis of right knee,202,(202) rheumatoid arthritis and related disease
+M05562,10,rheumatoid polyneuropathy with rheumatoid arthritis of left knee,202,(202) rheumatoid arthritis and related disease
+M05569,10,rheumatoid polyneuropathy with rheumatoid arthritis of unspecified knee,202,(202) rheumatoid arthritis and related disease
+M05571,10,rheumatoid polyneuropathy with rheumatoid arthritis of right ankle and foot,202,(202) rheumatoid arthritis and related disease
+M05572,10,rheumatoid polyneuropathy with rheumatoid arthritis of left ankle and foot,202,(202) rheumatoid arthritis and related disease
+M05579,10,rheumatoid polyneuropathy with rheumatoid arthritis of unspecified ankle and foot,202,(202) rheumatoid arthritis and related disease
+M0559,10,rheumatoid polyneuropathy with rheumatoid arthritis of multiple sites,202,(202) rheumatoid arthritis and related disease
+M0560,10,rheumatoid arthritis of unspecified site with involvement of other organs and systems,202,(202) rheumatoid arthritis and related disease
+M05611,10,rheumatoid arthritis of right shoulder with involvement of other organs and systems,202,(202) rheumatoid arthritis and related disease
+M05612,10,rheumatoid arthritis of left shoulder with involvement of other organs and systems,202,(202) rheumatoid arthritis and related disease
+M05619,10,rheumatoid arthritis of unspecified shoulder with involvement of other organs and systems,202,(202) rheumatoid arthritis and related disease
+M05621,10,rheumatoid arthritis of right elbow with involvement of other organs and systems,202,(202) rheumatoid arthritis and related disease
+M05622,10,rheumatoid arthritis of left elbow with involvement of other organs and systems,202,(202) rheumatoid arthritis and related disease
+M05629,10,rheumatoid arthritis of unspecified elbow with involvement of other organs and systems,202,(202) rheumatoid arthritis and related disease
+M05631,10,rheumatoid arthritis of right wrist with involvement of other organs and systems,202,(202) rheumatoid arthritis and related disease
+M05632,10,rheumatoid arthritis of left wrist with involvement of other organs and systems,202,(202) rheumatoid arthritis and related disease
+M05639,10,rheumatoid arthritis of unspecified wrist with involvement of other organs and systems,202,(202) rheumatoid arthritis and related disease
+M05641,10,rheumatoid arthritis of right hand with involvement of other organs and systems,202,(202) rheumatoid arthritis and related disease
+M05642,10,rheumatoid arthritis of left hand with involvement of other organs and systems,202,(202) rheumatoid arthritis and related disease
+M05649,10,rheumatoid arthritis of unspecified hand with involvement of other organs and systems,202,(202) rheumatoid arthritis and related disease
+M05651,10,rheumatoid arthritis of right hip with involvement of other organs and systems,202,(202) rheumatoid arthritis and related disease
+M05652,10,rheumatoid arthritis of left hip with involvement of other organs and systems,202,(202) rheumatoid arthritis and related disease
+M05659,10,rheumatoid arthritis of unspecified hip with involvement of other organs and systems,202,(202) rheumatoid arthritis and related disease
+M05661,10,rheumatoid arthritis of right knee with involvement of other organs and systems,202,(202) rheumatoid arthritis and related disease
+M05662,10,rheumatoid arthritis of left knee with involvement of other organs and systems,202,(202) rheumatoid arthritis and related disease
+M05669,10,rheumatoid arthritis of unspecified knee with involvement of other organs and systems,202,(202) rheumatoid arthritis and related disease
+M05671,10,rheumatoid arthritis of right ankle and foot with involvement of other organs and systems,202,(202) rheumatoid arthritis and related disease
+M05672,10,rheumatoid arthritis of left ankle and foot with involvement of other organs and systems,202,(202) rheumatoid arthritis and related disease
+M05679,10,rheumatoid arthritis of unspecified ankle and foot with involvement of other organs and systems,202,(202) rheumatoid arthritis and related disease
+M0569,10,rheumatoid arthritis of multiple sites with involvement of other organs and systems,202,(202) rheumatoid arthritis and related disease
+M0570,10,rheumatoid arthritis with rheumatoid factor of unspecified site without organ or systems involvement,202,(202) rheumatoid arthritis and related disease
+M05711,10,rheumatoid arthritis with rheumatoid factor of right shoulder without organ or systems involvement,202,(202) rheumatoid arthritis and related disease
+M05712,10,rheumatoid arthritis with rheumatoid factor of left shoulder without organ or systems involvement,202,(202) rheumatoid arthritis and related disease
+M05719,10,rheumatoid arthritis with rheumatoid factor of unspecified shoulder without organ or systems involvement,202,(202) rheumatoid arthritis and related disease
+M05721,10,rheumatoid arthritis with rheumatoid factor of right elbow without organ or systems involvement,202,(202) rheumatoid arthritis and related disease
+M05722,10,rheumatoid arthritis with rheumatoid factor of left elbow without organ or systems involvement,202,(202) rheumatoid arthritis and related disease
+M05729,10,rheumatoid arthritis with rheumatoid factor of unspecified elbow without organ or systems involvement,202,(202) rheumatoid arthritis and related disease
+M05731,10,rheumatoid arthritis with rheumatoid factor of right wrist without organ or systems involvement,202,(202) rheumatoid arthritis and related disease
+M05732,10,rheumatoid arthritis with rheumatoid factor of left wrist without organ or systems involvement,202,(202) rheumatoid arthritis and related disease
+M05739,10,rheumatoid arthritis with rheumatoid factor of unspecified wrist without organ or systems involvement,202,(202) rheumatoid arthritis and related disease
+M05741,10,rheumatoid arthritis with rheumatoid factor of right hand without organ or systems involvement,202,(202) rheumatoid arthritis and related disease
+M05742,10,rheumatoid arthritis with rheumatoid factor of left hand without organ or systems involvement,202,(202) rheumatoid arthritis and related disease
+M05749,10,rheumatoid arthritis with rheumatoid factor of unspecified hand without organ or systems involvement,202,(202) rheumatoid arthritis and related disease
+M05751,10,rheumatoid arthritis with rheumatoid factor of right hip without organ or systems involvement,202,(202) rheumatoid arthritis and related disease
+M05752,10,rheumatoid arthritis with rheumatoid factor of left hip without organ or systems involvement,202,(202) rheumatoid arthritis and related disease
+M05759,10,rheumatoid arthritis with rheumatoid factor of unspecified hip without organ or systems involvement,202,(202) rheumatoid arthritis and related disease
+M05761,10,rheumatoid arthritis with rheumatoid factor of right knee without organ or systems involvement,202,(202) rheumatoid arthritis and related disease
+M05762,10,rheumatoid arthritis with rheumatoid factor of left knee without organ or systems involvement,202,(202) rheumatoid arthritis and related disease
+M05769,10,rheumatoid arthritis with rheumatoid factor of unspecified knee without organ or systems involvement,202,(202) rheumatoid arthritis and related disease
+M05771,10,rheumatoid arthritis with rheumatoid factor of right ankle and foot without organ or systems involvement,202,(202) rheumatoid arthritis and related disease
+M05772,10,rheumatoid arthritis with rheumatoid factor of left ankle and foot without organ or systems involvement,202,(202) rheumatoid arthritis and related disease
+M05779,10,rheumatoid arthritis with rheumatoid factor of unspecified ankle and foot without organ or systems involvement,202,(202) rheumatoid arthritis and related disease
+M0579,10,rheumatoid arthritis with rheumatoid factor of multiple sites without organ or systems involvement,202,(202) rheumatoid arthritis and related disease
+M0580,10,other rheumatoid arthritis with rheumatoid factor of unspecified site,202,(202) rheumatoid arthritis and related disease
+M05811,10,other rheumatoid arthritis with rheumatoid factor of right shoulder,202,(202) rheumatoid arthritis and related disease
+M05812,10,other rheumatoid arthritis with rheumatoid factor of left shoulder,202,(202) rheumatoid arthritis and related disease
+M05819,10,other rheumatoid arthritis with rheumatoid factor of unspecified shoulder,202,(202) rheumatoid arthritis and related disease
+M05821,10,other rheumatoid arthritis with rheumatoid factor of right elbow,202,(202) rheumatoid arthritis and related disease
+M05822,10,other rheumatoid arthritis with rheumatoid factor of left elbow,202,(202) rheumatoid arthritis and related disease
+M05829,10,other rheumatoid arthritis with rheumatoid factor of unspecified elbow,202,(202) rheumatoid arthritis and related disease
+M05831,10,other rheumatoid arthritis with rheumatoid factor of right wrist,202,(202) rheumatoid arthritis and related disease
+M05832,10,other rheumatoid arthritis with rheumatoid factor of left wrist,202,(202) rheumatoid arthritis and related disease
+M05839,10,other rheumatoid arthritis with rheumatoid factor of unspecified wrist,202,(202) rheumatoid arthritis and related disease
+M05841,10,other rheumatoid arthritis with rheumatoid factor of right hand,202,(202) rheumatoid arthritis and related disease
+M05842,10,other rheumatoid arthritis with rheumatoid factor of left hand,202,(202) rheumatoid arthritis and related disease
+M05849,10,other rheumatoid arthritis with rheumatoid factor of unspecified hand,202,(202) rheumatoid arthritis and related disease
+M05851,10,other rheumatoid arthritis with rheumatoid factor of right hip,202,(202) rheumatoid arthritis and related disease
+M05852,10,other rheumatoid arthritis with rheumatoid factor of left hip,202,(202) rheumatoid arthritis and related disease
+M05859,10,other rheumatoid arthritis with rheumatoid factor of unspecified hip,202,(202) rheumatoid arthritis and related disease
+M05861,10,other rheumatoid arthritis with rheumatoid factor of right knee,202,(202) rheumatoid arthritis and related disease
+M05862,10,other rheumatoid arthritis with rheumatoid factor of left knee,202,(202) rheumatoid arthritis and related disease
+M05869,10,other rheumatoid arthritis with rheumatoid factor of unspecified knee,202,(202) rheumatoid arthritis and related disease
+M05871,10,other rheumatoid arthritis with rheumatoid factor of right ankle and foot,202,(202) rheumatoid arthritis and related disease
+M05872,10,other rheumatoid arthritis with rheumatoid factor of left ankle and foot,202,(202) rheumatoid arthritis and related disease
+M05879,10,other rheumatoid arthritis with rheumatoid factor of unspecified ankle and foot,202,(202) rheumatoid arthritis and related disease
+M0589,10,other rheumatoid arthritis with rheumatoid factor of multiple sites,202,(202) rheumatoid arthritis and related disease
+M059,10,"rheumatoid arthritis with rheumatoid factor, unspecified",202,(202) rheumatoid arthritis and related disease
+M0600,10,"rheumatoid arthritis without rheumatoid factor, unspecified site",202,(202) rheumatoid arthritis and related disease
+M06011,10,"rheumatoid arthritis without rheumatoid factor, right shoulder",202,(202) rheumatoid arthritis and related disease
+M06012,10,"rheumatoid arthritis without rheumatoid factor, left shoulder",202,(202) rheumatoid arthritis and related disease
+M06019,10,"rheumatoid arthritis without rheumatoid factor, unspecified shoulder",202,(202) rheumatoid arthritis and related disease
+M06021,10,"rheumatoid arthritis without rheumatoid factor, right elbow",202,(202) rheumatoid arthritis and related disease
+M06022,10,"rheumatoid arthritis without rheumatoid factor, left elbow",202,(202) rheumatoid arthritis and related disease
+M06029,10,"rheumatoid arthritis without rheumatoid factor, unspecified elbow",202,(202) rheumatoid arthritis and related disease
+M06031,10,"rheumatoid arthritis without rheumatoid factor, right wrist",202,(202) rheumatoid arthritis and related disease
+M06032,10,"rheumatoid arthritis without rheumatoid factor, left wrist",202,(202) rheumatoid arthritis and related disease
+M06039,10,"rheumatoid arthritis without rheumatoid factor, unspecified wrist",202,(202) rheumatoid arthritis and related disease
+M06041,10,"rheumatoid arthritis without rheumatoid factor, right hand",202,(202) rheumatoid arthritis and related disease
+M06042,10,"rheumatoid arthritis without rheumatoid factor, left hand",202,(202) rheumatoid arthritis and related disease
+M06049,10,"rheumatoid arthritis without rheumatoid factor, unspecified hand",202,(202) rheumatoid arthritis and related disease
+M06051,10,"rheumatoid arthritis without rheumatoid factor, right hip",202,(202) rheumatoid arthritis and related disease
+M06052,10,"rheumatoid arthritis without rheumatoid factor, left hip",202,(202) rheumatoid arthritis and related disease
+M06059,10,"rheumatoid arthritis without rheumatoid factor, unspecified hip",202,(202) rheumatoid arthritis and related disease
+M06061,10,"rheumatoid arthritis without rheumatoid factor, right knee",202,(202) rheumatoid arthritis and related disease
+M06062,10,"rheumatoid arthritis without rheumatoid factor, left knee",202,(202) rheumatoid arthritis and related disease
+M06069,10,"rheumatoid arthritis without rheumatoid factor, unspecified knee",202,(202) rheumatoid arthritis and related disease
+M06071,10,"rheumatoid arthritis without rheumatoid factor, right ankle and foot",202,(202) rheumatoid arthritis and related disease
+M06072,10,"rheumatoid arthritis without rheumatoid factor, left ankle and foot",202,(202) rheumatoid arthritis and related disease
+M06079,10,"rheumatoid arthritis without rheumatoid factor, unspecified ankle and foot",202,(202) rheumatoid arthritis and related disease
+M0608,10,"rheumatoid arthritis without rheumatoid factor, vertebrae",202,(202) rheumatoid arthritis and related disease
+M0609,10,"rheumatoid arthritis without rheumatoid factor, multiple sites",202,(202) rheumatoid arthritis and related disease
+M061,10,adult-onset still's disease,202,(202) rheumatoid arthritis and related disease
+M0620,10,"rheumatoid bursitis, unspecified site",202,(202) rheumatoid arthritis and related disease
+M06211,10,"rheumatoid bursitis, right shoulder",202,(202) rheumatoid arthritis and related disease
+M06212,10,"rheumatoid bursitis, left shoulder",202,(202) rheumatoid arthritis and related disease
+M06219,10,"rheumatoid bursitis, unspecified shoulder",202,(202) rheumatoid arthritis and related disease
+M06221,10,"rheumatoid bursitis, right elbow",202,(202) rheumatoid arthritis and related disease
+M06222,10,"rheumatoid bursitis, left elbow",202,(202) rheumatoid arthritis and related disease
+M06229,10,"rheumatoid bursitis, unspecified elbow",202,(202) rheumatoid arthritis and related disease
+M06231,10,"rheumatoid bursitis, right wrist",202,(202) rheumatoid arthritis and related disease
+M06232,10,"rheumatoid bursitis, left wrist",202,(202) rheumatoid arthritis and related disease
+M06239,10,"rheumatoid bursitis, unspecified wrist",202,(202) rheumatoid arthritis and related disease
+M06241,10,"rheumatoid bursitis, right hand",202,(202) rheumatoid arthritis and related disease
+M06242,10,"rheumatoid bursitis, left hand",202,(202) rheumatoid arthritis and related disease
+M06249,10,"rheumatoid bursitis, unspecified hand",202,(202) rheumatoid arthritis and related disease
+M06251,10,"rheumatoid bursitis, right hip",202,(202) rheumatoid arthritis and related disease
+M06252,10,"rheumatoid bursitis, left hip",202,(202) rheumatoid arthritis and related disease
+M06259,10,"rheumatoid bursitis, unspecified hip",202,(202) rheumatoid arthritis and related disease
+M06261,10,"rheumatoid bursitis, right knee",202,(202) rheumatoid arthritis and related disease
+M06262,10,"rheumatoid bursitis, left knee",202,(202) rheumatoid arthritis and related disease
+M06269,10,"rheumatoid bursitis, unspecified knee",202,(202) rheumatoid arthritis and related disease
+M06271,10,"rheumatoid bursitis, right ankle and foot",202,(202) rheumatoid arthritis and related disease
+M06272,10,"rheumatoid bursitis, left ankle and foot",202,(202) rheumatoid arthritis and related disease
+M06279,10,"rheumatoid bursitis, unspecified ankle and foot",202,(202) rheumatoid arthritis and related disease
+M0628,10,"rheumatoid bursitis, vertebrae",202,(202) rheumatoid arthritis and related disease
+M0629,10,"rheumatoid bursitis, multiple sites",202,(202) rheumatoid arthritis and related disease
+M0630,10,"rheumatoid nodule, unspecified site",202,(202) rheumatoid arthritis and related disease
+M06311,10,"rheumatoid nodule, right shoulder",202,(202) rheumatoid arthritis and related disease
+M06312,10,"rheumatoid nodule, left shoulder",202,(202) rheumatoid arthritis and related disease
+M06319,10,"rheumatoid nodule, unspecified shoulder",202,(202) rheumatoid arthritis and related disease
+M06321,10,"rheumatoid nodule, right elbow",202,(202) rheumatoid arthritis and related disease
+M06322,10,"rheumatoid nodule, left elbow",202,(202) rheumatoid arthritis and related disease
+M06329,10,"rheumatoid nodule, unspecified elbow",202,(202) rheumatoid arthritis and related disease
+M06331,10,"rheumatoid nodule, right wrist",202,(202) rheumatoid arthritis and related disease
+M06332,10,"rheumatoid nodule, left wrist",202,(202) rheumatoid arthritis and related disease
+M06339,10,"rheumatoid nodule, unspecified wrist",202,(202) rheumatoid arthritis and related disease
+M06341,10,"rheumatoid nodule, right hand",202,(202) rheumatoid arthritis and related disease
+M06342,10,"rheumatoid nodule, left hand",202,(202) rheumatoid arthritis and related disease
+M06349,10,"rheumatoid nodule, unspecified hand",202,(202) rheumatoid arthritis and related disease
+M06351,10,"rheumatoid nodule, right hip",202,(202) rheumatoid arthritis and related disease
+M06352,10,"rheumatoid nodule, left hip",202,(202) rheumatoid arthritis and related disease
+M06359,10,"rheumatoid nodule, unspecified hip",202,(202) rheumatoid arthritis and related disease
+M06361,10,"rheumatoid nodule, right knee",202,(202) rheumatoid arthritis and related disease
+M06362,10,"rheumatoid nodule, left knee",202,(202) rheumatoid arthritis and related disease
+M06369,10,"rheumatoid nodule, unspecified knee",202,(202) rheumatoid arthritis and related disease
+M06371,10,"rheumatoid nodule, right ankle and foot",202,(202) rheumatoid arthritis and related disease
+M06372,10,"rheumatoid nodule, left ankle and foot",202,(202) rheumatoid arthritis and related disease
+M06379,10,"rheumatoid nodule, unspecified ankle and foot",202,(202) rheumatoid arthritis and related disease
+M0638,10,"rheumatoid nodule, vertebrae",202,(202) rheumatoid arthritis and related disease
+M0639,10,"rheumatoid nodule, multiple sites",202,(202) rheumatoid arthritis and related disease
+M064,10,inflammatory polyarthropathy,202,(202) rheumatoid arthritis and related disease
+M0680,10,"other specified rheumatoid arthritis, unspecified site",202,(202) rheumatoid arthritis and related disease
+M06811,10,"other specified rheumatoid arthritis, right shoulder",202,(202) rheumatoid arthritis and related disease
+M06812,10,"other specified rheumatoid arthritis, left shoulder",202,(202) rheumatoid arthritis and related disease
+M06819,10,"other specified rheumatoid arthritis, unspecified shoulder",202,(202) rheumatoid arthritis and related disease
+M06821,10,"other specified rheumatoid arthritis, right elbow",202,(202) rheumatoid arthritis and related disease
+M06822,10,"other specified rheumatoid arthritis, left elbow",202,(202) rheumatoid arthritis and related disease
+M06829,10,"other specified rheumatoid arthritis, unspecified elbow",202,(202) rheumatoid arthritis and related disease
+M06831,10,"other specified rheumatoid arthritis, right wrist",202,(202) rheumatoid arthritis and related disease
+M06832,10,"other specified rheumatoid arthritis, left wrist",202,(202) rheumatoid arthritis and related disease
+M06839,10,"other specified rheumatoid arthritis, unspecified wrist",202,(202) rheumatoid arthritis and related disease
+M06841,10,"other specified rheumatoid arthritis, right hand",202,(202) rheumatoid arthritis and related disease
+M06842,10,"other specified rheumatoid arthritis, left hand",202,(202) rheumatoid arthritis and related disease
+M06849,10,"other specified rheumatoid arthritis, unspecified hand",202,(202) rheumatoid arthritis and related disease
+M06851,10,"other specified rheumatoid arthritis, right hip",202,(202) rheumatoid arthritis and related disease
+M06852,10,"other specified rheumatoid arthritis, left hip",202,(202) rheumatoid arthritis and related disease
+M06859,10,"other specified rheumatoid arthritis, unspecified hip",202,(202) rheumatoid arthritis and related disease
+M06861,10,"other specified rheumatoid arthritis, right knee",202,(202) rheumatoid arthritis and related disease
+M06862,10,"other specified rheumatoid arthritis, left knee",202,(202) rheumatoid arthritis and related disease
+M06869,10,"other specified rheumatoid arthritis, unspecified knee",202,(202) rheumatoid arthritis and related disease
+M06871,10,"other specified rheumatoid arthritis, right ankle and foot",202,(202) rheumatoid arthritis and related disease
+M06872,10,"other specified rheumatoid arthritis, left ankle and foot",202,(202) rheumatoid arthritis and related disease
+M06879,10,"other specified rheumatoid arthritis, unspecified ankle and foot",202,(202) rheumatoid arthritis and related disease
+M0688,10,"other specified rheumatoid arthritis, vertebrae",202,(202) rheumatoid arthritis and related disease
+M0689,10,"other specified rheumatoid arthritis, multiple sites",202,(202) rheumatoid arthritis and related disease
+M069,10,"rheumatoid arthritis, unspecified",202,(202) rheumatoid arthritis and related disease
+M0800,10,unspecified juvenile rheumatoid arthritis of unspecified site,202,(202) rheumatoid arthritis and related disease
+M08011,10,"unspecified juvenile rheumatoid arthritis, right shoulder",202,(202) rheumatoid arthritis and related disease
+M08012,10,"unspecified juvenile rheumatoid arthritis, left shoulder",202,(202) rheumatoid arthritis and related disease
+M08019,10,"unspecified juvenile rheumatoid arthritis, unspecified shoulder",202,(202) rheumatoid arthritis and related disease
+M08021,10,"unspecified juvenile rheumatoid arthritis, right elbow",202,(202) rheumatoid arthritis and related disease
+M08022,10,"unspecified juvenile rheumatoid arthritis, left elbow",202,(202) rheumatoid arthritis and related disease
+M08029,10,"unspecified juvenile rheumatoid arthritis, unspecified elbow",202,(202) rheumatoid arthritis and related disease
+M08031,10,"unspecified juvenile rheumatoid arthritis, right wrist",202,(202) rheumatoid arthritis and related disease
+M08032,10,"unspecified juvenile rheumatoid arthritis, left wrist",202,(202) rheumatoid arthritis and related disease
+M08039,10,"unspecified juvenile rheumatoid arthritis, unspecified wrist",202,(202) rheumatoid arthritis and related disease
+M08041,10,"unspecified juvenile rheumatoid arthritis, right hand",202,(202) rheumatoid arthritis and related disease
+M08042,10,"unspecified juvenile rheumatoid arthritis, left hand",202,(202) rheumatoid arthritis and related disease
+M08049,10,"unspecified juvenile rheumatoid arthritis, unspecified hand",202,(202) rheumatoid arthritis and related disease
+M08051,10,"unspecified juvenile rheumatoid arthritis, right hip",202,(202) rheumatoid arthritis and related disease
+M08052,10,"unspecified juvenile rheumatoid arthritis, left hip",202,(202) rheumatoid arthritis and related disease
+M08059,10,"unspecified juvenile rheumatoid arthritis, unspecified hip",202,(202) rheumatoid arthritis and related disease
+M08061,10,"unspecified juvenile rheumatoid arthritis, right knee",202,(202) rheumatoid arthritis and related disease
+M08062,10,"unspecified juvenile rheumatoid arthritis, left knee",202,(202) rheumatoid arthritis and related disease
+M08069,10,"unspecified juvenile rheumatoid arthritis, unspecified knee",202,(202) rheumatoid arthritis and related disease
+M08071,10,"unspecified juvenile rheumatoid arthritis, right ankle and foot",202,(202) rheumatoid arthritis and related disease
+M08072,10,"unspecified juvenile rheumatoid arthritis, left ankle and foot",202,(202) rheumatoid arthritis and related disease
+M08079,10,"unspecified juvenile rheumatoid arthritis, unspecified ankle and foot",202,(202) rheumatoid arthritis and related disease
+M0808,10,"unspecified juvenile rheumatoid arthritis, vertebrae",202,(202) rheumatoid arthritis and related disease
+M0809,10,"unspecified juvenile rheumatoid arthritis, multiple sites",202,(202) rheumatoid arthritis and related disease
+M081,10,juvenile ankylosing spondylitis,202,(202) rheumatoid arthritis and related disease
+M0820,10,"juvenile rheumatoid arthritis with systemic onset, unspecified site",202,(202) rheumatoid arthritis and related disease
+M08211,10,"juvenile rheumatoid arthritis with systemic onset, right shoulder",202,(202) rheumatoid arthritis and related disease
+M08212,10,"juvenile rheumatoid arthritis with systemic onset, left shoulder",202,(202) rheumatoid arthritis and related disease
+M08219,10,"juvenile rheumatoid arthritis with systemic onset, unspecified shoulder",202,(202) rheumatoid arthritis and related disease
+M08221,10,"juvenile rheumatoid arthritis with systemic onset, right elbow",202,(202) rheumatoid arthritis and related disease
+M08222,10,"juvenile rheumatoid arthritis with systemic onset, left elbow",202,(202) rheumatoid arthritis and related disease
+M08229,10,"juvenile rheumatoid arthritis with systemic onset, unspecified elbow",202,(202) rheumatoid arthritis and related disease
+M08231,10,"juvenile rheumatoid arthritis with systemic onset, right wrist",202,(202) rheumatoid arthritis and related disease
+M08232,10,"juvenile rheumatoid arthritis with systemic onset, left wrist",202,(202) rheumatoid arthritis and related disease
+M08239,10,"juvenile rheumatoid arthritis with systemic onset, unspecified wrist",202,(202) rheumatoid arthritis and related disease
+M08241,10,"juvenile rheumatoid arthritis with systemic onset, right hand",202,(202) rheumatoid arthritis and related disease
+M08242,10,"juvenile rheumatoid arthritis with systemic onset, left hand",202,(202) rheumatoid arthritis and related disease
+M08249,10,"juvenile rheumatoid arthritis with systemic onset, unspecified hand",202,(202) rheumatoid arthritis and related disease
+M08251,10,"juvenile rheumatoid arthritis with systemic onset, right hip",202,(202) rheumatoid arthritis and related disease
+M08252,10,"juvenile rheumatoid arthritis with systemic onset, left hip",202,(202) rheumatoid arthritis and related disease
+M08259,10,"juvenile rheumatoid arthritis with systemic onset, unspecified hip",202,(202) rheumatoid arthritis and related disease
+M08261,10,"juvenile rheumatoid arthritis with systemic onset, right knee",202,(202) rheumatoid arthritis and related disease
+M08262,10,"juvenile rheumatoid arthritis with systemic onset, left knee",202,(202) rheumatoid arthritis and related disease
+M08269,10,"juvenile rheumatoid arthritis with systemic onset, unspecified knee",202,(202) rheumatoid arthritis and related disease
+M08271,10,"juvenile rheumatoid arthritis with systemic onset, right ankle and foot",202,(202) rheumatoid arthritis and related disease
+M08272,10,"juvenile rheumatoid arthritis with systemic onset, left ankle and foot",202,(202) rheumatoid arthritis and related disease
+M08279,10,"juvenile rheumatoid arthritis with systemic onset, unspecified ankle and foot",202,(202) rheumatoid arthritis and related disease
+M0828,10,"juvenile rheumatoid arthritis with systemic onset, vertebrae",202,(202) rheumatoid arthritis and related disease
+M0829,10,"juvenile rheumatoid arthritis with systemic onset, multiple sites",202,(202) rheumatoid arthritis and related disease
+M083,10,juvenile rheumatoid polyarthritis (seronegative),202,(202) rheumatoid arthritis and related disease
+M0840,10,"pauciarticular juvenile rheumatoid arthritis, unspecified site",202,(202) rheumatoid arthritis and related disease
+M08411,10,"pauciarticular juvenile rheumatoid arthritis, right shoulder",202,(202) rheumatoid arthritis and related disease
+M08412,10,"pauciarticular juvenile rheumatoid arthritis, left shoulder",202,(202) rheumatoid arthritis and related disease
+M08419,10,"pauciarticular juvenile rheumatoid arthritis, unspecified shoulder",202,(202) rheumatoid arthritis and related disease
+M08421,10,"pauciarticular juvenile rheumatoid arthritis, right elbow",202,(202) rheumatoid arthritis and related disease
+M08422,10,"pauciarticular juvenile rheumatoid arthritis, left elbow",202,(202) rheumatoid arthritis and related disease
+M08429,10,"pauciarticular juvenile rheumatoid arthritis, unspecified elbow",202,(202) rheumatoid arthritis and related disease
+M08431,10,"pauciarticular juvenile rheumatoid arthritis, right wrist",202,(202) rheumatoid arthritis and related disease
+M08432,10,"pauciarticular juvenile rheumatoid arthritis, left wrist",202,(202) rheumatoid arthritis and related disease
+M08439,10,"pauciarticular juvenile rheumatoid arthritis, unspecified wrist",202,(202) rheumatoid arthritis and related disease
+M08441,10,"pauciarticular juvenile rheumatoid arthritis, right hand",202,(202) rheumatoid arthritis and related disease
+M08442,10,"pauciarticular juvenile rheumatoid arthritis, left hand",202,(202) rheumatoid arthritis and related disease
+M08449,10,"pauciarticular juvenile rheumatoid arthritis, unspecified hand",202,(202) rheumatoid arthritis and related disease
+M08451,10,"pauciarticular juvenile rheumatoid arthritis, right hip",202,(202) rheumatoid arthritis and related disease
+M08452,10,"pauciarticular juvenile rheumatoid arthritis, left hip",202,(202) rheumatoid arthritis and related disease
+M08459,10,"pauciarticular juvenile rheumatoid arthritis, unspecified hip",202,(202) rheumatoid arthritis and related disease
+M08461,10,"pauciarticular juvenile rheumatoid arthritis, right knee",202,(202) rheumatoid arthritis and related disease
+M08462,10,"pauciarticular juvenile rheumatoid arthritis, left knee",202,(202) rheumatoid arthritis and related disease
+M08469,10,"pauciarticular juvenile rheumatoid arthritis, unspecified knee",202,(202) rheumatoid arthritis and related disease
+M08471,10,"pauciarticular juvenile rheumatoid arthritis, right ankle and foot",202,(202) rheumatoid arthritis and related disease
+M08472,10,"pauciarticular juvenile rheumatoid arthritis, left ankle and foot",202,(202) rheumatoid arthritis and related disease
+M08479,10,"pauciarticular juvenile rheumatoid arthritis, unspecified ankle and foot",202,(202) rheumatoid arthritis and related disease
+M0848,10,"pauciarticular juvenile rheumatoid arthritis, vertebrae",202,(202) rheumatoid arthritis and related disease
+M0880,10,"other juvenile arthritis, unspecified site",202,(202) rheumatoid arthritis and related disease
+M08811,10,"other juvenile arthritis, right shoulder",202,(202) rheumatoid arthritis and related disease
+M08812,10,"other juvenile arthritis, left shoulder",202,(202) rheumatoid arthritis and related disease
+M08819,10,"other juvenile arthritis, unspecified shoulder",202,(202) rheumatoid arthritis and related disease
+M08821,10,"other juvenile arthritis, right elbow",202,(202) rheumatoid arthritis and related disease
+M08822,10,"other juvenile arthritis, left elbow",202,(202) rheumatoid arthritis and related disease
+M08829,10,"other juvenile arthritis, unspecified elbow",202,(202) rheumatoid arthritis and related disease
+M08831,10,"other juvenile arthritis, right wrist",202,(202) rheumatoid arthritis and related disease
+M08832,10,"other juvenile arthritis, left wrist",202,(202) rheumatoid arthritis and related disease
+M08839,10,"other juvenile arthritis, unspecified wrist",202,(202) rheumatoid arthritis and related disease
+M08841,10,"other juvenile arthritis, right hand",202,(202) rheumatoid arthritis and related disease
+M08842,10,"other juvenile arthritis, left hand",202,(202) rheumatoid arthritis and related disease
+M08849,10,"other juvenile arthritis, unspecified hand",202,(202) rheumatoid arthritis and related disease
+M08851,10,"other juvenile arthritis, right hip",202,(202) rheumatoid arthritis and related disease
+M08852,10,"other juvenile arthritis, left hip",202,(202) rheumatoid arthritis and related disease
+M08859,10,"other juvenile arthritis, unspecified hip",202,(202) rheumatoid arthritis and related disease
+M08861,10,"other juvenile arthritis, right knee",202,(202) rheumatoid arthritis and related disease
+M08862,10,"other juvenile arthritis, left knee",202,(202) rheumatoid arthritis and related disease
+M08869,10,"other juvenile arthritis, unspecified knee",202,(202) rheumatoid arthritis and related disease
+M08871,10,"other juvenile arthritis, right ankle and foot",202,(202) rheumatoid arthritis and related disease
+M08872,10,"other juvenile arthritis, left ankle and foot",202,(202) rheumatoid arthritis and related disease
+M08879,10,"other juvenile arthritis, unspecified ankle and foot",202,(202) rheumatoid arthritis and related disease
+M0888,10,"other juvenile arthritis, other specified site",202,(202) rheumatoid arthritis and related disease
+M0889,10,"other juvenile arthritis, multiple sites",202,(202) rheumatoid arthritis and related disease
+M0890,10,"juvenile arthritis, unspecified, unspecified site",202,(202) rheumatoid arthritis and related disease
+M08911,10,"juvenile arthritis, unspecified, right shoulder",202,(202) rheumatoid arthritis and related disease
+M08912,10,"juvenile arthritis, unspecified, left shoulder",202,(202) rheumatoid arthritis and related disease
+M08919,10,"juvenile arthritis, unspecified, unspecified shoulder",202,(202) rheumatoid arthritis and related disease
+M08921,10,"juvenile arthritis, unspecified, right elbow",202,(202) rheumatoid arthritis and related disease
+M08922,10,"juvenile arthritis, unspecified, left elbow",202,(202) rheumatoid arthritis and related disease
+M08929,10,"juvenile arthritis, unspecified, unspecified elbow",202,(202) rheumatoid arthritis and related disease
+M08931,10,"juvenile arthritis, unspecified, right wrist",202,(202) rheumatoid arthritis and related disease
+M08932,10,"juvenile arthritis, unspecified, left wrist",202,(202) rheumatoid arthritis and related disease
+M08939,10,"juvenile arthritis, unspecified, unspecified wrist",202,(202) rheumatoid arthritis and related disease
+M08941,10,"juvenile arthritis, unspecified, right hand",202,(202) rheumatoid arthritis and related disease
+M08942,10,"juvenile arthritis, unspecified, left hand",202,(202) rheumatoid arthritis and related disease
+M08949,10,"juvenile arthritis, unspecified, unspecified hand",202,(202) rheumatoid arthritis and related disease
+M08951,10,"juvenile arthritis, unspecified, right hip",202,(202) rheumatoid arthritis and related disease
+M08952,10,"juvenile arthritis, unspecified, left hip",202,(202) rheumatoid arthritis and related disease
+M08959,10,"juvenile arthritis, unspecified, unspecified hip",202,(202) rheumatoid arthritis and related disease
+M08961,10,"juvenile arthritis, unspecified, right knee",202,(202) rheumatoid arthritis and related disease
+M08962,10,"juvenile arthritis, unspecified, left knee",202,(202) rheumatoid arthritis and related disease
+M08969,10,"juvenile arthritis, unspecified, unspecified knee",202,(202) rheumatoid arthritis and related disease
+M08971,10,"juvenile arthritis, unspecified, right ankle and foot",202,(202) rheumatoid arthritis and related disease
+M08972,10,"juvenile arthritis, unspecified, left ankle and foot",202,(202) rheumatoid arthritis and related disease
+M08979,10,"juvenile arthritis, unspecified, unspecified ankle and foot",202,(202) rheumatoid arthritis and related disease
+M0898,10,"juvenile arthritis, unspecified, vertebrae",202,(202) rheumatoid arthritis and related disease
+M0899,10,"juvenile arthritis, unspecified, multiple sites",202,(202) rheumatoid arthritis and related disease
+M1200,10,"chronic postrheumatic arthropathy [jaccoud], unspecified site",202,(202) rheumatoid arthritis and related disease
+M12011,10,"chronic postrheumatic arthropathy [jaccoud], right shoulder",202,(202) rheumatoid arthritis and related disease
+M12012,10,"chronic postrheumatic arthropathy [jaccoud], left shoulder",202,(202) rheumatoid arthritis and related disease
+M12019,10,"chronic postrheumatic arthropathy [jaccoud], unspecified shoulder",202,(202) rheumatoid arthritis and related disease
+M12021,10,"chronic postrheumatic arthropathy [jaccoud], right elbow",202,(202) rheumatoid arthritis and related disease
+M12022,10,"chronic postrheumatic arthropathy [jaccoud], left elbow",202,(202) rheumatoid arthritis and related disease
+M12029,10,"chronic postrheumatic arthropathy [jaccoud], unspecified elbow",202,(202) rheumatoid arthritis and related disease
+M12031,10,"chronic postrheumatic arthropathy [jaccoud], right wrist",202,(202) rheumatoid arthritis and related disease
+M12032,10,"chronic postrheumatic arthropathy [jaccoud], left wrist",202,(202) rheumatoid arthritis and related disease
+M12039,10,"chronic postrheumatic arthropathy [jaccoud], unspecified wrist",202,(202) rheumatoid arthritis and related disease
+M12041,10,"chronic postrheumatic arthropathy [jaccoud], right hand",202,(202) rheumatoid arthritis and related disease
+M12042,10,"chronic postrheumatic arthropathy [jaccoud], left hand",202,(202) rheumatoid arthritis and related disease
+M12049,10,"chronic postrheumatic arthropathy [jaccoud], unspecified hand",202,(202) rheumatoid arthritis and related disease
+M12051,10,"chronic postrheumatic arthropathy [jaccoud], right hip",202,(202) rheumatoid arthritis and related disease
+M12052,10,"chronic postrheumatic arthropathy [jaccoud], left hip",202,(202) rheumatoid arthritis and related disease
+M12059,10,"chronic postrheumatic arthropathy [jaccoud], unspecified hip",202,(202) rheumatoid arthritis and related disease
+M12061,10,"chronic postrheumatic arthropathy [jaccoud], right knee",202,(202) rheumatoid arthritis and related disease
+M12062,10,"chronic postrheumatic arthropathy [jaccoud], left knee",202,(202) rheumatoid arthritis and related disease
+M12069,10,"chronic postrheumatic arthropathy [jaccoud], unspecified knee",202,(202) rheumatoid arthritis and related disease
+M12071,10,"chronic postrheumatic arthropathy [jaccoud], right ankle and foot",202,(202) rheumatoid arthritis and related disease
+M12072,10,"chronic postrheumatic arthropathy [jaccoud], left ankle and foot",202,(202) rheumatoid arthritis and related disease
+M12079,10,"chronic postrheumatic arthropathy [jaccoud], unspecified ankle and foot",202,(202) rheumatoid arthritis and related disease
+M1208,10,"chronic postrheumatic arthropathy [jaccoud], other specified site",202,(202) rheumatoid arthritis and related disease
+M1209,10,"chronic postrheumatic arthropathy [jaccoud], multiple sites",202,(202) rheumatoid arthritis and related disease
+M150,10,primary generalized (osteo)arthritis,203,(203) osteoarthritis
+M151,10,heberden's nodes (with arthropathy),203,(203) osteoarthritis
+M152,10,bouchard's nodes (with arthropathy),203,(203) osteoarthritis
+M153,10,secondary multiple arthritis,203,(203) osteoarthritis
+M154,10,erosive (osteo)arthritis,203,(203) osteoarthritis
+M158,10,other polyosteoarthritis,203,(203) osteoarthritis
+M159,10,"polyosteoarthritis, unspecified",203,(203) osteoarthritis
+M160,10,bilateral primary osteoarthritis of hip,203,(203) osteoarthritis
+M1610,10,"unilateral primary osteoarthritis, unspecified hip",203,(203) osteoarthritis
+M1611,10,"unilateral primary osteoarthritis, right hip",203,(203) osteoarthritis
+M1612,10,"unilateral primary osteoarthritis, left hip",203,(203) osteoarthritis
+M162,10,bilateral osteoarthritis resulting from hip dysplasia,203,(203) osteoarthritis
+M1630,10,"unilateral osteoarthritis resulting from hip dysplasia, unspecified hip",203,(203) osteoarthritis
+M1631,10,"unilateral osteoarthritis resulting from hip dysplasia, right hip",203,(203) osteoarthritis
+M1632,10,"unilateral osteoarthritis resulting from hip dysplasia, left hip",203,(203) osteoarthritis
+M164,10,bilateral post-traumatic osteoarthritis of hip,203,(203) osteoarthritis
+M1650,10,"unilateral post-traumatic osteoarthritis, unspecified hip",203,(203) osteoarthritis
+M1651,10,"unilateral post-traumatic osteoarthritis, right hip",203,(203) osteoarthritis
+M1652,10,"unilateral post-traumatic osteoarthritis, left hip",203,(203) osteoarthritis
+M166,10,other bilateral secondary osteoarthritis of hip,203,(203) osteoarthritis
+M167,10,other unilateral secondary osteoarthritis of hip,203,(203) osteoarthritis
+M169,10,"osteoarthritis of hip, unspecified",203,(203) osteoarthritis
+M170,10,bilateral primary osteoarthritis of knee,203,(203) osteoarthritis
+M1710,10,"unilateral primary osteoarthritis, unspecified knee",203,(203) osteoarthritis
+M1711,10,"unilateral primary osteoarthritis, right knee",203,(203) osteoarthritis
+M1712,10,"unilateral primary osteoarthritis, left knee",203,(203) osteoarthritis
+M172,10,bilateral post-traumatic osteoarthritis of knee,203,(203) osteoarthritis
+M1730,10,"unilateral post-traumatic osteoarthritis, unspecified knee",203,(203) osteoarthritis
+M1731,10,"unilateral post-traumatic osteoarthritis, right knee",203,(203) osteoarthritis
+M1732,10,"unilateral post-traumatic osteoarthritis, left knee",203,(203) osteoarthritis
+M174,10,other bilateral secondary osteoarthritis of knee,203,(203) osteoarthritis
+M175,10,other unilateral secondary osteoarthritis of knee,203,(203) osteoarthritis
+M179,10,"osteoarthritis of knee, unspecified",203,(203) osteoarthritis
+M180,10,bilateral primary osteoarthritis of first carpometacarpal joints,203,(203) osteoarthritis
+M1810,10,"unilateral primary osteoarthritis of first carpometacarpal joint, unspecified hand",203,(203) osteoarthritis
+M1811,10,"unilateral primary osteoarthritis of first carpometacarpal joint, right hand",203,(203) osteoarthritis
+M1812,10,"unilateral primary osteoarthritis of first carpometacarpal joint, left hand",203,(203) osteoarthritis
+M182,10,bilateral post-traumatic osteoarthritis of first carpometacarpal joints,203,(203) osteoarthritis
+M1830,10,"unilateral post-traumatic osteoarthritis of first carpometacarpal joint, unspecified hand",203,(203) osteoarthritis
+M1831,10,"unilateral post-traumatic osteoarthritis of first carpometacarpal joint, right hand",203,(203) osteoarthritis
+M1832,10,"unilateral post-traumatic osteoarthritis of first carpometacarpal joint, left hand",203,(203) osteoarthritis
+M184,10,other bilateral secondary osteoarthritis of first carpometacarpal joints,203,(203) osteoarthritis
+M1850,10,"other unilateral secondary osteoarthritis of first carpometacarpal joint, unspecified hand",203,(203) osteoarthritis
+M1851,10,"other unilateral secondary osteoarthritis of first carpometacarpal joint, right hand",203,(203) osteoarthritis
+M1852,10,"other unilateral secondary osteoarthritis of first carpometacarpal joint, left hand",203,(203) osteoarthritis
+M189,10,"osteoarthritis of first carpometacarpal joint, unspecified",203,(203) osteoarthritis
+M19011,10,"primary osteoarthritis, right shoulder",203,(203) osteoarthritis
+M19012,10,"primary osteoarthritis, left shoulder",203,(203) osteoarthritis
+M19019,10,"primary osteoarthritis, unspecified shoulder",203,(203) osteoarthritis
+M19021,10,"primary osteoarthritis, right elbow",203,(203) osteoarthritis
+M19022,10,"primary osteoarthritis, left elbow",203,(203) osteoarthritis
+M19029,10,"primary osteoarthritis, unspecified elbow",203,(203) osteoarthritis
+M19031,10,"primary osteoarthritis, right wrist",203,(203) osteoarthritis
+M19032,10,"primary osteoarthritis, left wrist",203,(203) osteoarthritis
+M19039,10,"primary osteoarthritis, unspecified wrist",203,(203) osteoarthritis
+M19041,10,"primary osteoarthritis, right hand",203,(203) osteoarthritis
+M19042,10,"primary osteoarthritis, left hand",203,(203) osteoarthritis
+M19049,10,"primary osteoarthritis, unspecified hand",203,(203) osteoarthritis
+M19071,10,"primary osteoarthritis, right ankle and foot",203,(203) osteoarthritis
+M19072,10,"primary osteoarthritis, left ankle and foot",203,(203) osteoarthritis
+M19079,10,"primary osteoarthritis, unspecified ankle and foot",203,(203) osteoarthritis
+M19111,10,"post-traumatic osteoarthritis, right shoulder",203,(203) osteoarthritis
+M19112,10,"post-traumatic osteoarthritis, left shoulder",203,(203) osteoarthritis
+M19119,10,"post-traumatic osteoarthritis, unspecified shoulder",203,(203) osteoarthritis
+M19121,10,"post-traumatic osteoarthritis, right elbow",203,(203) osteoarthritis
+M19122,10,"post-traumatic osteoarthritis, left elbow",203,(203) osteoarthritis
+M19129,10,"post-traumatic osteoarthritis, unspecified elbow",203,(203) osteoarthritis
+M19131,10,"post-traumatic osteoarthritis, right wrist",203,(203) osteoarthritis
+M19132,10,"post-traumatic osteoarthritis, left wrist",203,(203) osteoarthritis
+M19139,10,"post-traumatic osteoarthritis, unspecified wrist",203,(203) osteoarthritis
+M19141,10,"post-traumatic osteoarthritis, right hand",203,(203) osteoarthritis
+M19142,10,"post-traumatic osteoarthritis, left hand",203,(203) osteoarthritis
+M19149,10,"post-traumatic osteoarthritis, unspecified hand",203,(203) osteoarthritis
+M19171,10,"post-traumatic osteoarthritis, right ankle and foot",203,(203) osteoarthritis
+M19172,10,"post-traumatic osteoarthritis, left ankle and foot",203,(203) osteoarthritis
+M19179,10,"post-traumatic osteoarthritis, unspecified ankle and foot",203,(203) osteoarthritis
+M19211,10,"secondary osteoarthritis, right shoulder",203,(203) osteoarthritis
+M19212,10,"secondary osteoarthritis, left shoulder",203,(203) osteoarthritis
+M19219,10,"secondary osteoarthritis, unspecified shoulder",203,(203) osteoarthritis
+M19221,10,"secondary osteoarthritis, right elbow",203,(203) osteoarthritis
+M19222,10,"secondary osteoarthritis, left elbow",203,(203) osteoarthritis
+M19229,10,"secondary osteoarthritis, unspecified elbow",203,(203) osteoarthritis
+M19231,10,"secondary osteoarthritis, right wrist",203,(203) osteoarthritis
+M19232,10,"secondary osteoarthritis, left wrist",203,(203) osteoarthritis
+M19239,10,"secondary osteoarthritis, unspecified wrist",203,(203) osteoarthritis
+M19241,10,"secondary osteoarthritis, right hand",203,(203) osteoarthritis
+M19242,10,"secondary osteoarthritis, left hand",203,(203) osteoarthritis
+M19249,10,"secondary osteoarthritis, unspecified hand",203,(203) osteoarthritis
+M19271,10,"secondary osteoarthritis, right ankle and foot",203,(203) osteoarthritis
+M19272,10,"secondary osteoarthritis, left ankle and foot",203,(203) osteoarthritis
+M19279,10,"secondary osteoarthritis, unspecified ankle and foot",203,(203) osteoarthritis
+M1990,10,"unspecified osteoarthritis, unspecified site",203,(203) osteoarthritis
+M1991,10,"primary osteoarthritis, unspecified site",203,(203) osteoarthritis
+M1992,10,"post-traumatic osteoarthritis, unspecified site",203,(203) osteoarthritis
+M1993,10,"secondary osteoarthritis, unspecified site",203,(203) osteoarthritis
+M450,10,ankylosing spondylitis of multiple sites in spine,202,(202) rheumatoid arthritis and related disease
+M451,10,ankylosing spondylitis of occipito-atlanto-axial region,202,(202) rheumatoid arthritis and related disease
+M452,10,ankylosing spondylitis of cervical region,202,(202) rheumatoid arthritis and related disease
+M453,10,ankylosing spondylitis of cervicothoracic region,202,(202) rheumatoid arthritis and related disease
+M454,10,ankylosing spondylitis of thoracic region,202,(202) rheumatoid arthritis and related disease
+M455,10,ankylosing spondylitis of thoracolumbar region,202,(202) rheumatoid arthritis and related disease
+M456,10,ankylosing spondylitis lumbar region,202,(202) rheumatoid arthritis and related disease
+M457,10,ankylosing spondylitis of lumbosacral region,202,(202) rheumatoid arthritis and related disease
+M458,10,ankylosing spondylitis sacral and sacrococcygeal region,202,(202) rheumatoid arthritis and related disease
+M459,10,ankylosing spondylitis of unspecified sites in spine,202,(202) rheumatoid arthritis and related disease
+M488X1,10,"other specified spondylopathies, occipito-atlanto-axial region",202,(202) rheumatoid arthritis and related disease
+M488X2,10,"other specified spondylopathies, cervical region",202,(202) rheumatoid arthritis and related disease
+M488X3,10,"other specified spondylopathies, cervicothoracic region",202,(202) rheumatoid arthritis and related disease
+M488X4,10,"other specified spondylopathies, thoracic region",202,(202) rheumatoid arthritis and related disease
+M488X5,10,"other specified spondylopathies, thoracolumbar region",202,(202) rheumatoid arthritis and related disease
+M488X6,10,"other specified spondylopathies, lumbar region",202,(202) rheumatoid arthritis and related disease
+M488X7,10,"other specified spondylopathies, lumbosacral region",202,(202) rheumatoid arthritis and related disease
+M488X8,10,"other specified spondylopathies, sacral and sacrococcygeal region",202,(202) rheumatoid arthritis and related disease
+M488X9,10,"other specified spondylopathies, site unspecified",202,(202) rheumatoid arthritis and related disease

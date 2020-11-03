@@ -1,0 +1,88 @@
+ndc,drug_name,generic_name,opioid_ingredient1,opioid_ingredient2,form,route,strength,strength_uom,package_size,manufacturer,startdate,enddate,status
+00049338225,sufentanil citrate,sufentanil citrate,sufentanil,NA,NA,NA,50 mcg/1 ml,NA,10,NA,NA,NA,NA
+00074338031,sufentanil citrate,sufentanil,sufentanil,NA,solution,intravenous,50,mcg/ml,1,hospira,12/1/96,12/1/96,active
+00074338032,sufentanil citrate,sufentanil,sufentanil,NA,solution,intravenous,50,mcg/ml,2,hospira,12/1/96,12/1/96,active
+00074338035,sufentanil citrate,sufentanil,sufentanil,NA,solution,intravenous,50,mcg/ml,5,hospira,12/1/96,12/1/96,active
+00074338049,sufentanil citrate,sufentanil,sufentanil,NA,solution,intravenous,50,mcg/ml,1,novaplus,12/1/96,12/1/96,active
+00074338050,sufentanil citrate,sufentanil,sufentanil,NA,solution,intravenous,50,mcg/ml,2,novaplus,12/1/96,12/1/96,active
+00074338051,sufentanil citrate,sufentanil,sufentanil,NA,solution,intravenous,50,mcg/ml,5,novaplus,12/1/96,12/1/96,active
+00074338221,sufentanil citrate,sufentanil,sufentanil,NA,solution,intravenous,50,mcg/ml,1,hospira,11/1/96,11/1/96,active
+00074338222,sufentanil citrate,sufentanil,sufentanil,NA,solution,intravenous,50,mcg/ml,2,hospira,11/1/96,11/1/96,active
+00074338225,sufentanil citrate,sufentanil,sufentanil,NA,solution,intravenous,50,mcg/ml,5,hospira,11/1/96,11/1/96,active
+00406067252,sufentanil citrate (bulk),sufentanil,sufentanil,NA,powder,miscellaneous,NA,NA,1,mallinckrodt ph,6/5/00,6/5/00,active
+00409338031,sufentanil citrate,sufentanil,sufentanil,NA,solution,intravenous,50,mcg/ml,1,hospira,12/11/96,12/11/96,active
+00409338032,sufentanil citrate,sufentanil,sufentanil,NA,solution,intravenous,50,mcg/ml,2,hospira,12/11/96,12/11/96,active
+00409338035,sufentanil citrate,sufentanil,sufentanil,NA,solution,intravenous,50,mcg/ml,5,hospira,12/11/96,12/11/96,active
+00409338049,sufentanil citrate,sufentanil,sufentanil,NA,solution,intravenous,50,mcg/ml,1,hospira/novaplu,12/11/96,12/11/96,active
+00409338050,sufentanil citrate,sufentanil,sufentanil,NA,solution,intravenous,50,mcg/ml,2,hospira/novaplu,12/11/96,12/11/96,active
+00409338051,sufentanil citrate,sufentanil,sufentanil,NA,solution,intravenous,50,mcg/ml,5,hospira/novaplu,12/11/96,12/11/96,active
+00409338221,sufentanil citrate,sufentanil,sufentanil,NA,solution,intravenous,50,mcg/ml,1,hospira,12/11/96,12/11/96,active
+00409338222,sufentanil citrate,sufentanil,sufentanil,NA,solution,intravenous,50,mcg/ml,2,hospira,12/11/96,12/11/96,active
+00409338225,sufentanil citrate,sufentanil,sufentanil,NA,solution,intravenous,50,mcg/ml,5,hospira,12/11/96,12/11/96,active
+00409338249,sufentanil citrate,sufentanil citrate,sufentanil,NA,"injection, solution",epidural; intravenous,50,ug/ml,"10 vial, single-use in 1 carton (0409-3382-49) > 1 ml in 1 vial, single-use","hospira, inc.",7/26/05,NA,NA
+00409338250,sufentanil citrate,sufentanil citrate,sufentanil,NA,"injection, solution",epidural; intravenous,50,ug/ml,"10 vial, single-use in 1 carton (0409-3382-50) > 2 ml in 1 vial, single-use","hospira, inc.",7/26/05,NA,NA
+00409338251,sufentanil citrate,sufentanil citrate,sufentanil,NA,"injection, solution",epidural; intravenous,50,ug/ml,"10 vial, single-use in 1 carton (0409-3382-51) > 5 ml in 1 vial, single-use","hospira, inc.",7/26/05,NA,NA
+00641095523,sufentanil citrate,sufentanil,sufentanil,NA,solution,intravenous,50,mcg/ml,1,esi lederle,5/7/97,5/7/97,active
+00641095623,sufentanil citrate,sufentanil,sufentanil,NA,solution,intravenous,50,mcg/ml,2,esi lederle,5/7/97,5/7/97,active
+00641114133,sufentanil citrate,sufentanil,sufentanil,NA,solution,intravenous,50,mcg/ml,1,"west-ward, inc.",12/15/95,12/15/95,active
+00641114233,sufentanil citrate,sufentanil,sufentanil,NA,solution,intravenous,50,mcg/ml,2,"west-ward, inc.",12/15/95,12/15/95,active
+00641114333,sufentanil citrate,sufentanil,sufentanil,NA,solution,intravenous,50,mcg/ml,5,"west-ward, inc.",12/15/95,12/15/95,active
+00641514133,sufentanil citrate,sufentanil,sufentanil,NA,solution,intravenous,50,mcg/ml,1,vha pl/esi led,12/15/95,12/15/95,active
+00641514233,sufentanil citrate,sufentanil,sufentanil,NA,solution,intravenous,50,mcg/ml,2,vha pl/esi led,12/15/95,12/15/95,active
+00641514333,sufentanil citrate,sufentanil,sufentanil,NA,solution,intravenous,50,mcg/ml,5,vha pl/esi led,12/15/95,12/15/95,active
+00641611001,sufentanil citrate,sufentanil,sufentanil,NA,solution,intravenous,50,mcg/ml,1,"west-ward, inc.",12/15/95,12/15/95,active
+00641611010,sufentanil citrate,sufentanil,sufentanil,NA,solution,intravenous,50,mcg/ml,1,"west-ward, inc.",12/15/95,12/15/95,active
+00641611101,sufentanil citrate,sufentanil,sufentanil,NA,solution,intravenous,50,mcg/ml,2,"west-ward, inc.",12/15/95,12/15/95,active
+00641611110,sufentanil citrate,sufentanil,sufentanil,NA,solution,intravenous,50,mcg/ml,2,"west-ward, inc.",12/15/95,12/15/95,active
+00641611201,sufentanil citrate,sufentanil,sufentanil,NA,solution,intravenous,50,mcg/ml,5,"west-ward, inc.",12/15/95,12/15/95,active
+00641611210,sufentanil citrate,sufentanil,sufentanil,NA,solution,intravenous,50,mcg/ml,5,"west-ward, inc.",12/15/95,12/15/95,active
+10019005006,sufentanil citrate,sufentanil,sufentanil,NA,solution,intravenous,50,mcg/ml,5,"west-ward, inc.",12/15/95,12/15/95,active
+10019005021,sufentanil citrate,sufentanil,sufentanil,NA,solution,intravenous,50,mcg/ml,2,"west-ward, inc.",12/15/95,12/15/95,active
+10019005036,sufentanil citrate,sufentanil,sufentanil,NA,solution,intravenous,50,mcg/ml,5,"west-ward, inc.",12/15/95,12/15/95,active
+10019005037,sufentanil citrate,sufentanil,sufentanil,NA,solution,intravenous,50,mcg/ml,2,"west-ward, inc.",12/15/95,12/15/95,active
+10019005039,sufentanil citrate,sufentanil,sufentanil,NA,solution,intravenous,50,mcg/ml,1,"west-ward, inc.",12/15/95,12/15/95,active
+10019005043,sufentanil citrate,sufentanil,sufentanil,NA,solution,intravenous,50,mcg/ml,1,"west-ward, inc.",12/15/95,12/15/95,active
+10139007501,sufentanil citrate,sufentanil,sufentanil,NA,solution,intravenous,50,mcg/ml,1,"generamedix, in",6/13/06,6/13/06,active
+10139007502,sufentanil citrate,sufentanil,sufentanil,NA,solution,intravenous,50,mcg/ml,2,"generamedix, in",6/13/06,6/13/06,active
+10139007505,sufentanil citrate,sufentanil,sufentanil,NA,solution,intravenous,50,mcg/ml,5,"generamedix, in",6/13/06,6/13/06,active
+10139007510,sufentanil citrate,sufentanil,sufentanil,NA,solution,intravenous,50,mcg/ml,1,"generamedix, in",6/13/06,6/13/06,active
+10139007512,sufentanil citrate,sufentanil,sufentanil,NA,solution,intravenous,50,mcg/ml,2,"generamedix, in",6/13/06,6/13/06,active
+10139007515,sufentanil citrate,sufentanil,sufentanil,NA,solution,intravenous,50,mcg/ml,5,"generamedix, in",6/13/06,6/13/06,active
+11098005001,sufenta,sufentanil,sufentanil,NA,solution,intravenous,50,mcg/ml,1,akorn inc.,9/30/90,9/30/90,inactive
+11098005002,sufenta,sufentanil,sufentanil,NA,solution,intravenous,50,mcg/ml,2,akorn inc.,9/30/90,9/30/90,inactive
+11098005005,sufenta,sufentanil,sufentanil,NA,solution,intravenous,50,mcg/ml,5,akorn inc.,9/30/90,9/30/90,inactive
+17478005001,sufentanil citrate,sufentanil,sufentanil,NA,solution,intravenous,50,mcg/ml,1,akorn inc.,9/30/90,9/30/90,active
+17478005002,sufentanil citrate,sufentanil,sufentanil,NA,solution,intravenous,50,mcg/ml,2,akorn inc.,9/30/90,9/30/90,active
+17478005005,sufentanil citrate,sufentanil,sufentanil,NA,solution,intravenous,50,mcg/ml,5,akorn inc.,9/30/90,9/30/90,active
+24200036280,sufentanil citrate-ropivacaine hcl-sodium chloride,na cl; ropivacaine hcl; sufentanil citrate,sufentanil,NA,NA,NA,0.2%-0.9%-0.25 mcg/ml,NA,1,NA,NA,NA,NA
+24200036805,sufentanil citrate-ropivacaine hcl-sodium chloride,na cl; ropivacaine hcl; sufentanil citrate,sufentanil,NA,NA,NA,0.25%-0.9%-0.5 mcg/ml,NA,1,NA,NA,NA,NA
+24200037004,sufentanil citrate-ropivacaine hcl-sodium chloride,na cl; ropivacaine hcl; sufentanil citrate,sufentanil,NA,NA,NA,0.1%-0.9%-1 mcg/ml,NA,1,NA,NA,NA,NA
+24200037602,sufentanil citrate-bupivacaine hcl-sodium chloride,bupivacaine hcl; na cl; sufentanil citrate,sufentanil,NA,NA,NA,0.25%-0.9%-0.82 mcg/ml,NA,1,NA,NA,NA,NA
+24200037710,sufentanil citrate-bupivacaine hcl-sodium chloride,bupivacaine hcl; na cl; sufentanil citrate,sufentanil,NA,NA,NA,0.1%-0.9%-0.4 mcg/ml,NA,1,NA,NA,NA,NA
+24200038204,sufentanil citrate-bupivacaine hcl-sodium chloride,bupivacaine hcl; na cl; sufentanil citrate,sufentanil,NA,NA,NA,0.1%-0.9%-1 mcg/ml,NA,1,NA,NA,NA,NA
+24200038390,sufentanil citrate-bupivacaine hcl-sodium chloride,bupivacaine hcl; na cl; sufentanil citrate,sufentanil,NA,NA,NA,0.125%-0.9%-1.5 mcg/ml,NA,1,NA,NA,NA,NA
+24200095144,sufentanil citrate (pf),sufentanil,sufentanil,NA,syringe,intravenous,100 mcg/2 ml,(50 mcg/ml),2,ameridose llc,NA,NA,inactive
+24200095149,sufentanil citrate (pf),sufentanil,sufentanil,NA,syringe,intravenous,250 mcg/5 ml,(50 mcg/ml),5,ameridose llc,NA,NA,inactive
+38779196806,sufentanil citrate (bulk),sufentanil,sufentanil,NA,powder,miscellaneous,NA,NA,1,medisca inc.,NA,NA,active
+38779196807,sufentanil citrate (bulk),sufentanil,sufentanil,NA,powder,miscellaneous,NA,NA,.01,medisca inc.,1/11/01,1/11/01,active
+38779196809,sufentanil citrate (bulk),sufentanil,sufentanil,NA,powder,miscellaneous,NA,NA,.1,medisca inc.,1/11/01,1/11/01,active
+50458005001,sufenta,sufentanil,sufentanil,NA,solution,intravenous,50,mcg/ml,1,janssen pharm.,5/1/84,5/1/84,inactive
+50458005002,sufenta,sufentanil,sufentanil,NA,solution,intravenous,50,mcg/ml,2,janssen pharm.,5/1/84,5/1/84,inactive
+50458005005,sufenta,sufentanil,sufentanil,NA,solution,intravenous,50,mcg/ml,5,janssen pharm.,5/1/84,5/1/84,inactive
+51552088902,sufentanil citrate (bulk),sufentanil,sufentanil,NA,powder,miscellaneous,NA,NA,.01,fagron inc,9/30/90,9/30/90,active
+51552088903,sufentanil citrate (bulk),sufentanil,sufentanil,NA,powder,miscellaneous,NA,NA,.05,fagron inc,9/30/90,9/30/90,active
+51552088904,sufentanil citrate (bulk),sufentanil,sufentanil,NA,powder,miscellaneous,NA,NA,.1,fagron inc,9/30/90,9/30/90,active
+51552088909,sufentanil citrate,sufentanil citrate,sufentanil,NA,NA,NA,NA,NA,1,NA,NA,NA,NA
+51927321300,sufentanil citrate (bulk),sufentanil,sufentanil,NA,powder,miscellaneous,NA,NA,.001,professional co,NA,NA,active
+61553091952,sufentanil-bupivacain-nacl(pf),sufentanil,sufentanil,NA,solution,epidural,1 mcg/ml,-0.1 %,100,pharmedium,NA,NA,active
+61621043001,dsuvia,sufentanil,sufentanil,NA,tablet,sublingual,30 ug/1,NA,1 tablet in 1 pouch (61621-430-01),"acelrx pharmaceuticals, inc",NA,NA,NA
+61621043011,dsuvia,sufentanil,sufentanil,NA,tablet,sublingual,30 ug/1,NA,10 tablet in 1 carton (61621-430-11),"acelrx pharmaceuticals, inc",NA,NA,NA
+62991295301,sufentanil citrate (bulk),sufentanil,sufentanil,NA,powder,miscellaneous,NA,NA,1,"letco medical,",NA,NA,active
+62991295303,sufentanil citrate (bulk),sufentanil,sufentanil,NA,powder,miscellaneous,NA,NA,.01,"letco medical,",NA,NA,active
+62991295304,sufentanil citrate (bulk),sufentanil,sufentanil,NA,powder,miscellaneous,NA,NA,.1,"letco medical,",NA,NA,active
+63275620001,sufentanil citrate (bulk),sufentanil,sufentanil,NA,powder,miscellaneous,NA,NA,1,b&b pharm,NA,NA,active
+63275620006,sufentanil citrate (bulk),sufentanil,sufentanil,NA,powder,miscellaneous,NA,NA,.1,b&b pharm,NA,NA,active
+63275620007,sufentanil citrate (bulk),sufentanil,sufentanil,NA,powder,miscellaneous,NA,NA,.5,b&b pharm,NA,NA,active
+63275620009,sufentanil citrate (bulk),sufentanil,sufentanil,NA,powder,miscellaneous,NA,NA,.01,b&b pharm,NA,NA,active
+63370096804,sufentanil citrate,sufentanil citrate,sufentanil,NA,NA,NA,NA,NA,1,NA,NA,NA,NA
+63370096806,sufentanil citrate (bulk),sufentanil,sufentanil,NA,powder,miscellaneous,NA,NA,.1,hawkins chemica,NA,NA,active

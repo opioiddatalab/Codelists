@@ -1,27 +1,27 @@
-icd_cm,ver
-'1622',9
-'1623',9
-'1624',9
-'1625',9
-'1628',9
-'1629',9
-'20921',9
-'V1011',9
-'C3400',10
-'C3401',10
-'C3402',10
-'C3410',10
-'C3411',10
-'C3412',10
-'C342',10
-'C3430',10
-'C3431',10
-'C3432',10
-'C3480',10
-'C3481',10
-'C3482',10
-'C3490',10
-'C3491',10
-'C3492',10
-'C7A090',10
-'Z85118',10
+icd_cm,ver,icd_cm_label,hcup_ccs_single,hcup_ccs_single_label
+'1622',9,malignant neoplasm of main bronchus,19,(19) cancer of bronchus; lung
+'1623',9,"malignant neoplasm of upper lobe, bronchus or lung",19,(19) cancer of bronchus; lung
+'1624',9,"malignant neoplasm of middle lobe, bronchus or lung",19,(19) cancer of bronchus; lung
+'1625',9,"malignant neoplasm of lower lobe, bronchus or lung",19,(19) cancer of bronchus; lung
+'1628',9,malignant neoplasm of other parts of bronchus or lung,19,(19) cancer of bronchus; lung
+'1629',9,"malignant neoplasm of bronchus and lung, unspecified",19,(19) cancer of bronchus; lung
+'20921',9,malignant carcinoid tumor of the bronchus and lung,19,(19) cancer of bronchus; lung
+'V1011',9,personal history of malignant neoplasm of bronchus and lung,19,(19) cancer of bronchus; lung
+'C3400',10,malignant neoplasm of unspecified main bronchus,19,(19) cancer of bronchus; lung
+'C3401',10,malignant neoplasm of right main bronchus,19,(19) cancer of bronchus; lung
+'C3402',10,malignant neoplasm of left main bronchus,19,(19) cancer of bronchus; lung
+'C3410',10,"malignant neoplasm of upper lobe, unspecified bronchus or lung",19,(19) cancer of bronchus; lung
+'C3411',10,"malignant neoplasm of upper lobe, right bronchus or lung",19,(19) cancer of bronchus; lung
+'C3412',10,"malignant neoplasm of upper lobe, left bronchus or lung",19,(19) cancer of bronchus; lung
+'C342',10,"malignant neoplasm of middle lobe, bronchus or lung",19,(19) cancer of bronchus; lung
+'C3430',10,"malignant neoplasm of lower lobe, unspecified bronchus or lung",19,(19) cancer of bronchus; lung
+'C3431',10,"malignant neoplasm of lower lobe, right bronchus or lung",19,(19) cancer of bronchus; lung
+'C3432',10,"malignant neoplasm of lower lobe, left bronchus or lung",19,(19) cancer of bronchus; lung
+'C3480',10,malignant neoplasm of overlapping sites of unspecified bronchus and lung,19,(19) cancer of bronchus; lung
+'C3481',10,malignant neoplasm of overlapping sites of right bronchus and lung,19,(19) cancer of bronchus; lung
+'C3482',10,malignant neoplasm of overlapping sites of left bronchus and lung,19,(19) cancer of bronchus; lung
+'C3490',10,malignant neoplasm of unspecified part of unspecified bronchus or lung,19,(19) cancer of bronchus; lung
+'C3491',10,malignant neoplasm of unspecified part of right bronchus or lung,19,(19) cancer of bronchus; lung
+'C3492',10,malignant neoplasm of unspecified part of left bronchus or lung,19,(19) cancer of bronchus; lung
+'C7A090',10,malignant carcinoid tumor of the bronchus and lung,19,(19) cancer of bronchus; lung
+'Z85118',10,personal history of other malignant neoplasm of bronchus and lung,19,(19) cancer of bronchus; lung

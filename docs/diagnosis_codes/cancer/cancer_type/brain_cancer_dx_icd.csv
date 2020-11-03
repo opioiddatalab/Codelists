@@ -1,61 +1,61 @@
-icd_cm,ver
-'1910',9
-'1911',9
-'1912',9
-'1913',9
-'1914',9
-'1915',9
-'1916',9
-'1917',9
-'1918',9
-'1919',9
-'1920',9
-'1921',9
-'1922',9
-'1923',9
-'1928',9
-'1929',9
-'V1085',9
-'V1086',9
-'C470',10
-'C4710',10
-'C4711',10
-'C4712',10
-'C4720',10
-'C4721',10
-'C4722',10
-'C473',10
-'C474',10
-'C475',10
-'C476',10
-'C478',10
-'C479',10
-'C700',10
-'C701',10
-'C709',10
-'C710',10
-'C711',10
-'C712',10
-'C713',10
-'C714',10
-'C715',10
-'C716',10
-'C717',10
-'C718',10
-'C719',10
-'C720',10
-'C721',10
-'C7220',10
-'C7221',10
-'C7222',10
-'C7230',10
-'C7231',10
-'C7232',10
-'C7240',10
-'C7241',10
-'C7242',10
-'C7250',10
-'C7259',10
-'C729',10
-'Z85841',10
-'Z85848',10
+icd_cm,ver,icd_cm_label,hcup_ccs_single,hcup_ccs_single_label
+'1910',9,"malignant neoplasm of cerebrum, except lobes and ventricles",35,(35) cancer of brain and nervous system
+'1911',9,malignant neoplasm of frontal lobe,35,(35) cancer of brain and nervous system
+'1912',9,malignant neoplasm of temporal lobe,35,(35) cancer of brain and nervous system
+'1913',9,malignant neoplasm of parietal lobe,35,(35) cancer of brain and nervous system
+'1914',9,malignant neoplasm of occipital lobe,35,(35) cancer of brain and nervous system
+'1915',9,malignant neoplasm of ventricles,35,(35) cancer of brain and nervous system
+'1916',9,malignant neoplasm of cerebellum nos,35,(35) cancer of brain and nervous system
+'1917',9,malignant neoplasm of brain stem,35,(35) cancer of brain and nervous system
+'1918',9,malignant neoplasm of other parts of brain,35,(35) cancer of brain and nervous system
+'1919',9,"malignant neoplasm of brain, unspecified",35,(35) cancer of brain and nervous system
+'1920',9,malignant neoplasm of cranial nerves,35,(35) cancer of brain and nervous system
+'1921',9,malignant neoplasm of cerebral meninges,35,(35) cancer of brain and nervous system
+'1922',9,malignant neoplasm of spinal cord,35,(35) cancer of brain and nervous system
+'1923',9,malignant neoplasm of spinal meninges,35,(35) cancer of brain and nervous system
+'1928',9,malignant neoplasm of other specified sites of nervous system,35,(35) cancer of brain and nervous system
+'1929',9,"malignant neoplasm of nervous system, part unspecified",35,(35) cancer of brain and nervous system
+'V1085',9,personal history of malignant neoplasm of brain,35,(35) cancer of brain and nervous system
+'V1086',9,personal history of malignant neoplasm of other parts of nervous system,35,(35) cancer of brain and nervous system
+'C470',10,"malignant neoplasm of peripheral nerves of head, face and neck",35,(35) cancer of brain and nervous system
+'C4710',10,"malignant neoplasm of peripheral nerves of unspecified upper limb, including shoulder",35,(35) cancer of brain and nervous system
+'C4711',10,"malignant neoplasm of peripheral nerves of right upper limb, including shoulder",35,(35) cancer of brain and nervous system
+'C4712',10,"malignant neoplasm of peripheral nerves of left upper limb, including shoulder",35,(35) cancer of brain and nervous system
+'C4720',10,"malignant neoplasm of peripheral nerves of unspecified lower limb, including hip",35,(35) cancer of brain and nervous system
+'C4721',10,"malignant neoplasm of peripheral nerves of right lower limb, including hip",35,(35) cancer of brain and nervous system
+'C4722',10,"malignant neoplasm of peripheral nerves of left lower limb, including hip",35,(35) cancer of brain and nervous system
+'C473',10,malignant neoplasm of peripheral nerves of thorax,35,(35) cancer of brain and nervous system
+'C474',10,malignant neoplasm of peripheral nerves of abdomen,35,(35) cancer of brain and nervous system
+'C475',10,malignant neoplasm of peripheral nerves of pelvis,35,(35) cancer of brain and nervous system
+'C476',10,"malignant neoplasm of peripheral nerves of trunk, unspecified",35,(35) cancer of brain and nervous system
+'C478',10,malignant neoplasm of overlapping sites of peripheral nerves and autonomic nervous system,35,(35) cancer of brain and nervous system
+'C479',10,"malignant neoplasm of peripheral nerves and autonomic nervous system, unspecified",35,(35) cancer of brain and nervous system
+'C700',10,malignant neoplasm of cerebral meninges,35,(35) cancer of brain and nervous system
+'C701',10,malignant neoplasm of spinal meninges,35,(35) cancer of brain and nervous system
+'C709',10,"malignant neoplasm of meninges, unspecified",35,(35) cancer of brain and nervous system
+'C710',10,"malignant neoplasm of cerebrum, except lobes and ventricles",35,(35) cancer of brain and nervous system
+'C711',10,malignant neoplasm of frontal lobe,35,(35) cancer of brain and nervous system
+'C712',10,malignant neoplasm of temporal lobe,35,(35) cancer of brain and nervous system
+'C713',10,malignant neoplasm of parietal lobe,35,(35) cancer of brain and nervous system
+'C714',10,malignant neoplasm of occipital lobe,35,(35) cancer of brain and nervous system
+'C715',10,malignant neoplasm of cerebral ventricle,35,(35) cancer of brain and nervous system
+'C716',10,malignant neoplasm of cerebellum,35,(35) cancer of brain and nervous system
+'C717',10,malignant neoplasm of brain stem,35,(35) cancer of brain and nervous system
+'C718',10,malignant neoplasm of overlapping sites of brain,35,(35) cancer of brain and nervous system
+'C719',10,"malignant neoplasm of brain, unspecified",35,(35) cancer of brain and nervous system
+'C720',10,malignant neoplasm of spinal cord,35,(35) cancer of brain and nervous system
+'C721',10,malignant neoplasm of cauda equina,35,(35) cancer of brain and nervous system
+'C7220',10,malignant neoplasm of unspecified olfactory nerve,35,(35) cancer of brain and nervous system
+'C7221',10,malignant neoplasm of right olfactory nerve,35,(35) cancer of brain and nervous system
+'C7222',10,malignant neoplasm of left olfactory nerve,35,(35) cancer of brain and nervous system
+'C7230',10,malignant neoplasm of unspecified optic nerve,35,(35) cancer of brain and nervous system
+'C7231',10,malignant neoplasm of right optic nerve,35,(35) cancer of brain and nervous system
+'C7232',10,malignant neoplasm of left optic nerve,35,(35) cancer of brain and nervous system
+'C7240',10,malignant neoplasm of unspecified acoustic nerve,35,(35) cancer of brain and nervous system
+'C7241',10,malignant neoplasm of right acoustic nerve,35,(35) cancer of brain and nervous system
+'C7242',10,malignant neoplasm of left acoustic nerve,35,(35) cancer of brain and nervous system
+'C7250',10,malignant neoplasm of unspecified cranial nerve,35,(35) cancer of brain and nervous system
+'C7259',10,malignant neoplasm of other cranial nerves,35,(35) cancer of brain and nervous system
+'C729',10,"malignant neoplasm of central nervous system, unspecified",35,(35) cancer of brain and nervous system
+'Z85841',10,personal history of malignant neoplasm of brain,35,(35) cancer of brain and nervous system
+'Z85848',10,personal history of malignant neoplasm of other parts of nervous tissue,35,(35) cancer of brain and nervous system

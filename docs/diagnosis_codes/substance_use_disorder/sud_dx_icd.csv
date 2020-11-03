@@ -1,437 +1,437 @@
-﻿icd_cm,ver,substance
-30300,9,Alcohol
-30301,9,Alcohol
-30302,9,Alcohol
-30303,9,Alcohol
-30390,9,Alcohol
-30391,9,Alcohol
-30392,9,Alcohol
-30393,9,Alcohol
-30410,9,Other or combination
-30411,9,Other or combination
-30412,9,Other or combination
-30413,9,Other or combination
-30420,9,Cocaine
-30421,9,Cocaine
-30422,9,Cocaine
-30423,9,Cocaine
-30430,9,Cannabis
-30431,9,Cannabis
-30432,9,Cannabis
-30433,9,Cannabis
-30440,9,Other Stimulants
-30441,9,Other Stimulants
-30442,9,Other Stimulants
-30443,9,Other Stimulants
-30450,9,Hallucinogens
-30451,9,Hallucinogens
-30452,9,Hallucinogens
-30453,9,Hallucinogens
-30460,9,Other or combination
-30461,9,Other or combination
-30462,9,Other or combination
-30463,9,Other or combination
-30480,9,Other or combination
-30481,9,Other or combination
-30482,9,Other or combination
-30483,9,Other or combination
-30490,9,Other or combination
-30491,9,Other or combination
-30492,9,Other or combination
-30493,9,Other or combination
-30500,9,Alcohol
-30501,9,Alcohol
-30502,9,Alcohol
-30503,9,Alcohol
-30520,9,Cannabis
-30521,9,Cannabis
-30522,9,Cannabis
-30523,9,Cannabis
-30530,9,Hallucinogens
-30531,9,Hallucinogens
-30532,9,Hallucinogens
-30533,9,Hallucinogens
-30540,9,Other or combination
-30541,9,Other or combination
-30542,9,Other or combination
-30543,9,Other or combination
-30560,9,Cocaine
-30561,9,Cocaine
-30562,9,Cocaine
-30563,9,Cocaine
-30570,9,Other Stimulants
-30571,9,Other Stimulants
-30572,9,Other Stimulants
-30573,9,Other Stimulants
-30580,9,Other or combination
-30581,9,Other or combination
-30582,9,Other or combination
-30583,9,Other or combination
-30590,9,Other or combination
-30591,9,Other or combination
-30592,9,Other or combination
-30593,9,Other or combination
-F1010,10,Alcohol
-F1011,10,Alcohol
-F10120,10,Alcohol
-F10121,10,Alcohol
-F10129,10,Alcohol
-F1014,10,Alcohol
-F10150,10,Alcohol
-F10151,10,Alcohol
-F10159,10,Alcohol
-F10180,10,Alcohol
-F10181,10,Alcohol
-F10182,10,Alcohol
-F10188,10,Alcohol
-F1019,10,Alcohol
-F1020,10,Alcohol
-F1021,10,Alcohol
-F10220,10,Alcohol
-F10221,10,Alcohol
-F10229,10,Alcohol
-F10230,10,Alcohol
-F10231,10,Alcohol
-F10232,10,Alcohol
-F10239,10,Alcohol
-F1024,10,Alcohol
-F10250,10,Alcohol
-F10251,10,Alcohol
-F10259,10,Alcohol
-F1026,10,Alcohol
-F1027,10,Alcohol
-F10280,10,Alcohol
-F10281,10,Alcohol
-F10282,10,Alcohol
-F10288,10,Alcohol
-F1029,10,Alcohol
-F10920,10,Alcohol
-F10921,10,Alcohol
-F10929,10,Alcohol
-F1094,10,Alcohol
-F10950,10,Alcohol
-F10951,10,Alcohol
-F10959,10,Alcohol
-F1096,10,Alcohol
-F1097,10,Alcohol
-F10980,10,Alcohol
-F10981,10,Alcohol
-F10982,10,Alcohol
-F10988,10,Alcohol
-F1099,10,Alcohol
-F1210,10,Cannabis
-F1211,10,Cannabis
-F12120,10,Cannabis
-F12121,10,Cannabis
-F12122,10,Cannabis
-F12129,10,Cannabis
-F12150,10,Cannabis
-F12151,10,Cannabis
-F12159,10,Cannabis
-F12180,10,Cannabis
-F12188,10,Cannabis
-F1219,10,Cannabis
-F1220,10,Cannabis
-F1221,10,Cannabis
-F12220,10,Cannabis
-F12221,10,Cannabis
-F12222,10,Cannabis
-F12229,10,Cannabis
-F1223,10,Cannabis
-F12250,10,Cannabis
-F12251,10,Cannabis
-F12259,10,Cannabis
-F12280,10,Cannabis
-F12288,10,Cannabis
-F1229,10,Cannabis
-F1290,10,Cannabis
-F12920,10,Cannabis
-F12921,10,Cannabis
-F12922,10,Cannabis
-F12929,10,Cannabis
-F1293,10,Cannabis
-F12950,10,Cannabis
-F12951,10,Cannabis
-F12959,10,Cannabis
-F12980,10,Cannabis
-F12988,10,Cannabis
-F1299,10,Cannabis
-F1310,10,Other or combination
-F1311,10,Other or combination
-F13120,10,Other or combination
-F13121,10,Other or combination
-F13129,10,Other or combination
-F1314,10,Other or combination
-F13150,10,Other or combination
-F13151,10,Other or combination
-F13159,10,Other or combination
-F13180,10,Other or combination
-F13181,10,Other or combination
-F13182,10,Other or combination
-F13188,10,Other or combination
-F1319,10,Other or combination
-F1320,10,Other or combination
-F1321,10,Other or combination
-F13220,10,Other or combination
-F13221,10,Other or combination
-F13229,10,Other or combination
-F13230,10,Other or combination
-F13231,10,Other or combination
-F13232,10,Other or combination
-F13239,10,Other or combination
-F1324,10,Other or combination
-F13250,10,Other or combination
-F13251,10,Other or combination
-F13259,10,Other or combination
-F1326,10,Other or combination
-F1327,10,Other or combination
-F13280,10,Other or combination
-F13281,10,Other or combination
-F13282,10,Other or combination
-F13288,10,Other or combination
-F1329,10,Other or combination
-F1390,10,Other or combination
-F13920,10,Other or combination
-F13921,10,Other or combination
-F13929,10,Other or combination
-F13930,10,Other or combination
-F13931,10,Other or combination
-F13932,10,Other or combination
-F13939,10,Other or combination
-F1394,10,Other or combination
-F13950,10,Other or combination
-F13951,10,Other or combination
-F13959,10,Other or combination
-F1396,10,Other or combination
-F1397,10,Other or combination
-F13980,10,Other or combination
-F13981,10,Other or combination
-F13982,10,Other or combination
-F13988,10,Other or combination
-F1399,10,Other or combination
-F1410,10,Cocaine
-F1411,10,Cocaine
-F14120,10,Cocaine
-F14121,10,Cocaine
-F14122,10,Cocaine
-F14129,10,Cocaine
-F1414,10,Cocaine
-F14150,10,Cocaine
-F14151,10,Cocaine
-F14159,10,Cocaine
-F14180,10,Cocaine
-F14181,10,Cocaine
-F14182,10,Cocaine
-F14188,10,Cocaine
-F1419,10,Cocaine
-F1420,10,Cocaine
-F1421,10,Cocaine
-F14220,10,Cocaine
-F14221,10,Cocaine
-F14222,10,Cocaine
-F14229,10,Cocaine
-F1423,10,Cocaine
-F1424,10,Cocaine
-F14250,10,Cocaine
-F14251,10,Cocaine
-F14259,10,Cocaine
-F14280,10,Cocaine
-F14281,10,Cocaine
-F14282,10,Cocaine
-F14288,10,Cocaine
-F1429,10,Cocaine
-F1490,10,Cocaine
-F14920,10,Cocaine
-F14921,10,Cocaine
-F14922,10,Cocaine
-F14929,10,Cocaine
-F1494,10,Cocaine
-F14950,10,Cocaine
-F14951,10,Cocaine
-F14959,10,Cocaine
-F14980,10,Cocaine
-F14981,10,Cocaine
-F14982,10,Cocaine
-F14988,10,Cocaine
-F1499,10,Cocaine
-F1510,10,Other Stimulants
-F1511,10,Other Stimulants
-F15120,10,Other Stimulants
-F15121,10,Other Stimulants
-F15122,10,Other Stimulants
-F15129,10,Other Stimulants
-F1514,10,Other Stimulants
-F15150,10,Other Stimulants
-F15151,10,Other Stimulants
-F15159,10,Other Stimulants
-F15180,10,Other Stimulants
-F15181,10,Other Stimulants
-F15182,10,Other Stimulants
-F15188,10,Other Stimulants
-F1519,10,Other Stimulants
-F1520,10,Other Stimulants
-F1521,10,Other Stimulants
-F15220,10,Other Stimulants
-F15221,10,Other Stimulants
-F15222,10,Other Stimulants
-F15229,10,Other Stimulants
-F1523,10,Other Stimulants
-F1524,10,Other Stimulants
-F15250,10,Other Stimulants
-F15251,10,Other Stimulants
-F15259,10,Other Stimulants
-F15280,10,Other Stimulants
-F15281,10,Other Stimulants
-F15282,10,Other Stimulants
-F15288,10,Other Stimulants
-F1529,10,Other Stimulants
-F1590,10,Other Stimulants
-F15920,10,Other Stimulants
-F15921,10,Other Stimulants
-F15922,10,Other Stimulants
-F15929,10,Other Stimulants
-F1593,10,Other Stimulants
-F1594,10,Other Stimulants
-F15950,10,Other Stimulants
-F15951,10,Other Stimulants
-F15959,10,Other Stimulants
-F15980,10,Other Stimulants
-F15981,10,Other Stimulants
-F15982,10,Other Stimulants
-F15988,10,Other Stimulants
-F1599,10,Other Stimulants
-F1610,10,Hallucinogens
-F1611,10,Hallucinogens
-F16120,10,Hallucinogens
-F16121,10,Hallucinogens
-F16122,10,Hallucinogens
-F16129,10,Hallucinogens
-F1614,10,Hallucinogens
-F16150,10,Hallucinogens
-F16151,10,Hallucinogens
-F16159,10,Hallucinogens
-F16180,10,Hallucinogens
-F16183,10,Hallucinogens
-F16188,10,Hallucinogens
-F1619,10,Hallucinogens
-F1620,10,Hallucinogens
-F1621,10,Hallucinogens
-F16220,10,Hallucinogens
-F16221,10,Hallucinogens
-F16229,10,Hallucinogens
-F1624,10,Hallucinogens
-F16250,10,Hallucinogens
-F16251,10,Hallucinogens
-F16259,10,Hallucinogens
-F16280,10,Hallucinogens
-F16283,10,Hallucinogens
-F16288,10,Hallucinogens
-F1629,10,Hallucinogens
-F1690,10,Hallucinogens
-F16920,10,Hallucinogens
-F16921,10,Hallucinogens
-F16929,10,Hallucinogens
-F1694,10,Hallucinogens
-F16950,10,Hallucinogens
-F16951,10,Hallucinogens
-F16959,10,Hallucinogens
-F16980,10,Hallucinogens
-F16983,10,Hallucinogens
-F16988,10,Hallucinogens
-F1699,10,Hallucinogens
-F1810,10,Other or combination
-F1811,10,Other or combination
-F18120,10,Other or combination
-F18121,10,Other or combination
-F18129,10,Other or combination
-F1814,10,Other or combination
-F18150,10,Other or combination
-F18151,10,Other or combination
-F18159,10,Other or combination
-F1817,10,Other or combination
-F18180,10,Other or combination
-F18188,10,Other or combination
-F1819,10,Other or combination
-F1820,10,Other or combination
-F1821,10,Other or combination
-F18220,10,Other or combination
-F18221,10,Other or combination
-F18229,10,Other or combination
-F1824,10,Other or combination
-F18250,10,Other or combination
-F18251,10,Other or combination
-F18259,10,Other or combination
-F1827,10,Other or combination
-F18280,10,Other or combination
-F18288,10,Other or combination
-F1829,10,Other or combination
-F1890,10,Other or combination
-F18920,10,Other or combination
-F18921,10,Other or combination
-F18929,10,Other or combination
-F1894,10,Other or combination
-F18950,10,Other or combination
-F18951,10,Other or combination
-F18959,10,Other or combination
-F1897,10,Other or combination
-F18980,10,Other or combination
-F18988,10,Other or combination
-F1899,10,Other or combination
-F1910,10,Other or combination
-F1911,10,Other or combination
-F19120,10,Other or combination
-F19121,10,Other or combination
-F19122,10,Other or combination
-F19129,10,Other or combination
-F1914,10,Other or combination
-F19150,10,Other or combination
-F19151,10,Other or combination
-F19159,10,Other or combination
-F1916,10,Other or combination
-F1917,10,Other or combination
-F19180,10,Other or combination
-F19181,10,Other or combination
-F19182,10,Other or combination
-F19188,10,Other or combination
-F1919,10,Other or combination
-F1920,10,Other or combination
-F1921,10,Other or combination
-F19220,10,Other or combination
-F19221,10,Other or combination
-F19222,10,Other or combination
-F19229,10,Other or combination
-F19230,10,Other or combination
-F19231,10,Other or combination
-F19232,10,Other or combination
-F19239,10,Other or combination
-F1924,10,Other or combination
-F19250,10,Other or combination
-F19251,10,Other or combination
-F19259,10,Other or combination
-F1926,10,Other or combination
-F1927,10,Other or combination
-F19280,10,Other or combination
-F19281,10,Other or combination
-F19282,10,Other or combination
-F19288,10,Other or combination
-F1929,10,Other or combination
-F1990,10,Other or combination
-F19920,10,Other or combination
-F19921,10,Other or combination
-F19922,10,Other or combination
-F19929,10,Other or combination
-F19930,10,Other or combination
-F19931,10,Other or combination
-F19932,10,Other or combination
-F19939,10,Other or combination
-F1994,10,Other or combination
-F19950,10,Other or combination
-F19951,10,Other or combination
-F19959,10,Other or combination
-F1996,10,Other or combination
-F1997,10,Other or combination
-F19980,10,Other or combination
-F19981,10,Other or combination
-F19982,10,Other or combination
-F19988,10,Other or combination
-F1999,10,Other or combination
+﻿icd_cm,ver,icd_cm_label,substance
+30300,9,"acute alcoholic intoxication in alcoholism, unspecified",Alcohol
+30301,9,"acute alcoholic intoxication in alcoholism, continuous",Alcohol
+30302,9,"acute alcoholic intoxication in alcoholism, episodic",Alcohol
+30303,9,"acute alcoholic intoxication in alcoholism, in remission",Alcohol
+30390,9,"other and unspecified alcohol dependence, unspecified",Alcohol
+30391,9,"other and unspecified alcohol dependence, continuous",Alcohol
+30392,9,"other and unspecified alcohol dependence, episodic",Alcohol
+30393,9,"other and unspecified alcohol dependence, in remission",Alcohol
+30410,9,"sedative, hypnotic or anxiolytic dependence, unspecified",Other or combination
+30411,9,"sedative, hypnotic or anxiolytic dependence, continuous",Other or combination
+30412,9,"sedative, hypnotic or anxiolytic dependence, episodic",Other or combination
+30413,9,"sedative, hypnotic or anxiolytic dependence, in remission",Other or combination
+30420,9,"cocaine dependence, unspecified",Cocaine
+30421,9,"cocaine dependence, continuous",Cocaine
+30422,9,"cocaine dependence, episodic",Cocaine
+30423,9,"cocaine dependence, in remission",Cocaine
+30430,9,"cannabis dependence, unspecified",Cannabis
+30431,9,"cannabis dependence, continuous",Cannabis
+30432,9,"cannabis dependence, episodic",Cannabis
+30433,9,"cannabis dependence, in remission",Cannabis
+30440,9,"amphetamine and other psychostimulant dependence, unspecified",Other Stimulants
+30441,9,"amphetamine and other psychostimulant dependence, continuous",Other Stimulants
+30442,9,"amphetamine and other psychostimulant dependence, episodic",Other Stimulants
+30443,9,"amphetamine and other psychostimulant dependence, in remission",Other Stimulants
+30450,9,"hallucinogen dependence, unspecified",Hallucinogens
+30451,9,"hallucinogen dependence, continuous",Hallucinogens
+30452,9,"hallucinogen dependence, episodic",Hallucinogens
+30453,9,"hallucinogen dependence, in remission",Hallucinogens
+30460,9,"other specified drug dependence, unspecified",Other or combination
+30461,9,"other specified drug dependence, continuous",Other or combination
+30462,9,"other specified drug dependence, episodic",Other or combination
+30463,9,"other specified drug dependence, in remission",Other or combination
+30480,9,"combinations of drug dependence excluding opioid type drug, unspecified",Other or combination
+30481,9,"combinations of drug dependence excluding opioid type drug, continuous",Other or combination
+30482,9,"combinations of drug dependence excluding opioid type drug, episodic",Other or combination
+30483,9,"combinations of drug dependence excluding opioid type drug, in remission",Other or combination
+30490,9,"unspecified drug dependence, unspecified",Other or combination
+30491,9,"unspecified drug dependence, continuous",Other or combination
+30492,9,"unspecified drug dependence, episodic",Other or combination
+30493,9,"unspecified drug dependence, in remission",Other or combination
+30500,9,"alcohol abuse, unspecified",Alcohol
+30501,9,"alcohol abuse, continuous",Alcohol
+30502,9,"alcohol abuse, episodic",Alcohol
+30503,9,"alcohol abuse, in remission",Alcohol
+30520,9,"cannabis abuse, unspecified",Cannabis
+30521,9,"cannabis abuse, continuous",Cannabis
+30522,9,"cannabis abuse, episodic",Cannabis
+30523,9,"cannabis abuse, in remission",Cannabis
+30530,9,"hallucinogen abuse, unspecified",Hallucinogens
+30531,9,"hallucinogen abuse, continuous",Hallucinogens
+30532,9,"hallucinogen abuse, episodic",Hallucinogens
+30533,9,"hallucinogen abuse, in remission",Hallucinogens
+30540,9,"sedative, hypnotic or anxiolytic abuse, unspecified",Other or combination
+30541,9,"sedative, hypnotic or anxiolytic abuse, continuous",Other or combination
+30542,9,"sedative, hypnotic or anxiolytic abuse, episodic",Other or combination
+30543,9,"sedative, hypnotic or anxiolytic abuse, in remission",Other or combination
+30560,9,"cocaine abuse, unspecified",Cocaine
+30561,9,"cocaine abuse, continuous",Cocaine
+30562,9,"cocaine abuse, episodic",Cocaine
+30563,9,"cocaine abuse, in remission",Cocaine
+30570,9,"amphetamine or related acting sympathomimetic abuse, unspecified",Other Stimulants
+30571,9,"amphetamine or related acting sympathomimetic abuse, continuous",Other Stimulants
+30572,9,"amphetamine or related acting sympathomimetic abuse, episodic",Other Stimulants
+30573,9,"amphetamine or related acting sympathomimetic abuse, in remission",Other Stimulants
+30580,9,"antidepressant type abuse, unspecified",Other or combination
+30581,9,"antidepressant type abuse, continuous",Other or combination
+30582,9,"antidepressant type abuse, episodic",Other or combination
+30583,9,"antidepressant type abuse, in remission",Other or combination
+30590,9,"other, mixed, or unspecified drug abuse, unspecified",Other or combination
+30591,9,"other, mixed, or unspecified drug abuse, continuous",Other or combination
+30592,9,"other, mixed, or unspecified drug abuse, episodic",Other or combination
+30593,9,"other, mixed, or unspecified drug abuse, in remission",Other or combination
+F1010,10,"alcohol abuse, uncomplicated",Alcohol
+F1011,10,"alcohol abuse, in remission",Alcohol
+F10120,10,"alcohol abuse with intoxication, uncomplicated",Alcohol
+F10121,10,alcohol abuse with intoxication delirium,Alcohol
+F10129,10,"alcohol abuse with intoxication, unspecified",Alcohol
+F1014,10,alcohol abuse with alcohol-induced mood disorder,Alcohol
+F10150,10,alcohol abuse with alcohol-induced psychotic disorder with delusions,Alcohol
+F10151,10,alcohol abuse with alcohol-induced psychotic disorder with hallucinations,Alcohol
+F10159,10,"alcohol abuse with alcohol-induced psychotic disorder, unspecified",Alcohol
+F10180,10,alcohol abuse with alcohol-induced anxiety disorder,Alcohol
+F10181,10,alcohol abuse with alcohol-induced sexual dysfunction,Alcohol
+F10182,10,alcohol abuse with alcohol-induced sleep disorder,Alcohol
+F10188,10,alcohol abuse with other alcohol-induced disorder,Alcohol
+F1019,10,alcohol abuse with unspecified alcohol-induced disorder,Alcohol
+F1020,10,"alcohol dependence, uncomplicated",Alcohol
+F1021,10,"alcohol dependence, in remission",Alcohol
+F10220,10,"alcohol dependence with intoxication, uncomplicated",Alcohol
+F10221,10,alcohol dependence with intoxication delirium,Alcohol
+F10229,10,"alcohol dependence with intoxication, unspecified",Alcohol
+F10230,10,"alcohol dependence with withdrawal, uncomplicated",Alcohol
+F10231,10,alcohol dependence with withdrawal delirium,Alcohol
+F10232,10,alcohol dependence with withdrawal with perceptual disturbance,Alcohol
+F10239,10,"alcohol dependence with withdrawal, unspecified",Alcohol
+F1024,10,alcohol dependence with alcohol-induced mood disorder,Alcohol
+F10250,10,alcohol dependence with alcohol-induced psychotic disorder with delusions,Alcohol
+F10251,10,alcohol dependence with alcohol-induced psychotic disorder with hallucinations,Alcohol
+F10259,10,"alcohol dependence with alcohol-induced psychotic disorder, unspecified",Alcohol
+F1026,10,alcohol dependence with alcohol-induced persisting amnestic disorder,Alcohol
+F1027,10,alcohol dependence with alcohol-induced persisting dementia,Alcohol
+F10280,10,alcohol dependence with alcohol-induced anxiety disorder,Alcohol
+F10281,10,alcohol dependence with alcohol-induced sexual dysfunction,Alcohol
+F10282,10,alcohol dependence with alcohol-induced sleep disorder,Alcohol
+F10288,10,alcohol dependence with other alcohol-induced disorder,Alcohol
+F1029,10,alcohol dependence with unspecified alcohol-induced disorder,Alcohol
+F10920,10,"alcohol use, unspecified with intoxication, uncomplicated",Alcohol
+F10921,10,"alcohol use, unspecified with intoxication delirium",Alcohol
+F10929,10,"alcohol use, unspecified with intoxication, unspecified",Alcohol
+F1094,10,"alcohol use, unspecified with alcohol-induced mood disorder",Alcohol
+F10950,10,"alcohol use, unspecified with alcohol-induced psychotic disorder with delusions",Alcohol
+F10951,10,"alcohol use, unspecified with alcohol-induced psychotic disorder with hallucinations",Alcohol
+F10959,10,"alcohol use, unspecified with alcohol-induced psychotic disorder, unspecified",Alcohol
+F1096,10,"alcohol use, unspecified with alcohol-induced persisting amnestic disorder",Alcohol
+F1097,10,"alcohol use, unspecified with alcohol-induced persisting dementia",Alcohol
+F10980,10,"alcohol use, unspecified with alcohol-induced anxiety disorder",Alcohol
+F10981,10,"alcohol use, unspecified with alcohol-induced sexual dysfunction",Alcohol
+F10982,10,"alcohol use, unspecified with alcohol-induced sleep disorder",Alcohol
+F10988,10,"alcohol use, unspecified with other alcohol-induced disorder",Alcohol
+F1099,10,"alcohol use, unspecified with unspecified alcohol-induced disorder",Alcohol
+F1210,10,"cannabis abuse, uncomplicated",Cannabis
+F1211,10,"cannabis abuse, in remission",Cannabis
+F12120,10,"cannabis abuse with intoxication, uncomplicated",Cannabis
+F12121,10,cannabis abuse with intoxication delirium,Cannabis
+F12122,10,cannabis abuse with intoxication with perceptual disturbance,Cannabis
+F12129,10,"cannabis abuse with intoxication, unspecified",Cannabis
+F12150,10,cannabis abuse with psychotic disorder with delusions,Cannabis
+F12151,10,cannabis abuse with psychotic disorder with hallucinations,Cannabis
+F12159,10,"cannabis abuse with psychotic disorder, unspecified",Cannabis
+F12180,10,cannabis abuse with cannabis-induced anxiety disorder,Cannabis
+F12188,10,cannabis abuse with other cannabis-induced disorder,Cannabis
+F1219,10,cannabis abuse with unspecified cannabis-induced disorder,Cannabis
+F1220,10,"cannabis dependence, uncomplicated",Cannabis
+F1221,10,"cannabis dependence, in remission",Cannabis
+F12220,10,"cannabis dependence with intoxication, uncomplicated",Cannabis
+F12221,10,cannabis dependence with intoxication delirium,Cannabis
+F12222,10,cannabis dependence with intoxication with perceptual disturbance,Cannabis
+F12229,10,"cannabis dependence with intoxication, unspecified",Cannabis
+F1223,10,cannabis dependence with withdrawal,Cannabis
+F12250,10,cannabis dependence with psychotic disorder with delusions,Cannabis
+F12251,10,cannabis dependence with psychotic disorder with hallucinations,Cannabis
+F12259,10,"cannabis dependence with psychotic disorder, unspecified",Cannabis
+F12280,10,cannabis dependence with cannabis-induced anxiety disorder,Cannabis
+F12288,10,cannabis dependence with other cannabis-induced disorder,Cannabis
+F1229,10,cannabis dependence with unspecified cannabis-induced disorder,Cannabis
+F1290,10,"cannabis use, unspecified, uncomplicated",Cannabis
+F12920,10,"cannabis use, unspecified with intoxication, uncomplicated",Cannabis
+F12921,10,"cannabis use, unspecified with intoxication delirium",Cannabis
+F12922,10,"cannabis use, unspecified with intoxication with perceptual disturbance",Cannabis
+F12929,10,"cannabis use, unspecified with intoxication, unspecified",Cannabis
+F1293,10,"cannabis use, unspecified with withdrawal",Cannabis
+F12950,10,"cannabis use, unspecified with psychotic disorder with delusions",Cannabis
+F12951,10,"cannabis use, unspecified with psychotic disorder with hallucinations",Cannabis
+F12959,10,"cannabis use, unspecified with psychotic disorder, unspecified",Cannabis
+F12980,10,"cannabis use, unspecified with anxiety disorder",Cannabis
+F12988,10,"cannabis use, unspecified with other cannabis-induced disorder",Cannabis
+F1299,10,"cannabis use, unspecified with unspecified cannabis-induced disorder",Cannabis
+F1310,10,"sedative, hypnotic or anxiolytic abuse, uncomplicated",Other or combination
+F1311,10,"sedative, hypnotic or anxiolytic abuse, in remission",Other or combination
+F13120,10,"sedative, hypnotic or anxiolytic abuse with intoxication, uncomplicated",Other or combination
+F13121,10,"sedative, hypnotic or anxiolytic abuse with intoxication delirium",Other or combination
+F13129,10,"sedative, hypnotic or anxiolytic abuse with intoxication, unspecified",Other or combination
+F1314,10,"sedative, hypnotic or anxiolytic abuse with sedative, hypnotic or anxiolytic-induced mood disorder",Other or combination
+F13150,10,"sedative, hypnotic or anxiolytic abuse with sedative, hypnotic or anxiolytic-induced psychotic disorder with delusions",Other or combination
+F13151,10,"sedative, hypnotic or anxiolytic abuse with sedative, hypnotic or anxiolytic-induced psychotic disorder with hallucinations",Other or combination
+F13159,10,"sedative, hypnotic or anxiolytic abuse with sedative, hypnotic or anxiolytic-induced psychotic disorder, unspecified",Other or combination
+F13180,10,"sedative, hypnotic or anxiolytic abuse with sedative, hypnotic or anxiolytic-induced anxiety disorder",Other or combination
+F13181,10,"sedative, hypnotic or anxiolytic abuse with sedative, hypnotic or anxiolytic-induced sexual dysfunction",Other or combination
+F13182,10,"sedative, hypnotic or anxiolytic abuse with sedative, hypnotic or anxiolytic-induced sleep disorder",Other or combination
+F13188,10,"sedative, hypnotic or anxiolytic abuse with other sedative, hypnotic or anxiolytic-induced disorder",Other or combination
+F1319,10,"sedative, hypnotic or anxiolytic abuse with unspecified sedative, hypnotic or anxiolytic-induced disorder",Other or combination
+F1320,10,"sedative, hypnotic or anxiolytic dependence, uncomplicated",Other or combination
+F1321,10,"sedative, hypnotic or anxiolytic dependence, in remission",Other or combination
+F13220,10,"sedative, hypnotic or anxiolytic dependence with intoxication, uncomplicated",Other or combination
+F13221,10,"sedative, hypnotic or anxiolytic dependence with intoxication delirium",Other or combination
+F13229,10,"sedative, hypnotic or anxiolytic dependence with intoxication, unspecified",Other or combination
+F13230,10,"sedative, hypnotic or anxiolytic dependence with withdrawal, uncomplicated",Other or combination
+F13231,10,"sedative, hypnotic or anxiolytic dependence with withdrawal delirium",Other or combination
+F13232,10,"sedative, hypnotic or anxiolytic dependence with withdrawal with perceptual disturbance",Other or combination
+F13239,10,"sedative, hypnotic or anxiolytic dependence with withdrawal, unspecified",Other or combination
+F1324,10,"sedative, hypnotic or anxiolytic dependence with sedative, hypnotic or anxiolytic-induced mood disorder",Other or combination
+F13250,10,"sedative, hypnotic or anxiolytic dependence with sedative, hypnotic or anxiolytic-induced psychotic disorder with delusions",Other or combination
+F13251,10,"sedative, hypnotic or anxiolytic dependence with sedative, hypnotic or anxiolytic-induced psychotic disorder with hallucinations",Other or combination
+F13259,10,"sedative, hypnotic or anxiolytic dependence with sedative, hypnotic or anxiolytic-induced psychotic disorder, unspecified",Other or combination
+F1326,10,"sedative, hypnotic or anxiolytic dependence with sedative, hypnotic or anxiolytic-induced persisting amnestic disorder",Other or combination
+F1327,10,"sedative, hypnotic or anxiolytic dependence with sedative, hypnotic or anxiolytic-induced persisting dementia",Other or combination
+F13280,10,"sedative, hypnotic or anxiolytic dependence with sedative, hypnotic or anxiolytic-induced anxiety disorder",Other or combination
+F13281,10,"sedative, hypnotic or anxiolytic dependence with sedative, hypnotic or anxiolytic-induced sexual dysfunction",Other or combination
+F13282,10,"sedative, hypnotic or anxiolytic dependence with sedative, hypnotic or anxiolytic-induced sleep disorder",Other or combination
+F13288,10,"sedative, hypnotic or anxiolytic dependence with other sedative, hypnotic or anxiolytic-induced disorder",Other or combination
+F1329,10,"sedative, hypnotic or anxiolytic dependence with unspecified sedative, hypnotic or anxiolytic-induced disorder",Other or combination
+F1390,10,"sedative, hypnotic, or anxiolytic use, unspecified, uncomplicated",Other or combination
+F13920,10,"sedative, hypnotic or anxiolytic use, unspecified with intoxication, uncomplicated",Other or combination
+F13921,10,"sedative, hypnotic or anxiolytic use, unspecified with intoxication delirium",Other or combination
+F13929,10,"sedative, hypnotic or anxiolytic use, unspecified with intoxication, unspecified",Other or combination
+F13930,10,"sedative, hypnotic or anxiolytic use, unspecified with withdrawal, uncomplicated",Other or combination
+F13931,10,"sedative, hypnotic or anxiolytic use, unspecified with withdrawal delirium",Other or combination
+F13932,10,"sedative, hypnotic or anxiolytic use, unspecified with withdrawal with perceptual disturbances",Other or combination
+F13939,10,"sedative, hypnotic or anxiolytic use, unspecified with withdrawal, unspecified",Other or combination
+F1394,10,"sedative, hypnotic or anxiolytic use, unspecified with sedative, hypnotic or anxiolytic-induced mood disorder",Other or combination
+F13950,10,"sedative, hypnotic or anxiolytic use, unspecified with sedative, hypnotic or anxiolytic-induced psychotic disorder with delusions",Other or combination
+F13951,10,"sedative, hypnotic or anxiolytic use, unspecified with sedative, hypnotic or anxiolytic-induced psychotic disorder with hallucinations",Other or combination
+F13959,10,"sedative, hypnotic or anxiolytic use, unspecified with sedative, hypnotic or anxiolytic-induced psychotic disorder, unspecified",Other or combination
+F1396,10,"sedative, hypnotic or anxiolytic use, unspecified with sedative, hypnotic or anxiolytic-induced persisting amnestic disorder",Other or combination
+F1397,10,"sedative, hypnotic or anxiolytic use, unspecified with sedative, hypnotic or anxiolytic-induced persisting dementia",Other or combination
+F13980,10,"sedative, hypnotic or anxiolytic use, unspecified with sedative, hypnotic or anxiolytic-induced anxiety disorder",Other or combination
+F13981,10,"sedative, hypnotic or anxiolytic use, unspecified with sedative, hypnotic or anxiolytic-induced sexual dysfunction",Other or combination
+F13982,10,"sedative, hypnotic or anxiolytic use, unspecified with sedative, hypnotic or anxiolytic-induced sleep disorder",Other or combination
+F13988,10,"sedative, hypnotic or anxiolytic use, unspecified with other sedative, hypnotic or anxiolytic-induced disorder",Other or combination
+F1399,10,"sedative, hypnotic or anxiolytic use, unspecified with unspecified sedative, hypnotic or anxiolytic-induced disorder",Other or combination
+F1410,10,"cocaine abuse, uncomplicated",Cocaine
+F1411,10,"cocaine abuse, in remission",Cocaine
+F14120,10,"cocaine abuse with intoxication, uncomplicated",Cocaine
+F14121,10,cocaine abuse with intoxication with delirium,Cocaine
+F14122,10,cocaine abuse with intoxication with perceptual disturbance,Cocaine
+F14129,10,"cocaine abuse with intoxication, unspecified",Cocaine
+F1414,10,cocaine abuse with cocaine-induced mood disorder,Cocaine
+F14150,10,cocaine abuse with cocaine-induced psychotic disorder with delusions,Cocaine
+F14151,10,cocaine abuse with cocaine-induced psychotic disorder with hallucinations,Cocaine
+F14159,10,"cocaine abuse with cocaine-induced psychotic disorder, unspecified",Cocaine
+F14180,10,cocaine abuse with cocaine-induced anxiety disorder,Cocaine
+F14181,10,cocaine abuse with cocaine-induced sexual dysfunction,Cocaine
+F14182,10,cocaine abuse with cocaine-induced sleep disorder,Cocaine
+F14188,10,cocaine abuse with other cocaine-induced disorder,Cocaine
+F1419,10,cocaine abuse with unspecified cocaine-induced disorder,Cocaine
+F1420,10,"cocaine dependence, uncomplicated",Cocaine
+F1421,10,"cocaine dependence, in remission",Cocaine
+F14220,10,"cocaine dependence with intoxication, uncomplicated",Cocaine
+F14221,10,cocaine dependence with intoxication delirium,Cocaine
+F14222,10,cocaine dependence with intoxication with perceptual disturbance,Cocaine
+F14229,10,"cocaine dependence with intoxication, unspecified",Cocaine
+F1423,10,cocaine dependence with withdrawal,Cocaine
+F1424,10,cocaine dependence with cocaine-induced mood disorder,Cocaine
+F14250,10,cocaine dependence with cocaine-induced psychotic disorder with delusions,Cocaine
+F14251,10,cocaine dependence with cocaine-induced psychotic disorder with hallucinations,Cocaine
+F14259,10,"cocaine dependence with cocaine-induced psychotic disorder, unspecified",Cocaine
+F14280,10,cocaine dependence with cocaine-induced anxiety disorder,Cocaine
+F14281,10,cocaine dependence with cocaine-induced sexual dysfunction,Cocaine
+F14282,10,cocaine dependence with cocaine-induced sleep disorder,Cocaine
+F14288,10,cocaine dependence with other cocaine-induced disorder,Cocaine
+F1429,10,cocaine dependence with unspecified cocaine-induced disorder,Cocaine
+F1490,10,"cocaine use, unspecified, uncomplicated",Cocaine
+F14920,10,"cocaine use, unspecified with intoxication, uncomplicated",Cocaine
+F14921,10,"cocaine use, unspecified with intoxication delirium",Cocaine
+F14922,10,"cocaine use, unspecified with intoxication with perceptual disturbance",Cocaine
+F14929,10,"cocaine use, unspecified with intoxication, unspecified",Cocaine
+F1494,10,"cocaine use, unspecified with cocaine-induced mood disorder",Cocaine
+F14950,10,"cocaine use, unspecified with cocaine-induced psychotic disorder with delusions",Cocaine
+F14951,10,"cocaine use, unspecified with cocaine-induced psychotic disorder with hallucinations",Cocaine
+F14959,10,"cocaine use, unspecified with cocaine-induced psychotic disorder, unspecified",Cocaine
+F14980,10,"cocaine use, unspecified with cocaine-induced anxiety disorder",Cocaine
+F14981,10,"cocaine use, unspecified with cocaine-induced sexual dysfunction",Cocaine
+F14982,10,"cocaine use, unspecified with cocaine-induced sleep disorder",Cocaine
+F14988,10,"cocaine use, unspecified with other cocaine-induced disorder",Cocaine
+F1499,10,"cocaine use, unspecified with unspecified cocaine-induced disorder",Cocaine
+F1510,10,"other stimulant abuse, uncomplicated",Other Stimulants
+F1511,10,"other stimulant abuse, in remission",Other Stimulants
+F15120,10,"other stimulant abuse with intoxication, uncomplicated",Other Stimulants
+F15121,10,other stimulant abuse with intoxication delirium,Other Stimulants
+F15122,10,other stimulant abuse with intoxication with perceptual disturbance,Other Stimulants
+F15129,10,"other stimulant abuse with intoxication, unspecified",Other Stimulants
+F1514,10,other stimulant abuse with stimulant-induced mood disorder,Other Stimulants
+F15150,10,other stimulant abuse with stimulant-induced psychotic disorder with delusions,Other Stimulants
+F15151,10,other stimulant abuse with stimulant-induced psychotic disorder with hallucinations,Other Stimulants
+F15159,10,"other stimulant abuse with stimulant-induced psychotic disorder, unspecified",Other Stimulants
+F15180,10,other stimulant abuse with stimulant-induced anxiety disorder,Other Stimulants
+F15181,10,other stimulant abuse with stimulant-induced sexual dysfunction,Other Stimulants
+F15182,10,other stimulant abuse with stimulant-induced sleep disorder,Other Stimulants
+F15188,10,other stimulant abuse with other stimulant-induced disorder,Other Stimulants
+F1519,10,other stimulant abuse with unspecified stimulant-induced disorder,Other Stimulants
+F1520,10,"other stimulant dependence, uncomplicated",Other Stimulants
+F1521,10,"other stimulant dependence, in remission",Other Stimulants
+F15220,10,"other stimulant dependence with intoxication, uncomplicated",Other Stimulants
+F15221,10,other stimulant dependence with intoxication delirium,Other Stimulants
+F15222,10,other stimulant dependence with intoxication with perceptual disturbance,Other Stimulants
+F15229,10,"other stimulant dependence with intoxication, unspecified",Other Stimulants
+F1523,10,other stimulant dependence with withdrawal,Other Stimulants
+F1524,10,other stimulant dependence with stimulant-induced mood disorder,Other Stimulants
+F15250,10,other stimulant dependence with stimulant-induced psychotic disorder with delusions,Other Stimulants
+F15251,10,other stimulant dependence with stimulant-induced psychotic disorder with hallucinations,Other Stimulants
+F15259,10,"other stimulant dependence with stimulant-induced psychotic disorder, unspecified",Other Stimulants
+F15280,10,other stimulant dependence with stimulant-induced anxiety disorder,Other Stimulants
+F15281,10,other stimulant dependence with stimulant-induced sexual dysfunction,Other Stimulants
+F15282,10,other stimulant dependence with stimulant-induced sleep disorder,Other Stimulants
+F15288,10,other stimulant dependence with other stimulant-induced disorder,Other Stimulants
+F1529,10,other stimulant dependence with unspecified stimulant-induced disorder,Other Stimulants
+F1590,10,"other stimulant use, unspecified, uncomplicated",Other Stimulants
+F15920,10,"other stimulant use, unspecified with intoxication, uncomplicated",Other Stimulants
+F15921,10,"other stimulant use, unspecified with intoxication delirium",Other Stimulants
+F15922,10,"other stimulant use, unspecified with intoxication with perceptual disturbance",Other Stimulants
+F15929,10,"other stimulant use, unspecified with intoxication, unspecified",Other Stimulants
+F1593,10,"other stimulant use, unspecified with withdrawal",Other Stimulants
+F1594,10,"other stimulant use, unspecified with stimulant-induced mood disorder",Other Stimulants
+F15950,10,"other stimulant use, unspecified with stimulant-induced psychotic disorder with delusions",Other Stimulants
+F15951,10,"other stimulant use, unspecified with stimulant-induced psychotic disorder with hallucinations",Other Stimulants
+F15959,10,"other stimulant use, unspecified with stimulant-induced psychotic disorder, unspecified",Other Stimulants
+F15980,10,"other stimulant use, unspecified with stimulant-induced anxiety disorder",Other Stimulants
+F15981,10,"other stimulant use, unspecified with stimulant-induced sexual dysfunction",Other Stimulants
+F15982,10,"other stimulant use, unspecified with stimulant-induced sleep disorder",Other Stimulants
+F15988,10,"other stimulant use, unspecified with other stimulant-induced disorder",Other Stimulants
+F1599,10,"other stimulant use, unspecified with unspecified stimulant-induced disorder",Other Stimulants
+F1610,10,"hallucinogen abuse, uncomplicated",Hallucinogens
+F1611,10,"hallucinogen abuse, in remission",Hallucinogens
+F16120,10,"hallucinogen abuse with intoxication, uncomplicated",Hallucinogens
+F16121,10,hallucinogen abuse with intoxication with delirium,Hallucinogens
+F16122,10,hallucinogen abuse with intoxication with perceptual disturbance,Hallucinogens
+F16129,10,"hallucinogen abuse with intoxication, unspecified",Hallucinogens
+F1614,10,hallucinogen abuse with hallucinogen-induced mood disorder,Hallucinogens
+F16150,10,hallucinogen abuse with hallucinogen-induced psychotic disorder with delusions,Hallucinogens
+F16151,10,hallucinogen abuse with hallucinogen-induced psychotic disorder with hallucinations,Hallucinogens
+F16159,10,"hallucinogen abuse with hallucinogen-induced psychotic disorder, unspecified",Hallucinogens
+F16180,10,hallucinogen abuse with hallucinogen-induced anxiety disorder,Hallucinogens
+F16183,10,hallucinogen abuse with hallucinogen persisting perception disorder (flashbacks),Hallucinogens
+F16188,10,hallucinogen abuse with other hallucinogen-induced disorder,Hallucinogens
+F1619,10,hallucinogen abuse with unspecified hallucinogen-induced disorder,Hallucinogens
+F1620,10,"hallucinogen dependence, uncomplicated",Hallucinogens
+F1621,10,"hallucinogen dependence, in remission",Hallucinogens
+F16220,10,"hallucinogen dependence with intoxication, uncomplicated",Hallucinogens
+F16221,10,hallucinogen dependence with intoxication with delirium,Hallucinogens
+F16229,10,"hallucinogen dependence with intoxication, unspecified",Hallucinogens
+F1624,10,hallucinogen dependence with hallucinogen-induced mood disorder,Hallucinogens
+F16250,10,hallucinogen dependence with hallucinogen-induced psychotic disorder with delusions,Hallucinogens
+F16251,10,hallucinogen dependence with hallucinogen-induced psychotic disorder with hallucinations,Hallucinogens
+F16259,10,"hallucinogen dependence with hallucinogen-induced psychotic disorder, unspecified",Hallucinogens
+F16280,10,hallucinogen dependence with hallucinogen-induced anxiety disorder,Hallucinogens
+F16283,10,hallucinogen dependence with hallucinogen persisting perception disorder (flashbacks),Hallucinogens
+F16288,10,hallucinogen dependence with other hallucinogen-induced disorder,Hallucinogens
+F1629,10,hallucinogen dependence with unspecified hallucinogen-induced disorder,Hallucinogens
+F1690,10,"hallucinogen use, unspecified, uncomplicated",Hallucinogens
+F16920,10,"hallucinogen use, unspecified with intoxication, uncomplicated",Hallucinogens
+F16921,10,"hallucinogen use, unspecified with intoxication with delirium",Hallucinogens
+F16929,10,"hallucinogen use, unspecified with intoxication, unspecified",Hallucinogens
+F1694,10,"hallucinogen use, unspecified with hallucinogen-induced mood disorder",Hallucinogens
+F16950,10,"hallucinogen use, unspecified with hallucinogen-induced psychotic disorder with delusions",Hallucinogens
+F16951,10,"hallucinogen use, unspecified with hallucinogen-induced psychotic disorder with hallucinations",Hallucinogens
+F16959,10,"hallucinogen use, unspecified with hallucinogen-induced psychotic disorder, unspecified",Hallucinogens
+F16980,10,"hallucinogen use, unspecified with hallucinogen-induced anxiety disorder",Hallucinogens
+F16983,10,"hallucinogen use, unspecified with hallucinogen persisting perception disorder (flashbacks)",Hallucinogens
+F16988,10,"hallucinogen use, unspecified with other hallucinogen-induced disorder",Hallucinogens
+F1699,10,"hallucinogen use, unspecified with unspecified hallucinogen-induced disorder",Hallucinogens
+F1810,10,"inhalant abuse, uncomplicated",Other or combination
+F1811,10,"inhalant abuse, in remission",Other or combination
+F18120,10,"inhalant abuse with intoxication, uncomplicated",Other or combination
+F18121,10,inhalant abuse with intoxication delirium,Other or combination
+F18129,10,"inhalant abuse with intoxication, unspecified",Other or combination
+F1814,10,inhalant abuse with inhalant-induced mood disorder,Other or combination
+F18150,10,inhalant abuse with inhalant-induced psychotic disorder with delusions,Other or combination
+F18151,10,inhalant abuse with inhalant-induced psychotic disorder with hallucinations,Other or combination
+F18159,10,"inhalant abuse with inhalant-induced psychotic disorder, unspecified",Other or combination
+F1817,10,inhalant abuse with inhalant-induced dementia,Other or combination
+F18180,10,inhalant abuse with inhalant-induced anxiety disorder,Other or combination
+F18188,10,inhalant abuse with other inhalant-induced disorder,Other or combination
+F1819,10,inhalant abuse with unspecified inhalant-induced disorder,Other or combination
+F1820,10,"inhalant dependence, uncomplicated",Other or combination
+F1821,10,"inhalant dependence, in remission",Other or combination
+F18220,10,"inhalant dependence with intoxication, uncomplicated",Other or combination
+F18221,10,inhalant dependence with intoxication delirium,Other or combination
+F18229,10,"inhalant dependence with intoxication, unspecified",Other or combination
+F1824,10,inhalant dependence with inhalant-induced mood disorder,Other or combination
+F18250,10,inhalant dependence with inhalant-induced psychotic disorder with delusions,Other or combination
+F18251,10,inhalant dependence with inhalant-induced psychotic disorder with hallucinations,Other or combination
+F18259,10,"inhalant dependence with inhalant-induced psychotic disorder, unspecified",Other or combination
+F1827,10,inhalant dependence with inhalant-induced dementia,Other or combination
+F18280,10,inhalant dependence with inhalant-induced anxiety disorder,Other or combination
+F18288,10,inhalant dependence with other inhalant-induced disorder,Other or combination
+F1829,10,inhalant dependence with unspecified inhalant-induced disorder,Other or combination
+F1890,10,"inhalant use, unspecified, uncomplicated",Other or combination
+F18920,10,"inhalant use, unspecified with intoxication, uncomplicated",Other or combination
+F18921,10,"inhalant use, unspecified with intoxication with delirium",Other or combination
+F18929,10,"inhalant use, unspecified with intoxication, unspecified",Other or combination
+F1894,10,"inhalant use, unspecified with inhalant-induced mood disorder",Other or combination
+F18950,10,"inhalant use, unspecified with inhalant-induced psychotic disorder with delusions",Other or combination
+F18951,10,"inhalant use, unspecified with inhalant-induced psychotic disorder with hallucinations",Other or combination
+F18959,10,"inhalant use, unspecified with inhalant-induced psychotic disorder, unspecified",Other or combination
+F1897,10,"inhalant use, unspecified with inhalant-induced persisting dementia",Other or combination
+F18980,10,"inhalant use, unspecified with inhalant-induced anxiety disorder",Other or combination
+F18988,10,"inhalant use, unspecified with other inhalant-induced disorder",Other or combination
+F1899,10,"inhalant use, unspecified with unspecified inhalant-induced disorder",Other or combination
+F1910,10,"other psychoactive substance abuse, uncomplicated",Other or combination
+F1911,10,"other psychoactive substance abuse, in remission",Other or combination
+F19120,10,"other psychoactive substance abuse with intoxication, uncomplicated",Other or combination
+F19121,10,other psychoactive substance abuse with intoxication delirium,Other or combination
+F19122,10,other psychoactive substance abuse with intoxication with perceptual disturbances,Other or combination
+F19129,10,"other psychoactive substance abuse with intoxication, unspecified",Other or combination
+F1914,10,other psychoactive substance abuse with psychoactive substance-induced mood disorder,Other or combination
+F19150,10,other psychoactive substance abuse with psychoactive substance-induced psychotic disorder with delusions,Other or combination
+F19151,10,other psychoactive substance abuse with psychoactive substance-induced psychotic disorder with hallucinations,Other or combination
+F19159,10,"other psychoactive substance abuse with psychoactive substance-induced psychotic disorder, unspecified",Other or combination
+F1916,10,other psychoactive substance abuse with psychoactive substance-induced persisting amnestic disorder,Other or combination
+F1917,10,other psychoactive substance abuse with psychoactive substance-induced persisting dementia,Other or combination
+F19180,10,other psychoactive substance abuse with psychoactive substance-induced anxiety disorder,Other or combination
+F19181,10,other psychoactive substance abuse with psychoactive substance-induced sexual dysfunction,Other or combination
+F19182,10,other psychoactive substance abuse with psychoactive substance-induced sleep disorder,Other or combination
+F19188,10,other psychoactive substance abuse with other psychoactive substance-induced disorder,Other or combination
+F1919,10,other psychoactive substance abuse with unspecified psychoactive substance-induced disorder,Other or combination
+F1920,10,"other psychoactive substance dependence, uncomplicated",Other or combination
+F1921,10,"other psychoactive substance dependence, in remission",Other or combination
+F19220,10,"other psychoactive substance dependence with intoxication, uncomplicated",Other or combination
+F19221,10,other psychoactive substance dependence with intoxication delirium,Other or combination
+F19222,10,other psychoactive substance dependence with intoxication with perceptual disturbance,Other or combination
+F19229,10,"other psychoactive substance dependence with intoxication, unspecified",Other or combination
+F19230,10,"other psychoactive substance dependence with withdrawal, uncomplicated",Other or combination
+F19231,10,other psychoactive substance dependence with withdrawal delirium,Other or combination
+F19232,10,other psychoactive substance dependence with withdrawal with perceptual disturbance,Other or combination
+F19239,10,"other psychoactive substance dependence with withdrawal, unspecified",Other or combination
+F1924,10,other psychoactive substance dependence with psychoactive substance-induced mood disorder,Other or combination
+F19250,10,other psychoactive substance dependence with psychoactive substance-induced psychotic disorder with delusions,Other or combination
+F19251,10,other psychoactive substance dependence with psychoactive substance-induced psychotic disorder with hallucinations,Other or combination
+F19259,10,"other psychoactive substance dependence with psychoactive substance-induced psychotic disorder, unspecified",Other or combination
+F1926,10,other psychoactive substance dependence with psychoactive substance-induced persisting amnestic disorder,Other or combination
+F1927,10,other psychoactive substance dependence with psychoactive substance-induced persisting dementia,Other or combination
+F19280,10,other psychoactive substance dependence with psychoactive substance-induced anxiety disorder,Other or combination
+F19281,10,other psychoactive substance dependence with psychoactive substance-induced sexual dysfunction,Other or combination
+F19282,10,other psychoactive substance dependence with psychoactive substance-induced sleep disorder,Other or combination
+F19288,10,other psychoactive substance dependence with other psychoactive substance-induced disorder,Other or combination
+F1929,10,other psychoactive substance dependence with unspecified psychoactive substance-induced disorder,Other or combination
+F1990,10,"other psychoactive substance use, unspecified, uncomplicated",Other or combination
+F19920,10,"other psychoactive substance use, unspecified with intoxication, uncomplicated",Other or combination
+F19921,10,"other psychoactive substance use, unspecified with intoxication with delirium",Other or combination
+F19922,10,"other psychoactive substance use, unspecified with intoxication with perceptual disturbance",Other or combination
+F19929,10,"other psychoactive substance use, unspecified with intoxication, unspecified",Other or combination
+F19930,10,"other psychoactive substance use, unspecified with withdrawal, uncomplicated",Other or combination
+F19931,10,"other psychoactive substance use, unspecified with withdrawal delirium",Other or combination
+F19932,10,"other psychoactive substance use, unspecified with withdrawal with perceptual disturbance",Other or combination
+F19939,10,"other psychoactive substance use, unspecified with withdrawal, unspecified",Other or combination
+F1994,10,"other psychoactive substance use, unspecified with psychoactive substance-induced mood disorder",Other or combination
+F19950,10,"other psychoactive substance use, unspecified with psychoactive substance-induced psychotic disorder with delusions",Other or combination
+F19951,10,"other psychoactive substance use, unspecified with psychoactive substance-induced psychotic disorder with hallucinations",Other or combination
+F19959,10,"other psychoactive substance use, unspecified with psychoactive substance-induced psychotic disorder, unspecified",Other or combination
+F1996,10,"other psychoactive substance use, unspecified with psychoactive substance-induced persisting amnestic disorder",Other or combination
+F1997,10,"other psychoactive substance use, unspecified with psychoactive substance-induced persisting dementia",Other or combination
+F19980,10,"other psychoactive substance use, unspecified with psychoactive substance-induced anxiety disorder",Other or combination
+F19981,10,"other psychoactive substance use, unspecified with psychoactive substance-induced sexual dysfunction",Other or combination
+F19982,10,"other psychoactive substance use, unspecified with psychoactive substance-induced sleep disorder",Other or combination
+F19988,10,"other psychoactive substance use, unspecified with other psychoactive substance-induced disorder",Other or combination
+F1999,10,"other psychoactive substance use, unspecified with unspecified psychoactive substance-induced disorder",Other or combination

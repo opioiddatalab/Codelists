@@ -1,0 +1,228 @@
+﻿icd_cm,ver,icd_cm_label,hcup_ccs_single,hcup_ccs_single_label
+30789,9,psychogenic pain nec,670,(670) miscellaneous mental health disorders    
+7210,9,cervical spondylosis,205,(205) spondylosis; intervertebral disc disorders; other back problems
+7211,9,cerv spondyl w myelopath,205,(205) spondylosis; intervertebral disc disorders; other back problems
+7212,9,thoracic spondylosis,205,(205) spondylosis; intervertebral disc disorders; other back problems
+7213,9,lumbosacral spondylosis,205,(205) spondylosis; intervertebral disc disorders; other back problems
+7220,9,cervical disc displacmnt,205,(205) spondylosis; intervertebral disc disorders; other back problems
+72231,9,schmorls node-thoracic,205,(205) spondylosis; intervertebral disc disorders; other back problems
+72271,9,cerv disc dis w myelopat,205,(205) spondylosis; intervertebral disc disorders; other back problems
+72281,9,postlaminect synd-cerv,205,(205) spondylosis; intervertebral disc disorders; other back problems
+72291,9,disc dis nec/nos-cerv,205,(205) spondylosis; intervertebral disc disorders; other back problems
+723,9,other cervical spine dis*,,
+7230,9,cervical spinal stenosis,205,(205) spondylosis; intervertebral disc disorders; other back problems
+7231,9,cervicalgia,205,(205) spondylosis; intervertebral disc disorders; other back problems
+7232,9,cervicocranial syndrome,205,(205) spondylosis; intervertebral disc disorders; other back problems
+7233,9,cervicobrachial syndrome,205,(205) spondylosis; intervertebral disc disorders; other back problems
+7234,9,brachial neuritis nos,205,(205) spondylosis; intervertebral disc disorders; other back problems
+7235,9,torticollis nos,205,(205) spondylosis; intervertebral disc disorders; other back problems
+7236,9,panniculitis of neck,205,(205) spondylosis; intervertebral disc disorders; other back problems
+7237,9,ossification cerv lig,205,(205) spondylosis; intervertebral disc disorders; other back problems
+7238,9,cervical syndrome nec,205,(205) spondylosis; intervertebral disc disorders; other back problems
+7239,9,neck disorder/sympt nos,205,(205) spondylosis; intervertebral disc disorders; other back problems
+7242,9,lumbago,205,(205) spondylosis; intervertebral disc disorders; other back problems
+7244,9,lumbosacral neuritis nos,205,(205) spondylosis; intervertebral disc disorders; other back problems
+7245,9,backache nos,205,(205) spondylosis; intervertebral disc disorders; other back problems
+7246,9,disorders of sacrum,205,(205) spondylosis; intervertebral disc disorders; other back problems
+7247,9,disorders of coccyx*,,
+72470,9,disorder of coccyx nos,205,(205) spondylosis; intervertebral disc disorders; other back problems
+72471,9,hypermobility of coccyx,205,(205) spondylosis; intervertebral disc disorders; other back problems
+72479,9,disorder of coccyx nec,205,(205) spondylosis; intervertebral disc disorders; other back problems
+7248,9,other back symptoms,205,(205) spondylosis; intervertebral disc disorders; other back problems
+8390,9,disloc cervical vert-cl*,,
+83900,9,disloc cerv vert nos-cl,225,(225) joint disorders and dislocations; trauma-related
+83901,9,disloc 1st cerv vert-cl,225,(225) joint disorders and dislocations; trauma-related
+83902,9,disloc 2nd cerv vert-cl,225,(225) joint disorders and dislocations; trauma-related
+83903,9,disloc 3rd cerv vert-cl,225,(225) joint disorders and dislocations; trauma-related
+83904,9,disloc 4th cerv vert-cl,225,(225) joint disorders and dislocations; trauma-related
+83905,9,disloc 5th cerv vert-cl,225,(225) joint disorders and dislocations; trauma-related
+83906,9,disloc 6th cerv vert-cl,225,(225) joint disorders and dislocations; trauma-related
+83907,9,disloc 7th cerv vert-cl,225,(225) joint disorders and dislocations; trauma-related
+83908,9,disloc mult cerv vert-cl,225,(225) joint disorders and dislocations; trauma-related
+8391,9,disloc cervical vert-opn*,,
+83910,9,disloc cerv vert nos-opn,225,(225) joint disorders and dislocations; trauma-related
+83911,9,disloc lst cerv vert-opn,225,(225) joint disorders and dislocations; trauma-related
+83912,9,disloc 2nd cerv vert-opn,225,(225) joint disorders and dislocations; trauma-related
+83913,9,disloc 3rd cerv vert-opn,225,(225) joint disorders and dislocations; trauma-related
+83914,9,disloc 4th cerv vert-opn,225,(225) joint disorders and dislocations; trauma-related
+83915,9,disloc 5th cerv vert-opn,225,(225) joint disorders and dislocations; trauma-related
+83916,9,disloc 6th cerv vert-opn,225,(225) joint disorders and dislocations; trauma-related
+83917,9,disloc 7th cerv vert-opn,225,(225) joint disorders and dislocations; trauma-related
+83918,9,disloc mlt cerv vert-opn,225,(225) joint disorders and dislocations; trauma-related
+846,9,sprain sacroiliac region*,,
+8460,9,sprain lumbosacral,232,(232) sprains and strains
+8461,9,sprain sacroiliac,232,(232) sprains and strains
+8462,9,sprain sacrospinatus,232,(232) sprains and strains
+8463,9,sprain sacrotuberous,232,(232) sprains and strains
+8468,9,sprain sacroiliac nec,232,(232) sprains and strains
+8469,9,sprain sacroiliac nos,232,(232) sprains and strains
+8470,9,sprain of neck,232,(232) sprains and strains
+8471,9,sprain thoracic region,232,(232) sprains and strains
+8472,9,sprain lumbar region,232,(232) sprains and strains
+8474,9,sprain of coccyx,232,(232) sprains and strains
+8479,9,sprain of back nos,232,(232) sprains and strains
+F4542,10,pain disorder with related psychological factors,670,(670) miscellaneous mental health disorders    
+M4327,10,"fusion of spine, lumbosacral region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M4328,10,"fusion of spine, sacral and sacrococcygeal region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M436,10,torticollis,205,(205) spondylosis; intervertebral disc disorders; other back problems
+M4641,10,"discitis, unspecified, occipito-atlanto-axial region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M4642,10,"discitis, unspecified, cervical region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M4643,10,"discitis, unspecified, cervicothoracic region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M47011,10,"anterior spinal artery compression syndromes, occipito-atlanto-axial region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M47012,10,"anterior spinal artery compression syndromes, cervical region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M47013,10,"anterior spinal artery compression syndromes, cervicothoracic region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M47014,10,"anterior spinal artery compression syndromes, thoracic region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M47015,10,"anterior spinal artery compression syndromes, thoracolumbar region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M47016,10,"anterior spinal artery compression syndromes, lumbar region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M47019,10,"anterior spinal artery compression syndromes, site unspecified",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M47021,10,"vertebral artery compression syndromes, occipito-atlanto-axial region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M47022,10,"vertebral artery compression syndromes, cervical region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M47029,10,"vertebral artery compression syndromes, site unspecified",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M4711,10,"other spondylosis with myelopathy, occipito-atlanto-axial region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M4712,10,"other spondylosis with myelopathy, cervical region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M4713,10,"other spondylosis with myelopathy, cervicothoracic region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M4721,10,"other spondylosis with radiculopathy, occipito-atlanto-axial region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M4722,10,"other spondylosis with radiculopathy, cervical region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M4723,10,"other spondylosis with radiculopathy, cervicothoracic region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M4724,10,"other spondylosis with radiculopathy, thoracic region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M4725,10,"other spondylosis with radiculopathy, thoracolumbar region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M4726,10,"other spondylosis with radiculopathy, lumbar region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M4727,10,"other spondylosis with radiculopathy, lumbosacral region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M4728,10,"other spondylosis with radiculopathy, sacral and sacrococcygeal region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M47811,10,"spondylosis without myelopathy or radiculopathy, occipito-atlanto-axial region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M47812,10,"spondylosis without myelopathy or radiculopathy, cervical region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M47813,10,"spondylosis without myelopathy or radiculopathy, cervicothoracic region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M47814,10,"spondylosis without myelopathy or radiculopathy, thoracic region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M47815,10,"spondylosis without myelopathy or radiculopathy, thoracolumbar region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M47816,10,"spondylosis without myelopathy or radiculopathy, lumbar region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M47817,10,"spondylosis without myelopathy or radiculopathy, lumbosacral region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M47818,10,"spondylosis without myelopathy or radiculopathy, sacral and sacrococcygeal region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M47891,10,"other spondylosis, occipito-atlanto-axial region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M47892,10,"other spondylosis, cervical region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M47893,10,"other spondylosis, cervicothoracic region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M47894,10,"other spondylosis, thoracic region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M47895,10,"other spondylosis, thoracolumbar region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M47896,10,"other spondylosis, lumbar region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M47897,10,"other spondylosis, lumbosacral region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M47898,10,"other spondylosis, sacral and sacrococcygeal region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M4801,10,"spinal stenosis, occipito-atlanto-axial region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M4802,10,"spinal stenosis, cervical region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M4803,10,"spinal stenosis, cervicothoracic region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M5000,10,"cervical disc disorder with myelopathy, unspecified cervical region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M5001,10,"cervical disc disorder with myelopathy, high cervical region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M50020,10,"cervical disc disorder with myelopathy, mid-cervical region, unspecified level",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M50021,10,cervical disc disorder at c4-c5 level with myelopathy,205,(205) spondylosis; intervertebral disc disorders; other back problems
+M50022,10,cervical disc disorder at c5-c6 level with myelopathy,205,(205) spondylosis; intervertebral disc disorders; other back problems
+M50023,10,cervical disc disorder at c6-c7 level with myelopathy,205,(205) spondylosis; intervertebral disc disorders; other back problems
+M5003,10,"cervical disc disorder with myelopathy, cervicothoracic region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M5010,10,"cervical disc disorder with radiculopathy, unspecified cervical region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M5011,10,"cervical disc disorder with radiculopathy, high cervical region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M50120,10,"mid-cervical disc disorder, unspecified",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M50121,10,cervical disc disorder at c4-c5 level with radiculopathy,205,(205) spondylosis; intervertebral disc disorders; other back problems
+M50122,10,cervical disc disorder at c5-c6 level with radiculopathy,205,(205) spondylosis; intervertebral disc disorders; other back problems
+M50123,10,cervical disc disorder at c6-c7 level with radiculopathy,205,(205) spondylosis; intervertebral disc disorders; other back problems
+M5013,10,"cervical disc disorder with radiculopathy, cervicothoracic region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M5020,10,"other cervical disc displacement, unspecified cervical region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M5021,10,"other cervical disc displacement, high cervical region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M50220,10,"other cervical disc displacement, mid-cervical region, unspecified level",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M50221,10,other cervical disc displacement at c4-c5 level,205,(205) spondylosis; intervertebral disc disorders; other back problems
+M50222,10,other cervical disc displacement at c5-c6 level,205,(205) spondylosis; intervertebral disc disorders; other back problems
+M50223,10,other cervical disc displacement at c6-c7 level,205,(205) spondylosis; intervertebral disc disorders; other back problems
+M5023,10,"other cervical disc displacement, cervicothoracic region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M5080,10,"other cervical disc disorders, unspecified cervical region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M5081,10,"other cervical disc disorders, high cervical region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M50820,10,"other cervical disc disorders, mid-cervical region, unspecified level",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M50821,10,other cervical disc disorders at c4-c5 level,205,(205) spondylosis; intervertebral disc disorders; other back problems
+M50822,10,other cervical disc disorders at c5-c6 level,205,(205) spondylosis; intervertebral disc disorders; other back problems
+M50823,10,other cervical disc disorders at c6-c7 level,205,(205) spondylosis; intervertebral disc disorders; other back problems
+M5083,10,"other cervical disc disorders, cervicothoracic region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M5090,10,"cervical disc disorder, unspecified, unspecified cervical region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M5091,10,"cervical disc disorder, unspecified, high cervical region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M50920,10,"unspecified cervical disc disorder, mid-cervical region, unspecified level",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M50921,10,unspecified cervical disc disorder at c4-c5 level,205,(205) spondylosis; intervertebral disc disorders; other back problems
+M50922,10,unspecified cervical disc disorder at c5-c6 level,205,(205) spondylosis; intervertebral disc disorders; other back problems
+M50923,10,unspecified cervical disc disorder at c6-c7 level,205,(205) spondylosis; intervertebral disc disorders; other back problems
+M5093,10,"cervical disc disorder, unspecified, cervicothoracic region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M5144,10,"schmorl's nodes, thoracic region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M5145,10,"schmorl's nodes, thoracolumbar region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M530,10,cervicocranial syndrome,205,(205) spondylosis; intervertebral disc disorders; other back problems
+M531,10,cervicobrachial syndrome,205,(205) spondylosis; intervertebral disc disorders; other back problems
+M532X7,10,"spinal instabilities, lumbosacral region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M532X8,10,"spinal instabilities, sacral and sacrococcygeal region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M533,10,"sacrococcygeal disorders, not elsewhere classified",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M5381,10,"other specified dorsopathies, occipito-atlanto-axial region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M5382,10,"other specified dorsopathies, cervical region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M5383,10,"other specified dorsopathies, cervicothoracic region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M5386,10,"other specified dorsopathies, lumbar region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M5387,10,"other specified dorsopathies, lumbosacral region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M5388,10,"other specified dorsopathies, sacral and sacrococcygeal region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M5400,10,"panniculitis affecting regions of neck and back, site unspecified",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M5401,10,"panniculitis affecting regions of neck and back, occipito-atlanto-axial region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M5402,10,"panniculitis affecting regions of neck and back, cervical region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M5403,10,"panniculitis affecting regions of neck and back, cervicothoracic region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M5404,10,"panniculitis affecting regions of neck and back, thoracic region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M5405,10,"panniculitis affecting regions of neck and back, thoracolumbar region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M5406,10,"panniculitis affecting regions of neck and back, lumbar region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M5407,10,"panniculitis affecting regions of neck and back, lumbosacral region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M5408,10,"panniculitis affecting regions of neck and back, sacral and sacrococcygeal region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M5409,10,"panniculitis affecting regions, neck and back, multiple sites in spine",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M5411,10,"radiculopathy, occipito-atlanto-axial region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M5412,10,"radiculopathy, cervical region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M5413,10,"radiculopathy, cervicothoracic region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M5414,10,"radiculopathy, thoracic region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M5415,10,"radiculopathy, thoracolumbar region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M5416,10,"radiculopathy, lumbar region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M5417,10,"radiculopathy, lumbosacral region",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M542,10,cervicalgia,205,(205) spondylosis; intervertebral disc disorders; other back problems
+M545,10,low back pain,205,(205) spondylosis; intervertebral disc disorders; other back problems
+M5481,10,occipital neuralgia,205,(205) spondylosis; intervertebral disc disorders; other back problems
+M5489,10,other dorsalgia,205,(205) spondylosis; intervertebral disc disorders; other back problems
+M549,10,"dorsalgia, unspecified",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M62830,10,muscle spasm of back,205,(205) spondylosis; intervertebral disc disorders; other back problems
+M961,10,"postlaminectomy syndrome, not elsewhere classified",205,(205) spondylosis; intervertebral disc disorders; other back problems
+M9910,10,subluxation complex (vertebral) of head region,225,(225) joint disorders and dislocations; trauma-related
+M9911,10,subluxation complex (vertebral) of cervical region,225,(225) joint disorders and dislocations; trauma-related
+M9920,10,subluxation stenosis of neural canal of head region,205,(205) spondylosis; intervertebral disc disorders; other back problems
+M9921,10,subluxation stenosis of neural canal of cervical region,205,(205) spondylosis; intervertebral disc disorders; other back problems
+M9930,10,osseous stenosis of neural canal of head region,205,(205) spondylosis; intervertebral disc disorders; other back problems
+M9931,10,osseous stenosis of neural canal of cervical region,205,(205) spondylosis; intervertebral disc disorders; other back problems
+M9940,10,connective tissue stenosis of neural canal of head region,205,(205) spondylosis; intervertebral disc disorders; other back problems
+M9941,10,connective tissue stenosis of neural canal of cervical region,205,(205) spondylosis; intervertebral disc disorders; other back problems
+M9950,10,intervertebral disc stenosis of neural canal of head region,205,(205) spondylosis; intervertebral disc disorders; other back problems
+M9951,10,intervertebral disc stenosis of neural canal of cervical region,205,(205) spondylosis; intervertebral disc disorders; other back problems
+M9960,10,osseous and subluxation stenosis of intervertebral foramina of head region,205,(205) spondylosis; intervertebral disc disorders; other back problems
+M9961,10,osseous and subluxation stenosis of intervertebral foramina of cervical region,205,(205) spondylosis; intervertebral disc disorders; other back problems
+M9970,10,connective tissue and disc stenosis of intervertebral foramina of head region,205,(205) spondylosis; intervertebral disc disorders; other back problems
+M9971,10,connective tissue and disc stenosis of intervertebral foramina of cervical region,205,(205) spondylosis; intervertebral disc disorders; other back problems
+S130XXA,10,"traumatic rupture of cervical intervertebral disc, initial encounter",225,(225) joint disorders and dislocations; trauma-related
+S13100A,10,"subluxation of unspecified cervical vertebrae, initial encounter",225,(225) joint disorders and dislocations; trauma-related
+S13101A,10,"dislocation of unspecified cervical vertebrae, initial encounter",225,(225) joint disorders and dislocations; trauma-related
+S13110A,10,"subluxation of c0/c1 cervical vertebrae, initial encounter",225,(225) joint disorders and dislocations; trauma-related
+S13111A,10,"dislocation of c0/c1 cervical vertebrae, initial encounter",225,(225) joint disorders and dislocations; trauma-related
+S13120A,10,"subluxation of c1/c2 cervical vertebrae, initial encounter",225,(225) joint disorders and dislocations; trauma-related
+S13121A,10,"dislocation of c1/c2 cervical vertebrae, initial encounter",225,(225) joint disorders and dislocations; trauma-related
+S13130A,10,"subluxation of c2/c3 cervical vertebrae, initial encounter",225,(225) joint disorders and dislocations; trauma-related
+S13131A,10,"dislocation of c2/c3 cervical vertebrae, initial encounter",225,(225) joint disorders and dislocations; trauma-related
+S13140A,10,"subluxation of c3/c4 cervical vertebrae, initial encounter",225,(225) joint disorders and dislocations; trauma-related
+S13141A,10,"dislocation of c3/c4 cervical vertebrae, initial encounter",225,(225) joint disorders and dislocations; trauma-related
+S13150A,10,"subluxation of c4/c5 cervical vertebrae, initial encounter",225,(225) joint disorders and dislocations; trauma-related
+S13151A,10,"dislocation of c4/c5 cervical vertebrae, initial encounter",225,(225) joint disorders and dislocations; trauma-related
+S13160A,10,"subluxation of c5/c6 cervical vertebrae, initial encounter",225,(225) joint disorders and dislocations; trauma-related
+S13161A,10,"dislocation of c5/c6 cervical vertebrae, initial encounter",225,(225) joint disorders and dislocations; trauma-related
+S13170A,10,"subluxation of c6/c7 cervical vertebrae, initial encounter",225,(225) joint disorders and dislocations; trauma-related
+S13171A,10,"dislocation of c6/c7 cervical vertebrae, initial encounter",225,(225) joint disorders and dislocations; trauma-related
+S13180A,10,"subluxation of c7/t1 cervical vertebrae, initial encounter",225,(225) joint disorders and dislocations; trauma-related
+S13181A,10,"dislocation of c7/t1 cervical vertebrae, initial encounter",225,(225) joint disorders and dislocations; trauma-related
+S1320XA,10,"dislocation of unspecified parts of neck, initial encounter",225,(225) joint disorders and dislocations; trauma-related
+S1329XA,10,"dislocation of other parts of neck, initial encounter",225,(225) joint disorders and dislocations; trauma-related
+S134XXA,10,"sprain of ligaments of cervical spine, initial encounter",232,(232) sprains and strains
+S138XXA,10,"sprain of joints and ligaments of other parts of neck, initial encounter",232,(232) sprains and strains
+S139XXA,10,"sprain of joints and ligaments of unspecified parts of neck, initial encounter",232,(232) sprains and strains
+S161XXA,10,"strain of muscle, fascia and tendon at neck level, initial encounter",232,(232) sprains and strains
+S233XXA,10,"sprain of ligaments of thoracic spine, initial encounter",232,(232) sprains and strains
+S238XXA,10,"sprain of other specified parts of thorax, initial encounter",232,(232) sprains and strains
+S239XXA,10,"sprain of unspecified parts of thorax, initial encounter",232,(232) sprains and strains
+S335XXA,10,"sprain of ligaments of lumbar spine, initial encounter",232,(232) sprains and strains
+S336XXA,10,"sprain of sacroiliac joint, initial encounter",232,(232) sprains and strains
+S338XXA,10,"sprain of other parts of lumbar spine and pelvis, initial encounter",232,(232) sprains and strains
+S339XXA,10,"sprain of unspecified parts of lumbar spine and pelvis, initial encounter",232,(232) sprains and strains

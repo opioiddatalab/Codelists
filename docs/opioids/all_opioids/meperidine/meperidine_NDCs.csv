@@ -1,0 +1,424 @@
+ndc,drug_name,generic_name,opioid_ingredient1,opioid_ingredient2,form,route,strength,strength_uom,package_size,manufacturer,startdate,enddate,status
+00008023401,mepergan,meperidine,meperidine,NA,solution,injection,25-25,mg/ml,10,esi lederle,9/30/90,9/30/90,inactive
+00008023501,mepergan,meperidine,meperidine,NA,syringe,injection,25-25,mg/ml,2,esi lederle,9/30/90,9/30/90,inactive
+00008023550,mepergan,meperidine,meperidine,NA,syringe,injection,25-25,mg/ml,2,esi lederle,9/30/90,9/30/90,inactive
+00008025801,meperidine (pf),meperidine,meperidine,NA,solution,injection,50,mg/ml,30,esi lederle,9/30/90,9/30/90,active
+00008025901,meperidine,meperidine,meperidine,NA,solution,injection,100,mg/ml,20,esi lederle,9/30/90,9/30/90,active
+00008026102,mepergan fortis,meperidine,meperidine,NA,capsule,oral,50-25,mg,100,wyeth pharm,9/30/90,9/30/90,inactive
+00008030801,meperidine,meperidine,meperidine,NA,tablet,oral,50,mg,25,wyeth pharm,NA,NA,active
+00008030802,meperidine,meperidine,meperidine,NA,tablet,oral,50,mg,250,esi lederle,9/30/90,9/30/90,active
+00008030803,meperidine,meperidine,meperidine,NA,tablet,oral,50,mg,250,esi lederle,9/30/90,9/30/90,active
+00008060102,meperidine,meperidine,meperidine,NA,syringe,injection,25,mg/ml,1,esi lederle,9/30/90,9/30/90,inactive
+00008060103,meperidine,meperidine,meperidine,NA,syringe,injection,25,mg/ml,1,wyeth pharm,NA,NA,inactive
+00008060150,meperidine,meperidine,meperidine,NA,syringe,injection,25,mg/ml,1,esi lederle,9/30/90,9/30/90,inactive
+00008060151,meperidine,meperidine,meperidine,NA,syringe,injection,25,mg/ml,1,esi lederle,9/30/90,9/30/90,inactive
+00008060202,meperidine,meperidine,meperidine,NA,syringe,injection,50,mg/ml,1,esi lederle,9/30/90,9/30/90,inactive
+00008060203,meperidine,meperidine,meperidine,NA,syringe,injection,50,mg/ml,1,wyeth pharm,NA,NA,inactive
+00008060250,meperidine,meperidine,meperidine,NA,syringe,injection,50,mg/ml,1,esi lederle,9/30/90,9/30/90,inactive
+00008060251,meperidine,meperidine,meperidine,NA,syringe,injection,50,mg/ml,1,esi lederle,9/30/90,9/30/90,inactive
+00008060502,meperidine,meperidine,meperidine,NA,syringe,injection,75,mg/ml,1,esi lederle,9/30/90,9/30/90,inactive
+00008060503,meperidine,meperidine,meperidine,NA,syringe,injection,75,mg/ml,1,wyeth pharm,NA,NA,inactive
+00008060550,meperidine,meperidine,meperidine,NA,syringe,injection,75,mg/ml,1,esi lederle,9/30/90,9/30/90,inactive
+00008060551,meperidine,meperidine,meperidine,NA,syringe,injection,75,mg/ml,1,esi lederle,9/30/90,9/30/90,inactive
+00008061302,meperidine,meperidine,meperidine,NA,syringe,injection,100,mg/ml,1,esi lederle,9/30/90,9/30/90,inactive
+00008061303,meperidine,meperidine,meperidine,NA,syringe,injection,100,mg/ml,1,wyeth pharm,NA,NA,inactive
+00008061350,meperidine,meperidine,meperidine,NA,syringe,injection,100,mg/ml,1,esi lederle,9/30/90,9/30/90,inactive
+00024002102,atropine-demerol,meperidine,meperidine,NA,syringe,injection,50-0.4,mg/ml,1,sanofi winthrop,9/30/90,9/30/90,inactive
+00024002202,atropine-demerol,meperidine,meperidine,NA,syringe,injection,75-0.4,mg/ml,1,sanofi winthrop,9/30/90,9/30/90,inactive
+00024022506,demerol,meperidine,meperidine,NA,tablet,oral,50,mg,500,sanofi winthrop,NA,NA,inactive
+00024032402,demerol,meperidine,meperidine,NA,syringe,injection,25,mg/ml,1,sanofi winthrop,11/10/42,11/10/42,inactive
+00024032404,demerol hydrochloride,meperidine hydrochloride,meperidine,NA,NA,NA,25 mg,NA,25,NA,NA,NA,inactive
+00024032423,demerol,meperidine,meperidine,NA,syringe,injection,25,mg/ml,1,sanofi winthrop,11/10/42,11/10/42,inactive
+00024032442,demerol,meperidine,meperidine,NA,syringe,injection,25,mg/ml,1,sanofi winthrop,11/10/42,11/10/42,inactive
+00024032463,demerol,meperidine,meperidine,NA,syringe,injection,25,mg/ml,1,sanofi winthrop,11/10/42,11/10/42,inactive
+00024032502,demerol,meperidine,meperidine,NA,syringe,injection,50,mg/ml,1,sanofi winthrop,11/10/42,11/10/42,inactive
+00024032504,demerol hydrochloride,meperidine hydrochloride,meperidine,NA,NA,NA,50 mg,NA,25,NA,NA,NA,inactive
+00024032533,demerol,meperidine,meperidine,NA,syringe,injection,50,mg/ml,1,sanofi winthrop,11/10/42,11/10/42,inactive
+00024032543,demerol,meperidine,meperidine,NA,syringe,injection,50,mg/ml,1,sanofi winthrop,11/10/42,11/10/42,inactive
+00024032573,demerol,meperidine,meperidine,NA,syringe,injection,50,mg/ml,1,sanofi winthrop,11/10/42,11/10/42,inactive
+00024032602,demerol,meperidine,meperidine,NA,syringe,injection,75,mg/ml,1,sanofi winthrop,11/10/42,11/10/42,inactive
+00024032604,demerol hydrochloride,meperidine hydrochloride,meperidine,NA,NA,NA,75 mg,NA,25,NA,NA,NA,inactive
+00024032633,demerol,meperidine,meperidine,NA,syringe,injection,75,mg/ml,1,sanofi winthrop,11/10/42,11/10/42,inactive
+00024032644,demerol,meperidine,meperidine,NA,syringe,injection,75,mg/ml,1,sanofi winthrop,11/10/42,11/10/42,inactive
+00024032683,demerol,meperidine,meperidine,NA,syringe,injection,75,mg/ml,1,sanofi winthrop,11/10/42,11/10/42,inactive
+00024032802,demerol,meperidine,meperidine,NA,syringe,injection,100,mg/ml,1,sanofi winthrop,11/10/42,11/10/42,inactive
+00024032804,demerol hydrochloride,meperidine hydrochloride,meperidine,NA,NA,NA,100 mg,NA,25,NA,NA,NA,inactive
+00024032833,demerol,meperidine,meperidine,NA,syringe,injection,100,mg/ml,1,sanofi winthrop,11/10/42,11/10/42,inactive
+00024032845,demerol,meperidine,meperidine,NA,syringe,injection,100,mg/ml,1,sanofi winthrop,11/10/42,11/10/42,inactive
+00024032893,demerol,meperidine,meperidine,NA,syringe,injection,100,mg/ml,1,sanofi winthrop,11/10/42,11/10/42,inactive
+00024032901,demerol (pf),meperidine,meperidine,NA,solution,injection,50,mg/ml,30,sanofi winthrop,9/30/90,9/30/90,active
+00024033101,demerol,meperidine,meperidine,NA,solution,injection,100,mg/ml,20,sanofi winthrop,9/30/90,9/30/90,active
+00024033206,demerol,meperidine,meperidine,NA,solution,oral,50,mg/5 ml,473,sanofi-aventis,9/30/90,9/30/90,inactive
+00024033502,demerol,meperidine,meperidine,NA,tablet,oral,50,mg,25,sanofi-aventis,9/30/90,9/30/90,inactive
+00024033504,demerol,meperidine,meperidine,NA,tablet,oral,50,mg,100,sanofi-aventis,9/30/90,9/30/90,inactive
+00024033505,demerol,meperidine,meperidine,NA,tablet,oral,50,mg,100,sanofi/validus,9/30/90,9/30/90,inactive
+00024033506,demerol,meperidine,meperidine,NA,tablet,oral,50,mg,500,sanofi-aventis,9/30/90,9/30/90,inactive
+00024033702,demerol,meperidine,meperidine,NA,tablet,oral,100,mg,25,sanofi winthrop,9/30/90,9/30/90,active
+00024033704,demerol,meperidine,meperidine,NA,tablet,oral,100,mg,100,sanofi-aventis,9/30/90,9/30/90,active
+00024033705,demerol,meperidine,meperidine,NA,tablet,oral,100,mg,100,sanofi/validus,9/30/90,9/30/90,active
+00024033706,demerol,meperidine,meperidine,NA,tablet,oral,100,mg,500,sanofi-aventis,9/30/90,9/30/90,active
+00024036104,demerol,meperidine,meperidine,NA,solution,injection,50,mg/ml,.5,sanofi winthrop,9/30/90,9/30/90,active
+00024036204,demerol,meperidine,meperidine,NA,solution,injection,50,mg/ml,1,sanofi winthrop,9/30/90,9/30/90,active
+00024036304,demerol,meperidine,meperidine,NA,solution,injection,50,mg/ml,1.5,sanofi winthrop,9/30/90,9/30/90,active
+00024036404,demerol,meperidine,meperidine,NA,solution,injection,50,mg/ml,2,sanofi winthrop,9/30/90,9/30/90,active
+00024036504,demerol,meperidine,meperidine,NA,solution,injection,100,mg/ml,1,sanofi winthrop,9/30/90,9/30/90,active
+00024037102,demerol hydrochloride,meperidine hydrochloride,meperidine,NA,NA,NA,25 mg,NA,10,NA,NA,NA,inactive
+00024037104,demerol,meperidine,meperidine,NA,solution,injection,50,mg/ml,.5,sanofi winthrop,9/30/90,9/30/90,active
+00024037202,demerol hydrochloride,meperidine hydrochloride,meperidine,NA,NA,NA,50 mg,NA,10,NA,NA,NA,inactive
+00024037204,demerol,meperidine,meperidine,NA,solution,injection,50,mg/ml,1,sanofi winthrop,9/30/90,9/30/90,active
+00024037302,demerol hydrochloride,meperidine hydrochloride,meperidine,NA,NA,NA,75 mg,NA,10,NA,NA,NA,inactive
+00024037304,demerol,meperidine,meperidine,NA,solution,injection,50,mg/ml,1.5,sanofi winthrop,9/30/90,9/30/90,active
+00024037402,demerol hydrochloride,meperidine hydrochloride,meperidine,NA,NA,NA,100 mg,NA,10,NA,NA,NA,inactive
+00024037404,demerol,meperidine,meperidine,NA,solution,injection,50,mg/ml,2,sanofi winthrop,9/30/90,9/30/90,active
+00024037502,demerol hydrochloride,meperidine hydrochloride,meperidine,NA,NA,NA,100 mg,NA,10,NA,NA,NA,inactive
+00024037504,demerol,meperidine,meperidine,NA,solution,injection,100,mg/ml,1,sanofi winthrop,9/30/90,9/30/90,active
+00024102210,demerol apap,acetaminophen; meperidine hydrochloride,meperidine,NA,NA,NA,300 mg-50 mg,NA,100,NA,NA,NA,NA
+00054354563,meperidine,meperidine,meperidine,NA,solution,oral,50,mg/5 ml,500,roxane/west-war,9/30/90,9/30/90,active
+00054459525,meperidine,meperidine,meperidine,NA,tablet,oral,50,mg,100,roxane/west-war,9/30/90,9/30/90,active
+00054459625,meperidine,meperidine,meperidine,NA,tablet,oral,100,mg,100,roxane/west-war,9/30/90,9/30/90,active
+00054854516,meperidine,meperidine,meperidine,NA,solution,oral,50,mg/5 ml,5,roxane labs.,3/12/97,3/12/97,active
+00054859511,meperidine,meperidine,meperidine,NA,tablet,oral,50,mg,25,roxane/west-war,12/1/90,12/1/90,active
+00054859611,meperidine,meperidine,meperidine,NA,tablet,oral,100,mg,25,roxane labs.,3/12/97,3/12/97,active
+00074117601,demerol (pf),meperidine,meperidine,NA,syringe,injection,25,mg/ml,1,abbott hosp,11/10/42,11/10/42,active
+00074117602,demerol (pf),meperidine,meperidine,NA,syringe,injection,25,mg/ml,1,abbott hosp,11/10/42,11/10/42,active
+00074117611,demerol (pf),meperidine,meperidine,NA,syringe,injection,25,mg/ml,1,abbott hosp,9/30/90,9/30/90,active
+00074117621,demerol (pf),meperidine,meperidine,NA,syringe,injection,25,mg/ml,1,abbott hosp,9/30/90,9/30/90,active
+00074117630,demerol (pf),meperidine,meperidine,NA,syringe,injection,25,mg/ml,1,hospira,9/30/90,9/30/90,active
+00074117631,demerol (pf),meperidine,meperidine,NA,syringe,injection,25,mg/ml,1,abbott hosp,11/10/42,11/10/42,active
+00074117801,demerol (pf),meperidine,meperidine,NA,syringe,injection,50,mg/ml,1,abbott hosp,11/10/42,11/10/42,active
+00074117802,demerol (pf),meperidine,meperidine,NA,syringe,injection,50,mg/ml,1,abbott hosp,11/10/42,11/10/42,active
+00074117811,demerol (pf),meperidine,meperidine,NA,syringe,injection,50,mg/ml,1,hospira,9/30/90,9/30/90,active
+00074117821,demerol (pf),meperidine,meperidine,NA,syringe,injection,50,mg/ml,1,abbott hosp,9/30/90,9/30/90,active
+00074117830,demerol (pf),meperidine,meperidine,NA,syringe,injection,50,mg/ml,1,hospira,9/30/90,9/30/90,active
+00074117831,demerol (pf),meperidine,meperidine,NA,syringe,injection,50,mg/ml,1,abbott hosp,11/10/42,11/10/42,active
+00074117901,demerol (pf),meperidine,meperidine,NA,syringe,injection,75,mg/ml,1,abbott hosp,11/10/42,11/10/42,active
+00074117902,demerol (pf),meperidine,meperidine,NA,syringe,injection,75,mg/ml,1,abbott hosp,11/10/42,11/10/42,active
+00074117911,demerol (pf),meperidine,meperidine,NA,syringe,injection,75,mg/ml,1,abbott hosp,9/30/90,9/30/90,active
+00074117921,demerol (pf),meperidine,meperidine,NA,syringe,injection,75,mg/ml,1,hospira,11/10/42,11/10/42,active
+00074117930,demerol (pf),meperidine,meperidine,NA,syringe,injection,75,mg/ml,1,hospira,9/30/90,9/30/90,active
+00074117931,demerol,meperidine,meperidine,NA,syringe,injection,75,mg/ml,1,abbott hosp,11/10/42,11/10/42,inactive
+00074118001,demerol,meperidine,meperidine,NA,syringe,injection,100,mg/ml,1,abbott hosp,11/10/42,11/10/42,inactive
+00074118002,demerol,meperidine,meperidine,NA,syringe,injection,100,mg/ml,1,hospira,11/10/42,11/10/42,inactive
+00074118011,demerol,meperidine,meperidine,NA,syringe,injection,100,mg/ml,1,abbott hosp,11/10/42,11/10/42,inactive
+00074118021,demerol,meperidine,meperidine,NA,syringe,injection,100,mg/ml,1,abbott hosp,9/30/90,9/30/90,inactive
+00074118031,demerol,meperidine,meperidine,NA,syringe,injection,100,mg/ml,1,abbott hosp,11/10/42,11/10/42,inactive
+00074118069,demerol (pf),meperidine,meperidine,NA,syringe,injection,100,mg/ml,1,hospira,9/30/90,9/30/90,active
+00074118130,demerol,meperidine,meperidine,NA,solution,injection,50,mg/ml,30,hospira,9/30/90,9/30/90,active
+00074120120,demerol,meperidine,meperidine,NA,solution,injection,100,mg/ml,20,hospira,9/30/90,9/30/90,active
+00074120301,demerol (pf),meperidine,meperidine,NA,solution,injection,25,mg/0.5 ml,.5,hospira,9/30/90,9/30/90,active
+00074125301,demerol (pf),meperidine,meperidine,NA,solution,injection,50,mg/ml,1,hospira,9/30/90,9/30/90,active
+00074125401,demerol (pf),meperidine,meperidine,NA,solution,injection,75,mg/1.5 ml,1.5,hospira,9/30/90,9/30/90,active
+00074125502,demerol (pf),meperidine,meperidine,NA,solution,injection,100,mg/2 ml,2,hospira,9/30/90,9/30/90,active
+00074125601,demerol (pf),meperidine,meperidine,NA,solution,injection,100,mg/ml,1,hospira,9/30/90,9/30/90,active
+00074126601,demerol (pf),meperidine,meperidine,NA,solution,injection,25,mg/0.5 ml,.5,hospira,8/1/90,8/1/90,active
+00074126701,demerol (pf),meperidine,meperidine,NA,solution,injection,50,mg/ml,1,hospira,8/1/90,8/1/90,active
+00074126901,demerol,meperidine,meperidine,NA,solution,injection,50,mg/ml,1.5,abbott hosp,8/1/90,8/1/90,active
+00074127102,demerol,meperidine,meperidine,NA,solution,injection,50,mg/ml,2,hospira,8/1/90,8/1/90,active
+00074204601,demerol,meperidine,meperidine,NA,solution,injection,100,mg/ml,1,abbott hosp,8/1/90,8/1/90,active
+00074603001,meperidine,meperidine,meperidine,NA,cartridge,injection,10,mg/ml,30,abbvie us llc,9/30/90,9/30/90,active
+00074603004,meperidine,meperidine,meperidine,NA,cartridge,injection,10,mg/ml,30,hospira,9/30/90,9/30/90,active
+00102358501,meperidine,meperidine,meperidine,NA,tablet,oral,50,mg,100,regal labs.,NA,NA,active
+00102359001,meperidine,meperidine,meperidine,NA,tablet,oral,100,mg,100,regal labs.,NA,NA,active
+00115702701,meperidine-promethazine,meperidine,meperidine,NA,capsule,oral,50-25,mg,100,global pharm,NA,NA,inactive
+00182913066,meperidine,meperidine,meperidine,NA,solution,injection,50,mg/ml,30,ivax/goldline l,3/17/92,3/17/92,active
+00182913165,meperidine,meperidine,meperidine,NA,solution,injection,100,mg/ml,20,ivax/goldline l,3/17/92,3/17/92,active
+00182914001,meperidine,meperidine,meperidine,NA,tablet,oral,50,mg,100,ivax/goldline l,7/2/84,7/2/84,active
+00182914101,meperidine,meperidine,meperidine,NA,tablet,oral,100,mg,100,ivax/goldline l,9/19/84,9/19/84,active
+00186128301,meperidine,meperidine,meperidine,NA,solution,injection,100,mg/ml,20,astra pharm.,10/1/90,10/1/90,active
+00186128401,meperidine,meperidine,meperidine,NA,solution,injection,50,mg/ml,30,astra pharm.,10/1/90,10/1/90,active
+00254420628,meprozine,meperidine,meperidine,NA,capsule,oral,50-25,mg,100,vintage pharm,7/1/90,7/1/90,inactive
+00306260480,meperidine,meperidine,meperidine,NA,tablet,oral,50,mg,100,azar inc,NA,NA,active
+00306261180,meperidine,meperidine,meperidine,NA,tablet,oral,100,mg,100,azar inc,NA,NA,active
+00338268876,meperidine hcl,meperidine hydrochloride,meperidine,NA,NA,NA,10 mg/1 ml,NA,10,NA,NA,NA,NA
+00338269175,meperidine (pf),meperidine,meperidine,NA,pt controlled analgesia syring,injection,500,mg/50 ml,50,"west-ward, inc.",1/1/99,1/1/99,inactive
+00338937041,meperidine in 0.9 % nacl,meperidine,meperidine,NA,solution,injection,10,mg/ml,50,baxter healthca,8/1/00,8/1/00,inactive
+00338937248,meperidine in 0.9 % nacl,meperidine,meperidine,NA,solution,injection,10,mg/ml,100,baxter healthca,8/1/00,8/1/00,inactive
+00338937348,meperidine in 0.9 % nacl,meperidine,meperidine,NA,solution,intravenous,10,mg/ml,100,baxter healthca,8/1/00,8/1/00,active
+00349896501,meperidine,meperidine,meperidine,NA,tablet,oral,50,mg,100,parmed pharm.,9/19/84,9/19/84,active
+00364050001,meperidine,meperidine,meperidine,NA,tablet,oral,50,mg,100,schein,1/1/90,1/1/90,active
+00364050002,meperidine,meperidine,meperidine,NA,tablet,oral,50,mg,1000,schein,NA,NA,active
+00364050101,meperidine,meperidine,meperidine,NA,tablet,oral,100,mg,100,schein,1/1/90,1/1/90,active
+00364302256,meperidine,meperidine,meperidine,NA,solution,injection,10,mg/ml,30,schein,8/1/92,8/1/92,inactive
+00364302656,meperidine,meperidine,meperidine,NA,solution,injection,50,mg/ml,30,schein,5/22/93,5/22/93,active
+00364302755,meperidine,meperidine,meperidine,NA,solution,injection,100,mg/ml,20,schein,8/1/93,8/1/93,active
+00402094730,meperidine,meperidine,meperidine,NA,solution,injection,50,mg/ml,30,steris,9/1/93,9/1/93,active
+00402094820,meperidine,meperidine,meperidine,NA,solution,injection,100,mg/ml,20,steris,2/1/94,2/1/94,active
+00403164018,meperidine,meperidine,meperidine,NA,syringe,injection,100,mg/ml,1,compumed inc.,NA,NA,inactive
+00406158555,meperidine (bulk),meperidine,meperidine,NA,powder,miscellaneous,100,%,25,mallinckrodt ph,10/1/92,10/1/92,active
+00406711301,meperidine,meperidine,meperidine,NA,tablet,oral,50,mg,100,mallinckrodt ph,6/13/00,6/13/00,active
+00406711501,meperidine,meperidine,meperidine,NA,tablet,oral,100,mg,100,mallinckrodt ph,6/13/00,6/13/00,active
+00409117603,demerol (pf),meperidine,meperidine,NA,syringe,injection,25,mg/ml,1,hospira,9/30/90,9/30/90,active
+00409117630,demerol (pf),meperidine,meperidine,NA,syringe,injection,25,mg/ml,1,hospira,9/30/90,9/30/90,active
+00409117803,demerol (pf),meperidine,meperidine,NA,syringe,injection,50,mg/ml,1,hospira,NA,NA,active
+00409117830,demerol (pf),meperidine,meperidine,NA,syringe,injection,50,mg/ml,1,hospira,9/30/90,9/30/90,active
+00409117903,demerol,meperidine hydrochloride,meperidine,NA,"injection, solution",intramuscular; intravenous; subcutaneous,75,mg/ml,10 cartridge in 1 box (0409-1179-30) > 1 ml in 1 cartridge (0409-1179-03),"hospira, inc.",10/12/05,NA,NA
+00409117930,demerol (pf),meperidine,meperidine,NA,syringe,injection,75,mg/ml,1,hospira,9/30/90,9/30/90,active
+00409118059,demerol,meperidine hydrochloride,meperidine,NA,"injection, solution",intramuscular; intravenous; subcutaneous,100,mg/ml,10 cartridge in 1 box (0409-1180-69) > 1 ml in 1 cartridge (0409-1180-59),"hospira, inc.",9/15/05,NA,NA
+00409118069,demerol (pf),meperidine,meperidine,NA,syringe,injection,100,mg/ml,1,hospira,9/30/90,9/30/90,active
+00409118130,demerol,meperidine,meperidine,NA,solution,injection,50,mg/ml,30,hospira,9/30/90,9/30/90,active
+00409120120,demerol,meperidine,meperidine,NA,solution,injection,100,mg/ml,20,hospira,9/30/90,9/30/90,active
+00409120301,demerol (pf),meperidine,meperidine,NA,solution,injection,25,mg/0.5 ml,.5,hospira,9/30/90,9/30/90,active
+00409120311,demerol,meperidine hydrochloride,meperidine,NA,"injection, solution",intramuscular; intravenous; subcutaneous,25,mg/.5ml,25 ampule in 1 box (0409-1203-01) > .5 ml in 1 ampule (0409-1203-11),"hospira, inc.",12/29/05,NA,NA
+00409125301,demerol (pf),meperidine,meperidine,NA,solution,injection,50,mg/ml,1,hospira,9/30/90,9/30/90,active
+00409125311,demerol,meperidine hydrochloride,meperidine,NA,"injection, solution",intramuscular; intravenous; subcutaneous,50,mg/ml,25 ampule in 1 box (0409-1253-01) > 1 ml in 1 ampule (0409-1253-11),"hospira, inc.",1/4/06,NA,NA
+00409125401,demerol (pf),meperidine,meperidine,NA,solution,injection,75,mg/1.5 ml,1.5,hospira,9/30/90,9/30/90,active
+00409125411,demerol,meperidine hydrochloride,meperidine,NA,"injection, solution",intramuscular; intravenous; subcutaneous,75,mg/1.5ml,25 ampule in 1 box (0409-1254-01) > 1.5 ml in 1 ampule (0409-1254-11),"hospira, inc.",3/22/06,NA,NA
+00409125502,demerol (pf),meperidine,meperidine,NA,solution,injection,100,mg/2 ml,2,hospira,9/30/90,9/30/90,active
+00409125512,demerol,meperidine hydrochloride,meperidine,NA,"injection, solution",intramuscular; intravenous; subcutaneous,100,mg/2ml,25 ampule in 1 box (0409-1255-02) > 2 ml in 1 ampule (0409-1255-12),"hospira, inc.",12/12/05,NA,NA
+00409125601,demerol (pf),meperidine,meperidine,NA,solution,injection,100,mg/ml,1,hospira,9/30/90,9/30/90,active
+00409125611,demerol,meperidine hydrochloride,meperidine,NA,"injection, solution",intramuscular; intravenous; subcutaneous,100,mg/ml,25 ampule in 1 box (0409-1256-01) > 1 ml in 1 ampule (0409-1256-11),"hospira, inc.",2/8/06,NA,NA
+00409603004,meperidine,meperidine,meperidine,NA,cartridge,injection,10,mg/ml,30,hospira,9/30/90,9/30/90,active
+00440773806,meperidine,meperidine,meperidine,NA,tablet,oral,50,mg,6,liberty pharm,NA,NA,active
+00440773820,meperidine,meperidine,meperidine,NA,tablet,oral,50,mg,20,liberty pharm,NA,NA,active
+00440773830,meperidine,meperidine,meperidine,NA,tablet,oral,50,mg,30,liberty pharm,NA,NA,active
+00536406101,meperidine,meperidine,meperidine,NA,tablet,oral,50,mg,100,rugby,3/1/92,3/1/92,active
+00536406201,meperidine,meperidine,meperidine,NA,tablet,oral,100,mg,100,rugby,NA,NA,active
+00536562075,meperidine,meperidine,meperidine,NA,solution,injection,50,mg/ml,30,rugby,4/1/92,4/1/92,active
+00536562573,meperidine,meperidine,meperidine,NA,solution,injection,100,mg/ml,20,rugby,4/1/92,4/1/92,active
+00537618501,meperidine,meperidine,meperidine,NA,tablet,oral,50,mg,100,spencer-mead,NA,NA,active
+00537618601,meperidine,meperidine,meperidine,NA,tablet,oral,100,mg,100,spencer-mead,NA,NA,active
+00548190200,meperidine,meperidine,meperidine,NA,syringe,injection,10,mg/ml,5,ims,NA,NA,inactive
+00548190300,meperidine,meperidine,meperidine,NA,syringe,injection,10,mg/ml,10,ims,NA,NA,inactive
+00548191500,meperidine hcl,meperidine hydrochloride,meperidine,NA,NA,NA,10 mg/1 ml,NA,1,NA,NA,NA,NA
+00548191525,meperidine,meperidine,meperidine,NA,syringe,injection,10,mg/ml,30,ims,8/30/93,8/30/93,inactive
+00548192700,meperidine,meperidine,meperidine,NA,syringe,injection,10,mg/ml,30,ims,4/18/94,4/18/94,inactive
+00548192710,meperidine,meperidine,meperidine,NA,syringe,injection,10,mg/ml,30,ims,4/18/94,4/18/94,inactive
+00548192810,meperidine,meperidine,meperidine,NA,solution,injection,10,mg/ml,30,ims,4/18/94,4/18/94,inactive
+00555038102,meperidine,meperidine,meperidine,NA,tablet,oral,50,mg,100,barr,9/30/90,9/30/90,active
+00555038104,meperidine,meperidine,meperidine,NA,tablet,oral,50,mg,500,barr,NA,NA,active
+00555038202,meperidine,meperidine,meperidine,NA,tablet,oral,100,mg,100,barr,9/30/90,9/30/90,active
+00555038204,meperidine,meperidine,meperidine,NA,tablet,oral,100,mg,500,barr,NA,NA,active
+00555039202,meperidine,meperidine,meperidine,NA,tablet,oral,100,mg,100,teva usa,9/30/90,9/30/90,active
+00580020501,meperidine,meperidine,meperidine,NA,tablet,oral,100,mg,100,glenlawn labs.,NA,NA,active
+00580020601,meperidine,meperidine,meperidine,NA,tablet,oral,50,mg,100,glenlawn labs.,NA,NA,active
+00591072601,meperidine,meperidine,meperidine,NA,tablet,oral,50,mg,100,watson labs,6/30/97,6/30/97,active
+00591072701,meperidine,meperidine,meperidine,NA,tablet,oral,100,mg,100,watson labs,6/30/97,6/30/97,active
+00603441521,meperidine,meperidine,meperidine,NA,tablet,oral,50,mg,100,qualitest,1/1/98,1/1/98,active
+00603441621,meperidine,meperidine,meperidine,NA,tablet,oral,100,mg,100,qualitest,1/1/98,1/1/98,active
+00603442421,meprozine,meperidine,meperidine,NA,capsule,oral,50-25,mg,100,qualitest,1/1/92,1/1/92,inactive
+00641013025,meperidine,meperidine,meperidine,NA,solution,injection,25,mg/ml,1,esi lederle,9/30/90,9/30/90,inactive
+00641013026,meperidine,meperidine,meperidine,NA,solution,injection,25,mg/ml,1,"elkins-sinn,inc",NA,NA,inactive
+00641014025,meperidine,meperidine,meperidine,NA,solution,injection,50,mg/ml,1,esi lederle,9/30/90,9/30/90,active
+00641014026,meperidine,meperidine,meperidine,NA,solution,injection,50,mg/ml,1,"elkins-sinn,inc",NA,NA,active
+00641015025,meperidine,meperidine,meperidine,NA,solution,injection,75,mg/ml,1,esi lederle,9/30/90,9/30/90,inactive
+00641015026,meperidine,meperidine,meperidine,NA,solution,injection,75,mg/ml,1,"elkins-sinn,inc",9/30/90,9/30/90,inactive
+00641016025,meperidine,meperidine,meperidine,NA,solution,injection,100,mg/ml,1,esi lederle,9/30/90,9/30/90,active
+00641016026,meperidine,meperidine,meperidine,NA,solution,injection,100,mg/ml,1,"elkins-sinn,inc",NA,NA,active
+00641112035,meperidine,meperidine,meperidine,NA,solution,injection,25,mg/ml,1,"west-ward, inc.",9/30/90,9/30/90,inactive
+00641113035,meperidine (pf),meperidine,meperidine,NA,solution,injection,50,mg/ml,1,"west-ward, inc.",9/30/90,9/30/90,active
+00641114035,meperidine,meperidine,meperidine,NA,solution,injection,75,mg/ml,1,"west-ward, inc.",9/30/90,9/30/90,inactive
+00641115035,meperidine,meperidine,meperidine,NA,solution,injection,100,mg/ml,1,"west-ward, inc.",9/30/90,9/30/90,active
+00641605201,meperidine (pf),meperidine,meperidine,NA,solution,injection,25,mg/ml,1,"west-ward, inc.",9/30/90,9/30/90,active
+00641605225,meperidine (pf),meperidine,meperidine,NA,solution,injection,25,mg/ml,1,"west-ward, inc.",9/30/90,9/30/90,active
+00641605301,meperidine (pf),meperidine,meperidine,NA,solution,injection,50,mg/ml,1,"west-ward, inc.",12/19/11,12/19/11,active
+00641605325,meperidine (pf),meperidine,meperidine,NA,solution,injection,50,mg/ml,1,"west-ward, inc.",12/19/11,12/19/11,active
+00641605401,meperidine (pf),meperidine,meperidine,NA,solution,injection,100,mg/ml,1,"west-ward, inc.",1/1/00,1/1/00,active
+00641605425,meperidine (pf),meperidine,meperidine,NA,solution,injection,100,mg/ml,1,"west-ward, inc.",1/1/00,1/1/00,active
+00719095010,meperidine,meperidine,meperidine,NA,tablet,oral,50,mg,100,bioline,NA,NA,active
+00719095110,meperidine,meperidine,meperidine,NA,tablet,oral,100,mg,100,bioline,NA,NA,active
+00814468014,meperidine,meperidine,meperidine,NA,tablet,oral,50,mg,100,ide,NA,NA,active
+00814468214,meperidine,meperidine,meperidine,NA,tablet,oral,100,mg,100,ide,NA,NA,active
+00879000401,meperidine,meperidine,meperidine,NA,tablet,oral,50,mg,100,halsey,9/30/90,9/30/90,active
+00879000410,meperidine,meperidine,meperidine,NA,tablet,oral,50,mg,1000,halsey,9/30/90,9/30/90,active
+00879000452,meperidine,meperidine,meperidine,NA,tablet,oral,50,mg,25,halsey,NA,NA,active
+00879000501,meperidine,meperidine,meperidine,NA,tablet,oral,100,mg,100,halsey,9/30/90,9/30/90,active
+00879000510,meperidine,meperidine,meperidine,NA,tablet,oral,100,mg,1000,halsey,9/30/90,9/30/90,active
+00904197760,meperidine,meperidine,meperidine,NA,tablet,oral,50,mg,100,major pharmaceu,9/30/90,9/30/90,active
+00904197840,meperidine,meperidine,meperidine,NA,tablet,oral,100,mg,500,major pharmaceu,9/30/90,9/30/90,active
+00904197860,meperidine,meperidine,meperidine,NA,tablet,oral,100,mg,100,major pharmaceu,9/30/90,9/30/90,active
+10019015144,meperidine,meperidine,meperidine,NA,solution,injection,25,mg/ml,1,"west-ward, inc.",12/31/81,12/31/81,inactive
+10019015147,meperidine,meperidine,meperidine,NA,syringe,injection,25,mg/ml,1,"west-ward, inc.",1/1/82,1/1/82,inactive
+10019015244,meperidine,meperidine,meperidine,NA,solution,injection,50,mg/ml,1,"west-ward, inc.",12/31/81,12/31/81,active
+10019015247,meperidine,meperidine,meperidine,NA,syringe,injection,50,mg/ml,1,"west-ward, inc.",1/1/82,1/1/82,inactive
+10019015344,meperidine,meperidine,meperidine,NA,solution,injection,75,mg/ml,1,"west-ward, inc.",12/31/81,12/31/81,inactive
+10019015347,meperidine,meperidine,meperidine,NA,syringe,injection,75,mg/ml,1,"west-ward, inc.",1/1/82,1/1/82,inactive
+10019015444,meperidine,meperidine,meperidine,NA,solution,injection,100,mg/ml,1,"west-ward, inc.",12/31/81,12/31/81,active
+10019015447,meperidine,meperidine,meperidine,NA,syringe,injection,100,mg/ml,1,"west-ward, inc.",1/1/82,1/1/82,inactive
+10019015568,meperidine (pf),meperidine,meperidine,NA,solution,injection,25,mg/ml,1,"west-ward, inc.",1/1/82,1/1/82,active
+10019015668,meperidine (pf),meperidine,meperidine,NA,solution,injection,50,mg/ml,1,"west-ward, inc.",9/30/90,9/30/90,active
+10019015768,meperidine (pf),meperidine,meperidine,NA,solution,injection,75,mg/ml,1,"west-ward, inc.",1/1/82,1/1/82,inactive
+10019015868,meperidine (pf),meperidine,meperidine,NA,solution,injection,100,mg/ml,1,"west-ward, inc.",9/30/90,9/30/90,active
+10019015901,meperidine (pf),meperidine,meperidine,NA,solution,injection,25,mg/ml,1,"west-ward, inc.",9/30/90,9/30/90,active
+10019015944,meperidine (pf),meperidine,meperidine,NA,solution,injection,25,mg/ml,1,"west-ward, inc.",9/30/90,9/30/90,active
+10019016001,meperidine (pf),meperidine,meperidine,NA,solution,injection,50,mg/ml,1,"west-ward, inc.",9/30/90,9/30/90,active
+10019016044,meperidine (pf),meperidine,meperidine,NA,solution,injection,50,mg/ml,1,"west-ward, inc.",9/30/90,9/30/90,active
+10019016101,meperidine (pf),meperidine,meperidine,NA,solution,injection,75,mg/ml,1,"west-ward, inc.",9/30/90,9/30/90,inactive
+10019016144,meperidine (pf),meperidine,meperidine,NA,solution,injection,75,mg/ml,1,"west-ward, inc.",9/30/90,9/30/90,inactive
+10019016201,meperidine (pf),meperidine,meperidine,NA,solution,injection,100,mg/ml,1,"west-ward, inc.",9/30/90,9/30/90,active
+10019016244,meperidine (pf),meperidine,meperidine,NA,solution,injection,100,mg/ml,1,"west-ward, inc.",9/30/90,9/30/90,active
+16590064015,meperitab,meperidine,meperidine,NA,tablet,oral,50,mg,15,stat rx usa,NA,NA,inactive
+16590064025,meperitab,meperidine hydrochloride,meperidine,NA,NA,NA,50 mg,NA,25,NA,NA,NA,NA
+16590064030,meperitab,meperidine,meperidine,NA,tablet,oral,50,mg,30,stat rx usa,NA,NA,inactive
+16590064050,meperitab,meperidine hydrochloride,meperidine,NA,NA,NA,50 mg,NA,50,NA,NA,NA,NA
+16590064060,meperitab,meperidine,meperidine,NA,tablet,oral,50,mg,60,stat rx usa,NA,NA,inactive
+16590064071,meperitab,meperidine,meperidine,NA,tablet,oral,50,mg,100,stat rx usa,NA,NA,inactive
+16590064072,meperitab,meperidine hydrochloride,meperidine,NA,NA,NA,50 mg,NA,120,NA,NA,NA,NA
+16590064090,meperitab,meperidine,meperidine,NA,tablet,oral,50,mg,90,stat rx usa,NA,NA,inactive
+17236090301,meperidine,meperidine,meperidine,NA,tablet,oral,50,mg,100,dixon-shane,NA,NA,active
+17236090901,meperidine,meperidine,meperidine,NA,tablet,oral,100,mg,100,dixon-shane,NA,NA,active
+23490777501,meperidine-promethazine,meperidine,meperidine,NA,capsule,oral,50-25,mg,4,palmetto state,NA,NA,inactive
+23490777502,meperidine-promethazine,meperidine,meperidine,NA,capsule,oral,50-25,mg,20,palmetto state,NA,NA,inactive
+23490777503,meperidine-promethazine,meperidine,meperidine,NA,capsule,oral,50-25,mg,30,palmetto state,NA,NA,inactive
+23490777504,meperidine-promethazine,meperidine,meperidine,NA,capsule,oral,50-25,mg,40,palmetto state,NA,NA,inactive
+23490930003,meperidine,meperidine,meperidine,NA,tablet,oral,50,mg,30,palmetto state,NA,NA,active
+23490930006,meperidine,meperidine,meperidine,NA,tablet,oral,50,mg,60,palmetto state,NA,NA,active
+23490930009,meperidine,meperidine,meperidine,NA,tablet,oral,50,mg,90,palmetto state,NA,NA,active
+24200035901,meperidine hcl-sodium chloride,meperidine hydrochloride; sodium chloride,meperidine,NA,NA,NA,10 mg/ml-0.9%,NA,1,NA,NA,NA,NA
+24200035903,meperidine hcl-sodium chloride,meperidine hydrochloride; sodium chloride,meperidine,NA,NA,NA,10 mg/ml-0.9%,NA,1,NA,NA,NA,NA
+24200035904,meperidine hcl-sodium chloride,meperidine hydrochloride; sodium chloride,meperidine,NA,NA,NA,10 mg/ml-0.9%,NA,1,NA,NA,NA,NA
+24200035905,meperidine hcl-sodium chloride,meperidine hydrochloride; sodium chloride,meperidine,NA,NA,NA,10 mg/ml-0.9%,NA,1,NA,NA,NA,NA
+24200035965,meperidine hcl-sodium chloride,meperidine hydrochloride; sodium chloride,meperidine,NA,NA,NA,10 mg/ml-0.9%,NA,1,NA,NA,NA,NA
+24200035966,meperidine hcl-sodium chloride,meperidine hydrochloride; sodium chloride,meperidine,NA,NA,NA,10 mg/ml-0.9%,NA,1,NA,NA,NA,NA
+24200035973,meperidine hcl-sodium chloride,meperidine hydrochloride; sodium chloride,meperidine,NA,NA,NA,10 mg/ml-0.9%,NA,1,NA,NA,NA,NA
+24200035980,meperidine hcl-sodium chloride,meperidine hydrochloride; sodium chloride,meperidine,NA,NA,NA,10 mg/ml-0.9%,NA,1,NA,NA,NA,NA
+24200035981,meperidine in 0.9 % nacl,meperidine,meperidine,NA,pt controlled analgesia syring,intravenous,550 mg/55 ml,(10 mg/ml),55,ameridose llc,NA,NA,active
+24200035982,meperidine hcl-sodium chloride,meperidine hydrochloride; sodium chloride,meperidine,NA,NA,NA,10 mg/ml-0.9%,NA,1,NA,NA,NA,NA
+24200035990,meperidine hcl-sodium chloride,meperidine hydrochloride; sodium chloride,meperidine,NA,NA,NA,10 mg/ml-0.9%,NA,1,NA,NA,NA,NA
+24200035992,meperidine hcl-sodium chloride,meperidine hydrochloride; sodium chloride,meperidine,NA,NA,NA,10 mg/ml-0.9%,NA,1,NA,NA,NA,NA
+24200035993,meperidine hcl-sodium chloride,meperidine hydrochloride; sodium chloride,meperidine,NA,NA,NA,10 mg/ml-0.9%,NA,1,NA,NA,NA,NA
+30698033501,demerol,meperidine hydrochloride,meperidine,NA,tablet,oral,50,mg/1,"100 tablet in 1 bottle, plastic (30698-335-01)",validus pharmaceuticals llc,11/10/42,NA,NA
+30698033701,demerol,meperidine,meperidine,NA,tablet,oral,100,mg,100,validus pharmac,9/30/90,9/30/90,active
+35356055930,demerol,meperidine,meperidine,NA,tablet,oral,50,mg,30,quality care,NA,NA,inactive
+35356056030,demerol,meperidine,meperidine,NA,tablet,oral,100,mg,30,quality care,NA,NA,active
+38779176603,meperidine (bulk),meperidine,meperidine,NA,powder,miscellaneous,100,%,5,medisca inc.,2/28/98,2/28/98,active
+38779176604,meperidine (bulk),meperidine,meperidine,NA,powder,miscellaneous,100,%,25,medisca inc.,2/28/98,2/28/98,active
+38779176605,meperidine (bulk),meperidine,meperidine,NA,powder,miscellaneous,100,%,100,medisca inc.,2/28/98,2/28/98,active
+42549071630,meperitab,meperidine hydrochloride,meperidine,NA,NA,NA,50 mg,NA,30,NA,NA,NA,NA
+42806005001,meperidine,meperidine,meperidine,NA,tablet,oral,50,mg,100,epic pharma llc,5/28/99,5/28/99,active
+42806005101,meperidine,meperidine,meperidine,NA,tablet,oral,100,mg,100,epic pharma llc,5/28/99,5/28/99,active
+45183091867,meperidine in 0.9 % nacl,meperidine,meperidine,NA,pt controlled analgesia syring,intravenous,250 mg/25 ml,(10 mg/ml),25,pharmakon compo,NA,NA,active
+46672082910,meperidine hydrochloride,meperidine hydrochloride,meperidine,NA,tablet,oral,50,mg/1,"100 tablet in 1 bottle, plastic (46672-829-10)","mikart, inc.",6/24/09,NA,NA
+46672082950,meperidine hydrochloride,meperidine hydrochloride,meperidine,NA,tablet,oral,50,mg/1,"500 tablet in 1 bottle, plastic (46672-829-50)","mikart, inc.",6/24/09,NA,NA
+46672083010,meperidine hydrochloride,meperidine hydrochloride,meperidine,NA,tablet,oral,75,mg/1,"100 tablet in 1 bottle, plastic (46672-830-10)","mikart, inc.",6/24/09,NA,NA
+46672083110,meperidine hydrochloride,meperidine hydrochloride,meperidine,NA,tablet,oral,100,mg/1,"100 tablet in 1 bottle, plastic (46672-831-10)","mikart, inc.",6/24/09,NA,NA
+46672083150,meperidine hydrochloride,meperidine hydrochloride,meperidine,NA,tablet,oral,100,mg/1,"500 tablet in 1 bottle, plastic (46672-831-50)","mikart, inc.",6/24/09,NA,NA
+46672083210,meperidine hydrochloride,meperidine hydrochloride,meperidine,NA,tablet,oral,150,mg/1,"100 tablet in 1 bottle, plastic (46672-832-10)","mikart, inc.",6/24/09,NA,NA
+47679083001,meperidine,meperidine,meperidine,NA,tablet,oral,100,mg,100,baxter pharm.,NA,NA,active
+47679083101,meperidine,meperidine,meperidine,NA,tablet,oral,50,mg,100,baxter pharm.,NA,NA,active
+49452003101,meperidine hcl,meperidine hydrochloride,meperidine,NA,NA,NA,NA,NA,1,NA,NA,NA,NA
+49452003102,meperidine (bulk),meperidine,meperidine,NA,powder,miscellaneous,100,%,1,spectrum,NA,NA,active
+49452003103,meperidine (bulk),meperidine,meperidine,NA,powder,miscellaneous,100,%,5,spectrum,NA,NA,active
+49999083730,meperidine,meperidine,meperidine,NA,tablet,oral,50,mg,30,quality care,NA,NA,active
+49999083801,meperidine,meperidine,meperidine,NA,tablet,oral,100,mg,120,quality care,NA,NA,active
+49999083830,meperidine,meperidine,meperidine,NA,tablet,oral,100,mg,30,quality care,NA,NA,active
+51224015550,meperidine,meperidine,meperidine,NA,tablet,oral,50,mg,100,tagi pharma,5/28/99,5/28/99,active
+51293062201,meperidine hydrochloride and promethazine hydrochloride,meperidine hydrochloride; promethazine hydrochloride,meperidine,NA,capsule,oral,50-25,mg/1,"100 capsule in 1 bottle, plastic (51293-622-01)",eci pharmaceuticals llc,2/19/13,NA,NA
+51293062264,meperidine hydrochloride and promethazine hydrochloride,meperidine hydrochloride; promethazine hydrochloride,meperidine,NA,capsule,oral,50-25,mg/1,"30 capsule in 1 bottle, plastic (51293-622-64)",eci pharmaceuticals llc,2/19/13,NA,NA
+51293062267,meperidine hydrochloride and promethazine hydrochloride,meperidine hydrochloride; promethazine hydrochloride,meperidine,NA,capsule,oral,50-25,mg/1,"50 capsule in 1 bottle, plastic (51293-622-67)",eci pharmaceuticals llc,2/19/13,NA,NA
+51552068601,meperidine (bulk),meperidine,meperidine,NA,powder,miscellaneous,100,%,1,fagron inc,9/30/90,9/30/90,active
+51552068602,meperidine (bulk),meperidine,meperidine,NA,powder,miscellaneous,100,%,5,fagron inc,9/30/90,9/30/90,active
+51552068604,meperidine (bulk),meperidine,meperidine,NA,powder,miscellaneous,100,%,25,fagron inc,9/30/90,9/30/90,active
+51552068606,meperidine (bulk),meperidine,meperidine,NA,powder,miscellaneous,100,%,100,fagron inc,9/30/90,9/30/90,active
+51728075401,meperidine,meperidine,meperidine,NA,tablet,oral,50,mg,100,williams gener,NA,NA,active
+51728075501,meperidine,meperidine,meperidine,NA,tablet,oral,100,mg,100,williams gener,NA,NA,active
+51927101800,meperidine (bulk),meperidine,meperidine,NA,powder,miscellaneous,100,%,1,professional co,NA,NA,active
+52152015702,meperidine,meperidine,meperidine,NA,tablet,oral,100,mg,100,actavis totowa,5/29/99,5/29/99,active
+52152015704,meperidine,meperidine,meperidine,NA,tablet,oral,100,mg,500,actavis totowa,NA,NA,active
+52152015802,meperidine,meperidine,meperidine,NA,tablet,oral,50,mg,100,actavis totowa,5/28/99,5/28/99,active
+52152015804,meperidine,meperidine,meperidine,NA,tablet,oral,50,mg,500,actavis totowa,NA,NA,active
+52152019002,meperidine-promethazine,meperidine,meperidine,NA,capsule,oral,50-25,mg,100,actavis totowa,9/30/90,9/30/90,inactive
+52446057421,meperidine,meperidine,meperidine,NA,tablet,oral,50,mg,100,qualitest,9/30/90,9/30/90,active
+52446057721,meperidine,meperidine,meperidine,NA,tablet,oral,100,mg,100,qualitest,9/30/90,9/30/90,active
+52533004204,meperidine hcl,meperidine hydrochloride,meperidine,NA,"injection, solution",intravenous,10,mg/ml,"50 ml in 1 syringe, plastic (52533-042-04)",cantrell drug company,1/23/12,NA,NA
+52533004205,meperidine hcl,meperidine hydrochloride,meperidine,NA,"injection, solution",intravenous,10,mg/ml,"30 ml in 1 vial, glass (52533-042-05)",cantrell drug company,8/13/14,NA,NA
+52533004210,meperidine hcl,meperidine hydrochloride,meperidine,NA,"injection, solution",intravenous,10,mg/ml,"30 ml in 1 vial, glass (52533-042-10)",cantrell drug company,8/13/14,NA,NA
+52533004280,meperidine hcl,meperidine hydrochloride,meperidine,NA,"injection, solution",intravenous,10,mg/ml,60 ml in 1 bag (52533-042-80),cantrell drug company,11/14/13,NA,NA
+52544072601,meperidine,meperidine,meperidine,NA,tablet,oral,50,mg,100,watson pharma,6/30/97,6/30/97,active
+52544072701,meperidine,meperidine,meperidine,NA,tablet,oral,100,mg,100,watson pharma,6/30/97,6/30/97,active
+54124041110,meperidine,meperidine,meperidine,NA,tablet,oral,50,mg,10,omega labs.,NA,NA,active
+54274036410,meperidine,meperidine,meperidine,NA,tablet,oral,50,mg,100,best generics,12/31/92,12/31/92,active
+54274036510,meperidine,meperidine,meperidine,NA,tablet,oral,100,mg,100,best generics,12/31/92,12/31/92,active
+54868061600,demerol,meperidine,meperidine,NA,solution,injection,50,mg/ml,30,physicians tc.,NA,NA,active
+54868107100,demerol,meperidine,meperidine,NA,tablet,oral,50,mg,25,physicians tc.,NA,NA,inactive
+54868107101,demerol,meperidine,meperidine,NA,tablet,oral,50,mg,30,physicians tc.,NA,NA,inactive
+54868107102,demerol,meperidine,meperidine,NA,tablet,oral,50,mg,20,physicians tc.,NA,NA,inactive
+54868107103,demerol,meperidine,meperidine,NA,tablet,oral,50,mg,120,physicians tc.,NA,NA,inactive
+54868123300,meperidine,meperidine,meperidine,NA,tablet,oral,50,mg,3,physicians tc.,NA,NA,active
+54868123301,meperidine,meperidine,meperidine,NA,tablet,oral,50,mg,10,physicians tc.,NA,NA,active
+54868123302,meperidine,meperidine,meperidine,NA,tablet,oral,50,mg,40,physicians tc.,NA,NA,active
+54868123303,meperidine hydrochloride,meperidine hydrochloride,meperidine,NA,tablet,oral,50,mg/1,"30 tablet in 1 bottle, plastic (54868-1233-3)","physicians total care, inc.",9/14/09,NA,NA
+54868123304,meperidine,meperidine,meperidine,NA,tablet,oral,50,mg,100,physicians tc.,NA,NA,active
+54868123305,meperidine,meperidine,meperidine,NA,tablet,oral,50,mg,120,physicians tc.,NA,NA,active
+54868123306,meperidine,meperidine,meperidine,NA,tablet,oral,50,mg,20,physicians tc.,NA,NA,active
+54868323000,demerol,meperidine hydrochloride,meperidine,NA,"injection, solution",intramuscular; intravenous; subcutaneous,50,mg/ml,25 ampule in 1 box (54868-3230-0) > 1 ml in 1 ampule,"physicians total care, inc.",4/11/94,NA,NA
+54868323001,demerol (pf),meperidine,meperidine,NA,solution,injection,50,mg/ml,1,physicians tc.,NA,NA,active
+54868355900,meperidine,meperidine,meperidine,NA,solution,injection,50,mg/ml,30,physicians tc.,NA,NA,active
+54868355901,meperidine (pf),meperidine,meperidine,NA,solution,injection,50,mg/ml,1,physicians tc.,NA,NA,active
+54868361000,demerol,meperidine,meperidine,NA,solution,injection,100,mg/ml,20,physicians tc.,NA,NA,active
+54868361100,meperidine,meperidine,meperidine,NA,solution,injection,100,mg/ml,20,physicians tc.,NA,NA,active
+54868413600,mepergan,meperidine,meperidine,NA,syringe,injection,25-25,mg/ml,2,physicians tc.,NA,NA,inactive
+54868475100,demerol (pf),meperidine,meperidine,NA,solution,injection,100,mg/ml,1,physicians tc.,NA,NA,active
+54868475101,demerol (pf),meperidine,meperidine,NA,solution,injection,100,mg/ml,1,physicians tc.,NA,NA,active
+54868515100,meprozine,meperidine,meperidine,NA,capsule,oral,50-25,mg,30,physicians tc.,NA,NA,inactive
+54868515101,meprozine,meperidine,meperidine,NA,capsule,oral,50-25,mg,10,physicians tc.,NA,NA,inactive
+54868515102,meprozine,meperidine,meperidine,NA,capsule,oral,50-25,mg,20,physicians tc.,NA,NA,inactive
+54868515103,meprozine,meperidine,meperidine,NA,capsule,oral,50-25,mg,40,physicians tc.,NA,NA,inactive
+54868515104,meprozine,meperidine,meperidine,NA,capsule,oral,50-25,mg,100,physicians tc.,NA,NA,inactive
+54868515105,meprozine,meperidine hcl; promethazine hcl,meperidine,NA,NA,NA,50 mg-25 mg,NA,90,NA,NA,NA,NA
+54868580800,demerol (pf),meperidine,meperidine,NA,syringe,injection,50,mg/ml,1,physicians tc.,NA,NA,active
+54868604000,demerol,meperidine,meperidine,NA,tablet,oral,100,mg,10,physicians tc.,NA,NA,active
+54868604001,demerol,meperidine,meperidine,NA,tablet,oral,100,mg,120,physicians tc.,NA,NA,active
+55053059001,fortigan,meperidine hydrochloride,meperidine,NA,NA,NA,NA,NA,100,NA,NA,NA,NA
+55175199200,meperidine,meperidine,meperidine,NA,solution,oral,50,mg/5 ml,240,cheshire drugs,NA,NA,active
+55175199201,meperidine,meperidine,meperidine,NA,solution,oral,50,mg/5 ml,180,cheshire drugs,NA,NA,active
+55175449601,demerol,meperidine,meperidine,NA,syringe,injection,50,mg/ml,1,cheshire drugs,NA,NA,inactive
+55175449701,demerol,meperidine,meperidine,NA,solution,injection,50,mg/ml,30,cheshire drugs,NA,NA,active
+55175449801,demerol,meperidine,meperidine,NA,solution,injection,50,mg/ml,1,cheshire drugs,NA,NA,active
+55175449901,demerol hydrochloride,meperidine hydrochloride,meperidine,NA,NA,NA,50 mg/1 ml,NA,25,NA,NA,NA,NA
+55175500001,demerol,meperidine,meperidine,NA,syringe,injection,75,mg/ml,1,cheshire drugs,NA,NA,inactive
+55175500101,demerol,meperidine,meperidine,NA,solution,injection,100,mg/ml,1,cheshire drugs,NA,NA,active
+55175501301,demerol,meperidine,meperidine,NA,solution,injection,50,mg/ml,.5,cheshire drugs,NA,NA,active
+55175502901,demerol hydrochloride,meperidine hydrochloride,meperidine,NA,NA,NA,50 mg,NA,25,NA,NA,NA,NA
+55175512302,meperidine-promethazine,meperidine,meperidine,NA,capsule,oral,50-25,mg,20,cheshire drugs,NA,NA,inactive
+55175513001,mepergan,meperidine,meperidine,NA,syringe,injection,25-25,mg/ml,2,cheshire drugs,NA,NA,inactive
+57664046708,meperidine,meperidine,meperidine,NA,tablet,oral,50,mg,100,caraco pharm,8/14/02,8/14/02,active
+57664047108,meperidine,meperidine,meperidine,NA,tablet,oral,100,mg,100,caraco pharm,8/14/02,8/14/02,active
+57866707901,meperidine,meperidine,meperidine,NA,tablet,oral,50,mg,90,vibranta inc.,NA,NA,active
+57866707902,meperidine,meperidine,meperidine,NA,tablet,oral,50,mg,8,vibranta inc.,NA,NA,active
+57866707904,meperidine,meperidine,meperidine,NA,tablet,oral,50,mg,30,vibranta inc.,NA,NA,active
+57866707905,meperidine,meperidine,meperidine,NA,tablet,oral,50,mg,50,vibranta inc.,NA,NA,active
+57866708001,meperidine,meperidine,meperidine,NA,tablet,oral,100,mg,30,vibranta inc.,NA,NA,active
+58177002704,meperidine-promethazine,meperidine,meperidine,NA,capsule,oral,50-25,mg,100,ethex corp,4/7/98,4/7/98,inactive
+58298053425,meperidine (bulk),meperidine,meperidine,NA,powder,miscellaneous,100,%,25,elge inc.,NA,NA,active
+58298054301,meperidine (bulk),meperidine,meperidine,NA,powder,miscellaneous,100,%,20,elge inc.,NA,NA,active
+58298054325,meperidine hcl,meperidine hydrochloride,meperidine,NA,NA,NA,NA,NA,1,NA,NA,NA,NA
+61553017041,meperidine in 0.9 % nacl,meperidine,meperidine,NA,solution,intravenous,10,mg/ml,50,pharmedium,NA,NA,active
+61553017248,meperidine in 0.9 % nacl,meperidine,meperidine,NA,solution,intravenous,10,mg/ml,100,pharmedium,NA,NA,active
+61553017348,meperidine in 0.9 % nacl,meperidine,meperidine,NA,solution,intravenous,10,mg/ml,100,pharmedium,NA,NA,active
+61553061175,meperidine in 0.9 % nacl,meperidine,meperidine,NA,pt controlled analgesia syring,intravenous,500 mg/50 ml,(10 mg/ml),50,pharmedium,NA,NA,active
+61553062375,meperidine in 0.9 % nacl,meperidine,meperidine,NA,pt controlled analgesia syring,intravenous,500 mg/50 ml,(10 mg/ml),50,pharmedium,NA,NA,active
+61553067467,meperidine in 0.9 % nacl,meperidine,meperidine,NA,pt controlled analgesia syring,intravenous,250 mg/25 ml,(10 mg/ml),25,pharmedium,NA,NA,active
+61553067576,meperidine in 0.9 % nacl,meperidine,meperidine,NA,pt controlled analgesia syring,intravenous,550 mg/55 ml,(10 mg/ml),55,pharmedium,NA,NA,active
+61553067644,meperidine in 0.9 % nacl,meperidine,meperidine,NA,pt controlled analgesia syring,intravenous,300 mg/30 ml,(10 mg/ml),30,pharmedium/of,NA,NA,active
+61553067667,meperidine in 0.9 % nacl,meperidine,meperidine,NA,pt controlled analgesia syring,intravenous,250 mg/25 ml,(10 mg/ml),25,pharmedium,NA,NA,active
+61553067776,meperidine in 0.9 % nacl,meperidine,meperidine,NA,pt controlled analgesia syring,intravenous,550 mg/55 ml,(10 mg/ml),55,pharmedium,NA,NA,active
+61553071668,meperidine (pf) in 0.9 % nacl,meperidine,meperidine,NA,patient control.analgesia soln,intravenous,300 mg/30 ml,(10 mg/ml),30,pharmedium/of,NA,NA,active
+61553084148,meperidine in 0.9 % nacl,meperidine,meperidine,NA,prefilled pump reservoir,intravenous,10,mg/ml,100,pharmedium,NA,NA,active
+61703023675,meperidine,meperidine,meperidine,NA,solution,injection,10,mg/ml,30,faulding,3/10/99,3/10/99,inactive
+61703023685,meperidine,meperidine,meperidine,NA,solution,injection,10,mg/ml,30,faulding,3/10/99,3/10/99,inactive
+62991276102,meperidine (bulk),meperidine,meperidine,NA,powder,miscellaneous,100,%,5,"letco medical,",NA,NA,active
+62991276103,meperidine (bulk),meperidine,meperidine,NA,powder,miscellaneous,100,%,25,"letco medical,",NA,NA,active
+62991276104,meperidine (bulk),meperidine,meperidine,NA,powder,miscellaneous,100,%,100,"letco medical,",NA,NA,active
+62991276106,meperidine (bulk),meperidine,meperidine,NA,powder,miscellaneous,100,%,1,"letco medical,",NA,NA,active
+63275710004,meperidine (bulk),meperidine,meperidine,NA,powder,miscellaneous,100,%,25,b&b pharm,NA,NA,active
+63275710005,meperidine (bulk),meperidine,meperidine,NA,powder,miscellaneous,100,%,100,b&b pharm,NA,NA,active
+63370093715,meperidine hcl,meperidine hydrochloride,meperidine,NA,NA,NA,NA,NA,1,NA,NA,NA,NA
+63370093725,meperidine hcl,meperidine hydrochloride,meperidine,NA,NA,NA,NA,NA,1,NA,NA,NA,NA
+63370093735,meperidine hcl,meperidine hydrochloride,meperidine,NA,NA,NA,NA,NA,1,NA,NA,NA,NA
+63629454901,meperidine,meperidine,meperidine,NA,tablet,oral,50,mg,30,bryant ranch pr,NA,NA,active
+63629454902,meperidine hydrochloride,meperidine hydrochloride,meperidine,NA,tablet,oral,50,mg/1,50 tablet in 1 bottle (63629-4549-2),bryant ranch prepack,12/17/98,NA,NA
+63629454903,meperidine hydrochloride,meperidine hydrochloride,meperidine,NA,tablet,oral,50,mg/1,60 tablet in 1 bottle (63629-4549-3),bryant ranch prepack,12/17/98,NA,NA
+63629454904,meperidine hydrochloride,meperidine hydrochloride,meperidine,NA,tablet,oral,50,mg/1,90 tablet in 1 bottle (63629-4549-4),bryant ranch prepack,12/17/98,NA,NA
+63629454905,meperidine hydrochloride,meperidine hydrochloride,meperidine,NA,tablet,oral,50,mg/1,120 tablet in 1 bottle (63629-4549-5),bryant ranch prepack,12/17/98,NA,NA
+63629546101,demerol,meperidine hydrochloride,meperidine,NA,tablet,oral,50,mg/1,30 tablet in 1 bottle (63629-5461-1),bryant ranch prepack,4/1/13,NA,NA
+63629546102,demerol,meperidine hydrochloride,meperidine,NA,tablet,oral,50,mg/1,120 tablet in 1 bottle (63629-5461-2),bryant ranch prepack,4/1/13,NA,NA
+66336030230,meperidine hcl,meperidine hydrochloride,meperidine,NA,NA,NA,50 mg,NA,30,NA,NA,NA,NA
+66336041630,meperidine-promethazine,meperidine,meperidine,NA,capsule,oral,50-25,mg,30,dispensing soln,NA,NA,inactive
+66336041699,meprozine,meperidine,meperidine,NA,capsule,oral,50-25,mg,1,dispensing soln,NA,NA,inactive
+68071076030,meperidine,meperidine,meperidine,NA,tablet,oral,50,mg,30,nucare pharmace,NA,NA,active
+70092112350,meperidine (pf) in 0.9 % nacl,meperidine,meperidine,NA,pt controlled analgesia syring,intravenous,550 mg/55 ml,(10 mg/ml),55,"quva pharma, in",NA,NA,active
+75901801002,meperidine in 0.9 % nacl,meperidine,meperidine,NA,solution,intravenous,10,mg/ml,100,healix infusion,NA,NA,active
+75901801031,meperidine in 0.9 % nacl,meperidine,meperidine,NA,pt controlled analgesia syring,intravenous,250 mg/25 ml,(10 mg/ml),25,healix infusion,NA,NA,active
+75901801033,meperidine in 0.9 % nacl,meperidine,meperidine,NA,pt controlled analgesia syring,intravenous,550 mg/55 ml,(10 mg/ml),55,healix infusion,NA,NA,active
+99999009705,meperidine hcl,meperidine hydrochloride,meperidine,NA,NA,NA,50 mg,NA,100,NA,NA,NA,NA
+99999009708,meperidine hcl,meperidine hydrochloride,meperidine,NA,NA,NA,100 mg,NA,100,NA,NA,NA,NA

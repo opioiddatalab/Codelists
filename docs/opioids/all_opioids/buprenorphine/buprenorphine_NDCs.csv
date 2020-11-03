@@ -1,0 +1,286 @@
+ndc,drug_name,generic_name,opioid_ingredient1,opioid_ingredient2,form,route,strength,strength_uom,package_size,manufacturer,startdate,enddate,status
+00054017613,buprenorphine hcl,buprenorphine,buprenorphine,NA,"tablet, sublingual",sublingual,2,mg,30,"west-ward, inc.",10/8/09,10/8/09,active
+00054017713,buprenorphine hcl,buprenorphine,buprenorphine,NA,"tablet, sublingual",sublingual,8,mg,30,roxane/west-war,10/8/09,10/8/09,active
+00054018813,buprenorphine-naloxone,buprenorphine; combinations,buprenorphine,NA,"tablet, sublingual",sublingual,2-0.5,mg,30,"west-ward, inc.",6/27/14,6/27/14,active
+00054018913,buprenorphine-naloxone,buprenorphine; combinations,buprenorphine,NA,"tablet, sublingual",sublingual,8-2,mg,30,"west-ward, inc.",6/27/14,6/27/14,active
+00074201201,buprenorphine hcl,buprenorphine,buprenorphine,NA,syringe,injection,0.3,mg/ml,1,hospira,6/1/97,6/1/97,active
+00074201232,buprenorphine hcl,buprenorphine,buprenorphine,NA,syringe,injection,0.3,mg/ml,1,hospira,6/1/97,6/1/97,active
+00093360040,buprenorphine,buprenorphine,buprenorphine,NA,"patch, extended release",transdermal,5 ug/h,NA,4 pouch in 1 carton (0093-3600-40)  > 1 patch in 1 pouch (0093-3600-21)  > 168 h in 1 patch,"teva pharmaceuticals usa, inc.",NA,NA,NA
+00093360140,buprenorphine,buprenorphine,buprenorphine,NA,"patch, extended release",transdermal,10 ug/h,NA,4 pouch in 1 carton (0093-3601-40)  > 1 patch in 1 pouch (0093-3601-21)  > 168 h in 1 patch,"teva pharmaceuticals usa, inc.",NA,NA,NA
+00093360240,buprenorphine,buprenorphine,buprenorphine,NA,"patch, extended release",transdermal,15 ug/h,NA,4 pouch in 1 carton (0093-3602-40)  > 1 patch in 1 pouch (0093-3602-21)  > 168 h in 1 patch,"teva pharmaceuticals usa, inc.",NA,NA,NA
+00093360340,buprenorphine,buprenorphine,buprenorphine,NA,"patch, extended release",transdermal,20 ug/h,NA,4 pouch in 1 carton (0093-3603-40)  > 1 patch in 1 pouch (0093-3603-21)  > 168 h in 1 patch,"teva pharmaceuticals usa, inc.",NA,NA,NA
+00093365640,buprenorphine,buprenorphine,buprenorphine,NA,"patch, extended release",transdermal,5 ug/h,NA,4 pouch in 1 carton (0093-3656-40)  > 1 patch in 1 pouch > 168 h in 1 patch,"teva pharmaceuticals usa, inc.",NA,NA,NA
+00093365740,buprenorphine,buprenorphine,buprenorphine,NA,"patch, extended release",transdermal,10 ug/h,NA,4 pouch in 1 carton (0093-3657-40)  > 1 patch in 1 pouch > 168 h in 1 patch,"teva pharmaceuticals usa, inc.",NA,NA,NA
+00093365840,buprenorphine,buprenorphine,buprenorphine,NA,"patch, extended release",transdermal,15 ug/h,NA,4 pouch in 1 carton (0093-3658-40)  > 1 patch in 1 pouch > 168 h in 1 patch,"teva pharmaceuticals usa, inc.",NA,NA,NA
+00093365940,buprenorphine,buprenorphine,buprenorphine,NA,"patch, extended release",transdermal,20 ug/h,NA,4 pouch in 1 carton (0093-3659-40)  > 1 patch in 1 pouch > 168 h in 1 patch,"teva pharmaceuticals usa, inc.",NA,NA,NA
+00093537856,buprenorphine hcl,buprenorphine,buprenorphine,NA,"tablet, sublingual",sublingual,2,mg,30,teva usa,5/7/10,5/7/10,active
+00093537956,buprenorphine hcl,buprenorphine,buprenorphine,NA,"tablet, sublingual",sublingual,8,mg,30,teva usa,5/7/10,5/7/10,active
+00093572056,buprenorphine-naloxone,buprenorphine; combinations,buprenorphine,NA,"tablet, sublingual",sublingual,2-0.5,mg,30,teva usa,9/8/14,9/8/14,active
+00093572156,buprenorphine-naloxone,buprenorphine; combinations,buprenorphine,NA,"tablet, sublingual",sublingual,8-2,mg,30,teva usa,9/8/14,9/8/14,active
+00149075701,buprenex,buprenorphine,buprenorphine,NA,solution,injection,0.3,mg/ml,1,reckitt/colman,9/30/90,9/30/90,active
+00228315303,buprenorphine hcl,buprenorphine,buprenorphine,NA,"tablet, sublingual",sublingual,8,mg,30,actavis pharma,2/19/15,2/19/15,active
+00228315309,buprenorphine,buprenorphine hydrochloride,buprenorphine,NA,tablet,sublingual,8,mg/1,90 tablet in 1 bottle (0228-3153-09),"actavis pharma, inc.",4/10/15,NA,NA
+00228315373,buprenorphine,buprenorphine hydrochloride,buprenorphine,NA,tablet,sublingual,8,mg/1,30 tablet in 1 blister pack (0228-3153-73),"actavis pharma, inc.",4/10/15,NA,NA
+00228315403,buprenorphine-naloxone,buprenorphine; combinations,buprenorphine,NA,"tablet, sublingual",sublingual,2-0.5,mg,30,actavis pharma,2/22/13,2/22/13,active
+00228315473,buprenorphine-naloxone,buprenorphine; combinations,buprenorphine,NA,"tablet, sublingual",sublingual,2-0.5,mg,30,actavis pharma,2/22/13,2/22/13,active
+00228315503,buprenorphine-naloxone,buprenorphine; combinations,buprenorphine,NA,"tablet, sublingual",sublingual,8-2,mg,30,actavis pharma,2/22/13,2/22/13,active
+00228315573,buprenorphine-naloxone,buprenorphine; combinations,buprenorphine,NA,"tablet, sublingual",sublingual,8-2,mg,30,actavis pharma,2/22/13,2/22/13,active
+00228315603,buprenorphine hcl,buprenorphine,buprenorphine,NA,"tablet, sublingual",sublingual,2,mg,30,actavis pharma,2/19/15,2/19/15,active
+00228315609,buprenorphine,buprenorphine hydrochloride,buprenorphine,NA,tablet,sublingual,2,mg/1,90 tablet in 1 bottle (0228-3156-09),"actavis pharma, inc.",4/10/15,NA,NA
+00228315673,buprenorphine,buprenorphine hydrochloride,buprenorphine,NA,tablet,sublingual,2,mg/1,30 tablet in 1 blister pack (0228-3156-73),"actavis pharma, inc.",4/10/15,NA,NA
+00378092393,buprenorphine hcl,buprenorphine,buprenorphine,NA,"tablet, sublingual",sublingual,2,mg,30,mylan,3/6/15,3/6/15,active
+00378092493,buprenorphine hcl,buprenorphine,buprenorphine,NA,"tablet, sublingual",sublingual,8,mg,30,mylan,3/6/15,3/6/15,active
+00406192303,buprenorphine-naloxone,buprenorphine; combinations,buprenorphine,NA,"tablet, sublingual",sublingual,2-0.5,mg,30,mallinckrodt ph,NA,NA,active
+00406192403,buprenorphine-naloxone,buprenorphine; combinations,buprenorphine,NA,"tablet, sublingual",sublingual,8-2,mg,30,mallinckrodt ph,NA,NA,active
+00409201232,buprenorphine hcl,buprenorphine,buprenorphine,NA,syringe,injection,0.3,mg/ml,1,hospira,6/3/96,6/3/96,active
+00517072505,buprenorphine hydrochloride,buprenorphine hydrochloride,buprenorphine,NA,"injection, solution",intramuscular; intravenous,.324,mg/ml,5 vial in 1 carton (0517-0725-05) > 1 ml in 1 vial (0517-0725-01),"american regent, inc.",8/13/10,NA,NA
+12496010001,sublocade,buprenorphine,buprenorphine,NA,solution,subcutaneous,100 mg/1,NA,1 pouch in 1 carton (12496-0100-1)  > 1 syringe in 1 pouch (12496-0100-2)  > 1 solution in 1 syringe (12496-0100-5),indivior inc.,NA,NA,NA
+12496030001,sublocade,buprenorphine,buprenorphine,NA,solution,subcutaneous,300 mg/1,NA,1 pouch in 1 carton (12496-0300-1)  > 1 syringe in 1 pouch (12496-0300-2)  > 1 solution in 1 syringe (12496-0300-5),indivior inc.,NA,NA,NA
+12496075701,buprenex,buprenorphine,buprenorphine,NA,solution,injection,0.3,mg/ml,1,indivior inc.,9/30/90,9/30/90,active
+12496075705,buprenex,buprenorphine,buprenorphine,NA,solution,injection,0.3,mg/ml,1,indivior inc.,9/30/90,9/30/90,active
+12496120201,suboxone,buprenorphine; combinations,buprenorphine,NA,film,sublingual,2-0.5,mg,1,indivior inc.,8/30/10,8/30/10,active
+12496120203,suboxone,buprenorphine; combinations,buprenorphine,NA,film,sublingual,2-0.5,mg,30,indivior inc.,8/30/10,8/30/10,active
+12496120401,suboxone,buprenorphine; combinations,buprenorphine,NA,film,sublingual,4-1,mg,1,indivior inc.,8/10/12,8/10/12,active
+12496120403,suboxone,buprenorphine; combinations,buprenorphine,NA,film,sublingual,4-1,mg,30,indivior inc.,8/10/12,8/10/12,active
+12496120801,suboxone,buprenorphine; combinations,buprenorphine,NA,film,sublingual,8-2,mg,1,indivior inc.,8/30/10,8/30/10,active
+12496120803,suboxone,buprenorphine; combinations,buprenorphine,NA,film,sublingual,8-2,mg,30,indivior inc.,8/30/10,8/30/10,active
+12496121201,suboxone,buprenorphine; combinations,buprenorphine,NA,film,sublingual,12-3,mg,1,indivior inc.,8/10/12,8/10/12,active
+12496121203,suboxone,buprenorphine; combinations,buprenorphine,NA,film,sublingual,12-3,mg,30,indivior inc.,8/10/12,8/10/12,active
+12496127802,subutex,buprenorphine,buprenorphine,NA,"tablet, sublingual",sublingual,2,mg,30,indivior inc.,10/8/02,10/8/02,inactive
+12496128302,suboxone,buprenorphine; combinations,buprenorphine,NA,"tablet, sublingual",sublingual,2-0.5,mg,30,indivior inc.,10/8/02,10/8/02,inactive
+12496130602,suboxone,buprenorphine; combinations,buprenorphine,NA,"tablet, sublingual",sublingual,8-2,mg,30,indivior inc.,10/8/02,10/8/02,inactive
+12496131002,subutex,buprenorphine,buprenorphine,NA,"tablet, sublingual",sublingual,8,mg,30,indivior inc.,10/8/02,10/8/02,inactive
+16590066630,suboxone,buprenorphine; combinations,buprenorphine,NA,"tablet, sublingual",sublingual,2-0.5,mg,30,stat rx usa,NA,NA,inactive
+21695051510,buprenorphine hcl,buprenorphine,buprenorphine,NA,syringe,injection,0.3,mg/ml,1,physician partn,NA,NA,active
+35356000407,suboxone,buprenorphine; combinations,buprenorphine,NA,"tablet, sublingual",sublingual,8-2,mg,7,quality care,NA,NA,inactive
+35356000430,suboxone,buprenorphine; combinations,buprenorphine,NA,"tablet, sublingual",sublingual,8-2,mg,30,quality care,NA,NA,inactive
+35356055530,buprenorphine hcl,buprenorphine,buprenorphine,NA,"tablet, sublingual",sublingual,2,mg,30,quality care,NA,NA,active
+35356055630,buprenorphine hcl,buprenorphine,buprenorphine,NA,"tablet, sublingual",sublingual,8,mg,30,quality care,NA,NA,active
+35356060504,butrans,buprenorphine,buprenorphine,NA,patch weekly,transdermal,10,mcg/hour,4,quality care,NA,NA,active
+35356060604,butrans,buprenorphine,buprenorphine,NA,patch weekly,transdermal,20,mcg/hour,4,quality care,NA,NA,active
+35356060704,butrans,buprenorphine,buprenorphine,NA,patch weekly,transdermal,5,mcg/hour,4,quality care,NA,NA,active
+38779088800,buprenorphine hcl (bulk),buprenorphine,buprenorphine,NA,powder,miscellaneous,NA,NA,.5,medisca inc.,NA,NA,active
+38779088801,buprenorphine hcl (bulk),buprenorphine,buprenorphine,NA,powder,miscellaneous,NA,NA,10,medisca inc.,NA,NA,active
+38779088803,buprenorphine hcl (bulk),buprenorphine,buprenorphine,NA,powder,miscellaneous,NA,NA,5,medisca inc.,NA,NA,active
+38779088805,buprenorphine hcl (bulk),buprenorphine,buprenorphine,NA,powder,miscellaneous,NA,NA,100,medisca inc.,NA,NA,active
+38779088806,buprenorphine hcl (bulk),buprenorphine,buprenorphine,NA,powder,miscellaneous,NA,NA,1,medisca inc.,NA,NA,active
+38779088809,buprenorphine hcl (bulk),buprenorphine,buprenorphine,NA,powder,miscellaneous,NA,NA,.1,medisca inc.,1/21/02,1/21/02,active
+40042001001,buprenorphine hcl,buprenorphine,buprenorphine,NA,solution,injection,0.3,mg/ml,1,"pharmaforce, in",3/27/07,3/27/07,active
+42023017901,buprenorphine hcl,buprenorphine,buprenorphine,NA,solution,injection,0.3,mg/ml,1,par pharm.,NA,NA,active
+42023017905,buprenorphine hcl,buprenorphine,buprenorphine,NA,solution,injection,0.3,mg/ml,1,par pharm.,7/28/15,7/28/15,active
+42023017910,buprenorphine hydrochloride,buprenorphine hydrochloride,buprenorphine,NA,injection,intramuscular; intravenous,.324,mg/ml,10 vial in 1 carton (42023-179-10) > 1 ml in 1 vial,par pharmaceutical inc.,7/30/15,NA,NA
+42291017430,buprenorphine-naloxone,buprenorphine; combinations,buprenorphine,NA,"tablet, sublingual",sublingual,2-0.5,mg,30,avkare,NA,NA,active
+42291017530,buprenorphine-naloxone,buprenorphine; combinations,buprenorphine,NA,"tablet, sublingual",sublingual,8-2,mg,30,avkare,NA,NA,active
+42858035340,buprenorphine,buprenorphine,buprenorphine,NA,patch,transdermal,7.5 ug/h,NA,4 pouch in 1 carton (42858-353-40)  > 1 patch in 1 pouch > 168 h in 1 patch,rhodes pharmaceuticals l.p.,NA,NA,NA
+42858049340,buprenorphine,buprenorphine,buprenorphine,NA,patch,transdermal,10 ug/h,NA,4 pouch in 1 carton (42858-493-40)  > 1 patch in 1 pouch > 168 h in 1 patch,rhodes pharmaceuticals l.p.,NA,NA,NA
+42858050103,buprenorphine,buprenorphine,buprenorphine,NA,tablet,sublingual,2 mg/1,NA,30 tablet in 1 bottle (42858-501-03),rhodes pharmaceuticals l.p.,NA,NA,NA
+42858050203,buprenorphine,buprenorphine,buprenorphine,NA,tablet,sublingual,8 mg/1,NA,30 tablet in 1 bottle (42858-502-03),rhodes pharmaceuticals l.p.,NA,NA,NA
+42858058640,buprenorphine,buprenorphine,buprenorphine,NA,patch,transdermal,15 ug/h,NA,4 pouch in 1 carton (42858-586-40)  > 1 patch in 1 pouch > 168 h in 1 patch,rhodes pharmaceuticals l.p.,NA,NA,NA
+42858075040,buprenorphine,buprenorphine,buprenorphine,NA,patch,transdermal,5 ug/h,NA,4 pouch in 1 carton (42858-750-40)  > 1 patch in 1 pouch > 168 h in 1 patch,rhodes pharmaceuticals l.p.,NA,NA,NA
+42858083940,buprenorphine,buprenorphine,buprenorphine,NA,patch,transdermal,20 ug/h,NA,4 pouch in 1 carton (42858-839-40)  > 1 patch in 1 pouch > 168 h in 1 patch,rhodes pharmaceuticals l.p.,NA,NA,NA
+43063018407,suboxone,buprenorphine; combinations,buprenorphine,NA,"tablet, sublingual",sublingual,8-2,mg,7,pd-rx pharm,NA,NA,inactive
+43063018430,suboxone,buprenorphine; combinations,buprenorphine,NA,"tablet, sublingual",sublingual,8-2,mg,30,pd-rx pharm,NA,NA,inactive
+43063066706,buprenorphine hcl,buprenorphine,buprenorphine,NA,"tablet, sublingual",sublingual,8,mg,6,pd-rx pharm,NA,NA,active
+49349055402,buprenorphine hydrochloride,buprenorphine hydrochloride,buprenorphine,NA,tablet,oral,2,mg/1,30 tablet in 1 blister pack (49349-554-02),remedyrepack inc.,12/7/10,NA,NA
+49452129201,buprenorphine hcl (bulk),buprenorphine,buprenorphine,NA,powder,miscellaneous,NA,NA,.1,spectrum,NA,NA,active
+49452129202,buprenorphine hcl (bulk),buprenorphine,buprenorphine,NA,powder,miscellaneous,NA,NA,.5,spectrum,NA,NA,active
+49452129203,buprenorphine hcl (bulk),buprenorphine,buprenorphine,NA,powder,miscellaneous,NA,NA,1,spectrum,NA,NA,active
+49452130401,buprenorphine hydrochloride,buprenorphine hydrochloride,buprenorphine,NA,NA,NA,NA,NA,0,NA,NA,NA,NA
+49452130402,buprenorphine hydrochloride,buprenorphine hydrochloride,buprenorphine,NA,NA,NA,NA,NA,0,NA,NA,NA,NA
+49452130403,buprenorphine hydrochloride,buprenorphine hydrochloride,buprenorphine,NA,NA,NA,NA,NA,1,NA,NA,NA,NA
+49452825301,buprenorphine hcl (bulk),buprenorphine,buprenorphine,NA,powder,miscellaneous,NA,NA,.1,spectrum,NA,NA,active
+49452825302,buprenorphine hcl (bulk),buprenorphine,buprenorphine,NA,powder,miscellaneous,NA,NA,.5,spectrum,NA,NA,active
+49452825303,buprenorphine hcl (bulk),buprenorphine,buprenorphine,NA,powder,miscellaneous,NA,NA,1,spectrum,NA,NA,active
+49452825304,buprenorphine hydrochloride,buprenorphine hydrochloride,buprenorphine,NA,NA,NA,NA,NA,1,NA,NA,NA,NA
+49999039507,suboxone,buprenorphine; combinations,buprenorphine,NA,"tablet, sublingual",sublingual,2-0.5,mg,7,quality care,NA,NA,inactive
+49999039515,suboxone,buprenorphine; combinations,buprenorphine,NA,"tablet, sublingual",sublingual,2-0.5,mg,15,quality care,NA,NA,inactive
+49999039530,suboxone,buprenorphine; combinations,buprenorphine,NA,"tablet, sublingual",sublingual,2-0.5,mg,30,quality care,NA,NA,inactive
+49999063830,subutex,buprenorphine,buprenorphine,NA,"tablet, sublingual",sublingual,2,mg,30,quality care,NA,NA,inactive
+49999063930,subutex,buprenorphine,buprenorphine,NA,"tablet, sublingual",sublingual,8,mg,30,quality care,NA,NA,inactive
+50090157100,buprenorphine hydrochloride,buprenorphine hydrochloride,buprenorphine,NA,tablet,sublingual,8,mg/1,30 tablet in 1 bottle (50090-1571-0),a-s medication solutions,9/24/10,NA,NA
+50268014411,buprenorphine-naloxone,buprenorphine; combinations,buprenorphine,NA,"tablet, sublingual",sublingual,2-0.5,mg,1,avpak,NA,NA,active
+50268014415,buprenorphine-naloxone,buprenorphine; combinations,buprenorphine,NA,"tablet, sublingual",sublingual,2-0.5,mg,50,avpak,NA,NA,active
+50268014511,buprenorphine-naloxone,buprenorphine; combinations,buprenorphine,NA,"tablet, sublingual",sublingual,8-2,mg,1,avpak,NA,NA,active
+50268014515,buprenorphine-naloxone,buprenorphine; combinations,buprenorphine,NA,"tablet, sublingual",sublingual,8-2,mg,50,avpak,NA,NA,active
+50383028793,buprenorphine-naloxone,buprenorphine; combinations,buprenorphine,NA,"tablet, sublingual",sublingual,8-2,mg,30,hi-tech/akorn c,12/16/15,12/16/15,active
+50383029493,buprenorphine-naloxone,buprenorphine; combinations,buprenorphine,NA,"tablet, sublingual",sublingual,2-0.5,mg,30,hi-tech/akorn c,NA,NA,active
+50383092493,buprenorphine hcl,buprenorphine,buprenorphine,NA,"tablet, sublingual",sublingual,2,mg,30,hi-tech/akorn c,9/24/10,9/24/10,active
+50383093093,buprenorphine hcl,buprenorphine,buprenorphine,NA,"tablet, sublingual",sublingual,8,mg,30,hi-tech/akorn c,9/24/10,9/24/10,active
+51552076501,buprenorphine hcl (bulk),buprenorphine,buprenorphine,NA,powder,miscellaneous,NA,NA,1,fagron inc,9/30/90,9/30/90,active
+51552076502,buprenorphine hcl (bulk),buprenorphine,buprenorphine,NA,powder,miscellaneous,NA,NA,5,fagron inc,9/30/90,9/30/90,active
+51552076505,buprenorphine hcl (bulk),buprenorphine,buprenorphine,NA,powder,miscellaneous,NA,NA,5,fagron inc,9/30/90,9/30/90,active
+51552076506,buprenorphine hcl (bulk),buprenorphine,buprenorphine,NA,powder,miscellaneous,NA,NA,.5,fagron inc,9/30/90,9/30/90,active
+51552076509,buprenorphine hcl (bulk),buprenorphine,buprenorphine,NA,powder,miscellaneous,NA,NA,.1,fagron inc,9/30/90,9/30/90,active
+51552076510,buprenorphine hcl (bulk),buprenorphine,buprenorphine,NA,powder,miscellaneous,NA,NA,.1,fagron inc,9/30/90,9/30/90,active
+51552076550,buprenorphine hcl (bulk),buprenorphine,buprenorphine,NA,powder,miscellaneous,NA,NA,.5,fagron inc,9/30/90,9/30/90,active
+51927101200,buprenorphine hcl (bulk),buprenorphine,buprenorphine,NA,powder,miscellaneous,NA,NA,1,professional co,NA,NA,active
+52125067802,buprenorphine hydrochloride,buprenorphine hydrochloride,buprenorphine,NA,tablet,sublingual,2,mg/1,30 tablet in 1 blister pack (52125-678-02),remedyrepack inc.,7/24/13,NA,NA
+52440010014,probuphine,buprenorphine hydrochloride,buprenorphine,NA,implant,subcutaneous,80 mg/1,NA,4 pouch in 1 carton (52440-100-14)  > 1 implant in 1 pouch,"titan pharmaceuticals, inc.",NA,NA,NA
+52959030430,suboxone,buprenorphine; combinations,buprenorphine,NA,"tablet, sublingual",sublingual,8-2,mg,30,pharma pac,NA,NA,inactive
+52959074930,suboxone,buprenorphine; combinations,buprenorphine,NA,"tablet, sublingual",sublingual,2-0.5,mg,30,pharma pac,NA,NA,inactive
+53217024630,buprenorphine hydrochloride,buprenorphine hydrochloride,buprenorphine,NA,tablet,sublingual,8,mg/1,30 tablet in 1 bottle (53217-246-30),aidarex pharmaceuticals llc,9/24/10,NA,NA
+54123011430,zubsolv,buprenorphine; combinations,buprenorphine,NA,"tablet, sublingual",sublingual,11.4-2.9,mg,30,"orexo us, inc.",10/1/15,10/1/15,active
+54123090730,zubsolv,buprenorphine; combinations,buprenorphine,NA,"tablet, sublingual",sublingual,0.7-0.18,mg,30,"orexo us, inc.",NA,NA,active
+54123091430,zubsolv,buprenorphine; combinations,buprenorphine,NA,"tablet, sublingual",sublingual,1.4-0.36,mg,30,"orexo us, inc.",7/3/13,7/3/13,active
+54123092930,zubsolv,buprenorphine; combinations,buprenorphine,NA,"tablet, sublingual",sublingual,2.9-0.71,mg,30,"orexo us, inc.",10/1/15,10/1/15,active
+54123095730,zubsolv,buprenorphine; combinations,buprenorphine,NA,"tablet, sublingual",sublingual,5.7-1.4,mg,30,"orexo us, inc.",7/3/13,7/3/13,active
+54123098630,zubsolv,buprenorphine; combinations,buprenorphine,NA,"tablet, sublingual",sublingual,8.6-2.1,mg,30,"orexo us, inc.",7/3/13,7/3/13,active
+54569141600,buprenex,buprenorphine,buprenorphine,NA,solution,injection,0.3,mg/ml,1,a-s medication,NA,NA,active
+54569141601,buprenex,buprenorphine,buprenorphine,NA,solution,injection,0.3,mg/ml,1,a-s medication,NA,NA,active
+54569549600,suboxone,buprenorphine; combinations,buprenorphine,NA,"tablet, sublingual",sublingual,2-0.5,mg,30,a-s medication,NA,NA,inactive
+54569573900,suboxone,buprenorphine; combinations,buprenorphine,NA,"tablet, sublingual",sublingual,8-2,mg,30,a-s medication,NA,NA,inactive
+54569573901,suboxone,buprenorphine; combinations,buprenorphine,NA,"tablet, sublingual",sublingual,8-2,mg,7,a-s medication,NA,NA,inactive
+54569573902,suboxone,buprenorphine; combinations,buprenorphine,NA,"tablet, sublingual",sublingual,8-2,mg,15,a-s medication,NA,NA,inactive
+54569632500,butrans,buprenorphine,buprenorphine,NA,patch weekly,transdermal,10,mcg/hour,4,a-s medication,NA,NA,active
+54569632600,butrans,buprenorphine,buprenorphine,NA,patch weekly,transdermal,20,mcg/hour,4,a-s medication,NA,NA,active
+54569639900,suboxone,buprenorphine; combinations,buprenorphine,NA,film,sublingual,8-2,mg,30,a-s medication,NA,NA,active
+54569640800,buprenorphine-naloxone,buprenorphine; combinations,buprenorphine,NA,"tablet, sublingual",sublingual,8-2,mg,30,a-s medication,NA,NA,active
+54569657800,buprenorphine hydrochloride,buprenorphine hydrochloride,buprenorphine,NA,tablet,sublingual,8,mg/1,30 tablet in 1 bottle (54569-6578-0),a-s medication solutions llc,9/24/10,NA,NA
+54868570700,suboxone,buprenorphine; combinations,buprenorphine,NA,"tablet, sublingual",sublingual,8-2,mg,30,physicians tc.,NA,NA,inactive
+54868570701,suboxone,buprenorphine; combinations,buprenorphine,NA,"tablet, sublingual",sublingual,8-2,mg,21,physicians tc.,NA,NA,inactive
+54868570702,suboxone,buprenorphine; combinations,buprenorphine,NA,"tablet, sublingual",sublingual,8-2,mg,14,physicians tc.,NA,NA,inactive
+54868570703,suboxone,buprenorphine; combinations,buprenorphine,NA,"tablet, sublingual",sublingual,8-2,mg,28,physicians tc.,NA,NA,inactive
+54868570704,suboxone,buprenorphine; combinations,buprenorphine,NA,"tablet, sublingual",sublingual,8-2,mg,7,physicians tc.,NA,NA,inactive
+54868575000,suboxone,buprenorphine; combinations,buprenorphine,NA,"tablet, sublingual",sublingual,2-0.5,mg,30,physicians tc.,NA,NA,inactive
+55045378403,suboxone,buprenorphine; combinations,buprenorphine,NA,"tablet, sublingual",sublingual,8-2,mg,30,drx,NA,NA,inactive
+55154496200,buprenorphine hcl,buprenorphine hydrochloride,buprenorphine,NA,tablet,sublingual,2,mg/1,10 pouch in 1 bag (55154-4962-0) > 1 tablet in 1 pouch,cardinal health,10/8/09,NA,NA
+55154496204,buprenorphine hcl,buprenorphine hydrochloride,buprenorphine,NA,tablet,sublingual,2,mg/1,30 pouch in 1 carton (55154-4962-4) > 1 tablet in 1 pouch (55154-4962-6),cardinal health,10/8/09,NA,NA
+55390010010,buprenorphine hcl,buprenorphine,buprenorphine,NA,solution,injection,0.3,mg/ml,1,bedford labs,3/2/05,3/2/05,active
+55700014730,suboxone,buprenorphine; combinations,buprenorphine,NA,film,sublingual,8-2,mg,30,quality care,NA,NA,active
+55700018430,buprenorphine-naloxone,buprenorphine; combinations,buprenorphine,NA,"tablet, sublingual",sublingual,2-0.5,mg,30,quality care,NA,NA,active
+55700030230,buprenorphine hcl,buprenorphine,buprenorphine,NA,"tablet, sublingual",sublingual,2,mg,30,quality care,NA,NA,active
+55700030330,buprenorphine hcl,buprenorphine,buprenorphine,NA,"tablet, sublingual",sublingual,8,mg,30,quality care,NA,NA,active
+55700056804,buprenorphine,buprenorphine,buprenorphine,NA,"patch, extended release",transdermal,5 ug/h,NA,4 pouch in 1 carton (55700-568-04)  > 1 patch in 1 pouch > 168 h in 1 patch,lake erie medical dba quality care products llc,NA,NA,NA
+55700057904,buprenorphine,buprenorphine,buprenorphine,NA,patch,transdermal,5 ug/h,NA,4 pouch in 1 carton (55700-579-04)  > 1 patch in 1 pouch > 168 h in 1 patch,lake erie medical dba quality care products llc,NA,NA,NA
+58118017608,buprenorphine hcl,buprenorphine hcl,buprenorphine,NA,tablet,sublingual,2 mg/1,NA,30 tablet in 1 blister pack (58118-0176-8),"clinical solutions wholesale, llc",NA,NA,NA
+58118017708,buprenorphine hcl,buprenorphine hcl,buprenorphine,NA,tablet,sublingual,8 mg/1,NA,30 tablet in 1 blister pack (58118-0177-8),"clinical solutions wholesale, llc",NA,NA,NA
+58118315608,buprenorphine,buprenorphine,buprenorphine,NA,tablet,sublingual,2 mg/1,NA,30 tablet in 1 blister pack (58118-3156-8),"clinical solutions wholesale, llc",NA,NA,NA
+58284010014,probuphine,buprenorphine,buprenorphine,NA,implant,subdermal,74.2,mg,4,braeburn pharma,5/26/16,5/26/16,active
+59011075004,butrans,buprenorphine,buprenorphine,NA,patch weekly,transdermal,5,mcg/hour,4,purdue pharma l,6/30/10,6/30/10,active
+59011075104,butrans,buprenorphine,buprenorphine,NA,patch weekly,transdermal,10,mcg/hour,4,purdue pharma l,6/30/10,6/30/10,active
+59011075204,butrans,buprenorphine,buprenorphine,NA,patch weekly,transdermal,20,mcg/hour,4,purdue pharma l,6/30/10,6/30/10,active
+59011075704,butrans,buprenorphine,buprenorphine,NA,patch weekly,transdermal,7.5,mcg/hour,4,purdue pharma l,6/30/14,6/30/14,active
+59011075804,butrans,buprenorphine,buprenorphine,NA,patch weekly,transdermal,15,mcg/hour,4,purdue pharma l,7/25/13,7/25/13,active
+59385001201,bunavail,buprenorphine; combinations,buprenorphine,NA,film,buccal,2.1-0.3,mg,1,biodelivery sci,6/6/14,6/6/14,active
+59385001230,bunavail,buprenorphine; combinations,buprenorphine,NA,film,buccal,2.1-0.3,mg,30,biodelivery sci,6/6/14,6/6/14,active
+59385001401,bunavail,buprenorphine; combinations,buprenorphine,NA,film,buccal,4.2-0.7,mg,1,biodelivery sci,6/6/14,6/6/14,active
+59385001430,bunavail,buprenorphine; combinations,buprenorphine,NA,film,buccal,4.2-0.7,mg,30,biodelivery sci,6/6/14,6/6/14,active
+59385001601,bunavail,buprenorphine; combinations,buprenorphine,NA,film,buccal,6.3-1,mg,1,biodelivery sci,6/6/14,6/6/14,active
+59385001630,bunavail,buprenorphine; combinations,buprenorphine,NA,film,buccal,6.3-1,mg,30,biodelivery sci,6/6/14,6/6/14,active
+59385002160,belbuca,buprenorphine hydrochloride,buprenorphine,NA,"film, soluble",buccal,75 ug/1,NA,"60 pouch in 1 box (59385-021-60)  > 1 film, soluble in 1 pouch (59385-021-01)",biodelivery sciences international inc,NA,NA,NA
+59385002260,belbuca,buprenorphine hydrochloride,buprenorphine,NA,"film, soluble",buccal,150 ug/1,NA,"60 pouch in 1 box (59385-022-60)  > 1 film, soluble in 1 pouch (59385-022-01)",biodelivery sciences international inc,NA,NA,NA
+59385002360,belbuca,buprenorphine hydrochloride,buprenorphine,NA,"film, soluble",buccal,300 ug/1,NA,"60 pouch in 1 box (59385-023-60)  > 1 film, soluble in 1 pouch (59385-023-01)",biodelivery sciences international inc,NA,NA,NA
+59385002460,belbuca,buprenorphine hydrochloride,buprenorphine,NA,"film, soluble",buccal,450 ug/1,NA,"60 pouch in 1 box (59385-024-60)  > 1 film, soluble in 1 pouch (59385-024-01)",biodelivery sciences international inc,NA,NA,NA
+59385002560,belbuca,buprenorphine hydrochloride,buprenorphine,NA,"film, soluble",buccal,600 ug/1,NA,"60 pouch in 1 box (59385-025-60)  > 1 film, soluble in 1 pouch (59385-025-01)",biodelivery sciences international inc,NA,NA,NA
+59385002660,belbuca,buprenorphine hydrochloride,buprenorphine,NA,"film, soluble",buccal,750 ug/1,NA,"60 pouch in 1 box (59385-026-60)  > 1 film, soluble in 1 pouch (59385-026-01)",biodelivery sciences international inc,NA,NA,NA
+59385002760,belbuca,buprenorphine hydrochloride,buprenorphine,NA,"film, soluble",buccal,900 ug/1,NA,"60 pouch in 1 box (59385-027-60)  > 1 film, soluble in 1 pouch (59385-027-01)",biodelivery sciences international inc,NA,NA,NA
+60429058630,buprenorphine-naloxone,buprenorphine; combinations,buprenorphine,NA,"tablet, sublingual",sublingual,2-0.5,mg,30,"gsms, inc.",NA,NA,active
+60429058730,buprenorphine-naloxone,buprenorphine; combinations,buprenorphine,NA,"tablet, sublingual",sublingual,8-2,mg,30,"gsms, inc.",NA,NA,active
+61786067802,buprenorphine hydrochloride sublingual,buprenorphine hydrochloride,buprenorphine,NA,tablet,sublingual,2,mg/1,30 tablet in 1 bottle (61786-678-02),remedyrepack inc.,5/4/16,NA,NA
+61786091102,buprenorphine,buprenorphine hydrochloride,buprenorphine,NA,tablet,sublingual,2,mg/1,30 tablet in 1 blister pack (61786-911-02),remedyrepack inc.,9/30/16,NA,NA
+61786091202,buprenorphine,buprenorphine hydrochloride,buprenorphine,NA,tablet,sublingual,8,mg/1,30 tablet in 1 blister pack (61786-912-02),remedyrepack inc.,9/30/16,NA,NA
+62756045964,buprenorphine,buprenorphine hydrochloride,buprenorphine,NA,tablet,sublingual,2,mg/1,3 blister pack in 1 carton (62756-459-64) > 10 tablet in 1 blister pack,sun pharmaceutical industries limited,2/17/16,NA,NA
+62756045983,buprenorphine,buprenorphine hydrochloride,buprenorphine,NA,tablet,sublingual,2,mg/1,30 tablet in 1 bottle (62756-459-83),sun pharmaceutical industries limited,2/17/16,NA,NA
+62756046064,buprenorphine,buprenorphine hydrochloride,buprenorphine,NA,tablet,sublingual,8,mg/1,3 blister pack in 1 carton (62756-460-64) > 10 tablet in 1 blister pack,sun pharmaceutical industries limited,2/17/16,NA,NA
+62756046083,buprenorphine,buprenorphine hydrochloride,buprenorphine,NA,tablet,sublingual,8,mg/1,30 tablet in 1 bottle (62756-460-83),sun pharmaceutical industries limited,2/17/16,NA,NA
+62991158301,buprenorphine hcl (bulk),buprenorphine,buprenorphine,NA,powder,miscellaneous,NA,NA,.1,"letco medical,",NA,NA,active
+62991158302,buprenorphine hcl (bulk),buprenorphine,buprenorphine,NA,powder,miscellaneous,NA,NA,.5,"letco medical,",NA,NA,active
+62991158303,buprenorphine hcl (bulk),buprenorphine,buprenorphine,NA,powder,miscellaneous,NA,NA,1,"letco medical,",NA,NA,active
+62991158304,buprenorphine hcl (bulk),buprenorphine,buprenorphine,NA,powder,miscellaneous,NA,NA,10,"letco medical,",NA,NA,active
+62991158306,buprenorphine hcl (bulk),buprenorphine,buprenorphine,NA,powder,miscellaneous,NA,NA,100,"letco medical,",NA,NA,active
+62991158307,buprenorphine hcl (bulk),buprenorphine,buprenorphine,NA,powder,miscellaneous,NA,NA,5,"letco medical,",NA,NA,active
+62991158308,buprenorphine hcl (bulk),buprenorphine,buprenorphine,NA,powder,miscellaneous,NA,NA,25,"letco medical,",NA,NA,active
+63275992201,buprenorphine hcl (bulk),buprenorphine,buprenorphine,NA,powder,miscellaneous,NA,NA,1,b&b pharm,NA,NA,active
+63275992202,buprenorphine hcl (bulk),buprenorphine,buprenorphine,NA,powder,miscellaneous,NA,NA,5,b&b pharm,NA,NA,active
+63275992203,buprenorphine hcl (bulk),buprenorphine,buprenorphine,NA,powder,miscellaneous,NA,NA,10,b&b pharm,NA,NA,active
+63275992204,buprenorphine hcl (bulk),buprenorphine,buprenorphine,NA,powder,miscellaneous,NA,NA,25,b&b pharm,NA,NA,active
+63275992205,buprenorphine hcl (bulk),buprenorphine,buprenorphine,NA,powder,miscellaneous,NA,NA,100,b&b pharm,NA,NA,active
+63275992207,buprenorphine hcl (bulk),buprenorphine,buprenorphine,NA,powder,miscellaneous,NA,NA,.5,b&b pharm,NA,NA,active
+63275992208,buprenorphine hydrochloride,buprenorphine hydrochloride,buprenorphine,NA,NA,NA,NA,NA,1,NA,NA,NA,NA
+63275992209,buprenorphine hydrochloride,buprenorphine hydrochloride,buprenorphine,NA,NA,NA,NA,NA,1,NA,NA,NA,NA
+63370090506,buprenorphine hcl (bulk),buprenorphine,buprenorphine,NA,powder,miscellaneous,NA,NA,.1,hawkins chemica,NA,NA,active
+63370090509,buprenorphine hcl (bulk),buprenorphine,buprenorphine,NA,powder,miscellaneous,NA,NA,.5,hawkins chemica,NA,NA,active
+63370090510,buprenorphine hcl (bulk),buprenorphine,buprenorphine,NA,powder,miscellaneous,NA,NA,1,hawkins chemica,NA,NA,active
+63370090515,buprenorphine hcl (bulk),buprenorphine,buprenorphine,NA,powder,miscellaneous,NA,NA,5,hawkins chemica,NA,NA,active
+63481016101,belbuca,buprenorphine,buprenorphine,NA,film,buccal,75,mcg,1,endo pharma/bio,NA,NA,active
+63481016160,belbuca,buprenorphine,buprenorphine,NA,film,buccal,75,mcg,60,endo pharma/bio,10/23/15,10/23/15,active
+63481020701,belbuca,buprenorphine,buprenorphine,NA,film,buccal,150,mcg,1,endo pharma/bio,NA,NA,active
+63481020760,belbuca,buprenorphine,buprenorphine,NA,film,buccal,150,mcg,60,endo pharma/bio,10/23/15,10/23/15,active
+63481034801,belbuca,buprenorphine,buprenorphine,NA,film,buccal,300,mcg,1,endo pharma/bio,NA,NA,active
+63481034860,belbuca,buprenorphine,buprenorphine,NA,film,buccal,300,mcg,60,endo pharma/bio,10/23/15,10/23/15,active
+63481051901,belbuca,buprenorphine,buprenorphine,NA,film,buccal,450,mcg,1,endo pharma/bio,NA,NA,active
+63481051960,belbuca,buprenorphine,buprenorphine,NA,film,buccal,450,mcg,60,endo pharma/bio,10/23/15,10/23/15,active
+63481068501,belbuca,buprenorphine,buprenorphine,NA,film,buccal,600,mcg,1,endo pharma/bio,NA,NA,active
+63481068560,belbuca,buprenorphine,buprenorphine,NA,film,buccal,600,mcg,60,endo pharma/bio,10/23/15,10/23/15,active
+63481082001,belbuca,buprenorphine,buprenorphine,NA,film,buccal,750,mcg,1,endo pharma/bio,NA,NA,active
+63481082060,belbuca,buprenorphine,buprenorphine,NA,film,buccal,750,mcg,60,endo pharma/bio,10/23/15,10/23/15,active
+63481095201,belbuca,buprenorphine,buprenorphine,NA,film,buccal,900,mcg,1,endo pharma/bio,NA,NA,active
+63481095260,belbuca,buprenorphine,buprenorphine,NA,film,buccal,900,mcg,60,endo pharma/bio,10/23/15,10/23/15,active
+63629402801,suboxone,buprenorphine; combinations,buprenorphine,NA,"tablet, sublingual",sublingual,2-0.5,mg,10,bryant ranch pr,NA,NA,inactive
+63629403401,suboxone,buprenorphine; combinations,buprenorphine,NA,"tablet, sublingual",sublingual,8-2,mg,30,bryant ranch pr,NA,NA,inactive
+63629403402,suboxone,buprenorphine; combinations,buprenorphine,NA,"tablet, sublingual",sublingual,8-2,mg,10,bryant ranch pr,NA,NA,inactive
+63629403403,suboxone,buprenorphine; combinations,buprenorphine,NA,"tablet, sublingual",sublingual,8-2,mg,20,bryant ranch pr,NA,NA,inactive
+63629409201,buprenorphine hydrochloride,buprenorphine hydrochloride,buprenorphine,NA,tablet,oral,8,mg/1,10 tablet in 1 bottle (63629-4092-1),bryant ranch prepack,10/9/09,NA,NA
+63629409202,buprenorphine hydrochloride,buprenorphine hydrochloride,buprenorphine,NA,tablet,oral,8,mg/1,30 tablet in 1 bottle (63629-4092-2),bryant ranch prepack,10/9/09,NA,NA
+63629712601,buprenorphine hydrochloride,buprenorphine hydrochloride,buprenorphine,NA,tablet,sublingual,8 mg/1,NA,90 tablet in 1 bottle (63629-7126-1),bryant ranch prepack,NA,NA,NA
+63629712602,buprenorphine hydrochloride,buprenorphine hydrochloride,buprenorphine,NA,tablet,sublingual,8 mg/1,NA,60 tablet in 1 bottle (63629-7126-2),bryant ranch prepack,NA,NA,NA
+63629712603,buprenorphine hydrochloride,buprenorphine hydrochloride,buprenorphine,NA,tablet,sublingual,8 mg/1,NA,30 tablet in 1 bottle (63629-7126-3),bryant ranch prepack,NA,NA,NA
+63629712604,buprenorphine hydrochloride,buprenorphine hydrochloride,buprenorphine,NA,tablet,sublingual,8 mg/1,NA,20 tablet in 1 bottle (63629-7126-4),bryant ranch prepack,NA,NA,NA
+63629712605,buprenorphine hydrochloride,buprenorphine hydrochloride,buprenorphine,NA,tablet,sublingual,8 mg/1,NA,7 tablet in 1 bottle (63629-7126-5),bryant ranch prepack,NA,NA,NA
+63629712606,buprenorphine hydrochloride,buprenorphine hydrochloride,buprenorphine,NA,tablet,sublingual,8 mg/1,NA,28 tablet in 1 bottle (63629-7126-6),bryant ranch prepack,NA,NA,NA
+63629712607,buprenorphine hydrochloride,buprenorphine hydrochloride,buprenorphine,NA,tablet,sublingual,8 mg/1,NA,1 tablet in 1 bottle (63629-7126-7),bryant ranch prepack,NA,NA,NA
+63629712608,buprenorphine hydrochloride,buprenorphine hydrochloride,buprenorphine,NA,tablet,sublingual,8 mg/1,NA,12 tablet in 1 bottle (63629-7126-8),bryant ranch prepack,NA,NA,NA
+63629712609,buprenorphine hydrochloride,buprenorphine hydrochloride,buprenorphine,NA,tablet,sublingual,8 mg/1,NA,14 tablet in 1 bottle (63629-7126-9),bryant ranch prepack,NA,NA,NA
+63874108403,suboxone,buprenorphine; combinations,buprenorphine,NA,"tablet, sublingual",sublingual,8-2,mg,30,altura pharma,NA,NA,inactive
+63874108503,suboxone,buprenorphine; combinations,buprenorphine,NA,"tablet, sublingual",sublingual,2-0.5,mg,30,altura pharma,NA,NA,inactive
+63874117303,subutex,buprenorphine,buprenorphine,NA,"tablet, sublingual",sublingual,8,mg,30,altura pharma,NA,NA,inactive
+63874117403,subutex,buprenorphine hydrochloride,buprenorphine,NA,NA,NA,2 mg,NA,30,NA,NA,NA,NA
+64725093003,buprenorphine hydrochloride,buprenorphine hydrochloride,buprenorphine,NA,tablet,sublingual,8,mg/1,30 tablet in 1 bottle (64725-0930-3),tya pharmaceuticals,9/24/10,NA,NA
+64725093004,buprenorphine hydrochloride,buprenorphine hydrochloride,buprenorphine,NA,tablet,sublingual,8,mg/1,30 tablet in 1 carton (64725-0930-4),tya pharmaceuticals,9/24/10,NA,NA
+64725192403,buprenorphine hydrochloride,buprenorphine hydrochloride,buprenorphine,NA,tablet,sublingual,2,mg/1,30 tablet in 1 bottle (64725-1924-3),tya pharmaceuticals,9/24/10,NA,NA
+64725192404,buprenorphine hydrochloride,buprenorphine hydrochloride,buprenorphine,NA,tablet,sublingual,2,mg/1,30 tablet in 1 carton (64725-1924-4),tya pharmaceuticals,9/24/10,NA,NA
+65162041503,buprenorphine-naloxone,buprenorphine; combinations,buprenorphine,NA,"tablet, sublingual",sublingual,8-2,mg,30,amneal pharmace,2/22/13,2/22/13,active
+65162041603,buprenorphine-naloxone,buprenorphine; combinations,buprenorphine,NA,"tablet, sublingual",sublingual,2-0.5,mg,30,amneal pharmace,2/22/13,2/22/13,active
+66336001630,suboxone,buprenorphine; combinations,buprenorphine,NA,"tablet, sublingual",sublingual,8-2,mg,30,dispensing soln,NA,NA,inactive
+67046099030,buprenorphine hydrochloride (u),buprenorphine hydrochloride (u),buprenorphine,NA,NA, , ,NA, ,contract pharmacy services-pa,NA,NA,NA
+67046099130,buprenorphine hydrochloride (u),buprenorphine hydrochloride (u),buprenorphine,NA,NA, , ,NA, ,contract pharmacy services-pa,NA,NA,NA
+67046099430,buprenorphine,buprenorphine,buprenorphine,NA,tablet,sublingual,2 mg/1,NA,30 tablet in 1 blister pack (67046-994-30),contract pharmacy services-pa,NA,NA,NA
+67046099530,buprenorphine,buprenorphine,buprenorphine,NA,tablet,sublingual,8 mg/1,NA,30 tablet in 1 blister pack (67046-995-30),contract pharmacy services-pa,NA,NA,NA
+67046099630,buprenorphine hydrochloride sublingual,buprenorphine hydrochloride sublingual,buprenorphine,NA,tablet,sublingual,2 mg/1,NA,30 tablet in 1 blister pack (67046-996-30),contract pharmacy services-pa,NA,NA,NA
+67046099730,buprenorphine hydrochloride sublingual,buprenorphine hydrochloride sublingual,buprenorphine,NA,tablet,sublingual,8 mg/1,NA,30 tablet in 1 blister pack (67046-997-30),contract pharmacy services-pa,NA,NA,NA
+67046099830,buprenorphine hcl,buprenorphine hcl,buprenorphine,NA,tablet,sublingual,2 mg/1,NA,30 tablet in 1 blister pack (67046-998-30),contract pharmacy services-pa,NA,NA,NA
+67046099930,buprenorphine hcl,buprenorphine hcl,buprenorphine,NA,tablet,sublingual,8 mg/1,NA,30 tablet in 1 blister pack (67046-999-30),contract pharmacy services-pa,NA,NA,NA
+68071138003,suboxone,buprenorphine; combinations,buprenorphine,NA,"tablet, sublingual",sublingual,8-2,mg,30,nucare pharmace,NA,NA,inactive
+68071151003,suboxone,buprenorphine; combinations,buprenorphine,NA,"tablet, sublingual",sublingual,2-0.5,mg,30,nucare pharmace,NA,NA,inactive
+68258299103,buprenorphine hydrochloride,buprenorphine hydrochloride,buprenorphine,NA,NA,NA,8 mg,NA,30,NA,NA,NA,NA
+68258299903,suboxone,buprenorphine; combinations,buprenorphine,NA,"tablet, sublingual",sublingual,2-0.5,mg,30,dispensing soln,NA,NA,inactive
+68308020230,buprenorphine hcl,buprenorphine,buprenorphine,NA,"tablet, sublingual",sublingual,2,mg,30,mayne pharma in,9/24/10,9/24/10,active
+68308020830,buprenorphine hcl,buprenorphine,buprenorphine,NA,"tablet, sublingual",sublingual,8,mg,30,mayne pharma in,9/24/10,9/24/10,active
+70518044200,buprenorphine hydrochloride,buprenorphine hydrochloride,buprenorphine,NA,tablet,sublingual,8 mg/1,NA,30 tablet in 1 blister pack (70518-0442-0),remedyrepack inc.,NA,NA,NA
+70518065200,buprenorphine hydrochloride sublingual,buprenorphine hydrochloride sublingual,buprenorphine,NA,tablet,sublingual,2 mg/1,NA,"60 tablet in 1 bottle, plastic (70518-0652-0)",remedyrepack inc.,NA,NA,NA
+70518065201,buprenorphine hydrochloride sublingual,buprenorphine hydrochloride sublingual,buprenorphine,NA,tablet,sublingual,2 mg/1,NA,"100 tablet in 1 bottle, plastic (70518-0652-1)",remedyrepack inc.,NA,NA,NA
+70518065202,buprenorphine hydrochloride sublingual,buprenorphine hydrochloride sublingual,buprenorphine,NA,tablet,sublingual,2 mg/1,NA,"30 tablet in 1 bottle, plastic (70518-0652-2)",remedyrepack inc.,NA,NA,NA
+70518071100,buprenorphine,buprenorphine,buprenorphine,NA,tablet,sublingual,2 mg/1,NA,"90 tablet in 1 bottle, plastic (70518-0711-0)",remedyrepack inc.,NA,NA,NA
+70518071101,buprenorphine,buprenorphine,buprenorphine,NA,tablet,sublingual,2 mg/1,NA,"100 tablet in 1 bottle, plastic (70518-0711-1)",remedyrepack inc.,NA,NA,NA
+70518155700,buprenorphine,buprenorphine,buprenorphine,NA,tablet,sublingual,2 mg/1,NA,30 tablet in 1 blister pack (70518-1557-0),remedyrepack inc.,NA,NA,NA
+70518162500,buprenorphine,buprenorphine,buprenorphine,NA,tablet,sublingual,8 mg/1,NA,30 tablet in 1 blister pack (70518-1625-0),remedyrepack inc.,NA,NA,NA
+71335035301,buprenorphine,buprenorphine,buprenorphine,NA,tablet,sublingual,2 mg/1,NA,60 tablet in 1 bottle (71335-0353-1),bryant ranch prepack,NA,NA,NA
+71335035302,buprenorphine,buprenorphine,buprenorphine,NA,tablet,sublingual,2 mg/1,NA,90 tablet in 1 bottle (71335-0353-2),bryant ranch prepack,NA,NA,NA
+71335035303,buprenorphine,buprenorphine,buprenorphine,NA,tablet,sublingual,2 mg/1,NA,30 tablet in 1 bottle (71335-0353-3),bryant ranch prepack,NA,NA,NA
+71335035304,buprenorphine,buprenorphine,buprenorphine,NA,tablet,sublingual,2 mg/1,NA,7 tablet in 1 bottle (71335-0353-4),bryant ranch prepack,NA,NA,NA
+71335035305,buprenorphine,buprenorphine,buprenorphine,NA,tablet,sublingual,2 mg/1,NA,28 tablet in 1 bottle (71335-0353-5),bryant ranch prepack,NA,NA,NA
+71335035306,buprenorphine,buprenorphine,buprenorphine,NA,tablet,sublingual,2 mg/1,NA,1 tablet in 1 bottle (71335-0353-6),bryant ranch prepack,NA,NA,NA
+71335035307,buprenorphine,buprenorphine,buprenorphine,NA,tablet,sublingual,2 mg/1,NA,12 tablet in 1 bottle (71335-0353-7),bryant ranch prepack,NA,NA,NA
+71335095001,buprenorphine,buprenorphine,buprenorphine,NA,tablet,sublingual,2 mg/1,NA,60 tablet in 1 bottle (71335-0950-1),bryant ranch prepack,NA,NA,NA
+71335095002,buprenorphine,buprenorphine,buprenorphine,NA,tablet,sublingual,2 mg/1,NA,90 tablet in 1 bottle (71335-0950-2),bryant ranch prepack,NA,NA,NA
+71335095003,buprenorphine,buprenorphine,buprenorphine,NA,tablet,sublingual,2 mg/1,NA,30 tablet in 1 bottle (71335-0950-3),bryant ranch prepack,NA,NA,NA
+71335095004,buprenorphine,buprenorphine,buprenorphine,NA,tablet,sublingual,2 mg/1,NA,7 tablet in 1 bottle (71335-0950-4),bryant ranch prepack,NA,NA,NA
+71335095005,buprenorphine,buprenorphine,buprenorphine,NA,tablet,sublingual,2 mg/1,NA,28 tablet in 1 bottle (71335-0950-5),bryant ranch prepack,NA,NA,NA
+71335095006,buprenorphine,buprenorphine,buprenorphine,NA,tablet,sublingual,2 mg/1,NA,1 tablet in 1 bottle (71335-0950-6),bryant ranch prepack,NA,NA,NA
+71335095007,buprenorphine,buprenorphine,buprenorphine,NA,tablet,sublingual,2 mg/1,NA,12 tablet in 1 bottle (71335-0950-7),bryant ranch prepack,NA,NA,NA
+76519117000,buprenorphine hcl,buprenorphine hcl,buprenorphine,NA,tablet,sublingual,8 mg/1,NA,14 tablet in 1 bottle (76519-1170-0),"h.j. harkins company, inc.",NA,NA,NA
+76519117001,buprenorphine hcl,buprenorphine hcl,buprenorphine,NA,tablet,sublingual,8 mg/1,NA,28 tablet in 1 bottle (76519-1170-1),"h.j. harkins company, inc.",NA,NA,NA
+76519117002,buprenorphine hcl,buprenorphine hcl,buprenorphine,NA,tablet,sublingual,8 mg/1,NA,56 tablet in 1 bottle (76519-1170-2),"h.j. harkins company, inc.",NA,NA,NA
+76519117003,buprenorphine hcl,buprenorphine hcl,buprenorphine,NA,tablet,sublingual,8 mg/1,NA,70 tablet in 1 bottle (76519-1170-3),"h.j. harkins company, inc.",NA,NA,NA
+76519117004,buprenorphine hcl,buprenorphine hcl,buprenorphine,NA,tablet,sublingual,8 mg/1,NA,84 tablet in 1 bottle (76519-1170-4),"h.j. harkins company, inc.",NA,NA,NA
+76519117005,buprenorphine hcl,buprenorphine hcl,buprenorphine,NA,tablet,sublingual,8 mg/1,NA,42 tablet in 1 bottle (76519-1170-5),"h.j. harkins company, inc.",NA,NA,NA

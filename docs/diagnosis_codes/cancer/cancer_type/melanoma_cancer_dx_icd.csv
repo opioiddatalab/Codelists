@@ -1,39 +1,39 @@
-icd_cm,ver
-'1720',9
-'1721',9
-'1722',9
-'1723',9
-'1724',9
-'1725',9
-'1726',9
-'1727',9
-'1728',9
-'1729',9
-'V1082',9
-'C430',10
-'C4310',10
-'C4311',10
-'C43111',10
-'C43112',10
-'C4312',10
-'C43121',10
-'C43122',10
-'C4320',10
-'C4321',10
-'C4322',10
-'C4330',10
-'C4331',10
-'C4339',10
-'C434',10
-'C4351',10
-'C4352',10
-'C4359',10
-'C4360',10
-'C4361',10
-'C4362',10
-'C4370',10
-'C4371',10
-'C4372',10
-'C438',10
-'C439',10
-'Z85820',10
+icd_cm,ver,icd_cm_label,hcup_ccs_single,hcup_ccs_single_label
+'1720',9,malignant melanoma of skin of lip,22,(22) melanomas of skin
+'1721',9,"malignant melanoma of skin of eyelid, including canthus",22,(22) melanomas of skin
+'1722',9,malignant melanoma of skin of ear and external auditory canal,22,(22) melanomas of skin
+'1723',9,malignant melanoma of skin of other and unspecified parts of face,22,(22) melanomas of skin
+'1724',9,malignant melanoma of skin of scalp and neck,22,(22) melanomas of skin
+'1725',9,"malignant melanoma of skin of trunk, except scrotum",22,(22) melanomas of skin
+'1726',9,"malignant melanoma of skin of upper limb, including shoulder",22,(22) melanomas of skin
+'1727',9,"malignant melanoma of skin of lower limb, including hip",22,(22) melanomas of skin
+'1728',9,malignant melanoma of other specified sites of skin,22,(22) melanomas of skin
+'1729',9,"melanoma of skin, site unspecified",22,(22) melanomas of skin
+'V1082',9,personal history of malignant melanoma of skin,22,(22) melanomas of skin
+'C430',10,malignant melanoma of lip,22,(22) melanomas of skin
+'C4310',10,"malignant melanoma of unspecified eyelid, including canthus",22,(22) melanomas of skin
+'C4311',10,"malignant melanoma of right eyelid, including canthus",22,(22) melanomas of skin
+'C43111',10,"malignant melanoma of right upper eyelid, including canthus",22,(22) melanomas of skin
+'C43112',10,"malignant melanoma of right lower eyelid, including canthus",22,(22) melanomas of skin
+'C4312',10,"malignant melanoma of left eyelid, including canthus",22,(22) melanomas of skin
+'C43121',10,"malignant melanoma of left upper eyelid, including canthus",22,(22) melanomas of skin
+'C43122',10,"malignant melanoma of left lower eyelid, including canthus",22,(22) melanomas of skin
+'C4320',10,malignant melanoma of unspecified ear and external auricular canal,22,(22) melanomas of skin
+'C4321',10,malignant melanoma of right ear and external auricular canal,22,(22) melanomas of skin
+'C4322',10,malignant melanoma of left ear and external auricular canal,22,(22) melanomas of skin
+'C4330',10,malignant melanoma of unspecified part of face,22,(22) melanomas of skin
+'C4331',10,malignant melanoma of nose,22,(22) melanomas of skin
+'C4339',10,malignant melanoma of other parts of face,22,(22) melanomas of skin
+'C434',10,malignant melanoma of scalp and neck,22,(22) melanomas of skin
+'C4351',10,malignant melanoma of anal skin,22,(22) melanomas of skin
+'C4352',10,malignant melanoma of skin of breast,22,(22) melanomas of skin
+'C4359',10,malignant melanoma of other part of trunk,22,(22) melanomas of skin
+'C4360',10,"malignant melanoma of unspecified upper limb, including shoulder",22,(22) melanomas of skin
+'C4361',10,"malignant melanoma of right upper limb, including shoulder",22,(22) melanomas of skin
+'C4362',10,"malignant melanoma of left upper limb, including shoulder",22,(22) melanomas of skin
+'C4370',10,"malignant melanoma of unspecified lower limb, including hip",22,(22) melanomas of skin
+'C4371',10,"malignant melanoma of right lower limb, including hip",22,(22) melanomas of skin
+'C4372',10,"malignant melanoma of left lower limb, including hip",22,(22) melanomas of skin
+'C438',10,malignant melanoma of overlapping sites of skin,22,(22) melanomas of skin
+'C439',10,"malignant melanoma of skin, unspecified",22,(22) melanomas of skin
+'Z85820',10,personal history of malignant melanoma of skin,22,(22) melanomas of skin

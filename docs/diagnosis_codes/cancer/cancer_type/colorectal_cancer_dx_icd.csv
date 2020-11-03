@@ -1,67 +1,67 @@
-icd_cm,ver
-'1530',9
-'1531',9
-'1532',9
-'1533',9
-'1534',9
-'1535',9
-'1536',9
-'1537',9
-'1538',9
-'1539',9
-'1590',9
-'20910',9
-'20911',9
-'20912',9
-'20913',9
-'20914',9
-'20915',9
-'20916',9
-'V1005',9
-'C180',10
-'C181',10
-'C182',10
-'C183',10
-'C184',10
-'C185',10
-'C186',10
-'C187',10
-'C188',10
-'C189',10
-'C260',10
-'C49A4',10
-'C7A020',10
-'C7A021',10
-'C7A022',10
-'C7A023',10
-'C7A024',10
-'C7A025',10
-'C7A029',10
-'Z85038',10
-'1540',9
-'1541',9
-'1542',9
-'1543',9
-'1548',9
-'20917',9
-'79670',9
-'79671',9
-'79672',9
-'79673',9
-'79674',9
-'79676',9
-'V1006',9
-'C19',10
-'C20',10
-'C210',10
-'C211',10
-'C212',10
-'C218',10
-'C49A5',10
-'C7A026',10
-'R85610',10
-'R85611',10
-'R85612',10
-'R85613',10
-'R85614',10
-'Z85048',10
+icd_cm,ver,icd_cm_label,hcup_ccs_single,hcup_ccs_single_label
+'1530',9,malignant neoplasm of hepatic flexure,14,(14) cancer of colon
+'1531',9,malignant neoplasm of transverse colon,14,(14) cancer of colon
+'1532',9,malignant neoplasm of descending colon,14,(14) cancer of colon
+'1533',9,malignant neoplasm of sigmoid colon,14,(14) cancer of colon
+'1534',9,malignant neoplasm of cecum,14,(14) cancer of colon
+'1535',9,malignant neoplasm of appendix vermiformis,14,(14) cancer of colon
+'1536',9,malignant neoplasm of ascending colon,14,(14) cancer of colon
+'1537',9,malignant neoplasm of splenic flexure,14,(14) cancer of colon
+'1538',9,malignant neoplasm of other specified sites of large intestine,14,(14) cancer of colon
+'1539',9,"malignant neoplasm of colon, unspecified site",14,(14) cancer of colon
+'1590',9,"malignant neoplasm of intestinal tract, part unspecified",14,(14) cancer of colon
+'20910',9,"malignant carcinoid tumor of the large intestine, unspecified portion",14,(14) cancer of colon
+'20911',9,malignant carcinoid tumor of the appendix,14,(14) cancer of colon
+'20912',9,malignant carcinoid tumor of the cecum,14,(14) cancer of colon
+'20913',9,malignant carcinoid tumor of the ascending colon,14,(14) cancer of colon
+'20914',9,malignant carcinoid tumor of the transverse colon,14,(14) cancer of colon
+'20915',9,malignant carcinoid tumor of the descending colon,14,(14) cancer of colon
+'20916',9,malignant carcinoid tumor of the sigmoid colon,14,(14) cancer of colon
+'V1005',9,personal history of malignant neoplasm of large intestine,14,(14) cancer of colon
+'C180',10,malignant neoplasm of cecum,14,(14) cancer of colon
+'C181',10,malignant neoplasm of appendix,14,(14) cancer of colon
+'C182',10,malignant neoplasm of ascending colon,14,(14) cancer of colon
+'C183',10,malignant neoplasm of hepatic flexure,14,(14) cancer of colon
+'C184',10,malignant neoplasm of transverse colon,14,(14) cancer of colon
+'C185',10,malignant neoplasm of splenic flexure,14,(14) cancer of colon
+'C186',10,malignant neoplasm of descending colon,14,(14) cancer of colon
+'C187',10,malignant neoplasm of sigmoid colon,14,(14) cancer of colon
+'C188',10,malignant neoplasm of overlapping sites of colon,14,(14) cancer of colon
+'C189',10,"malignant neoplasm of colon, unspecified",14,(14) cancer of colon
+'C260',10,"malignant neoplasm of intestinal tract, part unspecified",14,(14) cancer of colon
+'C49A4',10,gastrointestinal stromal tumor of large intestine,14,(14) cancer of colon
+'C7A020',10,malignant carcinoid tumor of the appendix,14,(14) cancer of colon
+'C7A021',10,malignant carcinoid tumor of the cecum,14,(14) cancer of colon
+'C7A022',10,malignant carcinoid tumor of the ascending colon,14,(14) cancer of colon
+'C7A023',10,malignant carcinoid tumor of the transverse colon,14,(14) cancer of colon
+'C7A024',10,malignant carcinoid tumor of the descending colon,14,(14) cancer of colon
+'C7A025',10,malignant carcinoid tumor of the sigmoid colon,14,(14) cancer of colon
+'C7A029',10,"malignant carcinoid tumor of the large intestine, unspecified portion",14,(14) cancer of colon
+'Z85038',10,personal history of other malignant neoplasm of large intestine,14,(14) cancer of colon
+'1540',9,malignant neoplasm of rectosigmoid junction,15,(15) cancer of rectum and anus
+'1541',9,malignant neoplasm of rectum,15,(15) cancer of rectum and anus
+'1542',9,malignant neoplasm of anal canal,15,(15) cancer of rectum and anus
+'1543',9,"malignant neoplasm of anus, unspecified site",15,(15) cancer of rectum and anus
+'1548',9,"malignant neoplasm of other sites of rectum, rectosigmoid junction, and anus",15,(15) cancer of rectum and anus
+'20917',9,malignant carcinoid tumor of the rectum,15,(15) cancer of rectum and anus
+'79670',9,abnormal glandular papanicolaou smear of anus,15,(15) cancer of rectum and anus
+'79671',9,papanicolaou smear of anus with atypical squamous cells of undetermined significance (asc-us),15,(15) cancer of rectum and anus
+'79672',9,papanicolaou smear of anus with atypical squamous cells cannot exclude high grade squamous intraepithelial lesion (asc-h),15,(15) cancer of rectum and anus
+'79673',9,papanicolaou smear of anus with low grade squamous intraepithelial lesion (lgsil),15,(15) cancer of rectum and anus
+'79674',9,papanicolaou smear of anus with high grade squamous intraepithelial lesion (hgsil),15,(15) cancer of rectum and anus
+'79676',9,papanicolaou smear of anus with cytologic evidence of malignancy,15,(15) cancer of rectum and anus
+'V1006',9,"personal history of malignant neoplasm of rectum, rectosigmoid junction, and anus",15,(15) cancer of rectum and anus
+'C19',10,malignant neoplasm of rectosigmoid junction,15,(15) cancer of rectum and anus
+'C20',10,malignant neoplasm of rectum,15,(15) cancer of rectum and anus
+'C210',10,"malignant neoplasm of anus, unspecified",15,(15) cancer of rectum and anus
+'C211',10,malignant neoplasm of anal canal,15,(15) cancer of rectum and anus
+'C212',10,malignant neoplasm of cloacogenic zone,15,(15) cancer of rectum and anus
+'C218',10,"malignant neoplasm of overlapping sites of rectum, anus and anal canal",15,(15) cancer of rectum and anus
+'C49A5',10,gastrointestinal stromal tumor of rectum,15,(15) cancer of rectum and anus
+'C7A026',10,malignant carcinoid tumor of the rectum,15,(15) cancer of rectum and anus
+'R85610',10,atypical squamous cells of undetermined significance on cytologic smear of anus (asc-us),15,(15) cancer of rectum and anus
+'R85611',10,atypical squamous cells cannot exclude high grade squamous intraepithelial lesion on cytologic smear of anus (asc-h),15,(15) cancer of rectum and anus
+'R85612',10,low grade squamous intraepithelial lesion on cytologic smear of anus (lgsil),15,(15) cancer of rectum and anus
+'R85613',10,high grade squamous intraepithelial lesion on cytologic smear of anus (hgsil),15,(15) cancer of rectum and anus
+'R85614',10,cytologic evidence of malignancy on smear of anus,15,(15) cancer of rectum and anus
+'Z85048',10,"personal history of other malignant neoplasm of rectum, rectosigmoid junction, and anus",15,(15) cancer of rectum and anus

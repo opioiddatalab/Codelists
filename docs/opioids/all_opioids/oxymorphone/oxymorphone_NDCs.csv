@@ -1,0 +1,259 @@
+ndc,drug_name,generic_name,opioid_ingredient1,opioid_ingredient2,form,route,strength,strength_uom,package_size,manufacturer,startdate,enddate,status
+00054028325,oxymorphone,oxymorphone,oxymorphone,NA,tablet,oral,5,mg,100,roxane/west-war,9/27/10,9/27/10,active
+00054028425,oxymorphone,oxymorphone,oxymorphone,NA,tablet,oral,10,mg,100,roxane/west-war,9/27/10,9/27/10,active
+00093586101,oxymorphone,oxymorphone,oxymorphone,NA,tablet,oral,5,mg,100,teva usa,2/15/11,2/15/11,active
+00093586201,oxymorphone,oxymorphone,oxymorphone,NA,tablet,oral,10,mg,100,teva usa,2/15/11,2/15/11,active
+00115123101,oxymorphone,oxymorphone,oxymorphone,NA,tablet extended release 12 hr,oral,5,mg,100,global pharm,6/14/10,6/14/10,active
+00115123103,oxymorphone hydrochloride,oxymorphone hydrochloride,oxymorphone,NA,"tablet, film coated, extended release",oral,5,mg/1,"1000 tablet, film coated, extended release in 1 bottle (0115-1231-03)",impax generics,1/2/13,NA,NA
+00115123108,oxymorphone hydrochloride,oxymorphone hydrochloride,oxymorphone,NA,"tablet, film coated, extended release",oral,5,mg/1,"30 tablet, film coated, extended release in 1 bottle (0115-1231-08)",impax generics,1/2/13,NA,NA
+00115123113,oxymorphone,oxymorphone,oxymorphone,NA,tablet extended release 12 hr,oral,5,mg,60,global pharm,6/14/10,6/14/10,active
+00115123201,oxymorphone,oxymorphone,oxymorphone,NA,tablet extended release 12 hr,oral,10,mg,100,global pharm,6/14/10,6/14/10,active
+00115123203,oxymorphone hydrochloride,oxymorphone hydrochloride,oxymorphone,NA,"tablet, film coated, extended release",oral,10,mg/1,"1000 tablet, film coated, extended release in 1 bottle (0115-1232-03)",impax generics,1/2/13,NA,NA
+00115123208,oxymorphone hydrochloride,oxymorphone hydrochloride,oxymorphone,NA,"tablet, film coated, extended release",oral,10,mg/1,"30 tablet, film coated, extended release in 1 bottle (0115-1232-08)",impax generics,1/2/13,NA,NA
+00115123213,oxymorphone,oxymorphone,oxymorphone,NA,tablet extended release 12 hr,oral,10,mg,60,global pharm,6/14/10,6/14/10,active
+00115123301,oxymorphone,oxymorphone,oxymorphone,NA,tablet extended release 12 hr,oral,20,mg,100,global pharm,6/14/10,6/14/10,active
+00115123303,oxymorphone hydrochloride,oxymorphone hydrochloride,oxymorphone,NA,"tablet, film coated, extended release",oral,20,mg/1,"1000 tablet, film coated, extended release in 1 bottle (0115-1233-03)",impax generics,1/2/13,NA,NA
+00115123308,oxymorphone hydrochloride,oxymorphone hydrochloride,oxymorphone,NA,"tablet, film coated, extended release",oral,20,mg/1,"30 tablet, film coated, extended release in 1 bottle (0115-1233-08)",impax generics,1/2/13,NA,NA
+00115123313,oxymorphone,oxymorphone,oxymorphone,NA,tablet extended release 12 hr,oral,20,mg,60,global pharm,6/14/10,6/14/10,active
+00115123401,oxymorphone,oxymorphone,oxymorphone,NA,tablet extended release 12 hr,oral,40,mg,100,global pharm,6/14/10,6/14/10,active
+00115123403,oxymorphone hydrochloride,oxymorphone hydrochloride,oxymorphone,NA,"tablet, film coated, extended release",oral,40,mg/1,"1000 tablet, film coated, extended release in 1 bottle (0115-1234-03)",impax generics,1/2/13,NA,NA
+00115123408,oxymorphone hydrochloride,oxymorphone hydrochloride,oxymorphone,NA,"tablet, film coated, extended release",oral,40,mg/1,"30 tablet, film coated, extended release in 1 bottle (0115-1234-08)",impax generics,1/2/13,NA,NA
+00115123413,oxymorphone,oxymorphone,oxymorphone,NA,tablet extended release 12 hr,oral,40,mg,60,global pharm,6/14/10,6/14/10,active
+00115131501,oxymorphone,oxymorphone,oxymorphone,NA,tablet extended release 12 hr,oral,7.5,mg,100,global pharm,12/21/10,12/21/10,active
+00115131503,oxymorphone hydrochloride,oxymorphone hydrochloride,oxymorphone,NA,"tablet, film coated, extended release",oral,7.5,mg/1,"1000 tablet, film coated, extended release in 1 bottle (0115-1315-03)",impax generics,1/2/13,NA,NA
+00115131508,oxymorphone hydrochloride,oxymorphone hydrochloride,oxymorphone,NA,"tablet, film coated, extended release",oral,7.5,mg/1,"30 tablet, film coated, extended release in 1 bottle (0115-1315-08)",impax generics,1/2/13,NA,NA
+00115131513,oxymorphone,oxymorphone,oxymorphone,NA,tablet extended release 12 hr,oral,7.5,mg,60,global pharm,12/21/10,12/21/10,active
+00115131601,oxymorphone,oxymorphone,oxymorphone,NA,tablet extended release 12 hr,oral,15,mg,100,global pharm,12/21/10,12/21/10,active
+00115131603,oxymorphone hydrochloride,oxymorphone hydrochloride,oxymorphone,NA,"tablet, film coated, extended release",oral,15,mg/1,"1000 tablet, film coated, extended release in 1 bottle (0115-1316-03)",impax generics,1/2/13,NA,NA
+00115131608,oxymorphone hydrochloride,oxymorphone hydrochloride,oxymorphone,NA,"tablet, film coated, extended release",oral,15,mg/1,"30 tablet, film coated, extended release in 1 bottle (0115-1316-08)",impax generics,1/2/13,NA,NA
+00115131613,oxymorphone,oxymorphone,oxymorphone,NA,tablet extended release 12 hr,oral,15,mg,60,global pharm,12/21/10,12/21/10,active
+00115131701,oxymorphone,oxymorphone,oxymorphone,NA,tablet extended release 12 hr,oral,30,mg,100,global pharm,7/22/10,7/22/10,active
+00115131703,oxymorphone hydrochloride,oxymorphone hydrochloride,oxymorphone,NA,"tablet, film coated, extended release",oral,30,mg/1,"1000 tablet, film coated, extended release in 1 bottle (0115-1317-03)",impax generics,1/2/13,NA,NA
+00115131708,oxymorphone hydrochloride,oxymorphone hydrochloride,oxymorphone,NA,"tablet, film coated, extended release",oral,30,mg/1,"30 tablet, film coated, extended release in 1 bottle (0115-1317-08)",impax generics,1/2/13,NA,NA
+00115131713,oxymorphone,oxymorphone,oxymorphone,NA,tablet extended release 12 hr,oral,30,mg,60,global pharm,7/22/10,7/22/10,active
+00228322706,oxymorphone,oxymorphone,oxymorphone,NA,tablet extended release 12 hr,oral,5,mg,60,actavis pharma,7/11/13,7/11/13,active
+00228322711,oxymorphone,oxymorphone,oxymorphone,NA,tablet extended release 12 hr,oral,5,mg,100,actavis pharma,7/11/13,7/11/13,active
+00228322750,oxymorphone hydrochloride,oxymorphone hydrochloride,oxymorphone,NA,"tablet, extended release",oral,5,mg/1,"500 tablet, extended release in 1 bottle (0228-3227-50)","actavis pharma, inc.",12/31/10,NA,NA
+00228322806,oxymorphone,oxymorphone,oxymorphone,NA,tablet extended release 12 hr,oral,10,mg,60,actavis pharma,7/11/13,7/11/13,active
+00228322811,oxymorphone,oxymorphone,oxymorphone,NA,tablet extended release 12 hr,oral,10,mg,100,actavis pharma,7/11/13,7/11/13,active
+00228322850,oxymorphone hydrochloride,oxymorphone hydrochloride,oxymorphone,NA,"tablet, extended release",oral,10,mg/1,"500 tablet, extended release in 1 bottle (0228-3228-50)","actavis pharma, inc.",12/31/10,NA,NA
+00228322906,oxymorphone,oxymorphone,oxymorphone,NA,tablet extended release 12 hr,oral,20,mg,60,actavis pharma,7/11/13,7/11/13,active
+00228322911,oxymorphone,oxymorphone,oxymorphone,NA,tablet extended release 12 hr,oral,20,mg,100,actavis pharma,7/11/13,7/11/13,active
+00228322950,oxymorphone hydrochloride,oxymorphone hydrochloride,oxymorphone,NA,"tablet, extended release",oral,20,mg/1,"500 tablet, extended release in 1 bottle (0228-3229-50)","actavis pharma, inc.",12/31/10,NA,NA
+00228323006,oxymorphone,oxymorphone,oxymorphone,NA,tablet extended release 12 hr,oral,40,mg,60,actavis pharma,7/11/13,7/11/13,active
+00228323011,oxymorphone,oxymorphone,oxymorphone,NA,tablet extended release 12 hr,oral,40,mg,100,actavis pharma,7/11/13,7/11/13,active
+00228323050,oxymorphone hydrochloride,oxymorphone hydrochloride,oxymorphone,NA,"tablet, extended release",oral,40,mg/1,"500 tablet, extended release in 1 bottle (0228-3230-50)","actavis pharma, inc.",12/31/10,NA,NA
+00228326106,oxymorphone,oxymorphone,oxymorphone,NA,tablet extended release 12 hr,oral,7.5,mg,60,actavis pharma,12/13/10,12/13/10,active
+00228326111,oxymorphone,oxymorphone,oxymorphone,NA,tablet extended release 12 hr,oral,7.5,mg,100,actavis pharma,12/13/10,12/13/10,active
+00228326150,oxymorphone hydrochloride,oxymorphone hydrochloride,oxymorphone,NA,"tablet, extended release",oral,7.5,mg/1,"500 tablet, extended release in 1 bottle (0228-3261-50)","actavis pharma, inc.",12/31/10,NA,NA
+00228326206,oxymorphone,oxymorphone,oxymorphone,NA,tablet extended release 12 hr,oral,15,mg,60,actavis pharma,12/13/10,12/13/10,active
+00228326211,oxymorphone,oxymorphone,oxymorphone,NA,tablet extended release 12 hr,oral,15,mg,100,actavis pharma,12/13/10,12/13/10,active
+00228326250,oxymorphone hydrochloride,oxymorphone hydrochloride,oxymorphone,NA,"tablet, extended release",oral,15,mg/1,"500 tablet, extended release in 1 bottle (0228-3262-50)","actavis pharma, inc.",12/31/10,NA,NA
+00228326306,oxymorphone,oxymorphone,oxymorphone,NA,tablet extended release 12 hr,oral,30,mg,60,actavis pharma,7/11/13,7/11/13,active
+00228326311,oxymorphone,oxymorphone,oxymorphone,NA,tablet extended release 12 hr,oral,30,mg,100,actavis pharma,7/11/13,7/11/13,active
+00228326350,oxymorphone hydrochloride,oxymorphone hydrochloride,oxymorphone,NA,"tablet, extended release",oral,30,mg/1,"500 tablet, extended release in 1 bottle (0228-3263-50)","actavis pharma, inc.",12/31/10,NA,NA
+00406100901,oxymorphone,oxymorphone,oxymorphone,NA,tablet,oral,5,mg,100,mallinckrodt ph,4/25/13,4/25/13,active
+00406101001,oxymorphone,oxymorphone,oxymorphone,NA,tablet,oral,10,mg,100,mallinckrodt ph,4/25/13,4/25/13,active
+00406809101,oxymorphone hydrochloride,oxymorphone hydrochloride,oxymorphone,NA,"tablet, extended release",oral,5,mg/1,"100 tablet, extended release in 1 bottle, plastic (0406-8091-01)","mallinckrodt, inc.",6/27/14,NA,NA
+00406809201,oxymorphone hydrochloride,oxymorphone hydrochloride,oxymorphone,NA,"tablet, extended release",oral,10,mg/1,"100 tablet, extended release in 1 bottle, plastic (0406-8092-01)","mallinckrodt, inc.",6/27/14,NA,NA
+00406809301,oxymorphone hydrochloride,oxymorphone hydrochloride,oxymorphone,NA,"tablet, extended release",oral,20,mg/1,"100 tablet, extended release in 1 bottle, plastic (0406-8093-01)","mallinckrodt, inc.",6/27/14,NA,NA
+00406809401,oxymorphone hydrochloride,oxymorphone hydrochloride,oxymorphone,NA,"tablet, extended release",oral,40,mg/1,"100 tablet, extended release in 1 bottle, plastic (0406-8094-01)","mallinckrodt, inc.",6/27/14,NA,NA
+00406809501,oxymorphone hydrochloride,oxymorphone hydrochloride,oxymorphone,NA,"tablet, extended release",oral,7.5,mg/1,"100 tablet, extended release in 1 bottle, plastic (0406-8095-01)","mallinckrodt, inc.",6/27/14,NA,NA
+00406809601,oxymorphone hydrochloride,oxymorphone hydrochloride,oxymorphone,NA,"tablet, extended release",oral,15,mg/1,"100 tablet, extended release in 1 bottle, plastic (0406-8096-01)","mallinckrodt, inc.",6/27/14,NA,NA
+00406809701,oxymorphone hydrochloride,oxymorphone hydrochloride,oxymorphone,NA,"tablet, extended release",oral,30,mg/1,"100 tablet, extended release in 1 bottle, plastic (0406-8097-01)","mallinckrodt, inc.",6/27/14,NA,NA
+00590037010,numorphan,oxymorphone,oxymorphone,NA,solution,injection,1,mg/ml,1,endo labs,2/5/62,2/5/62,inactive
+00590037070,numorphan,oxymorphone,oxymorphone,NA,solution,injection,1,mg/ml,1,dupont pharm,NA,NA,inactive
+00590037310,numorphan,oxymorphone,oxymorphone,NA,solution,injection,1.5,mg/ml,1,endo labs,5/14/59,5/14/59,inactive
+00590037370,numorphan,oxymorphone,oxymorphone,NA,solution,injection,1.5,mg/ml,1,dupont pharm,NA,NA,inactive
+00590037401,numorphan,oxymorphone,oxymorphone,NA,solution,injection,1.5,mg/ml,10,endo labs,5/14/59,5/14/59,inactive
+00590076106,numorphan,oxymorphone,oxymorphone,NA,suppository,rectal,5,mg,6,endo labs,5/14/59,5/14/59,inactive
+10702007001,oxymorphone,oxymorphone,oxymorphone,NA,tablet,oral,5,mg,100,"kvk-tech, inc.",1/30/13,1/30/13,active
+10702007006,oxymorphone hydrochloride,oxymorphone hydrochloride,oxymorphone,NA,tablet,oral,5 mg/1,NA,60 tablet in 1 bottle (10702-070-06),"kvk-tech, inc.",NA,NA,NA
+10702007101,oxymorphone,oxymorphone,oxymorphone,NA,tablet,oral,10,mg,100,"kvk-tech, inc.",1/30/13,1/30/13,active
+10702007106,oxymorphone hydrochloride,oxymorphone hydrochloride,oxymorphone,NA,tablet,oral,10 mg/1,NA,60 tablet in 1 bottle (10702-071-06),"kvk-tech, inc.",NA,NA,NA
+13107010301,oxymorphone,oxymorphone,oxymorphone,NA,tablet,oral,5,mg,100,aurobindo pharm,4/26/16,4/26/16,active
+13107010330,oxymorphone hydrochloride,oxymorphone hydrochloride,oxymorphone,NA,tablet,oral,5,mg/1,30 tablet in 1 bottle (13107-103-30),"aurolife pharma, llc",4/26/16,NA,NA
+13107010399,oxymorphone hydrochloride,oxymorphone hydrochloride,oxymorphone,NA,tablet,oral,5,mg/1,1000 tablet in 1 bottle (13107-103-99),"aurolife pharma, llc",4/26/16,NA,NA
+13107010401,oxymorphone,oxymorphone,oxymorphone,NA,tablet,oral,10,mg,100,aurobindo pharm,4/26/16,4/26/16,active
+13107010430,oxymorphone hydrochloride,oxymorphone hydrochloride,oxymorphone,NA,tablet,oral,10,mg/1,30 tablet in 1 bottle (13107-104-30),"aurolife pharma, llc",4/26/16,NA,NA
+13107010499,oxymorphone hydrochloride,oxymorphone hydrochloride,oxymorphone,NA,tablet,oral,10,mg/1,1000 tablet in 1 bottle (13107-104-99),"aurolife pharma, llc",4/26/16,NA,NA
+16590060828,opana er,oxymorphone hydrochloride,oxymorphone,NA,NA,NA,20 mg,NA,28,NA,NA,NA,NA
+16590060830,opana er,oxymorphone hydrochloride,oxymorphone,NA,tablet extended release 12 hr,oral,20,mg,30,stat rx usa,NA,NA,inactive
+16590060856,opana er,oxymorphone hydrochloride,oxymorphone,NA,tablet extended release 12 hr,oral,20,mg,56,stat rx usa,NA,NA,inactive
+16590060860,opana er,oxymorphone hydrochloride,oxymorphone,NA,tablet extended release 12 hr,oral,20,mg,60,stat rx usa,NA,NA,inactive
+16590060890,opana er,oxymorphone hydrochloride,oxymorphone,NA,tablet extended release 12 hr,oral,20,mg,90,stat rx usa,NA,NA,inactive
+16590060930,opana er,oxymorphone hydrochloride,oxymorphone,NA,tablet extended release 12 hr,oral,40,mg,30,stat rx usa,NA,NA,inactive
+16590060940,opana er,oxymorphone hydrochloride,oxymorphone,NA,NA,NA,40 mg,NA,40,NA,NA,NA,NA
+16590060960,opana er,oxymorphone hydrochloride,oxymorphone,NA,tablet extended release 12 hr,oral,40,mg,60,stat rx usa,NA,NA,inactive
+16590060972,opana er,oxymorphone hydrochloride,oxymorphone,NA,NA,NA,40 mg,NA,120,NA,NA,NA,NA
+16590060990,opana er,oxymorphone hydrochloride,oxymorphone,NA,tablet extended release 12 hr,oral,40,mg,90,stat rx usa,NA,NA,inactive
+16590070730,opana er,oxymorphone hydrochloride,oxymorphone,NA,tablet extended release 12 hr,oral,30,mg,30,stat rx usa,NA,NA,inactive
+16590070760,opana er,oxymorphone hydrochloride,oxymorphone,NA,NA,NA,30 mg,NA,60,NA,NA,NA,NA
+16590070772,opana er,oxymorphone hydrochloride,oxymorphone,NA,NA,NA,30 mg,NA,120,NA,NA,NA,NA
+16590074730,opana,oxymorphone hydrochloride,oxymorphone,NA,"tablet, film coated, extended release",oral,10,mg/1,"30 tablet, film coated, extended release in 1 bottle (16590-747-30)",stat rx usa llc,6/22/06,NA,NA
+16590074756,opana er,oxymorphone hydrochloride,oxymorphone,NA,tablet extended release 12 hr,oral,10,mg,56,stat rx usa,NA,NA,inactive
+16590074760,opana er,oxymorphone hydrochloride,oxymorphone,NA,tablet extended release 12 hr,oral,10,mg,60,stat rx usa,NA,NA,inactive
+16590074790,opana,oxymorphone hydrochloride,oxymorphone,NA,"tablet, film coated, extended release",oral,10,mg/1,"90 tablet, film coated, extended release in 1 bottle (16590-747-90)",stat rx usa llc,6/22/06,NA,NA
+16590076528,opana,oxymorphone hydrochloride,oxymorphone,NA,tablet,oral,10,mg,28,stat rx usa,NA,NA,active
+16590076530,opana,oxymorphone hydrochloride,oxymorphone,NA,tablet,oral,10,mg,30,stat rx usa,NA,NA,active
+16590076556,opana,oxymorphone hydrochloride,oxymorphone,NA,tablet,oral,10,mg,56,stat rx usa,NA,NA,active
+16590076560,opana,oxymorphone hydrochloride,oxymorphone,NA,tablet,oral,10,mg/1,60 tablet in 1 bottle (16590-765-60),stat rx usa llc,12/15/11,NA,NA
+16590076572,opana,oxymorphone hydrochloride,oxymorphone,NA,NA,NA,10 mg,NA,120,NA,NA,NA,NA
+16590076575,opana,oxymorphone hydrochloride,oxymorphone,NA,tablet,oral,10,mg/1,120 tablet in 1 bottle (16590-765-75),stat rx usa llc,12/15/11,NA,NA
+16590076590,opana,oxymorphone hydrochloride,oxymorphone,NA,tablet,oral,10,mg,90,stat rx usa,NA,NA,active
+16590076730,opana er,oxymorphone hydrochloride,oxymorphone,NA,tablet extended release 12 hr,oral,5,mg,30,stat rx usa,NA,NA,inactive
+16590076756,opana er,oxymorphone hydrochloride,oxymorphone,NA,tablet extended release 12 hr,oral,5,mg,56,stat rx usa,NA,NA,inactive
+16590076760,opana,oxymorphone hydrochloride,oxymorphone,NA,"tablet, film coated, extended release",oral,5,mg/1,"60 tablet, film coated, extended release in 1 bottle (16590-767-60)",stat rx usa llc,6/22/06,NA,NA
+16590076790,opana,oxymorphone hydrochloride,oxymorphone,NA,"tablet, film coated, extended release",oral,5,mg/1,"90 tablet, film coated, extended release in 1 bottle (16590-767-90)",stat rx usa llc,6/22/06,NA,NA
+16590081956,opana,oxymorphone hydrochloride,oxymorphone,NA,tablet,oral,5,mg,56,stat rx usa,NA,NA,active
+16590081960,opana,oxymorphone hydrochloride,oxymorphone,NA,tablet,oral,5,mg,60,stat rx usa,NA,NA,active
+16590081972,opana,oxymorphone hydrochloride,oxymorphone,NA,tablet,oral,5,mg,120,stat rx usa,NA,NA,active
+16590086260,opana er,oxymorphone hydrochloride,oxymorphone,NA,NA,NA,15 mg,NA,60,NA,NA,NA,NA
+16590086290,opana er,oxymorphone hydrochloride,oxymorphone,NA,NA,NA,15 mg,NA,90,NA,NA,NA,NA
+16590097390,oxymorphone,oxymorphone,oxymorphone,NA,tablet,oral,5,mg,90,stat rx usa,NA,NA,active
+21695094860,opana er,oxymorphone hydrochloride,oxymorphone,NA,tablet extended release 12 hr,oral,5,mg,60,physician partn,NA,NA,inactive
+21695094960,opana er,oxymorphone hydrochloride,oxymorphone,NA,tablet extended release 12 hr,oral,10,mg,60,physician partn,NA,NA,inactive
+31722092901,oxymorphone hydrochloride,oxymorphone hydrochloride,oxymorphone,NA,tablet,oral,5 mg/1,NA,100 tablet in 1 bottle (31722-929-01),camber pharmaceuticals inc,NA,NA,NA
+31722093001,oxymorphone hydrochloride,oxymorphone hydrochloride,oxymorphone,NA,tablet,oral,10 mg/1,NA,100 tablet in 1 bottle (31722-930-01),camber pharmaceuticals inc,NA,NA,NA
+35356021401,opana er,oxymorphone hydrochloride,oxymorphone,NA,tablet extended release 12 hr,oral,5,mg,120,quality care,NA,NA,inactive
+35356021430,opana er,oxymorphone hydrochloride,oxymorphone,NA,tablet extended release 12 hr,oral,5,mg,30,quality care,NA,NA,inactive
+35356021460,opana er,oxymorphone hydrochloride,oxymorphone,NA,tablet extended release 12 hr,oral,5,mg,60,quality care,NA,NA,inactive
+35356038001,opana,oxymorphone hydrochloride,oxymorphone,NA,tablet,oral,10,mg,120,quality care,NA,NA,active
+35356038030,opana,oxymorphone hydrochloride,oxymorphone,NA,tablet,oral,10,mg,30,quality care,NA,NA,active
+35356038060,opana,oxymorphone hydrochloride,oxymorphone,NA,tablet,oral,10,mg,60,quality care,NA,NA,active
+35356038130,opana er,oxymorphone hydrochloride,oxymorphone,NA,tablet extended release 12 hr,oral,40,mg,30,quality care,NA,NA,inactive
+35356038830,opana er,oxymorphone hydrochloride,oxymorphone,NA,tablet extended release 12 hr,oral,10,mg,30,quality care,NA,NA,inactive
+35356038860,opana er,oxymorphone hydrochloride,oxymorphone,NA,tablet extended release 12 hr,oral,10,mg,60,quality care,NA,NA,inactive
+35356038890,opana er,oxymorphone hydrochloride,oxymorphone,NA,tablet extended release 12 hr,oral,10,mg,90,quality care,NA,NA,inactive
+35356038920,opana er,oxymorphone hydrochloride,oxymorphone,NA,tablet extended release 12 hr,oral,20,mg,20,quality care,NA,NA,inactive
+35356038930,opana er,oxymorphone hydrochloride,oxymorphone,NA,tablet extended release 12 hr,oral,20,mg,30,quality care,NA,NA,inactive
+35356038960,opana er,oxymorphone hydrochloride,oxymorphone,NA,tablet extended release 12 hr,oral,20,mg,60,quality care,NA,NA,inactive
+35356039030,opana er,oxymorphone hydrochloride,oxymorphone,NA,tablet extended release 12 hr,oral,15,mg,30,quality care,NA,NA,inactive
+35356039060,opana er,oxymorphone hydrochloride,oxymorphone,NA,tablet extended release 12 hr,oral,15,mg,60,quality care,NA,NA,inactive
+35356039130,opana er,oxymorphone hydrochloride,oxymorphone,NA,"tablet,oral only,ext.rel.12 hr",oral,40,mg,30,quality care,NA,NA,active
+35356039160,opana er,oxymorphone hydrochloride,oxymorphone,NA,"tablet,oral only,ext.rel.12 hr",oral,40,mg,60,quality care,NA,NA,active
+35356039190,opana er,oxymorphone hydrochloride,oxymorphone,NA,"tablet,oral only,ext.rel.12 hr",oral,40,mg,90,quality care,NA,NA,active
+35356040330,opana er,oxymorphone hydrochloride,oxymorphone,NA,"tablet,oral only,ext.rel.12 hr",oral,30,mg,30,quality care,NA,NA,active
+35356040360,opana er,oxymorphone hydrochloride,oxymorphone,NA,"tablet,oral only,ext.rel.12 hr",oral,30,mg,60,quality care,NA,NA,active
+35356049901,opana,oxymorphone hydrochloride,oxymorphone,NA,tablet,oral,5,mg,120,quality care,NA,NA,active
+35356049930,opana,oxymorphone hydrochloride,oxymorphone,NA,tablet,oral,5,mg,30,quality care,NA,NA,active
+35356049960,opana,oxymorphone hydrochloride,oxymorphone,NA,tablet,oral,5,mg,60,quality care,NA,NA,active
+35356064301,oxymorphone,oxymorphone,oxymorphone,NA,tablet,oral,10,mg,120,quality care,NA,NA,active
+35356064330,oxymorphone,oxymorphone,oxymorphone,NA,tablet,oral,10,mg,30,quality care,NA,NA,active
+35356065530,oxymorphone,oxymorphone,oxymorphone,NA,tablet extended release 12 hr,oral,15,mg,30,quality care,NA,NA,active
+35356065560,oxymorphone,oxymorphone,oxymorphone,NA,tablet extended release 12 hr,oral,15,mg,60,quality care,NA,NA,active
+35356065590,oxymorphone hydrochloride,oxymorphone hydrochloride,oxymorphone,NA,"tablet, extended release",oral,15,mg/1,"90 tablet, extended release in 1 bottle (35356-655-90)",lake erie medical dba quality care products llc,12/31/10,NA,NA
+35356082030,opana er,oxymorphone hydrochloride,oxymorphone,NA,"tablet,oral only,ext.rel.12 hr",oral,10,mg,30,quality care,NA,NA,active
+35356082060,opana er,oxymorphone hydrochloride,oxymorphone,NA,"tablet,oral only,ext.rel.12 hr",oral,10,mg,60,quality care,NA,NA,active
+35356082090,opana er,oxymorphone hydrochloride,oxymorphone,NA,"tablet,oral only,ext.rel.12 hr",oral,10,mg,90,quality care,NA,NA,active
+35356082530,opana er,oxymorphone hydrochloride,oxymorphone,NA,"tablet,oral only,ext.rel.12 hr",oral,20,mg,30,quality care,NA,NA,active
+35356082560,opana er,oxymorphone hydrochloride,oxymorphone,NA,"tablet,oral only,ext.rel.12 hr",oral,20,mg,60,quality care,NA,NA,active
+35356084830,opana er,oxymorphone hydrochloride,oxymorphone,NA,"tablet,oral only,ext.rel.12 hr",oral,40,mg,30,quality care,NA,NA,active
+35356084860,opana er,oxymorphone hydrochloride,oxymorphone,NA,"tablet,oral only,ext.rel.12 hr",oral,40,mg,60,quality care,NA,NA,active
+35356084890,opana er,oxymorphone hydrochloride,oxymorphone,NA,"tablet,oral only,ext.rel.12 hr",oral,40,mg,90,quality care,NA,NA,active
+35356084930,opana er,oxymorphone hydrochloride,oxymorphone,NA,"tablet,oral only,ext.rel.12 hr",oral,30,mg,30,quality care,NA,NA,active
+35356084960,opana er,oxymorphone hydrochloride,oxymorphone,NA,"tablet,oral only,ext.rel.12 hr",oral,30,mg,60,quality care,NA,NA,active
+35356084990,opana er,oxymorphone hydrochloride,oxymorphone,NA,"tablet,oral only,ext.rel.12 hr",oral,30,mg,90,quality care,NA,NA,active
+35356096730,oxymorphone,oxymorphone,oxymorphone,NA,tablet,oral,5,mg,30,quality care,NA,NA,active
+35356096801,oxymorphone hydrochloride,oxymorphone hydrochloride,oxymorphone,NA,tablet,oral,10,mg/1,120 tablet in 1 bottle (35356-968-01),lake erie medical dba quality care products llc,2/11/13,NA,NA
+35356096830,oxymorphone,oxymorphone,oxymorphone,NA,tablet,oral,10,mg,30,quality care,NA,NA,active
+35356096860,oxymorphone hydrochloride,oxymorphone hydrochloride,oxymorphone,NA,tablet,oral,10,mg/1,60 tablet in 1 bottle (35356-968-60),lake erie medical dba quality care products llc,2/11/13,NA,NA
+42549066930,opana er,oxymorphone hydrochloride,oxymorphone,NA,NA,NA,20 mg,NA,30,NA,NA,NA,NA
+42549067030,opana er,oxymorphone hydrochloride,oxymorphone,NA,NA,NA,30 mg,NA,30,NA,NA,NA,NA
+42549067130,opana er,oxymorphone hydrochloride,oxymorphone,NA,NA,NA,40 mg,NA,30,NA,NA,NA,NA
+42549067160,opana er,oxymorphone hydrochloride,oxymorphone,NA,NA,NA,40 mg,NA,60,NA,NA,NA,NA
+42549067190,opana er,oxymorphone hydrochloride,oxymorphone,NA,NA,NA,40 mg,NA,90,NA,NA,NA,NA
+42549067730,opana er,oxymorphone hydrochloride,oxymorphone,NA,NA,NA,10 mg,NA,30,NA,NA,NA,NA
+54868637900,oxymorphone,oxymorphone,oxymorphone,NA,tablet,oral,10,mg,60,physicians tc.,NA,NA,active
+55700021530,oxymorphone hydrochloride,oxymorphone hydrochloride,oxymorphone,NA,"tablet, film coated, extended release",oral,20,mg/1,"30 tablet, film coated, extended release in 1 bottle (55700-215-30)",lake erie medical dba quality care products llc,1/2/13,NA,NA
+55700021560,oxymorphone hydrochloride,oxymorphone hydrochloride,oxymorphone,NA,"tablet, film coated, extended release",oral,20,mg/1,"60 tablet, film coated, extended release in 1 bottle (55700-215-60)",lake erie medical dba quality care products llc,1/2/13,NA,NA
+55700038130,oxymorphone,oxymorphone,oxymorphone,NA,tablet extended release 12 hr,oral,40,mg,30,quality care,NA,NA,active
+55700038730,oxymorphone,oxymorphone,oxymorphone,NA,tablet extended release 12 hr,oral,10,mg,30,quality care,NA,NA,active
+55700038760,oxymorphone hydrochloride,oxymorphone hydrochloride,oxymorphone,NA,"tablet, film coated, extended release",oral,10,mg/1,"60 tablet, film coated, extended release in 1 bottle (55700-387-60)",lake erie medical dba quality care products llc,1/2/13,NA,NA
+55700041730,oxymorphone hydrochloride,oxymorphone hydrochloride,oxymorphone,NA,"tablet, film coated, extended release",oral,15,mg/1,"30 tablet, film coated, extended release in 1 bottle (55700-417-30)",lake erie medical dba quality care products llc,1/2/13,NA,NA
+55700041760,oxymorphone hydrochloride,oxymorphone hydrochloride,oxymorphone,NA,"tablet, film coated, extended release",oral,15,mg/1,"60 tablet, film coated, extended release in 1 bottle (55700-417-60)",lake erie medical dba quality care products llc,1/2/13,NA,NA
+55700042330,oxymorphone hydrochloride,oxymorphone hydrochloride,oxymorphone,NA,"tablet, film coated, extended release",oral,30,mg/1,"30 tablet, film coated, extended release in 1 bottle (55700-423-30)",lake erie medical dba quality care products llc,1/2/13,NA,NA
+55700044130,oxymorphone hydrochloride,oxymorphone hydrochloride,oxymorphone,NA,"tablet, film coated, extended release",oral,5,mg/1,"30 tablet, film coated, extended release in 1 bottle (55700-441-30)",lake erie medical dba quality care products llc,1/2/13,NA,NA
+60687014811,oxymorphone,oxymorphone,oxymorphone,NA,tablet,oral,10,mg,1,ahp,12/21/15,12/21/15,active
+60687014821,oxymorphone,oxymorphone,oxymorphone,NA,tablet,oral,10,mg,30,ahp,12/21/15,12/21/15,active
+60760061760,opana er,oxymorphone hydrochloride,oxymorphone,NA,tablet extended release 12 hr,oral,20,mg,60,st marys mpp,NA,NA,inactive
+60951079470,oxymorphone,oxymorphone,oxymorphone,NA,tablet,oral,5,mg,100,qualitest,6/22/06,6/22/06,active
+60951079570,oxymorphone,oxymorphone,oxymorphone,NA,tablet,oral,10,mg,100,qualitest,6/22/06,6/22/06,active
+63304021805,oxymorphone hydrochloride,oxymorphone hydrochloride,oxymorphone,NA,"tablet, film coated, extended release",oral,5,mg/1,"500 tablet, film coated, extended release in 1 bottle (63304-218-05)",ranbaxy pharmaceuticals inc.,4/13/15,NA,NA
+63304021830,oxymorphone hydrochloride,oxymorphone hydrochloride,oxymorphone,NA,"tablet, film coated, extended release",oral,5,mg/1,"30 tablet, film coated, extended release in 1 bottle (63304-218-30)",ranbaxy pharmaceuticals inc.,4/13/15,NA,NA
+63304021905,oxymorphone hydrochloride,oxymorphone hydrochloride,oxymorphone,NA,"tablet, film coated, extended release",oral,7.5,mg/1,"500 tablet, film coated, extended release in 1 bottle (63304-219-05)",ranbaxy pharmaceuticals inc.,4/13/15,NA,NA
+63304021930,oxymorphone hydrochloride,oxymorphone hydrochloride,oxymorphone,NA,"tablet, film coated, extended release",oral,7.5,mg/1,"30 tablet, film coated, extended release in 1 bottle (63304-219-30)",ranbaxy pharmaceuticals inc.,4/13/15,NA,NA
+63304022005,oxymorphone hydrochloride,oxymorphone hydrochloride,oxymorphone,NA,"tablet, film coated, extended release",oral,10,mg/1,"500 tablet, film coated, extended release in 1 bottle (63304-220-05)",ranbaxy pharmaceuticals inc.,4/13/15,NA,NA
+63304022030,oxymorphone hydrochloride,oxymorphone hydrochloride,oxymorphone,NA,"tablet, film coated, extended release",oral,10,mg/1,"30 tablet, film coated, extended release in 1 bottle (63304-220-30)",ranbaxy pharmaceuticals inc.,4/13/15,NA,NA
+63304022105,oxymorphone hydrochloride,oxymorphone hydrochloride,oxymorphone,NA,"tablet, film coated, extended release",oral,15,mg/1,"500 tablet, film coated, extended release in 1 bottle (63304-221-05)",ranbaxy pharmaceuticals inc.,4/13/15,NA,NA
+63304022130,oxymorphone hydrochloride,oxymorphone hydrochloride,oxymorphone,NA,"tablet, film coated, extended release",oral,15,mg/1,"30 tablet, film coated, extended release in 1 bottle (63304-221-30)",ranbaxy pharmaceuticals inc.,4/13/15,NA,NA
+63304022205,oxymorphone hydrochloride,oxymorphone hydrochloride,oxymorphone,NA,"tablet, film coated, extended release",oral,20,mg/1,"500 tablet, film coated, extended release in 1 bottle (63304-222-05)",ranbaxy pharmaceuticals inc.,4/13/15,NA,NA
+63304022230,oxymorphone hydrochloride,oxymorphone hydrochloride,oxymorphone,NA,"tablet, film coated, extended release",oral,20,mg/1,"30 tablet, film coated, extended release in 1 bottle (63304-222-30)",ranbaxy pharmaceuticals inc.,4/13/15,NA,NA
+63304022305,oxymorphone hydrochloride,oxymorphone hydrochloride,oxymorphone,NA,"tablet, film coated, extended release",oral,30,mg/1,"500 tablet, film coated, extended release in 1 bottle (63304-223-05)",ranbaxy pharmaceuticals inc.,4/13/15,NA,NA
+63304022330,oxymorphone hydrochloride,oxymorphone hydrochloride,oxymorphone,NA,"tablet, film coated, extended release",oral,30,mg/1,"30 tablet, film coated, extended release in 1 bottle (63304-223-30)",ranbaxy pharmaceuticals inc.,4/13/15,NA,NA
+63304022405,oxymorphone hydrochloride,oxymorphone hydrochloride,oxymorphone,NA,"tablet, film coated, extended release",oral,40,mg/1,"500 tablet, film coated, extended release in 1 bottle (63304-224-05)",ranbaxy pharmaceuticals inc.,4/13/15,NA,NA
+63304022430,oxymorphone hydrochloride,oxymorphone hydrochloride,oxymorphone,NA,"tablet, film coated, extended release",oral,40,mg/1,"30 tablet, film coated, extended release in 1 bottle (63304-224-30)",ranbaxy pharmaceuticals inc.,4/13/15,NA,NA
+63481043470,opana er,oxymorphone hydrochloride,oxymorphone,NA,"tablet,oral only,ext.rel.12 hr",oral,5,mg,100,endo pharm inc.,12/9/11,12/9/11,active
+63481043670,opana er,oxymorphone hydrochloride,oxymorphone,NA,"tablet,oral only,ext.rel.12 hr",oral,10,mg,100,endo pharm inc.,12/9/11,12/9/11,active
+63481043870,opana er,oxymorphone hydrochloride,oxymorphone,NA,"tablet,oral only,ext.rel.12 hr",oral,20,mg,100,endo pharm inc.,12/9/11,12/9/11,active
+63481043970,opana er,oxymorphone hydrochloride,oxymorphone,NA,"tablet,oral only,ext.rel.12 hr",oral,30,mg,100,endo pharm inc.,12/9/11,12/9/11,active
+63481044070,opana er,oxymorphone hydrochloride,oxymorphone,NA,"tablet,oral only,ext.rel.12 hr",oral,40,mg,100,endo pharm inc.,12/9/11,12/9/11,active
+63481044410,numorphan,oxymorphone,oxymorphone,NA,solution,injection,1,mg/ml,1,endo pharm inc.,9/30/90,9/30/90,inactive
+63481044501,numorphan,oxymorphone,oxymorphone,NA,solution,injection,1.5,mg/ml,10,endo pharm inc.,5/14/59,5/14/59,inactive
+63481052270,opana er,oxymorphone hydrochloride,oxymorphone,NA,tablet extended release 12 hr,oral,7.5,mg,100,endo pharm inc.,2/29/08,2/29/08,inactive
+63481055370,opana er,oxymorphone hydrochloride,oxymorphone,NA,tablet extended release 12 hr,oral,15,mg,100,endo pharm inc.,2/29/08,2/29/08,inactive
+63481057170,opana er,oxymorphone hydrochloride,oxymorphone,NA,tablet extended release 12 hr,oral,30,mg,100,endo pharm inc.,2/29/08,2/29/08,inactive
+63481061270,opana,oxymorphone hydrochloride,oxymorphone,NA,tablet,oral,5,mg,100,endo pharm inc.,6/22/06,6/22/06,active
+63481061275,opana,oxymorphone hydrochloride,oxymorphone,NA,tablet,oral,5,mg,100,endo pharm inc.,6/22/06,6/22/06,active
+63481061370,opana,oxymorphone hydrochloride,oxymorphone,NA,tablet,oral,10,mg,100,endo pharm inc.,6/22/06,6/22/06,active
+63481061770,opana er,oxymorphone hydrochloride,oxymorphone,NA,tablet extended release 12 hr,oral,20,mg,100,endo pharm inc.,6/22/06,6/22/06,inactive
+63481061775,opana er,oxymorphone hydrochloride,oxymorphone,NA,tablet extended release 12 hr,oral,20,mg,100,endo pharm inc.,6/22/06,6/22/06,inactive
+63481062401,opana,oxymorphone hydrochloride,oxymorphone,NA,solution,injection,1,mg/ml,1,endo pharm inc.,NA,NA,active
+63481062410,opana,oxymorphone hydrochloride,oxymorphone,NA,solution,injection,1,mg/ml,1,endo pharm inc.,9/30/90,9/30/90,active
+63481067470,opana er,oxymorphone hydrochloride,oxymorphone,NA,tablet extended release 12 hr,oral,10,mg,100,endo pharm inc.,6/22/06,6/22/06,inactive
+63481069370,opana er,oxymorphone hydrochloride,oxymorphone,NA,tablet extended release 12 hr,oral,40,mg,100,endo pharm inc.,6/22/06,6/22/06,inactive
+63481076106,numorphan,oxymorphone,oxymorphone,NA,suppository,rectal,5,mg,6,endo pharm inc.,5/14/59,5/14/59,inactive
+63481081201,opana er,oxymorphone hydrochloride,oxymorphone,NA,"tablet,oral only,ext.rel.12 hr",oral,5,mg,1,endo pharm inc.,NA,NA,active
+63481081220,opana er,oxymorphone hydrochloride,oxymorphone,NA,"tablet,oral only,ext.rel.12 hr",oral,5,mg,20,endo pharm inc.,12/9/11,12/9/11,active
+63481081260,opana er,oxymorphone hydrochloride,oxymorphone,NA,"tablet,oral only,ext.rel.12 hr",oral,5,mg,60,endo pharm inc.,12/9/11,12/9/11,active
+63481081270,opana,oxymorphone hydrochloride,oxymorphone,NA,"tablet, extended release",oral,5,mg/1,"100 tablet, extended release in 1 bottle (63481-812-70)",endo pharmaceuticals inc.,3/20/12,NA,NA
+63481081301,opana er,oxymorphone hydrochloride,oxymorphone,NA,"tablet,oral only,ext.rel.12 hr",oral,7.5,mg,1,endo pharm inc.,NA,NA,active
+63481081320,opana er,oxymorphone hydrochloride,oxymorphone,NA,"tablet,oral only,ext.rel.12 hr",oral,7.5,mg,20,endo pharm inc.,12/9/11,12/9/11,active
+63481081360,opana er,oxymorphone hydrochloride,oxymorphone,NA,"tablet,oral only,ext.rel.12 hr",oral,7.5,mg,60,endo pharm inc.,12/9/11,12/9/11,active
+63481081370,opana,oxymorphone hydrochloride,oxymorphone,NA,"tablet, extended release",oral,7.5,mg/1,"100 tablet, extended release in 1 bottle (63481-813-70)",endo pharmaceuticals inc.,3/20/12,NA,NA
+63481081401,opana er,oxymorphone hydrochloride,oxymorphone,NA,"tablet,oral only,ext.rel.12 hr",oral,10,mg,1,endo pharm inc.,NA,NA,active
+63481081420,opana er,oxymorphone hydrochloride,oxymorphone,NA,"tablet,oral only,ext.rel.12 hr",oral,10,mg,20,endo pharm inc.,12/9/11,12/9/11,active
+63481081460,opana er,oxymorphone hydrochloride,oxymorphone,NA,"tablet,oral only,ext.rel.12 hr",oral,10,mg,60,endo pharm inc.,12/9/11,12/9/11,active
+63481081470,opana,oxymorphone hydrochloride,oxymorphone,NA,"tablet, extended release",oral,10,mg/1,"100 tablet, extended release in 1 bottle (63481-814-70)",endo pharmaceuticals inc.,3/20/12,NA,NA
+63481081501,opana er,oxymorphone hydrochloride,oxymorphone,NA,"tablet,oral only,ext.rel.12 hr",oral,15,mg,1,endo pharm inc.,NA,NA,active
+63481081520,opana er,oxymorphone hydrochloride,oxymorphone,NA,"tablet,oral only,ext.rel.12 hr",oral,15,mg,20,endo pharm inc.,12/9/11,12/9/11,active
+63481081560,opana er,oxymorphone hydrochloride,oxymorphone,NA,"tablet,oral only,ext.rel.12 hr",oral,15,mg,60,endo pharm inc.,12/9/11,12/9/11,active
+63481081570,opana,oxymorphone hydrochloride,oxymorphone,NA,"tablet, extended release",oral,15,mg/1,"100 tablet, extended release in 1 bottle (63481-815-70)",endo pharmaceuticals inc.,3/20/12,NA,NA
+63481081601,opana er,oxymorphone hydrochloride,oxymorphone,NA,"tablet,oral only,ext.rel.12 hr",oral,20,mg,1,endo pharm inc.,NA,NA,active
+63481081620,opana er,oxymorphone hydrochloride,oxymorphone,NA,"tablet,oral only,ext.rel.12 hr",oral,20,mg,20,endo pharm inc.,12/9/11,12/9/11,active
+63481081660,opana er,oxymorphone hydrochloride,oxymorphone,NA,"tablet,oral only,ext.rel.12 hr",oral,20,mg,60,endo pharm inc.,12/9/11,12/9/11,active
+63481081670,opana,oxymorphone hydrochloride,oxymorphone,NA,"tablet, extended release",oral,20,mg/1,"100 tablet, extended release in 1 bottle (63481-816-70)",endo pharmaceuticals inc.,3/20/12,NA,NA
+63481081701,opana er,oxymorphone hydrochloride,oxymorphone,NA,"tablet,oral only,ext.rel.12 hr",oral,30,mg,1,endo pharm inc.,NA,NA,active
+63481081720,opana er,oxymorphone hydrochloride,oxymorphone,NA,"tablet,oral only,ext.rel.12 hr",oral,30,mg,20,endo pharm inc.,12/9/11,12/9/11,active
+63481081760,opana er,oxymorphone hydrochloride,oxymorphone,NA,"tablet,oral only,ext.rel.12 hr",oral,30,mg,60,endo pharm inc.,12/9/11,12/9/11,active
+63481081770,opana,oxymorphone hydrochloride,oxymorphone,NA,"tablet, extended release",oral,30,mg/1,"100 tablet, extended release in 1 bottle (63481-817-70)",endo pharmaceuticals inc.,3/20/12,NA,NA
+63481081801,opana er,oxymorphone hydrochloride,oxymorphone,NA,"tablet,oral only,ext.rel.12 hr",oral,40,mg,1,endo pharm inc.,NA,NA,active
+63481081820,opana er,oxymorphone hydrochloride,oxymorphone,NA,"tablet,oral only,ext.rel.12 hr",oral,40,mg,20,endo pharm inc.,12/9/11,12/9/11,active
+63481081860,opana er,oxymorphone hydrochloride,oxymorphone,NA,"tablet,oral only,ext.rel.12 hr",oral,40,mg,60,endo pharm inc.,12/9/11,12/9/11,active
+63481081870,opana,oxymorphone hydrochloride,oxymorphone,NA,"tablet, extended release",oral,40,mg/1,"100 tablet, extended release in 1 bottle (63481-818-70)",endo pharmaceuticals inc.,3/20/12,NA,NA
+63481090770,opana er,oxymorphone hydrochloride,oxymorphone,NA,tablet extended release 12 hr,oral,5,mg,100,endo pharm inc.,6/22/06,6/22/06,inactive
+63481090775,opana er,oxymorphone hydrochloride,oxymorphone,NA,tablet extended release 12 hr,oral,5,mg,100,endo pharm inc.,6/22/06,6/22/06,inactive
+63629417301,opana,oxymorphone hydrochloride,oxymorphone,NA,tablet,oral,5,mg/1,120 tablet in 1 bottle (63629-4173-1),bryant ranch prepack,6/26/06,NA,NA
+63629417302,opana,oxymorphone hydrochloride,oxymorphone,NA,tablet,oral,5,mg/1,30 tablet in 1 bottle (63629-4173-2),bryant ranch prepack,6/26/06,NA,NA
+63629417303,opana,oxymorphone hydrochloride,oxymorphone,NA,tablet,oral,5,mg/1,60 tablet in 1 bottle (63629-4173-3),bryant ranch prepack,6/26/06,NA,NA
+63629417304,opana,oxymorphone hydrochloride,oxymorphone,NA,tablet,oral,5,mg/1,90 tablet in 1 bottle (63629-4173-4),bryant ranch prepack,6/26/06,NA,NA
+63629417401,opana er,oxymorphone hydrochloride,oxymorphone,NA,tablet,oral,20,mg/1,60 tablet in 1 bottle (63629-4174-1),bryant ranch prepack,12/31/10,NA,NA
+63629417402,opana er,oxymorphone hydrochloride,oxymorphone,NA,tablet,oral,20,mg/1,30 tablet in 1 bottle (63629-4174-2),bryant ranch prepack,12/31/10,NA,NA
+63629417403,opana er,oxymorphone hydrochloride,oxymorphone,NA,tablet,oral,20,mg/1,90 tablet in 1 bottle (63629-4174-3),bryant ranch prepack,12/31/10,NA,NA
+63629417404,opana er,oxymorphone hydrochloride,oxymorphone,NA,tablet,oral,20,mg/1,56 tablet in 1 bottle (63629-4174-4),bryant ranch prepack,12/31/10,NA,NA
+63629417701,opana,oxymorphone hydrochloride,oxymorphone,NA,"tablet, extended release",oral,40,mg/1,"30 tablet, extended release in 1 bottle (63629-4177-1)",bryant ranch prepack,6/30/06,NA,NA
+63629417702,opana,oxymorphone hydrochloride,oxymorphone,NA,"tablet, extended release",oral,40,mg/1,"60 tablet, extended release in 1 bottle (63629-4177-2)",bryant ranch prepack,6/30/06,NA,NA
+63629417703,opana er,oxymorphone hydrochloride,oxymorphone,NA,tablet extended release 12 hr,oral,40,mg,90,bryant ranch pr,NA,NA,inactive
+64720025810,oxymorphone,oxymorphone,oxymorphone,NA,tablet,oral,5,mg,100,corepharma llc,12/15/14,12/15/14,active
+64720025910,oxymorphone,oxymorphone,oxymorphone,NA,tablet,oral,10,mg,100,corepharma llc,12/15/14,12/15/14,active
+68071060560,opana er,oxymorphone hydrochloride,oxymorphone,NA,NA,NA,20 mg,NA,60,NA,NA,NA,NA
