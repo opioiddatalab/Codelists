@@ -33,7 +33,7 @@ _____
 |Vantrela ER|207975|Categories 1-3|Oral, intranasal, intravenous|FDA AdCom: June 7, [2016](https://www.fda.gov/advisory-committees/anesthetic-and-analgesic-drug-products-advisory-committee/2016-meeting-materials-anesthetic-and-analgesic-drug-products-advisory-committee)<br><br>[Vantrela ER Documentation](Vantrela_ER)|Inactive|ER|Yes: Oral, intranasal, intravenous|
 |Apadaz|208653|Categories 1-3|Oral, intranasal, intravenous, smoking|FDA AdCom: May 5, [2016](https://www.fda.gov/advisory-committees/anesthetic-and-analgesic-drug-products-advisory-committee/2016-meeting-materials-anesthetic-and-analgesic-drug-products-advisory-committee)<br><br>[Apadaz Documentation](Apadaz)|Inactive|IR|No|
 |Remoxy ER|22324|Categories 1-3|Intranasal, intravenous, smoking|FDA AdCom: June 26, [2018](https://www.fda.gov/advisory-committees/anesthetic-and-analgesic-drug-products-advisory-committee/2018-meeting-materials-anesthetic-and-analgesic-drug-products-advisory-committee)<br><br>[Remoxy ER Documentation](Remoxy_ER)|Inactive|ER|No|
-|Avridi|22324|Categories 1-3|Intranasal, intravenous|FDA AdCom: September 10, [2015](http://wayback.archive-it.org/7993/20170111202121/http://www.fda.gov/AdvisoryCommittees/CommitteesMeetingMaterials/Drugs/AnestheticAndAnalgesicDrugProductsAdvisoryCommittee/ucm433361.htm)<br><br>[Avridi Documentation](Avridi)|Inactive|IR|No|
+|Avridi|206830|Categories 1-3|Intranasal, intravenous|FDA AdCom: September 10, [2015](http://wayback.archive-it.org/7993/20170111202121/http://www.fda.gov/AdvisoryCommittees/CommitteesMeetingMaterials/Drugs/AnestheticAndAnalgesicDrugProductsAdvisoryCommittee/ucm433361.htm)<br><br>[Avridi Documentation](Avridi)|Inactive|IR|No|
 
 _____
 
