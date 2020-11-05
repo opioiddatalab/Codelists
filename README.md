@@ -6,6 +6,8 @@ This repository contains documentation and codelists used in opioid research.
 
 For [all opioid medications](docs/opioids/all_opioids), this folder contains a [list of National Drug Codes (NDC) and drug names](docs/opioids/all_opioids/opioid_NDCs.csv), as well as sub-folders containing drug-specific NDC lists.
 
+#### Abuse-deterrant formulations
+
 This folder also provides details on [abuse-deterrant formulations](docs/opioids/ADFs), including a [readable table](docs/opioids/ADFs/index.md) of drug applications for abuse-deterrant designation by the FDA. Each formulation has additional documentation, including drug-specific NDC lists and FDA reviews and approvals.
 
 ### Treatments
