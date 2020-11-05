@@ -1,0 +1,530 @@
+drug_name,ndc,strength,strength_uom,manufacturer,status
+Alsuma,'27505000200',6,mg/0.5 mL,PFIZER US PHARM,Active
+Imitrex,'00173052300',20,mg/actuation,GLAXOSMITHKLINE,Active
+Imitrex,'49999082206',20,mg/actuation,QUALITY CARE,Active
+Imitrex,'54569458800',20,mg/actuation,A-S MEDICATION,Active
+Imitrex,'54868460600',20,mg/actuation,PHYSICIANS TC.,Active
+Imitrex,'55045350201',20,mg/actuation,DRX,Active
+Imitrex,'58016123101',20,mg/actuation,SOUTHWOOD PHARM,Active
+Imitrex,'00173052400',5,mg/actuation,GLAXOSMITHKLINE,Active
+Imitrex,'54868476400',5,mg/actuation,PHYSICIANS TC.,Active
+Imitrex,'55045373206',5,mg/actuation,DRX,Active
+Imitrex,'00173045003',100,mg,GLAXOSMITHKLINE,Active
+Imitrex,'00173073701',100,mg,GLAXOSMITHKLINE,Active
+Imitrex,'00173073702',100,mg,GLAXOSMITHKLINE,Active
+Imitrex,'16590012809',100,mg,STAT RX USA,Active
+Imitrex,'35356025409',100,mg,QUALITY CARE,Active
+Imitrex,'52959090909',100,mg,PHARMA PAC,Active
+Imitrex,'54569542600',100,mg,A-S MEDICATION,Active
+Imitrex,'54569542601',100,mg,A-S MEDICATION,Active
+Imitrex,'54868511800',100,mg,PHYSICIANS TC.,Active
+Imitrex,'55045373109',100,mg,DRX,Active
+Imitrex,'55887044109',100,mg,DHS INC.,Active
+Imitrex,'68115090709',100,mg,"DISPENSEXPRESS,",Active
+Imitrex,'00173046002',25,mg,GLAXOSMITHKLINE,Active
+Imitrex,'00173073500',25,mg,GLAXOSMITHKLINE,Active
+Imitrex,'16590012709',25,mg,STAT RX USA,Active
+Imitrex,'52959042209',25,mg,PHARMA PAC,Active
+Imitrex,'54569419000',25,mg,A-S MEDICATION,Active
+Imitrex,'54868377700',25,mg,PHYSICIANS TC.,Active
+Imitrex,'55045225009',25,mg,DRX,Active
+Imitrex,'55175405509',25,mg,CHESHIRE DRUGS,Active
+Imitrex,'55887051309',25,mg,DHS INC.,Active
+Imitrex,'58016024609',25,mg,SOUTHWOOD PHARM,Active
+Imitrex,'00173045900',50,mg,GLAXOSMITHKLINE,Active
+Imitrex,'00173073601',50,mg,GLAXOSMITHKLINE,Active
+Imitrex,'00173073602',50,mg,GLAXOSMITHKLINE,Active
+Imitrex,'21695015409',50,mg,PHYSICIAN PARTN,Active
+Imitrex,'35356025309',50,mg,QUALITY CARE,Active
+Imitrex,'35356025318',50,mg,QUALITY CARE,Active
+Imitrex,'52959047709',50,mg,PHARMA PAC,Active
+Imitrex,'54569419100',50,mg,A-S MEDICATION,Active
+Imitrex,'54569419101',50,mg,A-S MEDICATION,Active
+Imitrex,'54868385200',50,mg,PHYSICIANS TC.,Active
+Imitrex,'55045304009',50,mg,DRX,Active
+Imitrex,'58016557409',50,mg,SOUTHWOOD PHARM,Active
+Imitrex,'68115069609',50,mg,"DISPENSEXPRESS,",Active
+Imitrex,'00173044902',6,mg/0.5 mL,GLAXOSMITHKLINE,Active
+Imitrex,'54569370400',6,mg/0.5 mL,A-S MEDICATION,Active
+Imitrex,'54868265200',6,mg/0.5 mL,PHYSICIANS TC.,Active
+Imitrex,'54868265201',6,mg/0.5 mL,PHYSICIANS TC.,Active
+Imitrex,'55045351201',6,mg/0.5 mL,DRX,Active
+Imitrex,'00173044903',6,mg/0.5 mL,CERENEX PHARM,Inactive
+Imitrex,'54569450500',6,mg/0.5 mL,A-S MEDICATION,Inactive
+Imitrex STATdose Kit Refill,'00173073902',4,mg/0.5 mL,GLAXOSMITHKLINE,Active
+Imitrex STATdose Kit Refill,'00173044901',6,mg/0.5 mL,GLAXOSMITHKLINE,Active
+Imitrex STATdose Kit Refill,'00173047800',6,mg/0.5 mL,GLAXOSMITHKLINE,Active
+Imitrex STATdose Kit Refill,'54569370600',6,mg/0.5 mL,A-S MEDICATION,Active
+Imitrex STATdose Kit Refill,'54569451100',6,mg/0.5 mL,A-S MEDICATION,Active
+Imitrex STATdose Kit Refill,'54868396000',6,mg/0.5 mL,PHYSICIANS TC.,Active
+Imitrex STATdose Kit Refill,'55045327101',6,mg/0.5 mL,DRX,Active
+Imitrex STATdose Pen,'00173073900',4,mg/0.5 mL,GLAXOSMITHKLINE,Active
+Imitrex STATdose Pen,'00173047900',6,mg/0.5 mL,GLAXOSMITHKLINE,Active
+Imitrex STATdose Pen,'54569370500',6,mg/0.5 mL,A-S MEDICATION,Active
+Imitrex STATdose Pen,'54868318000',6,mg/0.5 mL,PHYSICIANS TC.,Active
+Imitrex STATdose Pen,'54868318100',6,mg/0.5 mL,PHYSICIANS TC.,Active
+Imitrex STATdose Pen,'54868395900',6,mg/0.5 mL,PHYSICIANS TC.,Active
+Imitrex STATdose Pen,'68115077002',6,mg/0.5 mL,"DISPENSEXPRESS,",Active
+Onzetra Xsail,'64597031108',11,mg,AVANIR PHARMACE,Active
+Sumavel DosePro,'43376010401',4,mg/0.5 mL,ENDO PHARM INC.,Active
+Sumavel DosePro,'43376010406',4,mg/0.5 mL,ENDO PHARM INC.,Active
+Sumavel DosePro,'63481022901',4,mg/0.5 mL,ENDO PHARM INC.,Active
+Sumavel DosePro,'63481022906',4,mg/0.5 mL,ENDO PHARM INC.,Active
+Sumavel DosePro,'42254029701',6,mg/0.5 mL,PHYSICIAN PARTN,Active
+Sumavel DosePro,'43376010601',6,mg/0.5 mL,ENDO PHARM INC.,Active
+Sumavel DosePro,'43376010606',6,mg/0.5 mL,ENDO PHARM INC.,Active
+Sumavel DosePro,'63481036706',6,mg/0.5 mL,ENDO PHARM INC.,Active
+Treximet,'65224086009',Oct-60,mg,PERNIX THERAPEU,Active
+Treximet,'00173075000',85-500,mg,GLAXOSMITHKLINE,Active
+Treximet,'00173075049',85-500,mg,PERNIX THERAPEU,Active
+Treximet,'21695095409',85-500,mg,PHYSICIAN PARTN,Active
+Treximet,'35356039512',85-500,mg,QUALITY CARE,Active
+Treximet,'65224085009',85-500,mg,PERNIX THERAPEU,Active
+Zecuity,'51759010101',6.5,mg/4 hour,TEVA SPECIALTY,Inactive
+Zecuity,'51759010104',6.5,mg/4 hour,TEVA SPECIALTY,Inactive
+Zembrace Symtouch,'67857080937',3,mg/0.5 mL,PROMIUS PHARMA,Active
+Zembrace Symtouch,'67857080938',3,mg/0.5 mL,PROMIUS PHARMA,Active
+sumatriptan,'00527185943',20,mg/actuation,LANNETT CO. INC,Active
+sumatriptan,'00781652306',20,mg/actuation,SANDOZ,Active
+sumatriptan,'00781652386',20,mg/actuation,SANDOZ,Active
+sumatriptan,'54868605200',20,mg/actuation,PHYSICIANS TC.,Active
+sumatriptan,'00527181843',5,mg/actuation,LANNETT CO. INC,Active
+sumatriptan,'00781652406',5,mg/actuation,SANDOZ,Active
+sumatriptan,'00781652486',5,mg/actuation,SANDOZ,Active
+sumatriptan (bulk),'15455001701',100,%,ALVIX LABORATOR,Active
+sumatriptan (bulk),'15455001702',100,%,ALVIX LABORATOR,Active
+sumatriptan (bulk),'38779270701',100,%,MEDISCA INC.,Active
+sumatriptan (bulk),'38779270704',100,%,MEDISCA INC.,Active
+sumatriptan (bulk),'38779270705',100,%,MEDISCA INC.,Active
+sumatriptan (bulk),'38779270708',100,%,MEDISCA INC.,Active
+sumatriptan (bulk),'38779270709',100,%,MEDISCA INC.,Active
+sumatriptan (bulk),'45861005280',100,%,PHARMACEUTICA N,Active
+sumatriptan (bulk),'51927483900',100,%,PROFESSIONAL CO,Active
+sumatriptan (bulk),'58597808904',100,%,AMERICAN PHARMA,Active
+sumatriptan (bulk),'58597808907',100,%,AMERICAN PHARMA,Active
+sumatriptan (bulk),'58597808908',100,%,AMERICAN PHARMA,Active
+sumatriptan (bulk),'62991310001',100,%,"LETCO MEDICAL,",Active
+sumatriptan (bulk),'62991310002',100,%,"LETCO MEDICAL,",Active
+sumatriptan (bulk),'62991310003',100,%,"LETCO MEDICAL,",Active
+sumatriptan succinate,'00093022419',100,mg,TEVA USA,Active
+sumatriptan succinate,'00093022490',100,mg,TEVA USA,Active
+sumatriptan succinate,'00378563259',100,mg,MYLAN,Active
+sumatriptan succinate,'16252059299',100,mg,ACTAVIS PHARMA,Active
+sumatriptan succinate,'16714053310',100,mg,NORTHSTAR RX LL,Active
+sumatriptan succinate,'16714053311',100,mg,NORTHSTAR RX LL,Active
+sumatriptan succinate,'21695087409',100,mg,PHYSICIAN PARTN,Active
+sumatriptan succinate,'35356043809',100,mg,QUALITY CARE,Active
+sumatriptan succinate,'50436462401',100,mg,UNIT DOSE SERVI,Active
+sumatriptan succinate,'52959051009',100,mg,PHARMA PAC,Active
+sumatriptan succinate,'54868597800',100,mg,PHYSICIANS TC.,Active
+sumatriptan succinate,'55111029309',100,mg,DR.REDDY'S LAB,Active
+sumatriptan succinate,'55111029336',100,mg,DR.REDDY'S LAB,Active
+sumatriptan succinate,'55111029390',100,mg,DR.REDDY'S LAB,Active
+sumatriptan succinate,'55111073709',100,mg,DR.REDDY'S LAB,Active
+sumatriptan succinate,'59762185203',100,mg,GREENSTONE LLC.,Active
+sumatriptan succinate,'59762185209',100,mg,GREENSTONE LLC.,Active
+sumatriptan succinate,'62756052269',100,mg,SUN PHARMACEUTI,Active
+sumatriptan succinate,'62756052288',100,mg,SUN PHARMACEUTI,Active
+sumatriptan succinate,'63304009911',100,mg,RANBAXY/SUN PHA,Active
+sumatriptan succinate,'63304009919',100,mg,RANBAXY/SUN PHA,Active
+sumatriptan succinate,'65862014836',100,mg,AUROBINDO PHARM,Active
+sumatriptan succinate,'68084034111',100,mg,AHP,Active
+sumatriptan succinate,'68084034196',100,mg,AHP,Active
+sumatriptan succinate,'68084034197',100,mg,AHP,Active
+sumatriptan succinate,'68258300901',100,mg,DISPENSING SOLN,Active
+sumatriptan succinate,'00093022219',25,mg,TEVA USA,Active
+sumatriptan succinate,'00093022290',25,mg,TEVA USA,Active
+sumatriptan succinate,'00378563059',25,mg,MYLAN,Active
+sumatriptan succinate,'16252059099',25,mg,ACTAVIS PHARMA,Active
+sumatriptan succinate,'16714053110',25,mg,NORTHSTAR RX LL,Active
+sumatriptan succinate,'16714053111',25,mg,NORTHSTAR RX LL,Active
+sumatriptan succinate,'21695087209',25,mg,PHYSICIAN PARTN,Active
+sumatriptan succinate,'42254022009',25,mg,PHYSICIAN PARTN,Active
+sumatriptan succinate,'50436462201',25,mg,UNIT DOSE SERVI,Active
+sumatriptan succinate,'54569646300',25,mg,A-S MEDICATION,Active
+sumatriptan succinate,'55111029109',25,mg,DR.REDDY'S LAB,Active
+sumatriptan succinate,'55111029136',25,mg,DR.REDDY'S LAB,Active
+sumatriptan succinate,'55111029190',25,mg,DR.REDDY'S LAB,Active
+sumatriptan succinate,'55111073809',25,mg,DR.REDDY'S LAB,Active
+sumatriptan succinate,'55700009209',25,mg,QUALITY CARE,Active
+sumatriptan succinate,'55700009230',25,mg,QUALITY CARE,Active
+sumatriptan succinate,'55700023509',25,mg,QUALITY CARE,Active
+sumatriptan succinate,'59762185003',25,mg,GREENSTONE LLC.,Active
+sumatriptan succinate,'59762185009',25,mg,GREENSTONE LLC.,Active
+sumatriptan succinate,'61919095009',25,mg,DIRECT RX,Active
+sumatriptan succinate,'62756052069',25,mg,SUN PHARMACEUTI,Active
+sumatriptan succinate,'62756052088',25,mg,SUN PHARMACEUTI,Active
+sumatriptan succinate,'63304009711',25,mg,RANBAXY/SUN PHA,Active
+sumatriptan succinate,'63304009719',25,mg,RANBAXY/SUN PHA,Active
+sumatriptan succinate,'65862014636',25,mg,AUROBINDO PHARM,Active
+sumatriptan succinate,'68084033911',25,mg,AHP,Active
+sumatriptan succinate,'68084033996',25,mg,AHP,Active
+sumatriptan succinate,'68084033997',25,mg,AHP,Active
+sumatriptan succinate,'00093022319',50,mg,TEVA USA,Active
+sumatriptan succinate,'00093022390',50,mg,TEVA USA,Active
+sumatriptan succinate,'00378563159',50,mg,MYLAN,Active
+sumatriptan succinate,'16252059199',50,mg,ACTAVIS PHARMA,Active
+sumatriptan succinate,'16714053210',50,mg,NORTHSTAR RX LL,Active
+sumatriptan succinate,'16714053211',50,mg,NORTHSTAR RX LL,Active
+sumatriptan succinate,'21695087309',50,mg,PHYSICIAN PARTN,Active
+sumatriptan succinate,'35356043909',50,mg,QUALITY CARE,Active
+sumatriptan succinate,'50436462301',50,mg,UNIT DOSE SERVI,Active
+sumatriptan succinate,'54868602300',50,mg,PHYSICIANS TC.,Active
+sumatriptan succinate,'55111029209',50,mg,DR.REDDY'S LAB,Active
+sumatriptan succinate,'55111029236',50,mg,DR.REDDY'S LAB,Active
+sumatriptan succinate,'55111029290',50,mg,DR.REDDY'S LAB,Active
+sumatriptan succinate,'55111073609',50,mg,DR.REDDY'S LAB,Active
+sumatriptan succinate,'55700009330',50,mg,QUALITY CARE,Active
+sumatriptan succinate,'59762185103',50,mg,GREENSTONE LLC.,Active
+sumatriptan succinate,'59762185109',50,mg,GREENSTONE LLC.,Active
+sumatriptan succinate,'62756052169',50,mg,SUN PHARMACEUTI,Active
+sumatriptan succinate,'62756052188',50,mg,SUN PHARMACEUTI,Active
+sumatriptan succinate,'63304009811',50,mg,RANBAXY/SUN PHA,Active
+sumatriptan succinate,'63304009819',50,mg,RANBAXY/SUN PHA,Active
+sumatriptan succinate,'65862014736',50,mg,AUROBINDO PHARM,Active
+sumatriptan succinate,'68084034011',50,mg,AHP,Active
+sumatriptan succinate,'68084034096',50,mg,AHP,Active
+sumatriptan succinate,'68084034097',50,mg,AHP,Active
+sumatriptan succinate,'68258300801',50,mg,DISPENSING SOLN,Active
+sumatriptan succinate,'00781317007',4,mg/0.5 mL,SANDOZ,Active
+sumatriptan succinate,'49884048252',4,mg/0.5 mL,PAR PHARM.,Active
+sumatriptan succinate,'00093201312',4,mg/0.5 mL,TEVA USA,Active
+sumatriptan succinate,'00093201334',4,mg/0.5 mL,TEVA USA,Active
+sumatriptan succinate,'00781316907',4,mg/0.5 mL,SANDOZ,Active
+sumatriptan succinate,'49884048299',4,mg/0.5 mL,PAR PHARM.,Active
+sumatriptan succinate,'00781317307',6,mg/0.5 mL,SANDOZ,Active
+sumatriptan succinate,'49884048352',6,mg/0.5 mL,PAR PHARM.,Active
+sumatriptan succinate,'00093201412',6,mg/0.5 mL,TEVA USA,Active
+sumatriptan succinate,'00093201434',6,mg/0.5 mL,TEVA USA,Active
+sumatriptan succinate,'00781317207',6,mg/0.5 mL,SANDOZ,Active
+sumatriptan succinate,'47335027640',6,mg/0.5 mL,SUN PHARMA GLOB,Active
+sumatriptan succinate,'47335027641',6,mg/0.5 mL,SUN PHARMA GLOB,Active
+sumatriptan succinate,'49884048399',6,mg/0.5 mL,PAR PHARM.,Active
+sumatriptan succinate,'55111069305',6,mg/0.5 mL,DR.REDDY'S LAB,Active
+sumatriptan succinate,'55111069312',6,mg/0.5 mL,DR.REDDY'S LAB,Active
+sumatriptan succinate,'00143963801',6,mg/0.5 mL,"WEST-WARD, INC.",Active
+sumatriptan succinate,'00143963805',6,mg/0.5 mL,"WEST-WARD, INC.",Active
+sumatriptan succinate,'00703735101',6,mg/0.5 mL,TEVA PARENTERAL,Active
+sumatriptan succinate,'00703735102',6,mg/0.5 mL,TEVA PARENTERAL,Active
+sumatriptan succinate,'00781317414',6,mg/0.5 mL,SANDOZ,Active
+sumatriptan succinate,'00781317471',6,mg/0.5 mL,SANDOZ,Active
+sumatriptan succinate,'25021070360',6,mg/0.5 mL,SAGENT PHARMACE,Active
+sumatriptan succinate,'42023012105',6,mg/0.5 mL,PAR PHARM.,Active
+sumatriptan succinate,'49884051678',6,mg/0.5 mL,PAR PHARM.,Active
+sumatriptan succinate,'55150017301',6,mg/0.5 mL,AUROMEDICS PHAR,Active
+sumatriptan succinate,'55390031510',6,mg/0.5 mL,BEDFORD LABS,Active
+sumatriptan succinate,'63323027301',6,mg/0.5 mL,APP/FRESENIUS K,Active
+sumatriptan succinate,'64679072801',6,mg/0.5 mL,WOCKHARDT USA L,Active
+sumatriptan succinate,'66860002206',6,mg/0.5 mL,CURA PHARM,Active
+sumatriptan succinate,'25021070370',6,mg/0.5 mL,SAGENT PHARMACE,Active
+sumatriptan succinate,'55390032502',6,mg/0.5 mL,BEDFORD LABS,Active
+sumatriptan succinate,'63323027385',6,mg/0.5 mL,APP/FRESENIUS K,Active
+sumatriptan succinate,'00781323147',4,mg/0.5 mL,SANDOZ,Inactive
+sumatriptan succinate,'63323027485',4,mg/0.5 mL,APP/FRESENIUS K,Inactive
+sumatriptan succinate (bulk),'15455001801',100,%,ALVIX LABORATOR,Active
+sumatriptan succinate (bulk),'37803098206',100,%,APOTHECA SUPPLY,Active
+sumatriptan succinate (bulk),'37803098210',100,%,APOTHECA SUPPLY,Active
+sumatriptan succinate (bulk),'37803195203',100,%,APOTHECA SUPPLY,Active
+sumatriptan succinate (bulk),'37803195204',100,%,APOTHECA SUPPLY,Active
+sumatriptan succinate (bulk),'37803195205',100,%,APOTHECA SUPPLY,Active
+sumatriptan succinate (bulk),'37803195207',100,%,APOTHECA SUPPLY,Active
+sumatriptan succinate (bulk),'37803195208',100,%,APOTHECA SUPPLY,Active
+sumatriptan succinate (bulk),'46144011410',100,%,A.P.I. SOLUTION,Active
+sumatriptan succinate (bulk),'51552137604',100,%,FAGRON INC,Active
+sumatriptan succinate (bulk),'51927454200',100,%,PROFESSIONAL CO,Active
+sumatriptan succinate (bulk),'51927480200',100,%,PROFESSIONAL CO,Active
+sumatriptan succinate (bulk),'52372067401',100,%,FREEDOM PHARMAC,Active
+sumatriptan succinate (bulk),'52372067402',100,%,FREEDOM PHARMAC,Active
+sumatriptan succinate (bulk),'52372067403',100,%,FREEDOM PHARMAC,Active
+sumatriptan succinate (bulk),'55812035201',100,%,DIVERSIFIED PHA,Active
+sumatriptan succinate (bulk),'55812035202',100,%,DIVERSIFIED PHA,Active
+sumatriptan succinate (bulk),'55812035203',100,%,DIVERSIFIED PHA,Active
+sumatriptan succinate (bulk),'60966059102',100,%,HURON PHARMACEU,Active
+sumatriptan succinate (bulk),'60966059203',100,%,HURON PHARMACEU,Active
+sumatriptan succinate (bulk),'60966059304',100,%,HURON PHARMACEU,Active
+sumatriptan succinate (bulk),'62991309901',100,%,"LETCO MEDICAL,",Active
+sumatriptan succinate (bulk),'62991309902',100,%,"LETCO MEDICAL,",Active
+sumatriptan succinate (bulk),'75839037450',100,%,ATTIX PHARMACEU,Active
+Amerge,'00173056100',1,mg,GLAXOSMITHKLINE,Active
+Amerge,'00173056200',2.5,mg,GLAXOSMITHKLINE,Active
+naratriptan,'00054027803',1,mg,ROXANE/WEST-WAR,Active
+naratriptan,'00093852219',1,mg,TEVA USA,Active
+naratriptan,'00093852290',1,mg,TEVA USA,Active
+naratriptan,'00378445059',1,mg,MYLAN,Active
+naratriptan,'00574021409',1,mg,PERRIGO CO.,Active
+naratriptan,'16714029001',1,mg,NORTHSTAR RX LL,Active
+naratriptan,'16714029002',1,mg,NORTHSTAR RX LL,Active
+naratriptan,'23155005419',1,mg,HERITAGE PHARMA,Active
+naratriptan,'42043013000',1,mg,"KARALEX PHARMA,",Active
+naratriptan,'42043013009',1,mg,"KARALEX PHARMA,",Active
+naratriptan,'00054027903',2.5,mg,ROXANE/WEST-WAR,Active
+naratriptan,'00093852319',2.5,mg,TEVA USA,Active
+naratriptan,'00093852390',2.5,mg,TEVA USA,Active
+naratriptan,'00378445159',2.5,mg,MYLAN,Active
+naratriptan,'00574021509',2.5,mg,PERRIGO CO.,Active
+naratriptan,'00781552737',2.5,mg,SANDOZ,Active
+naratriptan,'16714029101',2.5,mg,NORTHSTAR RX LL,Active
+naratriptan,'16714029102',2.5,mg,NORTHSTAR RX LL,Active
+naratriptan,'23155005519',2.5,mg,HERITAGE PHARMA,Active
+naratriptan,'42043013100',2.5,mg,"KARALEX PHARMA,",Active
+naratriptan,'42043013109',2.5,mg,"KARALEX PHARMA,",Active
+naratriptan,'62756043769',2.5,mg,SUN PHARMACEUTI,Active
+Zomig,'64896068251',2.5,mg,IMPAX PHARMACEU,Active
+Zomig,'00037720860',5,mg,ASTRAZENECA,Active
+Zomig,'00310020860',5,mg,ASTRAZENECA,Active
+Zomig,'21695095506',5,mg,PHYSICIAN PARTN,Active
+Zomig,'54868536100',5,mg,PHYSICIANS TC.,Active
+Zomig,'64896068151',5,mg,IMPAX PHARMACEU,Active
+Zomig,'68115072506',5,mg,"DISPENSEXPRESS,",Active
+Zomig,'00037721020',2.5,mg,ASTRAZENECA,Active
+Zomig,'00310021020',2.5,mg,ASTRAZENECA,Active
+Zomig,'54569461200',2.5,mg,A-S MEDICATION,Active
+Zomig,'54868421500',2.5,mg,PHYSICIANS TC.,Active
+Zomig,'64896067151',2.5,mg,IMPAX PHARMACEU,Active
+Zomig,'00037721125',5,mg,ASTRAZENECA,Active
+Zomig,'00310021125',5,mg,ASTRAZENECA,Active
+Zomig,'16590076003',5,mg,STAT RX USA,Active
+Zomig,'35356041203',5,mg,QUALITY CARE,Active
+Zomig,'54868408600',5,mg,PHYSICIANS TC.,Active
+Zomig,'64896067250',5,mg,IMPAX PHARMACEU,Active
+Zomig ZMT,'00037720920',2.5,mg,ASTRAZENECA,Active
+Zomig ZMT,'00310020920',2.5,mg,ASTRAZENECA,Active
+Zomig ZMT,'54868559300',2.5,mg,PHYSICIANS TC.,Active
+Zomig ZMT,'64896069151',2.5,mg,IMPAX PHARMACEU,Active
+Zomig ZMT,'00037721321',5,mg,ASTRAZENECA,Active
+Zomig ZMT,'00310021321',5,mg,ASTRAZENECA,Active
+Zomig ZMT,'54868008500',5,mg,PHYSICIANS TC.,Active
+Zomig ZMT,'54868008501',5,mg,PHYSICIANS TC.,Active
+Zomig ZMT,'64896069250',5,mg,IMPAX PHARMACEU,Active
+zolmitriptan,'00115067151',2.5,mg,GLOBAL PHARM,Active
+zolmitriptan,'00378426056',2.5,mg,MYLAN,Active
+zolmitriptan,'31722045806',2.5,mg,CAMBER PHARMACE,Active
+zolmitriptan,'33342011274',2.5,mg,MACLEODS PHARMA,Active
+zolmitriptan,'47335097860',2.5,mg,SUN PHARMA GLOB,Active
+zolmitriptan,'47335097863',2.5,mg,SUN PHARMA GLOB,Active
+zolmitriptan,'59746043204',2.5,mg,CADISTA PHARMAC,Active
+zolmitriptan,'59746043216',2.5,mg,CADISTA PHARMAC,Active
+zolmitriptan,'60505369300',2.5,mg,APOTEX CORP,Active
+zolmitriptan,'64980020316',2.5,mg,RISING PHARM,Active
+zolmitriptan,'65862091406',2.5,mg,AUROBINDO PHARM,Active
+zolmitriptan,'65862091469',2.5,mg,AUROBINDO PHARM,Active
+zolmitriptan,'68001024901',2.5,mg,BLUEPOINT LABOR,Active
+zolmitriptan,'68001024919',2.5,mg,BLUEPOINT LABOR,Active
+zolmitriptan,'68462049776',2.5,mg,GLENMARK PHARMA,Active
+zolmitriptan,'69097086317',2.5,mg,"CIPLA USA, INC.",Active
+zolmitriptan,'00115069151',2.5,mg,GLOBAL PHARM,Active
+zolmitriptan,'33342013974',2.5,mg,MACLEODS PHARMA,Active
+zolmitriptan,'60505371800',2.5,mg,APOTEX CORP,Active
+zolmitriptan,'68382071569',2.5,mg,ZYDUS PHARMACEU,Active
+zolmitriptan,'68382071586',2.5,mg,ZYDUS PHARMACEU,Active
+zolmitriptan,'68462049976',2.5,mg,GLENMARK PHARMA,Active
+zolmitriptan,'00115067250',5,mg,GLOBAL PHARM,Active
+zolmitriptan,'00378426153',5,mg,MYLAN,Active
+zolmitriptan,'31722045903',5,mg,CAMBER PHARMACE,Active
+zolmitriptan,'33342011352',5,mg,MACLEODS PHARMA,Active
+zolmitriptan,'47335097960',5,mg,SUN PHARMA GLOB,Active
+zolmitriptan,'47335097967',5,mg,SUN PHARMA GLOB,Active
+zolmitriptan,'59746043304',5,mg,CADISTA PHARMAC,Active
+zolmitriptan,'59746043313',5,mg,CADISTA PHARMAC,Active
+zolmitriptan,'60505369400',5,mg,APOTEX CORP,Active
+zolmitriptan,'64980020413',5,mg,RISING PHARM,Active
+zolmitriptan,'65862091503',5,mg,AUROBINDO PHARM,Active
+zolmitriptan,'65862091564',5,mg,AUROBINDO PHARM,Active
+zolmitriptan,'68001025001',5,mg,BLUEPOINT LABOR,Active
+zolmitriptan,'68001025018',5,mg,BLUEPOINT LABOR,Active
+zolmitriptan,'68462049833',5,mg,GLENMARK PHARMA,Active
+zolmitriptan,'69097086484',5,mg,"CIPLA USA, INC.",Active
+zolmitriptan,'00115069250',5,mg,GLOBAL PHARM,Active
+zolmitriptan,'33342014052',5,mg,MACLEODS PHARMA,Active
+zolmitriptan,'60505371900',5,mg,APOTEX CORP,Active
+zolmitriptan,'68382071782',5,mg,ZYDUS PHARMACEU,Active
+zolmitriptan,'68382071787',5,mg,ZYDUS PHARMACEU,Active
+zolmitriptan,'68462050033',5,mg,GLENMARK PHARMA,Active
+zolmitriptan (bulk),'75839037601',100,%,ATTIX PHARMACEU,Active
+Maxalt,'00006026701',10,mg,MERCK SHARP & D,Active
+Maxalt,'00006026706',10,mg,MERCK SHARP & D,Active
+Maxalt,'00006026709',10,mg,MERCK SHARP & D,Active
+Maxalt,'00006026712',10,mg,MERCK SHARP & D,Active
+Maxalt,'00006026718',10,mg,MERCK SHARP & D,Active
+Maxalt,'21695095618',10,mg,PHYSICIAN PARTN,Active
+Maxalt,'35356025212',10,mg,QUALITY CARE,Active
+Maxalt,'35356025218',10,mg,QUALITY CARE,Active
+Maxalt,'52959078606',10,mg,PHARMA PAC,Active
+Maxalt,'54868425100',10,mg,PHYSICIANS TC.,Active
+Maxalt,'54868425101',10,mg,PHYSICIANS TC.,Active
+Maxalt,'54868425102',10,mg,PHYSICIANS TC.,Active
+Maxalt,'54868425103',10,mg,PHYSICIANS TC.,Active
+Maxalt,'55887021009',10,mg,DHS INC.,Active
+Maxalt,'58016571206',10,mg,SOUTHWOOD PHARM,Active
+Maxalt,'68071026206',10,mg,NUCARE PHARMACE,Active
+Maxalt,'68115077906',10,mg,"DISPENSEXPRESS,",Active
+Maxalt,'00006026601',5,mg,MERCK SHARP & D,Active
+Maxalt,'00006026606',5,mg,MERCK SHARP & D,Active
+Maxalt,'00006026609',5,mg,MERCK SHARP & D,Active
+Maxalt,'00006026612',5,mg,MERCK SHARP & D,Active
+Maxalt,'00006026618',5,mg,MERCK SHARP & D,Active
+Maxalt,'16590014409',5,mg,STAT RX USA,Active
+Maxalt,'58016093800',5,mg,SOUTHWOOD PHARM,Active
+Maxalt,'58016093806',5,mg,SOUTHWOOD PHARM,Active
+Maxalt,'58016093830',5,mg,SOUTHWOOD PHARM,Active
+Maxalt,'58016093860',5,mg,SOUTHWOOD PHARM,Active
+Maxalt,'58016093890',5,mg,SOUTHWOOD PHARM,Active
+Maxalt-MLT,'00006380101',10,mg,MERCK SHARP & D,Active
+Maxalt-MLT,'00006380106',10,mg,MERCK SHARP & D,Active
+Maxalt-MLT,'00006380109',10,mg,MERCK SHARP & D,Active
+Maxalt-MLT,'00006380112',10,mg,MERCK SHARP & D,Active
+Maxalt-MLT,'00006380118',10,mg,MERCK SHARP & D,Active
+Maxalt-MLT,'35356027512',10,mg,QUALITY CARE,Active
+Maxalt-MLT,'54569522200',10,mg,A-S MEDICATION,Active
+Maxalt-MLT,'54868449900',10,mg,PHYSICIANS TC.,Active
+Maxalt-MLT,'54868449901',10,mg,PHYSICIANS TC.,Active
+Maxalt-MLT,'54868449902',10,mg,PHYSICIANS TC.,Active
+Maxalt-MLT,'55887018809',10,mg,DHS INC.,Active
+Maxalt-MLT,'00006380001',5,mg,MERCK SHARP & D,Active
+Maxalt-MLT,'00006380006',5,mg,MERCK SHARP & D,Active
+Maxalt-MLT,'00006380009',5,mg,MERCK SHARP & D,Active
+Maxalt-MLT,'00006380012',5,mg,MERCK SHARP & D,Active
+Maxalt-MLT,'00006380018',5,mg,MERCK SHARP & D,Active
+Maxalt-MLT,'16590014509',5,mg,STAT RX USA,Active
+rizatriptan,'00093747219',10,mg,TEVA USA,Active
+rizatriptan,'00093747243',10,mg,TEVA USA,Active
+rizatriptan,'00378140496',10,mg,MYLAN,Active
+rizatriptan,'00781548606',10,mg,SANDOZ,Active
+rizatriptan,'00781548664',10,mg,SANDOZ,Active
+rizatriptan,'23155024522',10,mg,HERITAGE PHARMA,Active
+rizatriptan,'23155024546',10,mg,HERITAGE PHARMA,Active
+rizatriptan,'31722046306',10,mg,CAMBER PHARMACE,Active
+rizatriptan,'31722046318',10,mg,CAMBER PHARMACE,Active
+rizatriptan,'33342008850',10,mg,MACLEODS PHARMA,Active
+rizatriptan,'33342008872',10,mg,MACLEODS PHARMA,Active
+rizatriptan,'47335023260',10,mg,SUN PHARMA GLOB,Active
+rizatriptan,'47335023271',10,mg,SUN PHARMA GLOB,Active
+rizatriptan,'49884057952',10,mg,PAR PHARM.,Active
+rizatriptan,'49884057994',10,mg,PAR PHARM.,Active
+rizatriptan,'51991035578',10,mg,BRECKENRIDGE,Active
+rizatriptan,'51991035599',10,mg,BRECKENRIDGE,Active
+rizatriptan,'54569640400',10,mg,A-S MEDICATION,Active
+rizatriptan,'57237008834',10,mg,CITRON PHARMA L,Active
+rizatriptan,'57237008863',10,mg,CITRON PHARMA L,Active
+rizatriptan,'59746041519',10,mg,CADISTA PHARMAC,Active
+rizatriptan,'60505369901',10,mg,APOTEX CORP,Active
+rizatriptan,'65862060003',10,mg,AUROBINDO PHARM,Active
+rizatriptan,'65862060012',10,mg,AUROBINDO PHARM,Active
+rizatriptan,'67877026218',10,mg,ASCEND LABORATO,Active
+rizatriptan,'67877026225',10,mg,ASCEND LABORATO,Active
+rizatriptan,'68462046640',10,mg,GLENMARK PHARMA,Active
+rizatriptan,'68462046699',10,mg,GLENMARK PHARMA,Active
+rizatriptan,'69097018265',10,mg,"CIPLA USA, INC.",Active
+rizatriptan,'69097018266',10,mg,"CIPLA USA, INC.",Active
+rizatriptan,'69097086617',10,mg,"CIPLA USA, INC.",Active
+rizatriptan,'69097086685',10,mg,"CIPLA USA, INC.",Active
+rizatriptan,'00378370259',10,mg,MYLAN,Active
+rizatriptan,'00781542606',10,mg,SANDOZ,Active
+rizatriptan,'00781542664',10,mg,SANDOZ,Active
+rizatriptan,'33342009472',10,mg,MACLEODS PHARMA,Active
+rizatriptan,'33342009473',10,mg,MACLEODS PHARMA,Active
+rizatriptan,'49884058152',10,mg,PAR PHARM.,Active
+rizatriptan,'49884058194',10,mg,PAR PHARM.,Active
+rizatriptan,'51991036378',10,mg,BRECKENRIDGE,Active
+rizatriptan,'51991036399',10,mg,BRECKENRIDGE,Active
+rizatriptan,'57237008663',10,mg,CITRON PHARMA L,Active
+rizatriptan,'60505372401',10,mg,APOTEX CORP,Active
+rizatriptan,'65862062603',10,mg,AUROBINDO PHARM,Active
+rizatriptan,'65862062612',10,mg,AUROBINDO PHARM,Active
+rizatriptan,'65862062690',10,mg,AUROBINDO PHARM,Active
+rizatriptan,'68462046806',10,mg,GLENMARK PHARMA,Active
+rizatriptan,'68462046840',10,mg,GLENMARK PHARMA,Active
+rizatriptan,'68462046846',10,mg,GLENMARK PHARMA,Active
+rizatriptan,'00093747119',5,mg,TEVA USA,Active
+rizatriptan,'00093747143',5,mg,TEVA USA,Active
+rizatriptan,'00378140396',5,mg,MYLAN,Active
+rizatriptan,'00781548506',5,mg,SANDOZ,Active
+rizatriptan,'00781548564',5,mg,SANDOZ,Active
+rizatriptan,'23155024422',5,mg,HERITAGE PHARMA,Active
+rizatriptan,'23155024446',5,mg,HERITAGE PHARMA,Active
+rizatriptan,'31722046206',5,mg,CAMBER PHARMACE,Active
+rizatriptan,'31722046218',5,mg,CAMBER PHARMACE,Active
+rizatriptan,'33342008750',5,mg,MACLEODS PHARMA,Active
+rizatriptan,'33342008772',5,mg,MACLEODS PHARMA,Active
+rizatriptan,'47335023160',5,mg,SUN PHARMA GLOB,Active
+rizatriptan,'47335023171',5,mg,SUN PHARMA GLOB,Active
+rizatriptan,'49884057852',5,mg,PAR PHARM.,Active
+rizatriptan,'49884057894',5,mg,PAR PHARM.,Active
+rizatriptan,'51991035478',5,mg,BRECKENRIDGE,Active
+rizatriptan,'51991035499',5,mg,BRECKENRIDGE,Active
+rizatriptan,'57237008734',5,mg,CITRON PHARMA L,Active
+rizatriptan,'57237008763',5,mg,CITRON PHARMA L,Active
+rizatriptan,'59746041419',5,mg,CADISTA PHARMAC,Active
+rizatriptan,'60505369801',5,mg,APOTEX CORP,Active
+rizatriptan,'65862059903',5,mg,AUROBINDO PHARM,Active
+rizatriptan,'65862059912',5,mg,AUROBINDO PHARM,Active
+rizatriptan,'67877026118',5,mg,ASCEND LABORATO,Active
+rizatriptan,'67877026125',5,mg,ASCEND LABORATO,Active
+rizatriptan,'68462046540',5,mg,GLENMARK PHARMA,Active
+rizatriptan,'68462046599',5,mg,GLENMARK PHARMA,Active
+rizatriptan,'69097018165',5,mg,"CIPLA USA, INC.",Active
+rizatriptan,'69097018166',5,mg,"CIPLA USA, INC.",Active
+rizatriptan,'69097086517',5,mg,"CIPLA USA, INC.",Active
+rizatriptan,'69097086585',5,mg,"CIPLA USA, INC.",Active
+rizatriptan,'00378370159',5,mg,MYLAN,Active
+rizatriptan,'00781542506',5,mg,SANDOZ,Active
+rizatriptan,'00781542564',5,mg,SANDOZ,Active
+rizatriptan,'33342009372',5,mg,MACLEODS PHARMA,Active
+rizatriptan,'33342009373',5,mg,MACLEODS PHARMA,Active
+rizatriptan,'49884058052',5,mg,PAR PHARM.,Active
+rizatriptan,'49884058094',5,mg,PAR PHARM.,Active
+rizatriptan,'51991036278',5,mg,BRECKENRIDGE,Active
+rizatriptan,'51991036299',5,mg,BRECKENRIDGE,Active
+rizatriptan,'57237008563',5,mg,CITRON PHARMA L,Active
+rizatriptan,'60505372301',5,mg,APOTEX CORP,Active
+rizatriptan,'65862062503',5,mg,AUROBINDO PHARM,Active
+rizatriptan,'65862062512',5,mg,AUROBINDO PHARM,Active
+rizatriptan,'65862062590',5,mg,AUROBINDO PHARM,Active
+rizatriptan,'68462046706',5,mg,GLENMARK PHARMA,Active
+rizatriptan,'68462046740',5,mg,GLENMARK PHARMA,Active
+rizatriptan,'68462046746',5,mg,GLENMARK PHARMA,Active
+Axert,'00025208506',12.5,mg,ORTHO PHARM.,Active
+Axert,'00062208506',12.5,mg,ORTHO PHARM.,Active
+Axert,'00062208512',12.5,mg,ORTHO PHARM.,Active
+Axert,'50458021001',12.5,mg,JANSSEN PHARM.,Active
+Axert,'54868552700',12.5,mg,PHYSICIANS TC.,Active
+Axert,'54868552701',12.5,mg,PHYSICIANS TC.,Active
+Axert,'68115070506',12.5,mg,"DISPENSEXPRESS,",Active
+Axert,'00025208006',6.25,mg,ORTHO PHARM.,Active
+Axert,'00062208006',6.25,mg,ORTHO PHARM.,Active
+Axert,'50458021101',6.25,mg,JANSSEN PHARM.,Active
+almotriptan malate,'00093526119',12.5,mg,TEVA USA,Active
+almotriptan malate,'00093526129',12.5,mg,TEVA USA,Active
+almotriptan malate,'00378524632',12.5,mg,MYLAN,Active
+almotriptan malate,'00378524685',12.5,mg,MYLAN,Active
+almotriptan malate,'10147096101',12.5,mg,PATRIOT PHARMAC,Active
+almotriptan malate,'27241004221',12.5,mg,AJANTA PHARMA L,Active
+almotriptan malate,'27241004268',12.5,mg,AJANTA PHARMA L,Active
+almotriptan malate,'00093526018',6.25,mg,TEVA USA,Active
+almotriptan malate,'00093526019',6.25,mg,TEVA USA,Active
+almotriptan malate,'00378524532',6.25,mg,MYLAN,Active
+almotriptan malate,'00378524585',6.25,mg,MYLAN,Active
+almotriptan malate,'10147096201',6.25,mg,PATRIOT PHARMAC,Active
+almotriptan malate,'27241004111',6.25,mg,AJANTA PHARMA L,Active
+almotriptan malate,'27241004168',6.25,mg,AJANTA PHARMA L,Active
+Relpax,'00049233034',20,mg,PFIZER US PHARM,Active
+Relpax,'00049233045',20,mg,PFIZER US PHARM,Active
+Relpax,'00049234005',40,mg,PFIZER US PHARM,Active
+Relpax,'00049234034',40,mg,PFIZER US PHARM,Active
+Relpax,'00049234045',40,mg,PFIZER US PHARM,Active
+Relpax,'16590020112',40,mg,STAT RX USA,Active
+Relpax,'21695087112',40,mg,PHYSICIAN PARTN,Active
+Relpax,'54868552800',40,mg,PHYSICIANS TC.,Active
+Relpax,'55887018712',40,mg,DHS INC.,Active
+Relpax,'57866018702',40,mg,VIBRANTA INC.,Active
+Relpax,'58016487701',40,mg,SOUTHWOOD PHARM,Active
+Relpax,'68115073712',40,mg,"DISPENSEXPRESS,",Active
+Frova,'12280028909',2.5,mg,"DISPENSEXPRESS,",Active
+Frova,'21695022209',2.5,mg,PHYSICIAN PARTN,Active
+Frova,'35356016909',2.5,mg,QUALITY CARE,Active
+Frova,'58016083801',2.5,mg,SOUTHWOOD PHARM,Active
+Frova,'59075074089',2.5,mg,ELAN,Active
+Frova,'63481002509',2.5,mg,ENDO PHARM INC.,Active
+frovatriptan,'00378314085',2.5,mg,MYLAN,Active
+frovatriptan,'00603371834',2.5,mg,QUALITEST/PAR P,Active
+frovatriptan,'68462069497',2.5,mg,GLENMARK PHARMA,Active

@@ -12,15 +12,16 @@ library(rstudioapi)
 library(here)
 library(glue)
 
-path <- str_replace(rstudioapi::getActiveDocumentContext()$path,"adf_drug_specific_ndcs.R","") %>% 
-  str_remove(., "~")
+path <- str_replace(rstudioapi::getActiveDocumentContext()$path,"adf_drug_specific_ndcs.R","")
 
 #---------------------------------------#
 # Read files
 #---------------------------------------#
 
-all_adfs <- read_csv(here(path,"ADF_NDCs.csv")) %>% 
-  mutate_if(is.character, str_to_lower) 
+all_adfs <- read_csv(str_c(path,"ADF_NDCs.csv")) %>% 
+  mutate_if(is.character, str_to_lower) %>% 
+  set_names(tolower(names(.))) %>% 
+  mutate(ndc = str_c("'",ndc,"'"))
 names(all_adfs) <- tolower(names(all_adfs))
 
 folders <- c("Arymo_ER", "Embeda", "Hysingla_ER", "MorphaBond_ER", "Oxaydo",
@@ -34,10 +35,10 @@ purrr::walk2(.x = folders,
                x <- all_adfs %>% 
                  filter(str_detect(drug_name, .y)) %>% 
                  mutate_if(is.character, str_to_title) %>% 
-                 mutate(strength_unit_of_measure = str_to_upper(strength_unit_of_measure))
+                 mutate(strength_uom = str_to_upper(strength_uom))
                names(x) <- toupper(names(x))
                pattern <- str_replace(.y, "\\W.*", "")
-               write_csv(x, here(path,glue("/{.x}/{pattern}_NDCs.csv")))
+               write_csv(x, str_c(path,glue("{.x}/{pattern}_NDCs.csv")))
              })
 
 

@@ -1,0 +1,3018 @@
+drug_name,ndc,strength,strength_uom,manufacturer,status
+Gaboxetine,'68405801426',10,mg,PHYSICIAN THERA,Inactive
+Prozac,'00247064407',10,mg,PRESCRIPT PHARM,Active
+Prozac,'00247064410',10,mg,PRESCRIPT PHARM,Active
+Prozac,'00247064414',10,mg,PRESCRIPT PHARM,Active
+Prozac,'00247064428',10,mg,PRESCRIPT PHARM,Active
+Prozac,'00247064430',10,mg,PRESCRIPT PHARM,Active
+Prozac,'00247064460',10,mg,PRESCRIPT PHARM,Active
+Prozac,'00777310401',10,mg,DISTA LABS,Active
+Prozac,'00777310402',10,mg,DISTA LABS,Active
+Prozac,'00777310407',10,mg,DISTA LABS,Active
+Prozac,'00777310481',10,mg,DISTA LABS,Active
+Prozac,'00777310482',10,mg,DISTA LABS,Active
+Prozac,'52959066530',10,mg,PHARMA PAC,Active
+Prozac,'54569412900',10,mg,A-S MEDICATION,Active
+Prozac,'54868303300',10,mg,PHYSICIANS TC.,Active
+Prozac,'54868303302',10,mg,PHYSICIANS TC.,Active
+Prozac,'55289030814',10,mg,PD-RX PHARM,Active
+Prozac,'55289030821',10,mg,PD-RX PHARM,Active
+Prozac,'55289030828',10,mg,PD-RX PHARM,Active
+Prozac,'55289030830',10,mg,PD-RX PHARM,Active
+Prozac,'61392023430',10,mg,HEARTLAND HLTH,Active
+Prozac,'61392023451',10,mg,HEARTLAND HLTH,Active
+Prozac,'61392023454',10,mg,HEARTLAND HLTH,Active
+Prozac,'61392023456',10,mg,HEARTLAND HLTH,Active
+Prozac,'61392023460',10,mg,HEARTLAND HLTH,Active
+Prozac,'61392023490',10,mg,HEARTLAND HLTH,Active
+Prozac,'00247037200',20,mg,PRESCRIPT PHARM,Active
+Prozac,'00247037203',20,mg,PRESCRIPT PHARM,Active
+Prozac,'00247037207',20,mg,PRESCRIPT PHARM,Active
+Prozac,'00247037214',20,mg,PRESCRIPT PHARM,Active
+Prozac,'00247037215',20,mg,PRESCRIPT PHARM,Active
+Prozac,'00247037228',20,mg,PRESCRIPT PHARM,Active
+Prozac,'00247037230',20,mg,PRESCRIPT PHARM,Active
+Prozac,'00247037252',20,mg,PRESCRIPT PHARM,Active
+Prozac,'00247037260',20,mg,PRESCRIPT PHARM,Active
+Prozac,'00777310501',20,mg,DISTA LABS,Active
+Prozac,'00777310502',20,mg,DISTA LABS,Active
+Prozac,'00777310507',20,mg,DISTA LABS,Active
+Prozac,'00777310530',20,mg,DISTA LABS,Active
+Prozac,'00777310533',20,mg,DISTA LABS,Active
+Prozac,'00777310581',20,mg,DISTA LABS,Active
+Prozac,'00777310582',20,mg,DISTA LABS,Active
+Prozac,'16590084390',20,mg,STAT RX USA,Active
+Prozac,'52959023300',20,mg,PHARMA PAC,Active
+Prozac,'52959023310',20,mg,PHARMA PAC,Active
+Prozac,'52959023314',20,mg,PHARMA PAC,Active
+Prozac,'52959023320',20,mg,PHARMA PAC,Active
+Prozac,'52959023330',20,mg,PHARMA PAC,Active
+Prozac,'52959023340',20,mg,PHARMA PAC,Active
+Prozac,'52959023350',20,mg,PHARMA PAC,Active
+Prozac,'53002101602',20,mg,PHARMEDIX,Active
+Prozac,'53002101603',20,mg,PHARMEDIX,Active
+Prozac,'53002101630',20,mg,PHARMEDIX,Active
+Prozac,'54124077010',20,mg,OMEGA LABS.,Active
+Prozac,'54124077015',20,mg,OMEGA LABS.,Active
+Prozac,'54124077020',20,mg,OMEGA LABS.,Active
+Prozac,'54124077030',20,mg,OMEGA LABS.,Active
+Prozac,'54124077060',20,mg,OMEGA LABS.,Active
+Prozac,'54569173200',20,mg,A-S MEDICATION,Active
+Prozac,'54569173201',20,mg,A-S MEDICATION,Active
+Prozac,'54569173202',20,mg,A-S MEDICATION,Active
+Prozac,'54569173203',20,mg,A-S MEDICATION,Active
+Prozac,'54569173204',20,mg,A-S MEDICATION,Active
+Prozac,'54569173205',20,mg,A-S MEDICATION,Active
+Prozac,'54569173206',20,mg,A-S MEDICATION,Active
+Prozac,'54569801300',20,mg,A-S MEDICATION,Active
+Prozac,'54569852200',20,mg,A-S MEDICATION,Active
+Prozac,'54569852201',20,mg,A-S MEDICATION,Active
+Prozac,'54868051100',20,mg,PHYSICIANS TC.,Active
+Prozac,'54868051101',20,mg,PHYSICIANS TC.,Active
+Prozac,'54868051102',20,mg,PHYSICIANS TC.,Active
+Prozac,'54868051105',20,mg,PHYSICIANS TC.,Active
+Prozac,'55045163001',20,mg,DRX,Active
+Prozac,'55045163008',20,mg,DRX,Active
+Prozac,'55175271703',20,mg,CHESHIRE DRUGS,Active
+Prozac,'55175271705',20,mg,CHESHIRE DRUGS,Active
+Prozac,'55175271706',20,mg,CHESHIRE DRUGS,Active
+Prozac,'55289021522',20,mg,PD-RX PHARM,Active
+Prozac,'55947053615',20,mg,PREPAQ,Active
+Prozac,'55947053620',20,mg,PREPAQ,Active
+Prozac,'57866442201',20,mg,VIBRANTA INC.,Active
+Prozac,'58016082810',20,mg,SOUTHWOOD PHARM,Active
+Prozac,'58016082820',20,mg,SOUTHWOOD PHARM,Active
+Prozac,'58016082830',20,mg,SOUTHWOOD PHARM,Active
+Prozac,'58016082840',20,mg,SOUTHWOOD PHARM,Active
+Prozac,'58016082860',20,mg,SOUTHWOOD PHARM,Active
+Prozac,'58016082890',20,mg,SOUTHWOOD PHARM,Active
+Prozac,'60346000414',20,mg,QUALITY CARE PH,Active
+Prozac,'60346000430',20,mg,QUALITY CARE PH,Active
+Prozac,'60346000445',20,mg,QUALITY CARE PH,Active
+Prozac,'61392023515',20,mg,HEARTLAND HLTH,Active
+Prozac,'61392023530',20,mg,HEARTLAND HLTH,Active
+Prozac,'61392023545',20,mg,HEARTLAND HLTH,Active
+Prozac,'61392023551',20,mg,HEARTLAND HLTH,Active
+Prozac,'61392023554',20,mg,HEARTLAND HLTH,Active
+Prozac,'61392023556',20,mg,HEARTLAND HLTH,Active
+Prozac,'61392023560',20,mg,HEARTLAND HLTH,Active
+Prozac,'61392023590',20,mg,HEARTLAND HLTH,Active
+Prozac,'68115071900',20,mg,"DISPENSEXPRESS,",Active
+Prozac,'68115071930',20,mg,"DISPENSEXPRESS,",Active
+Prozac,'00777310730',40,mg,DISTA LABS,Active
+Prozac,'54868439400',40,mg,PHYSICIANS TC.,Active
+Prozac,'00002400602',10,mg,ELI LILLY & CO.,Inactive
+Prozac,'00002400630',10,mg,ELI LILLY & CO.,Inactive
+Prozac,'66336097130',10,mg,DISPENSING SOLN,Inactive
+Prozac,'00777512058',20 mg/5 mL,(4 mg/mL),DISTA LABS,Inactive
+Prozac,'50962050005',20 mg/5 mL,(4 mg/mL),"XACTDOSE,INC.",Inactive
+Prozac,'50962050060',20 mg/5 mL,(4 mg/mL),ALPHARMA US,Inactive
+Prozac,'54569359600',20 mg/5 mL,(4 mg/mL),A-S MEDICATION,Inactive
+Prozac Weekly,'00002300475',90,mg,ELI LILLY & CO.,Active
+Prozac Weekly,'52959063804',90,mg,PHARMA PAC,Active
+Prozac Weekly,'54569523900',90,mg,A-S MEDICATION,Active
+Rapiflux,'16241075901',20,mg,PRX PHARMACEUTI,Inactive
+Rapiflux,'49884075901',20,mg,PRX PHARMACEUTI,Inactive
+Sarafem,'00430021014',10,mg,ACTAVIS U.S. BR,Active
+Sarafem,'00430022014',20,mg,ACTAVIS U.S. BR,Active
+Sarafem,'00002321045',10,mg,WC PROF PRODS,Inactive
+Sarafem,'00430043514',10,mg,WC PROF PRODS,Inactive
+Sarafem,'54868457000',10,mg,PHYSICIANS TC.,Inactive
+Sarafem,'00430021514',15,mg,WC PROF PRODS,Inactive
+Sarafem,'00002322045',20,mg,WC PROF PRODS,Inactive
+Sarafem,'00430043614',20,mg,WC PROF PRODS,Inactive
+Selfemra,'00093722528',10,mg,TEVA USA,Inactive
+Selfemra,'00093722628',20,mg,TEVA USA,Inactive
+Sentroxatine,'68405804326',10,mg,PHYSICIAN THERA,Inactive
+fluoxetine,'00093104201',10,mg,TEVA USA,Active
+fluoxetine,'00093104210',10,mg,TEVA USA,Active
+fluoxetine,'00093104219',10,mg,TEVA USA,Active
+fluoxetine,'00093104293',10,mg,TEVA USA,Active
+fluoxetine,'00172436300',10,mg,IVAX PHARMACEUT,Active
+fluoxetine,'00172436310',10,mg,IVAX PHARMACEUT,Active
+fluoxetine,'00172436360',10,mg,IVAX PHARMACEUT,Active
+fluoxetine,'00172436370',10,mg,IVAX PHARMACEUT,Active
+fluoxetine,'00172436380',10,mg,IVAX PHARMACEUT,Active
+fluoxetine,'00185008001',10,mg,EON LABS,Active
+fluoxetine,'00185008010',10,mg,EON LABS,Active
+fluoxetine,'00228270211',10,mg,PUREPAC PHARMAC,Active
+fluoxetine,'00378421001',10,mg,MYLAN,Active
+fluoxetine,'00378541028',10,mg,MYLAN,Active
+fluoxetine,'00406066101',10,mg,MALLINCKRODT PH,Active
+fluoxetine,'00406066105',10,mg,MALLINCKRODT PH,Active
+fluoxetine,'00406066191',10,mg,MALLINCKRODT PH,Active
+fluoxetine,'00440753807',10,mg,LIBERTY PHARM,Active
+fluoxetine,'00440753814',10,mg,LIBERTY PHARM,Active
+fluoxetine,'00440753830',10,mg,LIBERTY PHARM,Active
+fluoxetine,'00440753890',10,mg,LIBERTY PHARM,Active
+fluoxetine,'00555087602',10,mg,BARR,Active
+fluoxetine,'00591082601',10,mg,WATSON PHARMA,Active
+fluoxetine,'00591082610',10,mg,WATSON PHARMA,Active
+fluoxetine,'00677176601',10,mg,URL PHARMA,Active
+fluoxetine,'00677176605',10,mg,URL PHARMA,Active
+fluoxetine,'00677176610',10,mg,URL PHARMA,Active
+fluoxetine,'00781282301',10,mg,SANDOZ,Active
+fluoxetine,'00781282310',10,mg,SANDOZ,Active
+fluoxetine,'00781282708',10,mg,SANDOZ,Active
+fluoxetine,'00904578461',10,mg,MAJOR PHARMACEU,Active
+fluoxetine,'10544058290',10,mg,BLENHEIM PHARMA,Active
+fluoxetine,'16590009930',10,mg,STAT RX USA,Active
+fluoxetine,'16590009960',10,mg,STAT RX USA,Active
+fluoxetine,'16714035101',10,mg,NORTHSTAR RX LL,Active
+fluoxetine,'16714035102',10,mg,NORTHSTAR RX LL,Active
+fluoxetine,'16714035103',10,mg,NORTHSTAR RX LL,Active
+fluoxetine,'17236080701',10,mg,AKYMA PHARMACEU,Active
+fluoxetine,'17236080710',10,mg,AKYMA PHARMACEU,Active
+fluoxetine,'18837030430',10,mg,INNOVIANT PHARM,Active
+fluoxetine,'21695005220',10,mg,PHYSICIAN PARTN,Active
+fluoxetine,'21695005230',10,mg,PHYSICIAN PARTN,Active
+fluoxetine,'21695005260',10,mg,PHYSICIAN PARTN,Active
+fluoxetine,'21695005290',10,mg,PHYSICIAN PARTN,Active
+fluoxetine,'23490560103',10,mg,PALMETTO STATE,Active
+fluoxetine,'31722090301',10,mg,CAMBER PHARMACE,Active
+fluoxetine,'31722090305',10,mg,CAMBER PHARMACE,Active
+fluoxetine,'31722090330',10,mg,CAMBER PHARMACE,Active
+fluoxetine,'33358014430',10,mg,RXCHANGE CO.,Active
+fluoxetine,'33358014460',10,mg,RXCHANGE CO.,Active
+fluoxetine,'33358014490',10,mg,RXCHANGE CO.,Active
+fluoxetine,'42543072501',10,mg,VENSUN PHARMACE,Active
+fluoxetine,'42543072505',10,mg,VENSUN PHARMACE,Active
+fluoxetine,'42543072510',10,mg,VENSUN PHARMACE,Active
+fluoxetine,'42543072530',10,mg,VENSUN PHARMACE,Active
+fluoxetine,'43063057021',10,mg,PD-RX PHARM,Active
+fluoxetine,'43063057028',10,mg,PD-RX PHARM,Active
+fluoxetine,'43063057030',10,mg,PD-RX PHARM,Active
+fluoxetine,'43063057090',10,mg,PD-RX PHARM,Active
+fluoxetine,'43353063730',10,mg,APHENA PHARMA S,Active
+fluoxetine,'43353063760',10,mg,APHENA PHARMA S,Active
+fluoxetine,'49884073201',10,mg,PAR PHARM.,Active
+fluoxetine,'49884073210',10,mg,PAR PHARM.,Active
+fluoxetine,'50111064701',10,mg,"PLIVA, INC",Active
+fluoxetine,'50111064702',10,mg,"PLIVA, INC",Active
+fluoxetine,'50111064703',10,mg,"PLIVA, INC",Active
+fluoxetine,'50268033311',10,mg,AVPAK,Active
+fluoxetine,'50268033315',10,mg,AVPAK,Active
+fluoxetine,'50436092401',10,mg,UNIT DOSE SERVI,Active
+fluoxetine,'51079099701',10,mg,UDL,Active
+fluoxetine,'51079099720',10,mg,UDL,Active
+fluoxetine,'51138009330',10,mg,MED-HEALTH PHAR,Active
+fluoxetine,'51138020830',10,mg,MED-HEALTH PHAR,Active
+fluoxetine,'52959066930',10,mg,PHARMA PAC,Active
+fluoxetine,'52959066959',10,mg,PHARMA PAC,Active
+fluoxetine,'52959066960',10,mg,PHARMA PAC,Active
+fluoxetine,'53489037301',10,mg,MUTUAL PHARM CO,Active
+fluoxetine,'53489037305',10,mg,MUTUAL PHARM CO,Active
+fluoxetine,'53489037306',10,mg,MUTUAL PHARM CO,Active
+fluoxetine,'53489037307',10,mg,MUTUAL PHARM CO,Active
+fluoxetine,'53489037310',10,mg,MUTUAL PHARM CO,Active
+fluoxetine,'54569531900',10,mg,A-S MEDICATION,Active
+fluoxetine,'54569531902',10,mg,A-S MEDICATION,Active
+fluoxetine,'54868566300',10,mg,PHYSICIANS TC.,Active
+fluoxetine,'54868566301',10,mg,PHYSICIANS TC.,Active
+fluoxetine,'54868566302',10,mg,PHYSICIANS TC.,Active
+fluoxetine,'55045376608',10,mg,DRX,Active
+fluoxetine,'55111014701',10,mg,DR.REDDY'S LAB,Active
+fluoxetine,'55289061314',10,mg,PD-RX PHARM,Active
+fluoxetine,'55289061330',10,mg,PD-RX PHARM,Active
+fluoxetine,'55289061360',10,mg,PD-RX PHARM,Active
+fluoxetine,'55700008900',10,mg,QUALITY CARE,Active
+fluoxetine,'55700008990',10,mg,QUALITY CARE,Active
+fluoxetine,'55887045830',10,mg,DHS INC.,Active
+fluoxetine,'55887045840',10,mg,DHS INC.,Active
+fluoxetine,'58016090600',10,mg,SOUTHWOOD PHARM,Active
+fluoxetine,'58016090602',10,mg,SOUTHWOOD PHARM,Active
+fluoxetine,'58016090603',10,mg,SOUTHWOOD PHARM,Active
+fluoxetine,'58016090630',10,mg,SOUTHWOOD PHARM,Active
+fluoxetine,'58016090660',10,mg,SOUTHWOOD PHARM,Active
+fluoxetine,'58016090673',10,mg,SOUTHWOOD PHARM,Active
+fluoxetine,'58016090689',10,mg,SOUTHWOOD PHARM,Active
+fluoxetine,'58016090690',10,mg,SOUTHWOOD PHARM,Active
+fluoxetine,'60429071818',10,mg,"GSMS, INC.",Active
+fluoxetine,'60429071830',10,mg,"GSMS, INC.",Active
+fluoxetine,'60429071860',10,mg,"GSMS, INC.",Active
+fluoxetine,'60429071890',10,mg,"GSMS, INC.",Active
+fluoxetine,'61919009930',10,mg,DIRECT RX,Active
+fluoxetine,'62037053801',10,mg,ANDRX PHARM.,Active
+fluoxetine,'62037053805',10,mg,ANDRX PHARM.,Active
+fluoxetine,'62037053810',10,mg,ANDRX PHARM.,Active
+fluoxetine,'62332002231',10,mg,ALEMBIC PHARMAC,Active
+fluoxetine,'62332002291',10,mg,ALEMBIC PHARMAC,Active
+fluoxetine,'63187008130',10,mg,PROFICIENT RX L,Active
+fluoxetine,'63304068630',10,mg,RANBAXY PHARMAC,Active
+fluoxetine,'63304068690',10,mg,RANBAXY PHARMAC,Active
+fluoxetine,'63629160901',10,mg,BRYANT RANCH PR,Active
+fluoxetine,'63629160902',10,mg,BRYANT RANCH PR,Active
+fluoxetine,'63629160903',10,mg,BRYANT RANCH PR,Active
+fluoxetine,'63629160904',10,mg,BRYANT RANCH PR,Active
+fluoxetine,'63739029510',10,mg,MCKESSON PACKAG,Active
+fluoxetine,'63739029515',10,mg,MCKESSON PACKAG,Active
+fluoxetine,'63874057401',10,mg,ALTURA PHARMA,Active
+fluoxetine,'63874057404',10,mg,ALTURA PHARMA,Active
+fluoxetine,'63874057410',10,mg,ALTURA PHARMA,Active
+fluoxetine,'63874057414',10,mg,ALTURA PHARMA,Active
+fluoxetine,'63874057420',10,mg,ALTURA PHARMA,Active
+fluoxetine,'63874057421',10,mg,ALTURA PHARMA,Active
+fluoxetine,'63874057428',10,mg,ALTURA PHARMA,Active
+fluoxetine,'63874057430',10,mg,ALTURA PHARMA,Active
+fluoxetine,'63874057460',10,mg,ALTURA PHARMA,Active
+fluoxetine,'63874057472',10,mg,ALTURA PHARMA,Active
+fluoxetine,'63874057474',10,mg,ALTURA PHARMA,Active
+fluoxetine,'63874057477',10,mg,ALTURA PHARMA,Active
+fluoxetine,'63874057490',10,mg,ALTURA PHARMA,Active
+fluoxetine,'65162017610',10,mg,AKYMA PHARMACEU,Active
+fluoxetine,'65162017611',10,mg,AKYMA PHARMACEU,Active
+fluoxetine,'65862019201',10,mg,AUROBINDO PHARM,Active
+fluoxetine,'65862019205',10,mg,AUROBINDO PHARM,Active
+fluoxetine,'65862019299',10,mg,AUROBINDO PHARM,Active
+fluoxetine,'66116028630',10,mg,MEDVANTX,Active
+fluoxetine,'66116028640',10,mg,MEDVANTX,Active
+fluoxetine,'66267057630',10,mg,NUCARE PHARMACE,Active
+fluoxetine,'66336084430',10,mg,DISPENSING SOLN,Active
+fluoxetine,'66336084490',10,mg,DISPENSING SOLN,Active
+fluoxetine,'67544015330',10,mg,APHENA PHARMA S,Active
+fluoxetine,'67544086330',10,mg,APHENA PHARMA S,Active
+fluoxetine,'67544086360',10,mg,APHENA PHARMA S,Active
+fluoxetine,'68115014330',10,mg,"DISPENSEXPRESS,",Active
+fluoxetine,'68115014360',10,mg,"DISPENSEXPRESS,",Active
+fluoxetine,'68387012530',10,mg,DISPENSING SOLN,Active
+fluoxetine,'68645013154',10,mg,LEGACY PHARMACE,Active
+fluoxetine,'00093718810',10,mg,TEVA USA,Active
+fluoxetine,'00093718856',10,mg,TEVA USA,Active
+fluoxetine,'00172451060',10,mg,IVAX PHARMACEUT,Active
+fluoxetine,'00172451070',10,mg,IVAX PHARMACEUT,Active
+fluoxetine,'00172451080',10,mg,IVAX PHARMACEUT,Active
+fluoxetine,'00378073401',10,mg,MYLAN,Active
+fluoxetine,'00378073493',10,mg,MYLAN,Active
+fluoxetine,'00555020101',10,mg,BARR,Active
+fluoxetine,'13668044301',10,mg,TORRENT PHARMAC,Active
+fluoxetine,'13668044310',10,mg,TORRENT PHARMAC,Active
+fluoxetine,'13668044330',10,mg,TORRENT PHARMAC,Active
+fluoxetine,'21695032000',10,mg,PHYSICIAN PARTN,Active
+fluoxetine,'21695032060',10,mg,PHYSICIAN PARTN,Active
+fluoxetine,'21695032090',10,mg,PHYSICIAN PARTN,Active
+fluoxetine,'35356064930',10,mg,QUALITY CARE,Active
+fluoxetine,'35356064990',10,mg,QUALITY CARE,Active
+fluoxetine,'42291027890',10,mg,AVKARE,Active
+fluoxetine,'49884033501',10,mg,PAR PHARM.,Active
+fluoxetine,'49884033511',10,mg,PAR PHARM.,Active
+fluoxetine,'49884073401',10,mg,PAR PHARM.,Active
+fluoxetine,'49884073410',10,mg,PAR PHARM.,Active
+fluoxetine,'49884073411',10,mg,PAR PHARM.,Active
+fluoxetine,'49884073482',10,mg,PAR PHARM.,Active
+fluoxetine,'49999036214',10,mg,QUALITY CARE,Active
+fluoxetine,'49999036230',10,mg,QUALITY CARE,Active
+fluoxetine,'49999036290',10,mg,QUALITY CARE,Active
+fluoxetine,'54868456000',10,mg,PHYSICIANS TC.,Active
+fluoxetine,'54868456001',10,mg,PHYSICIANS TC.,Active
+fluoxetine,'54868456002',10,mg,PHYSICIANS TC.,Active
+fluoxetine,'55111015001',10,mg,DR.REDDY'S LAB,Active
+fluoxetine,'55111015010',10,mg,DR.REDDY'S LAB,Active
+fluoxetine,'55111015030',10,mg,DR.REDDY'S LAB,Active
+fluoxetine,'55700018030',10,mg,QUALITY CARE,Active
+fluoxetine,'55700018090',10,mg,QUALITY CARE,Active
+fluoxetine,'55887066430',10,mg,DHS INC.,Active
+fluoxetine,'55887066490',10,mg,DHS INC.,Active
+fluoxetine,'63874105301',10,mg,ALTURA PHARMA,Active
+fluoxetine,'63874105302',10,mg,ALTURA PHARMA,Active
+fluoxetine,'63874105303',10,mg,ALTURA PHARMA,Active
+fluoxetine,'63874105304',10,mg,ALTURA PHARMA,Active
+fluoxetine,'63874105305',10,mg,ALTURA PHARMA,Active
+fluoxetine,'63874105306',10,mg,ALTURA PHARMA,Active
+fluoxetine,'63874105308',10,mg,ALTURA PHARMA,Active
+fluoxetine,'63874105309',10,mg,ALTURA PHARMA,Active
+fluoxetine,'66336051730',10,mg,DISPENSING SOLN,Active
+fluoxetine,'00093104301',20,mg,TEVA USA,Active
+fluoxetine,'00093435601',20,mg,TEVA USA,Active
+fluoxetine,'00093435605',20,mg,TEVA USA,Active
+fluoxetine,'00093435610',20,mg,TEVA USA,Active
+fluoxetine,'00093435619',20,mg,TEVA USA,Active
+fluoxetine,'00093435693',20,mg,TEVA USA,Active
+fluoxetine,'00172435600',20,mg,IVAX PHARMACEUT,Active
+fluoxetine,'00172435610',20,mg,IVAX PHARMACEUT,Active
+fluoxetine,'00172435660',20,mg,IVAX PHARMACEUT,Active
+fluoxetine,'00172435670',20,mg,IVAX PHARMACEUT,Active
+fluoxetine,'00172435680',20,mg,IVAX PHARMACEUT,Active
+fluoxetine,'00185008501',20,mg,EON LABS,Active
+fluoxetine,'00185008510',20,mg,EON LABS,Active
+fluoxetine,'00228270311',20,mg,PUREPAC PHARMAC,Active
+fluoxetine,'00378422001',20,mg,MYLAN,Active
+fluoxetine,'00378542028',20,mg,MYLAN,Active
+fluoxetine,'00406066301',20,mg,MALLINCKRODT PH,Active
+fluoxetine,'00406066303',20,mg,MALLINCKRODT PH,Active
+fluoxetine,'00406066305',20,mg,MALLINCKRODT PH,Active
+fluoxetine,'00406066362',20,mg,MALLINCKRODT PH,Active
+fluoxetine,'00406066363',20,mg,MALLINCKRODT SP,Active
+fluoxetine,'00406066391',20,mg,MALLINCKRODT PH,Active
+fluoxetine,'00440752107',20,mg,LIBERTY PHARM,Active
+fluoxetine,'00440752114',20,mg,LIBERTY PHARM,Active
+fluoxetine,'00440752128',20,mg,LIBERTY PHARM,Active
+fluoxetine,'00440752130',20,mg,LIBERTY PHARM,Active
+fluoxetine,'00440752160',20,mg,LIBERTY PHARM,Active
+fluoxetine,'00440752190',20,mg,LIBERTY PHARM,Active
+fluoxetine,'00555087702',20,mg,BARR,Active
+fluoxetine,'00555087704',20,mg,BARR,Active
+fluoxetine,'00555087705',20,mg,BARR,Active
+fluoxetine,'00555087707',20,mg,BARR,Active
+fluoxetine,'00591082701',20,mg,WATSON PHARMA,Active
+fluoxetine,'00591082710',20,mg,WATSON PHARMA,Active
+fluoxetine,'00591082730',20,mg,WATSON PHARMA,Active
+fluoxetine,'00591082790',20,mg,WATSON PHARMA,Active
+fluoxetine,'00677176701',20,mg,URL PHARMA,Active
+fluoxetine,'00677176705',20,mg,URL PHARMA,Active
+fluoxetine,'00677176710',20,mg,URL PHARMA,Active
+fluoxetine,'00781282201',20,mg,SANDOZ,Active
+fluoxetine,'00781282210',20,mg,SANDOZ,Active
+fluoxetine,'00781282808',20,mg,SANDOZ,Active
+fluoxetine,'00904578561',20,mg,MAJOR PHARMACEU,Active
+fluoxetine,'10544006530',20,mg,BLENHEIM PHARMA,Active
+fluoxetine,'10544006590',20,mg,BLENHEIM PHARMA,Active
+fluoxetine,'10544033630',20,mg,BLENHEIM PHARMA,Active
+fluoxetine,'16590010030',20,mg,STAT RX USA,Active
+fluoxetine,'16590010056',20,mg,STAT RX USA,Active
+fluoxetine,'16590010060',20,mg,STAT RX USA,Active
+fluoxetine,'16590010082',20,mg,STAT RX USA,Active
+fluoxetine,'16590010090',20,mg,STAT RX USA,Active
+fluoxetine,'16714035201',20,mg,NORTHSTAR RX LL,Active
+fluoxetine,'16714035202',20,mg,NORTHSTAR RX LL,Active
+fluoxetine,'16714035203',20,mg,NORTHSTAR RX LL,Active
+fluoxetine,'17236080801',20,mg,AKYMA PHARMACEU,Active
+fluoxetine,'17236080810',20,mg,AKYMA PHARMACEU,Active
+fluoxetine,'18837005430',20,mg,INNOVIANT PHARM,Active
+fluoxetine,'18837005460',20,mg,INNOVIANT PHARM,Active
+fluoxetine,'18837005490',20,mg,INNOVIANT PHARM,Active
+fluoxetine,'21695005330',20,mg,PHYSICIAN PARTN,Active
+fluoxetine,'21695005360',20,mg,PHYSICIAN PARTN,Active
+fluoxetine,'21695005390',20,mg,PHYSICIAN PARTN,Active
+fluoxetine,'23490560201',20,mg,PALMETTO STATE,Active
+fluoxetine,'23490560202',20,mg,PALMETTO STATE,Active
+fluoxetine,'23490560203',20,mg,PALMETTO STATE,Active
+fluoxetine,'31722090401',20,mg,CAMBER PHARMACE,Active
+fluoxetine,'31722090405',20,mg,CAMBER PHARMACE,Active
+fluoxetine,'31722090410',20,mg,CAMBER PHARMACE,Active
+fluoxetine,'33358014530',20,mg,RXCHANGE CO.,Active
+fluoxetine,'33358014560',20,mg,RXCHANGE CO.,Active
+fluoxetine,'35356072800',20,mg,QUALITY CARE,Active
+fluoxetine,'35356072815',20,mg,QUALITY CARE,Active
+fluoxetine,'35356072830',20,mg,QUALITY CARE,Active
+fluoxetine,'35356072860',20,mg,QUALITY CARE,Active
+fluoxetine,'35356072890',20,mg,QUALITY CARE,Active
+fluoxetine,'35356087230',20,mg,QUALITY CARE,Active
+fluoxetine,'35356087260',20,mg,QUALITY CARE,Active
+fluoxetine,'35356087290',20,mg,QUALITY CARE,Active
+fluoxetine,'42254023530',20,mg,PHYSICIAN PARTN,Active
+fluoxetine,'42254023560',20,mg,PHYSICIAN PARTN,Active
+fluoxetine,'42254023590',20,mg,PHYSICIAN PARTN,Active
+fluoxetine,'42543072601',20,mg,VENSUN PHARMACE,Active
+fluoxetine,'42543072605',20,mg,VENSUN PHARMACE,Active
+fluoxetine,'42543072610',20,mg,VENSUN PHARMACE,Active
+fluoxetine,'42543072630',20,mg,VENSUN PHARMACE,Active
+fluoxetine,'42549033630',20,mg,4UORTHO LLC,Active
+fluoxetine,'42549053630',20,mg,4UORTHO LLC,Active
+fluoxetine,'42549059930',20,mg,4UORTHO LLC,Active
+fluoxetine,'43063000901',20,mg,PD-RX PHARM,Active
+fluoxetine,'43063071221',20,mg,PD-RX PHARM,Active
+fluoxetine,'43063071230',20,mg,PD-RX PHARM,Active
+fluoxetine,'49884073301',20,mg,PAR PHARM.,Active
+fluoxetine,'49884073310',20,mg,PAR PHARM.,Active
+fluoxetine,'49884073382',20,mg,PAR PHARM.,Active
+fluoxetine,'49884075101',20,mg,PAR PHARM.,Active
+fluoxetine,'49884075110',20,mg,PAR PHARM.,Active
+fluoxetine,'49999012800',20,mg,QUALITY CARE,Active
+fluoxetine,'49999012814',20,mg,QUALITY CARE,Active
+fluoxetine,'49999012820',20,mg,QUALITY CARE,Active
+fluoxetine,'49999012830',20,mg,QUALITY CARE,Active
+fluoxetine,'49999012860',20,mg,QUALITY CARE,Active
+fluoxetine,'49999012890',20,mg,QUALITY CARE,Active
+fluoxetine,'50111064801',20,mg,"PLIVA, INC",Active
+fluoxetine,'50111064802',20,mg,TEVA USA,Active
+fluoxetine,'50111064803',20,mg,"PLIVA, INC",Active
+fluoxetine,'50111064810',20,mg,"PLIVA, INC",Active
+fluoxetine,'50111064844',20,mg,"PLIVA, INC",Active
+fluoxetine,'50268033411',20,mg,AVPAK,Active
+fluoxetine,'50268033415',20,mg,AVPAK,Active
+fluoxetine,'50436092201',20,mg,UNIT DOSE SERVI,Active
+fluoxetine,'51079097101',20,mg,UDL,Active
+fluoxetine,'51079097117',20,mg,UDL,Active
+fluoxetine,'51079097119',20,mg,UDL,Active
+fluoxetine,'51079097120',20,mg,UDL,Active
+fluoxetine,'51138009430',20,mg,MED-HEALTH PHAR,Active
+fluoxetine,'51138020930',20,mg,MED-HEALTH PHAR,Active
+fluoxetine,'52959073200',20,mg,PHARMA PAC,Active
+fluoxetine,'52959073210',20,mg,PHARMA PAC,Active
+fluoxetine,'52959073214',20,mg,PHARMA PAC,Active
+fluoxetine,'52959073215',20,mg,PHARMA PAC,Active
+fluoxetine,'52959073220',20,mg,PHARMA PAC,Active
+fluoxetine,'52959073230',20,mg,PHARMA PAC,Active
+fluoxetine,'52959073240',20,mg,PHARMA PAC,Active
+fluoxetine,'52959073250',20,mg,PHARMA PAC,Active
+fluoxetine,'52959073260',20,mg,PHARMA PAC,Active
+fluoxetine,'53489037401',20,mg,MUTUAL PHARM CO,Active
+fluoxetine,'53489037405',20,mg,MUTUAL PHARM CO,Active
+fluoxetine,'53489037406',20,mg,MUTUAL PHARM CO,Active
+fluoxetine,'53489037407',20,mg,MUTUAL PHARM CO,Active
+fluoxetine,'53489037410',20,mg,MUTUAL PHARM CO,Active
+fluoxetine,'54569529100',20,mg,A-S MEDICATION,Active
+fluoxetine,'54569529101',20,mg,A-S MEDICATION,Active
+fluoxetine,'54569529103',20,mg,A-S MEDICATION,Active
+fluoxetine,'54868453700',20,mg,PHYSICIANS TC.,Active
+fluoxetine,'54868453701',20,mg,PHYSICIANS TC.,Active
+fluoxetine,'54868453702',20,mg,PHYSICIANS TC.,Active
+fluoxetine,'54868453703',20,mg,PHYSICIANS TC.,Active
+fluoxetine,'54868453704',20,mg,PHYSICIANS TC.,Active
+fluoxetine,'55045290808',20,mg,DRX,Active
+fluoxetine,'55111014801',20,mg,DR.REDDY'S LAB,Active
+fluoxetine,'55111014810',20,mg,DR.REDDY'S LAB,Active
+fluoxetine,'55289061014',20,mg,PD-RX PHARM,Active
+fluoxetine,'55289061028',20,mg,PD-RX PHARM,Active
+fluoxetine,'55289061030',20,mg,PD-RX PHARM,Active
+fluoxetine,'55289061060',20,mg,PD-RX PHARM,Active
+fluoxetine,'55289061090',20,mg,PD-RX PHARM,Active
+fluoxetine,'55700017730',20,mg,QUALITY CARE,Active
+fluoxetine,'55700017760',20,mg,QUALITY CARE,Active
+fluoxetine,'55887066101',20,mg,DHS INC.,Active
+fluoxetine,'55887066130',20,mg,DHS INC.,Active
+fluoxetine,'55887094730',20,mg,DHS INC.,Active
+fluoxetine,'57866092201',20,mg,VIBRANTA INC.,Active
+fluoxetine,'57866092202',20,mg,VIBRANTA INC.,Active
+fluoxetine,'57866092203',20,mg,VIBRANTA INC.,Active
+fluoxetine,'58016090500',20,mg,SOUTHWOOD PHARM,Active
+fluoxetine,'58016090502',20,mg,SOUTHWOOD PHARM,Active
+fluoxetine,'58016090503',20,mg,SOUTHWOOD PHARM,Active
+fluoxetine,'58016090510',20,mg,SOUTHWOOD PHARM,Active
+fluoxetine,'58016090520',20,mg,SOUTHWOOD PHARM,Active
+fluoxetine,'58016090530',20,mg,SOUTHWOOD PHARM,Active
+fluoxetine,'58016090560',20,mg,SOUTHWOOD PHARM,Active
+fluoxetine,'58016090573',20,mg,SOUTHWOOD PHARM,Active
+fluoxetine,'58016090589',20,mg,SOUTHWOOD PHARM,Active
+fluoxetine,'58864010315',20,mg,PD-RX PHARM,Active
+fluoxetine,'58864010330',20,mg,PD-RX PHARM,Active
+fluoxetine,'58864010360',20,mg,PD-RX PHARM,Active
+fluoxetine,'60429071918',20,mg,"GSMS, INC.",Active
+fluoxetine,'60429071930',20,mg,"GSMS, INC.",Active
+fluoxetine,'60429071960',20,mg,"GSMS, INC.",Active
+fluoxetine,'60429071990',20,mg,"GSMS, INC.",Active
+fluoxetine,'60760064730',20,mg,ST MARYS MPP,Active
+fluoxetine,'61919010030',20,mg,DIRECT RX,Active
+fluoxetine,'61919010060',20,mg,DIRECT RX,Active
+fluoxetine,'61919010090',20,mg,DIRECT RX,Active
+fluoxetine,'62037053901',20,mg,ANDRX PHARM.,Active
+fluoxetine,'62037053905',20,mg,ANDRX PHARM.,Active
+fluoxetine,'62037053910',20,mg,ANDRX PHARM.,Active
+fluoxetine,'62332002331',20,mg,ALEMBIC PHARMAC,Active
+fluoxetine,'62332002391',20,mg,ALEMBIC PHARMAC,Active
+fluoxetine,'62584019390',20,mg,AHP,Active
+fluoxetine,'63187006930',20,mg,PROFICIENT RX L,Active
+fluoxetine,'63187006960',20,mg,PROFICIENT RX L,Active
+fluoxetine,'63304068730',20,mg,RANBAXY PHARMAC,Active
+fluoxetine,'63304068790',20,mg,RANBAXY PHARMAC,Active
+fluoxetine,'63629161001',20,mg,BRYANT RANCH PR,Active
+fluoxetine,'63629161002',20,mg,BRYANT RANCH PR,Active
+fluoxetine,'63629161003',20,mg,BRYANT RANCH PR,Active
+fluoxetine,'63629161004',20,mg,BRYANT RANCH PR,Active
+fluoxetine,'63629161005',20,mg,BRYANT RANCH PR,Active
+fluoxetine,'63629161006',20,mg,BRYANT RANCH PR,Active
+fluoxetine,'63629161007',20,mg,BRYANT RANCH PR,Active
+fluoxetine,'63629161008',20,mg,BRYANT RANCH PR,Active
+fluoxetine,'63739029610',20,mg,MCKESSON PACKAG,Active
+fluoxetine,'63739029615',20,mg,MCKESSON PACKAG,Active
+fluoxetine,'63874057301',20,mg,ALTURA PHARMA,Active
+fluoxetine,'63874057304',20,mg,ALTURA PHARMA,Active
+fluoxetine,'63874057310',20,mg,ALTURA PHARMA,Active
+fluoxetine,'63874057314',20,mg,ALTURA PHARMA,Active
+fluoxetine,'63874057315',20,mg,ALTURA PHARMA,Active
+fluoxetine,'63874057320',20,mg,ALTURA PHARMA,Active
+fluoxetine,'63874057321',20,mg,ALTURA PHARMA,Active
+fluoxetine,'63874057328',20,mg,ALTURA PHARMA,Active
+fluoxetine,'63874057330',20,mg,ALTURA PHARMA,Active
+fluoxetine,'63874057360',20,mg,ALTURA PHARMA,Active
+fluoxetine,'63874057372',20,mg,ALTURA PHARMA,Active
+fluoxetine,'63874057374',20,mg,ALTURA PHARMA,Active
+fluoxetine,'63874057377',20,mg,ALTURA PHARMA,Active
+fluoxetine,'63874057390',20,mg,ALTURA PHARMA,Active
+fluoxetine,'65162017810',20,mg,AKYMA PHARMACEU,Active
+fluoxetine,'65162017811',20,mg,AKYMA PHARMACEU,Active
+fluoxetine,'65243033603',20,mg,"VA CMOP, DALLAS",Active
+fluoxetine,'65243033606',20,mg,"VA CMOP, DALLAS",Active
+fluoxetine,'65243033609',20,mg,"VA CMOP, DALLAS",Active
+fluoxetine,'65862019301',20,mg,AUROBINDO PHARM,Active
+fluoxetine,'65862019305',20,mg,AUROBINDO PHARM,Active
+fluoxetine,'65862019399',20,mg,AUROBINDO PHARM,Active
+fluoxetine,'66116028107',20,mg,MEDVANTX,Active
+fluoxetine,'66116028130',20,mg,MEDVANTX,Active
+fluoxetine,'66267048830',20,mg,NUCARE PHARMACE,Active
+fluoxetine,'66267048860',20,mg,NUCARE PHARMACE,Active
+fluoxetine,'66267048890',20,mg,NUCARE PHARMACE,Active
+fluoxetine,'66336000430',20,mg,DISPENSING SOLN,Active
+fluoxetine,'66336000460',20,mg,DISPENSING SOLN,Active
+fluoxetine,'66336000490',20,mg,DISPENSING SOLN,Active
+fluoxetine,'67544014430',20,mg,APHENA PHARMA S,Active
+fluoxetine,'67544014453',20,mg,APHENA PHARMA S,Active
+fluoxetine,'67544014460',20,mg,APHENA PHARMA S,Active
+fluoxetine,'67544014470',20,mg,APHENA PHARMA S,Active
+fluoxetine,'67544014480',20,mg,APHENA PHARMA S,Active
+fluoxetine,'67544014492',20,mg,APHENA PHARMA S,Active
+fluoxetine,'67544029530',20,mg,APHENA PHARMA S,Active
+fluoxetine,'67544029553',20,mg,APHENA PHARMA S,Active
+fluoxetine,'67544029560',20,mg,APHENA PHARMA S,Active
+fluoxetine,'67544029570',20,mg,APHENA PHARMA S,Active
+fluoxetine,'67544029580',20,mg,APHENA PHARMA S,Active
+fluoxetine,'67544029592',20,mg,APHENA PHARMA S,Active
+fluoxetine,'67544052830',20,mg,APHENA PHARMA S,Active
+fluoxetine,'67544052853',20,mg,APHENA PHARMA S,Active
+fluoxetine,'67544052860',20,mg,APHENA PHARMA S,Active
+fluoxetine,'67544052870',20,mg,APHENA PHARMA S,Active
+fluoxetine,'67544052880',20,mg,APHENA PHARMA S,Active
+fluoxetine,'67544084830',20,mg,APHENA PHARMA S,Active
+fluoxetine,'67544084845',20,mg,APHENA PHARMA S,Active
+fluoxetine,'67544084853',20,mg,APHENA PHARMA S,Active
+fluoxetine,'67544084860',20,mg,APHENA PHARMA S,Active
+fluoxetine,'67544084870',20,mg,APHENA PHARMA S,Active
+fluoxetine,'67544084880',20,mg,APHENA PHARMA S,Active
+fluoxetine,'67544084892',20,mg,APHENA PHARMA S,Active
+fluoxetine,'68084060501',20,mg,AHP,Active
+fluoxetine,'68084060511',20,mg,AHP,Active
+fluoxetine,'68115014400',20,mg,"DISPENSEXPRESS,",Active
+fluoxetine,'68115014430',20,mg,"DISPENSEXPRESS,",Active
+fluoxetine,'68115014460',20,mg,"DISPENSEXPRESS,",Active
+fluoxetine,'68115014490',20,mg,"DISPENSEXPRESS,",Active
+fluoxetine,'68387012030',20,mg,DISPENSING SOLN,Active
+fluoxetine,'68387012060',20,mg,DISPENSING SOLN,Active
+fluoxetine,'68387012090',20,mg,DISPENSING SOLN,Active
+fluoxetine,'68645013054',20,mg,LEGACY PHARMACE,Active
+fluoxetine,'00378073501',20,mg,MYLAN,Active
+fluoxetine,'00378073593',20,mg,MYLAN,Active
+fluoxetine,'00615550253',20,mg,VANGARD,Active
+fluoxetine,'00615550263',20,mg,VANGARD,Active
+fluoxetine,'13668047301',20,mg,TORRENT PHARMAC,Active
+fluoxetine,'13668047310',20,mg,TORRENT PHARMAC,Active
+fluoxetine,'13668047330',20,mg,TORRENT PHARMAC,Active
+fluoxetine,'21695032100',20,mg,PHYSICIAN PARTN,Active
+fluoxetine,'21695032130',20,mg,PHYSICIAN PARTN,Active
+fluoxetine,'21695032160',20,mg,PHYSICIAN PARTN,Active
+fluoxetine,'21695032190',20,mg,PHYSICIAN PARTN,Active
+fluoxetine,'21695059630',20,mg,PHYSICIAN PARTN,Active
+fluoxetine,'42291027990',20,mg,AVKARE,Active
+fluoxetine,'49884033601',20,mg,PAR PHARM.,Active
+fluoxetine,'49884033611',20,mg,PAR PHARM.,Active
+fluoxetine,'49884073501',20,mg,PAR PHARM.,Active
+fluoxetine,'49884073510',20,mg,PAR PHARM.,Active
+fluoxetine,'49884073511',20,mg,PAR PHARM.,Active
+fluoxetine,'49884073582',20,mg,PAR PHARM.,Active
+fluoxetine,'55887094707',20,mg,DHS INC.,Active
+fluoxetine,'57866092001',20,mg,VIBRANTA INC.,Active
+fluoxetine,'57866092002',20,mg,VIBRANTA INC.,Active
+fluoxetine,'57866092003',20,mg,VIBRANTA INC.,Active
+fluoxetine,'63874082801',20,mg,ALTURA PHARMA,Active
+fluoxetine,'63874082804',20,mg,ALTURA PHARMA,Active
+fluoxetine,'63874082814',20,mg,ALTURA PHARMA,Active
+fluoxetine,'63874082820',20,mg,ALTURA PHARMA,Active
+fluoxetine,'63874082821',20,mg,ALTURA PHARMA,Active
+fluoxetine,'63874082828',20,mg,ALTURA PHARMA,Active
+fluoxetine,'63874082830',20,mg,ALTURA PHARMA,Active
+fluoxetine,'63874082860',20,mg,ALTURA PHARMA,Active
+fluoxetine,'63874082890',20,mg,ALTURA PHARMA,Active
+fluoxetine,'66336041830',20,mg,DISPENSING SOLN,Active
+fluoxetine,'68258101001',20,mg,DISPENSING SOLN,Active
+fluoxetine,'00093610812',20 mg/5 mL,(4 mg/mL),TEVA USA,Active
+fluoxetine,'00121072104',20 mg/5 mL,(4 mg/mL),PHARMACEUTICAL,Active
+fluoxetine,'00121072105',20 mg/5 mL,(4 mg/mL),PHARMACEUTICAL,Active
+fluoxetine,'00121472105',20 mg/5 mL,(4 mg/mL),PHARMACEUTICAL,Active
+fluoxetine,'00406066701',20 mg/5 mL,(4 mg/mL),MALLINCKRODT PH,Active
+fluoxetine,'00472002104',20 mg/5 mL,(4 mg/mL),ALPHARMA US,Active
+fluoxetine,'49884069937',20 mg/5 mL,(4 mg/mL),PAR PHARM.,Active
+fluoxetine,'54838052340',20 mg/5 mL,(4 mg/mL),SILARX PHARM,Active
+fluoxetine,'60432016204',20 mg/5 mL,(4 mg/mL),MORTON GROVE PH,Active
+fluoxetine,'60505035201',20 mg/5 mL,(4 mg/mL),APOTEX CORP,Active
+fluoxetine,'00093434656',40,mg,TEVA USA,Active
+fluoxetine,'00093719801',40,mg,TEVA USA,Active
+fluoxetine,'00093719805',40,mg,TEVA USA,Active
+fluoxetine,'00093719819',40,mg,TEVA USA,Active
+fluoxetine,'00093719856',40,mg,TEVA USA,Active
+fluoxetine,'00093719893',40,mg,TEVA USA,Active
+fluoxetine,'00172434610',40,mg,IVAX PHARMACEUT,Active
+fluoxetine,'00172434646',40,mg,IVAX PHARMACEUT,Active
+fluoxetine,'00172434660',40,mg,IVAX PHARMACEUT,Active
+fluoxetine,'00172434670',40,mg,IVAX PHARMACEUT,Active
+fluoxetine,'00378435093',40,mg,MYLAN,Active
+fluoxetine,'00440753990',40,mg,LIBERTY PHARM,Active
+fluoxetine,'00781282401',40,mg,SANDOZ,Active
+fluoxetine,'00781282410',40,mg,SANDOZ,Active
+fluoxetine,'00781282431',40,mg,SANDOZ,Active
+fluoxetine,'10544058390',40,mg,BLENHEIM PHARMA,Active
+fluoxetine,'16590049030',40,mg,STAT RX USA,Active
+fluoxetine,'16590049060',40,mg,STAT RX USA,Active
+fluoxetine,'16590049072',40,mg,STAT RX USA,Active
+fluoxetine,'16590049090',40,mg,STAT RX USA,Active
+fluoxetine,'16714035301',40,mg,NORTHSTAR RX LL,Active
+fluoxetine,'16714035302',40,mg,NORTHSTAR RX LL,Active
+fluoxetine,'16714035303',40,mg,NORTHSTAR RX LL,Active
+fluoxetine,'16714035304',40,mg,NORTHSTAR RX LL,Active
+fluoxetine,'18837029530',40,mg,INNOVIANT PHARM,Active
+fluoxetine,'21695005407',40,mg,PHYSICIAN PARTN,Active
+fluoxetine,'21695005430',40,mg,PHYSICIAN PARTN,Active
+fluoxetine,'21695005460',40,mg,PHYSICIAN PARTN,Active
+fluoxetine,'21695005490',40,mg,PHYSICIAN PARTN,Active
+fluoxetine,'23490732703',40,mg,PALMETTO STATE,Active
+fluoxetine,'31722090501',40,mg,CAMBER PHARMACE,Active
+fluoxetine,'31722090530',40,mg,CAMBER PHARMACE,Active
+fluoxetine,'35356072930',40,mg,QUALITY CARE,Active
+fluoxetine,'35356072990',40,mg,QUALITY CARE,Active
+fluoxetine,'42291029190',40,mg,AVKARE,Active
+fluoxetine,'42543072701',40,mg,VENSUN PHARMACE,Active
+fluoxetine,'42543072705',40,mg,VENSUN PHARMACE,Active
+fluoxetine,'42543072730',40,mg,VENSUN PHARMACE,Active
+fluoxetine,'43063019730',40,mg,PD-RX PHARM,Active
+fluoxetine,'43063019790',40,mg,PD-RX PHARM,Active
+fluoxetine,'49884074301',40,mg,PAR PHARM.,Active
+fluoxetine,'49884074305',40,mg,PAR PHARM.,Active
+fluoxetine,'49884074311',40,mg,PAR PHARM.,Active
+fluoxetine,'49884087201',40,mg,PAR PHARM.,Active
+fluoxetine,'49884087205',40,mg,PAR PHARM.,Active
+fluoxetine,'49884087211',40,mg,PAR PHARM.,Active
+fluoxetine,'49999088630',40,mg,QUALITY CARE,Active
+fluoxetine,'50268033511',40,mg,AVPAK,Active
+fluoxetine,'50268033515',40,mg,AVPAK,Active
+fluoxetine,'50436092301',40,mg,UNIT DOSE SERVI,Active
+fluoxetine,'51138009530',40,mg,MED-HEALTH PHAR,Active
+fluoxetine,'51138021030',40,mg,MED-HEALTH PHAR,Active
+fluoxetine,'52959071730',40,mg,PHARMA PAC,Active
+fluoxetine,'54569532000',40,mg,A-S MEDICATION,Active
+fluoxetine,'54569532001',40,mg,A-S MEDICATION,Active
+fluoxetine,'54868456200',40,mg,PHYSICIANS TC.,Active
+fluoxetine,'55111014901',40,mg,DR.REDDY'S LAB,Active
+fluoxetine,'55111014930',40,mg,DR.REDDY'S LAB,Active
+fluoxetine,'55887007530',40,mg,DHS INC.,Active
+fluoxetine,'58016070400',40,mg,SOUTHWOOD PHARM,Active
+fluoxetine,'58016070402',40,mg,SOUTHWOOD PHARM,Active
+fluoxetine,'58016070403',40,mg,SOUTHWOOD PHARM,Active
+fluoxetine,'58016070430',40,mg,SOUTHWOOD PHARM,Active
+fluoxetine,'58016070460',40,mg,SOUTHWOOD PHARM,Active
+fluoxetine,'58016070473',40,mg,SOUTHWOOD PHARM,Active
+fluoxetine,'58016070489',40,mg,SOUTHWOOD PHARM,Active
+fluoxetine,'58016070490',40,mg,SOUTHWOOD PHARM,Active
+fluoxetine,'61919049030',40,mg,DIRECT RX,Active
+fluoxetine,'61919049090',40,mg,DIRECT RX,Active
+fluoxetine,'62332002430',40,mg,ALEMBIC PHARMAC,Active
+fluoxetine,'62332002431',40,mg,ALEMBIC PHARMAC,Active
+fluoxetine,'62332002491',40,mg,ALEMBIC PHARMAC,Active
+fluoxetine,'63187008930',40,mg,PROFICIENT RX L,Active
+fluoxetine,'63304063201',40,mg,RANBAXY/SUN PHA,Active
+fluoxetine,'63304063230',40,mg,RANBAXY/SUN PHA,Active
+fluoxetine,'63304063290',40,mg,RANBAXY PHARMAC,Active
+fluoxetine,'63874108003',40,mg,ALTURA PHARMA,Active
+fluoxetine,'63874108006',40,mg,ALTURA PHARMA,Active
+fluoxetine,'65862019401',40,mg,AUROBINDO PHARM,Active
+fluoxetine,'65862019405',40,mg,AUROBINDO PHARM,Active
+fluoxetine,'65862019430',40,mg,AUROBINDO PHARM,Active
+fluoxetine,'65862019499',40,mg,AUROBINDO PHARM,Active
+fluoxetine,'66267058730',40,mg,NUCARE PHARMACE,Active
+fluoxetine,'68001012900',40,mg,BLUEPOINT LABOR,Active
+fluoxetine,'68001012903',40,mg,BLUEPOINT LABOR,Active
+fluoxetine,'68001012904',40,mg,BLUEPOINT LABOR,Active
+fluoxetine,'68084010101',40,mg,AHP,Active
+fluoxetine,'68084010111',40,mg,AHP,Active
+fluoxetine,'68115014530',40,mg,"DISPENSEXPRESS,",Active
+fluoxetine,'68115014560',40,mg,"DISPENSEXPRESS,",Active
+fluoxetine,'68115014590',40,mg,"DISPENSEXPRESS,",Active
+fluoxetine,'68115054430',40,mg,"DISPENSEXPRESS,",Active
+fluoxetine,'68258700303',40,mg,DISPENSING SOLN,Active
+fluoxetine,'49909000530',60,mg,EDGEMONT PHARMA,Active
+fluoxetine,'00555087154',90,mg,TEVA USA,Active
+fluoxetine,'00555087188',90,mg,TEVA USA,Active
+fluoxetine,'55111028448',90,mg,DR.REDDY'S LAB,Active
+fluoxetine (bulk),'15455000501',100,%,ALVIX LABORATOR,Active
+fluoxetine (bulk),'15455000508',100,%,ALVIX LABORATOR,Active
+fluoxetine (bulk),'15455000509',100,%,ALVIX LABORATOR,Active
+fluoxetine (bulk),'38779001304',100,%,MEDISCA INC.,Active
+fluoxetine (bulk),'38779001305',100,%,MEDISCA INC.,Active
+fluoxetine (bulk),'38779001308',100,%,MEDISCA INC.,Active
+fluoxetine (bulk),'38779001309',100,%,MEDISCA INC.,Active
+fluoxetine (bulk),'49452317601',100,%,SPECTRUM,Active
+fluoxetine (bulk),'51927340900',100,%,PROFESSIONAL CO,Active
+fluoxetine (bulk),'52372060501',100,%,FREEDOM PHARMAC,Active
+fluoxetine (bulk),'52372060502',100,%,FREEDOM PHARMAC,Active
+fluoxetine (bulk),'52372060503',100,%,FREEDOM PHARMAC,Active
+fluoxetine (bulk),'52372060504',100,%,FREEDOM PHARMAC,Active
+fluoxetine (bulk),'52372060505',100,%,FREEDOM PHARMAC,Active
+fluoxetine (bulk),'62991286601',100,%,"LETCO MEDICAL,",Active
+fluoxetine (bulk),'62991286602',100,%,"LETCO MEDICAL,",Active
+fluoxetine (bulk),'62991286603',100,%,"LETCO MEDICAL,",Active
+Celexa,'00456401001',10,mg,ACTAVIS U.S. BR,Active
+Celexa,'35356004530',10,mg,QUALITY CARE,Active
+Celexa,'54868498500',10,mg,PHYSICIANS TC.,Active
+Celexa,'54868498501',10,mg,PHYSICIANS TC.,Active
+Celexa,'55887050230',10,mg,DHS INC.,Active
+Celexa,'58016059300',10,mg,SOUTHWOOD PHARM,Active
+Celexa,'58016059330',10,mg,SOUTHWOOD PHARM,Active
+Celexa,'58016059360',10,mg,SOUTHWOOD PHARM,Active
+Celexa,'58016059390',10,mg,SOUTHWOOD PHARM,Active
+Celexa,'58864084930',10,mg,PD-RX PHARM,Active
+Celexa,'00456402001',20,mg,ACTAVIS U.S. BR,Active
+Celexa,'00456402063',20,mg,FOREST PHARMACE,Active
+Celexa,'49999069030',20,mg,QUALITY CARE,Active
+Celexa,'52959001000',20,mg,PHARMA PAC,Active
+Celexa,'52959001030',20,mg,PHARMA PAC,Active
+Celexa,'52959001060',20,mg,PHARMA PAC,Active
+Celexa,'54569470300',20,mg,A-S MEDICATION,Active
+Celexa,'54569470301',20,mg,A-S MEDICATION,Active
+Celexa,'54868415900',20,mg,PHYSICIANS TC.,Active
+Celexa,'54868415901',20,mg,PHYSICIANS TC.,Active
+Celexa,'54868415902',20,mg,PHYSICIANS TC.,Active
+Celexa,'54868415903',20,mg,PHYSICIANS TC.,Active
+Celexa,'54868415904',20,mg,PHYSICIANS TC.,Active
+Celexa,'55289082730',20,mg,PD-RX PHARM,Active
+Celexa,'55887055020',20,mg,DHS INC.,Active
+Celexa,'55887055030',20,mg,DHS INC.,Active
+Celexa,'55887055060',20,mg,DHS INC.,Active
+Celexa,'55887055090',20,mg,DHS INC.,Active
+Celexa,'58016059800',20,mg,SOUTHWOOD PHARM,Active
+Celexa,'58016059830',20,mg,SOUTHWOOD PHARM,Active
+Celexa,'58016059860',20,mg,SOUTHWOOD PHARM,Active
+Celexa,'58016059890',20,mg,SOUTHWOOD PHARM,Active
+Celexa,'58864085230',20,mg,PD-RX PHARM,Active
+Celexa,'65243016203',20,mg,"VA CMOP, DALLAS",Active
+Celexa,'66267061830',20,mg,NUCARE PHARMACE,Active
+Celexa,'67544017030',20,mg,APHENA PHARMA S,Active
+Celexa,'68115007100',20,mg,"DISPENSEXPRESS,",Active
+Celexa,'68115007130',20,mg,"DISPENSEXPRESS,",Active
+Celexa,'00456404001',40,mg,ACTAVIS U.S. BR,Active
+Celexa,'00456404063',40,mg,FOREST PHARMACE,Active
+Celexa,'35356004630',40,mg,QUALITY CARE,Active
+Celexa,'54569487900',40,mg,A-S MEDICATION,Active
+Celexa,'54868422600',40,mg,PHYSICIANS TC.,Active
+Celexa,'54868422601',40,mg,PHYSICIANS TC.,Active
+Celexa,'54868422602',40,mg,PHYSICIANS TC.,Active
+Celexa,'55045270500',40,mg,DRX,Active
+Celexa,'58864061615',40,mg,PD-RX PHARM,Active
+Celexa,'58864061630',40,mg,PD-RX PHARM,Active
+Celexa,'65243021103',40,mg,"VA CMOP, DALLAS",Active
+Celexa,'65243021109',40,mg,"VA CMOP, DALLAS",Active
+Celexa,'67544020915',40,mg,APHENA PHARMA S,Active
+Celexa,'67544020930',40,mg,APHENA PHARMA S,Active
+Celexa,'67544020945',40,mg,APHENA PHARMA S,Active
+Celexa,'67544020953',40,mg,APHENA PHARMA S,Active
+Celexa,'67544020960',40,mg,APHENA PHARMA S,Active
+Celexa,'67544020973',40,mg,APHENA PHARMA S,Active
+Celexa,'68115079700',40,mg,"DISPENSEXPRESS,",Active
+Celexa,'00456413004',10,mg/5 mL,FOREST PHARMACE,Inactive
+Celexa,'00456413008',10,mg/5 mL,FOREST PHARMACE,Inactive
+citalopram,'00093474001',10,mg,TEVA USA,Active
+citalopram,'00093474010',10,mg,TEVA USA,Active
+citalopram,'00093474019',10,mg,TEVA USA,Active
+citalopram,'00093474093',10,mg,TEVA USA,Active
+citalopram,'00172474000',10,mg,IVAX PHARMACEUT,Active
+citalopram,'00172474010',10,mg,IVAX PHARMACEUT,Active
+citalopram,'00172474060',10,mg,IVAX PHARMACEUT,Active
+citalopram,'00172474080',10,mg,IVAX PHARMACEUT,Active
+citalopram,'00185037101',10,mg,SANDOZ,Active
+citalopram,'00185037110',10,mg,EON LABS,Active
+citalopram,'00228275511',10,mg,ALPHARMA US,Active
+citalopram,'00258369501',10,mg,INWOOD LABS.,Active
+citalopram,'00258369505',10,mg,INWOOD LABS.,Active
+citalopram,'00378192101',10,mg,MYLAN,Active
+citalopram,'00378623101',10,mg,MYLAN,Active
+citalopram,'00378623105',10,mg,MYLAN,Active
+citalopram,'00440729590',10,mg,LIBERTY PHARM,Active
+citalopram,'00591317601',10,mg,WATSON LABS,Active
+citalopram,'00591317605',10,mg,WATSON LABS,Active
+citalopram,'00713474001',10,mg,G & W LABS.,Active
+citalopram,'00713474005',10,mg,G & W LABS.,Active
+citalopram,'00781515701',10,mg,SANDOZ,Active
+citalopram,'00904608461',10,mg,MAJOR PHARMACEU,Active
+citalopram,'10768706001',10,mg,PERRIGO CO.,Active
+citalopram,'10768706003',10,mg,PERRIGO CO.,Active
+citalopram,'13107000501',10,mg,AUROBINDO PHARM,Active
+citalopram,'13107000505',10,mg,AUROBINDO PHARM,Active
+citalopram,'13668000901',10,mg,TORRENT PHARMAC,Active
+citalopram,'13668000905',10,mg,TORRENT PHARMAC,Active
+citalopram,'13668000909',10,mg,TORRENT PHARMAC,Active
+citalopram,'13668000930',10,mg,TORRENT PHARMAC,Active
+citalopram,'13668000974',10,mg,TORRENT PHARMAC,Active
+citalopram,'16590005530',10,mg,STAT RX USA,Active
+citalopram,'16590005560',10,mg,STAT RX USA,Active
+citalopram,'16590005590',10,mg,STAT RX USA,Active
+citalopram,'21695003000',10,mg,PHYSICIAN PARTN,Active
+citalopram,'21695003030',10,mg,PHYSICIAN PARTN,Active
+citalopram,'21695003060',10,mg,PHYSICIAN PARTN,Active
+citalopram,'21695003090',10,mg,PHYSICIAN PARTN,Active
+citalopram,'21695065530',10,mg,PHYSICIAN PARTN,Active
+citalopram,'23490755801',10,mg,PALMETTO STATE,Active
+citalopram,'23490755802',10,mg,PALMETTO STATE,Active
+citalopram,'23490755803',10,mg,PALMETTO STATE,Active
+citalopram,'24658014001',10,mg,BLU PHARMACEUTI,Active
+citalopram,'24658014010',10,mg,BLU PHARMACEUTI,Active
+citalopram,'24658014030',10,mg,BLU PHARMACEUTI,Active
+citalopram,'31722020601',10,mg,CAMBER PHARMACE,Active
+citalopram,'31722020605',10,mg,CAMBER PHARMACE,Active
+citalopram,'31722020610',10,mg,CAMBER PHARMACE,Active
+citalopram,'33358008230',10,mg,RXCHANGE CO.,Active
+citalopram,'33358008260',10,mg,RXCHANGE CO.,Active
+citalopram,'33358008290',10,mg,RXCHANGE CO.,Active
+citalopram,'35356002830',10,mg,QUALITY CARE,Active
+citalopram,'35356076930',10,mg,QUALITY CARE,Active
+citalopram,'35356086830',10,mg,QUALITY CARE,Active
+citalopram,'35356086860',10,mg,QUALITY CARE,Active
+citalopram,'35356086890',10,mg,QUALITY CARE,Active
+citalopram,'42254011600',10,mg,PHYSICIAN PARTN,Active
+citalopram,'42254011630',10,mg,PHYSICIAN PARTN,Active
+citalopram,'42254011660',10,mg,PHYSICIAN PARTN,Active
+citalopram,'42254011690',10,mg,PHYSICIAN PARTN,Active
+citalopram,'42806001901',10,mg,EPIC PHARMA LLC,Active
+citalopram,'42806001910',10,mg,EPIC PHARMA LLC,Active
+citalopram,'43063024930',10,mg,PD-RX PHARM,Active
+citalopram,'43063048105',10,mg,PD-RX PHARM,Active
+citalopram,'45802030665',10,mg,PERRIGO CO.,Active
+citalopram,'45802030678',10,mg,PERRIGO CO.,Active
+citalopram,'52959060330',10,mg,PHARMA PAC,Active
+citalopram,'54458098110',10,mg,INTERNATIONAL L,Active
+citalopram,'54458098112',10,mg,INTERNATIONAL L,Active
+citalopram,'54569632200',10,mg,A-S MEDICATION,Active
+citalopram,'54569632201',10,mg,A-S MEDICATION,Active
+citalopram,'54569632202',10,mg,A-S MEDICATION,Active
+citalopram,'54868527500',10,mg,PHYSICIANS TC.,Active
+citalopram,'54868527501',10,mg,PHYSICIANS TC.,Active
+citalopram,'54868527502',10,mg,PHYSICIANS TC.,Active
+citalopram,'55045342301',10,mg,DRX,Active
+citalopram,'55045342302',10,mg,DRX,Active
+citalopram,'55111034201',10,mg,DR.REDDY'S LAB,Active
+citalopram,'55111034205',10,mg,DR.REDDY'S LAB,Active
+citalopram,'55111034230',10,mg,DR.REDDY'S LAB,Active
+citalopram,'55700014830',10,mg,QUALITY CARE,Active
+citalopram,'55700014860',10,mg,QUALITY CARE,Active
+citalopram,'55700014890',10,mg,QUALITY CARE,Active
+citalopram,'55700015030',10,mg,QUALITY CARE,Active
+citalopram,'55700015060',10,mg,QUALITY CARE,Active
+citalopram,'55700015090',10,mg,QUALITY CARE,Active
+citalopram,'55887026030',10,mg,DHS INC.,Active
+citalopram,'57664050713',10,mg,CARACO/SUN PHAR,Active
+citalopram,'57664050718',10,mg,CARACO PHARM,Active
+citalopram,'57664050783',10,mg,CARACO PHARM,Active
+citalopram,'57664050788',10,mg,CARACO PHARM,Active
+citalopram,'58016003000',10,mg,SOUTHWOOD PHARM,Active
+citalopram,'58016003030',10,mg,SOUTHWOOD PHARM,Active
+citalopram,'58016003060',10,mg,SOUTHWOOD PHARM,Active
+citalopram,'58016003090',10,mg,SOUTHWOOD PHARM,Active
+citalopram,'59746054301',10,mg,CADISTA PHARMAC,Active
+citalopram,'59746054305',10,mg,CADISTA PHARMAC,Active
+citalopram,'59762480001',10,mg,GREENSTONE LLC.,Active
+citalopram,'59762480003',10,mg,GREENSTONE LLC.,Active
+citalopram,'59762480005',10,mg,GREENSTONE LLC.,Active
+citalopram,'59762480006',10,mg,GREENSTONE LLC.,Active
+citalopram,'60429017301',10,mg,"GSMS, INC.",Active
+citalopram,'60429017310',10,mg,"GSMS, INC.",Active
+citalopram,'60429017330',10,mg,"GSMS, INC.",Active
+citalopram,'60505251801',10,mg,APOTEX CORP,Active
+citalopram,'60505251803',10,mg,APOTEX CORP,Active
+citalopram,'60505251804',10,mg,APOTEX CORP,Active
+citalopram,'60505251808',10,mg,APOTEX CORP,Active
+citalopram,'60760000930',10,mg,ST MARYS MPP,Active
+citalopram,'61073003301',10,mg,AMKAS LABS.,Active
+citalopram,'63629333801',10,mg,BRYANT RANCH PR,Active
+citalopram,'63629333802',10,mg,BRYANT RANCH PR,Active
+citalopram,'63629333803',10,mg,BRYANT RANCH PR,Active
+citalopram,'63874114601',10,mg,ALTURA PHARMA,Active
+citalopram,'63874114603',10,mg,ALTURA PHARMA,Active
+citalopram,'63874114606',10,mg,ALTURA PHARMA,Active
+citalopram,'64679096911',10,mg,WOCKHARDT USA L,Active
+citalopram,'64679096914',10,mg,WOCKHARDT USA L,Active
+citalopram,'64720017003',10,mg,COREPHARMA LLC,Active
+citalopram,'64720017010',10,mg,COREPHARMA LLC,Active
+citalopram,'65162005203',10,mg,AMNEAL PHARMACE,Active
+citalopram,'65162005210',10,mg,AMNEAL PHARMACE,Active
+citalopram,'65162005250',10,mg,AMNEAL PHARMACE,Active
+citalopram,'65862000501',10,mg,AUROBINDO PHARM,Active
+citalopram,'65862000505',10,mg,AUROBINDO PHARM,Active
+citalopram,'65862000510',10,mg,AUROBINDO PHARM,Active
+citalopram,'65862000530',10,mg,AUROBINDO PHARM,Active
+citalopram,'68084058001',10,mg,AHP,Active
+citalopram,'68084058011',10,mg,AHP,Active
+citalopram,'68084073701',10,mg,AHP,Active
+citalopram,'68084073711',10,mg,AHP,Active
+citalopram,'68115049330',10,mg,"DISPENSEXPRESS,",Active
+citalopram,'68115049360',10,mg,"DISPENSEXPRESS,",Active
+citalopram,'69097082207',10,mg,"CIPLA USA, INC.",Active
+citalopram,'69097082212',10,mg,"CIPLA USA, INC.",Active
+citalopram,'76282020601',10,mg,EXELAN PHARMACE,Active
+citalopram,'76282020605',10,mg,EXELAN PHARMACE,Active
+citalopram,'76282020610',10,mg,EXELAN PHARMACE,Active
+citalopram,'00054006258',10,mg/5 mL,ROXANE/WEST-WAR,Active
+citalopram,'17856007401',10,mg/5 mL,ATLANTIC BIOLOG,Active
+citalopram,'54838054070',10,mg/5 mL,SILARX PHARM,Active
+citalopram,'54838054770',10,mg/5 mL,SILARX PHARM,Active
+citalopram,'60258083008',10,mg/5 mL,CYPRESS PHARM.,Active
+citalopram,'65862007424',10,mg/5 mL,AUROBINDO PHARM,Active
+citalopram,'00093474101',20,mg,TEVA USA,Active
+citalopram,'00093474105',20,mg,TEVA USA,Active
+citalopram,'00093474119',20,mg,TEVA USA,Active
+citalopram,'00093474150',20,mg,TEVA USA,Active
+citalopram,'00093474193',20,mg,TEVA USA,Active
+citalopram,'00172474100',20,mg,IVAX PHARMACEUT,Active
+citalopram,'00172474110',20,mg,IVAX PHARMACEUT,Active
+citalopram,'00172474160',20,mg,IVAX PHARMACEUT,Active
+citalopram,'00172474170',20,mg,IVAX PHARMACEUT,Active
+citalopram,'00172474185',20,mg,IVAX PHARMACEUT,Active
+citalopram,'00185037201',20,mg,SANDOZ,Active
+citalopram,'00185037210',20,mg,EON LABS,Active
+citalopram,'00228275611',20,mg,ALPHARMA US,Active
+citalopram,'00228275650',20,mg,ALPHARMA US,Active
+citalopram,'00258369601',20,mg,INWOOD LABS.,Active
+citalopram,'00258369610',20,mg,INWOOD LABS.,Active
+citalopram,'00378192201',20,mg,MYLAN,Active
+citalopram,'00378192205',20,mg,MYLAN,Active
+citalopram,'00378623201',20,mg,MYLAN,Active
+citalopram,'00378623205',20,mg,MYLAN,Active
+citalopram,'00440729390',20,mg,LIBERTY PHARM,Active
+citalopram,'00591317701',20,mg,WATSON LABS,Active
+citalopram,'00591317705',20,mg,WATSON LABS,Active
+citalopram,'00713474101',20,mg,G & W LABS.,Active
+citalopram,'00713474105',20,mg,G & W LABS.,Active
+citalopram,'00781515801',20,mg,SANDOZ,Active
+citalopram,'00904608561',20,mg,MAJOR PHARMACEU,Active
+citalopram,'10544017930',20,mg,BLENHEIM PHARMA,Active
+citalopram,'10544017990',20,mg,BLENHEIM PHARMA,Active
+citalopram,'10768719101',20,mg,PERRIGO CO.,Active
+citalopram,'10768719103',20,mg,PERRIGO CO.,Active
+citalopram,'12280021100',20,mg,"DISPENSEXPRESS,",Active
+citalopram,'13107000601',20,mg,AUROBINDO PHARM,Active
+citalopram,'13107000605',20,mg,AUROBINDO PHARM,Active
+citalopram,'13668001001',20,mg,TORRENT PHARMAC,Active
+citalopram,'13668001005',20,mg,TORRENT PHARMAC,Active
+citalopram,'13668001006',20,mg,TORRENT PHARMAC,Active
+citalopram,'13668001030',20,mg,TORRENT PHARMAC,Active
+citalopram,'13668001074',20,mg,TORRENT PHARMAC,Active
+citalopram,'16590005615',20,mg,STAT RX USA,Active
+citalopram,'16590005630',20,mg,STAT RX USA,Active
+citalopram,'16590005660',20,mg,STAT RX USA,Active
+citalopram,'16590005690',20,mg,STAT RX USA,Active
+citalopram,'18837025330',20,mg,INNOVIANT PHARM,Active
+citalopram,'18837025390',20,mg,INNOVIANT PHARM,Active
+citalopram,'21695003100',20,mg,PHYSICIAN PARTN,Active
+citalopram,'21695003130',20,mg,PHYSICIAN PARTN,Active
+citalopram,'21695003160',20,mg,PHYSICIAN PARTN,Active
+citalopram,'21695003190',20,mg,PHYSICIAN PARTN,Active
+citalopram,'23490722501',20,mg,PALMETTO STATE,Active
+citalopram,'23490722502',20,mg,PALMETTO STATE,Active
+citalopram,'23490722503',20,mg,PALMETTO STATE,Active
+citalopram,'23490722504',20,mg,PALMETTO STATE,Active
+citalopram,'23490722505',20,mg,PALMETTO STATE,Active
+citalopram,'23490722509',20,mg,PALMETTO STATE,Active
+citalopram,'23629010610',20,mg,CHOICE RX US LL,Active
+citalopram,'24658014101',20,mg,BLU PHARMACEUTI,Active
+citalopram,'24658014110',20,mg,BLU PHARMACEUTI,Active
+citalopram,'24658014130',20,mg,BLU PHARMACEUTI,Active
+citalopram,'31722020701',20,mg,CAMBER PHARMACE,Active
+citalopram,'31722020705',20,mg,CAMBER PHARMACE,Active
+citalopram,'31722020710',20,mg,CAMBER PHARMACE,Active
+citalopram,'33358008330',20,mg,RXCHANGE CO.,Active
+citalopram,'33358008360',20,mg,RXCHANGE CO.,Active
+citalopram,'35356072030',20,mg,QUALITY CARE,Active
+citalopram,'35356072090',20,mg,QUALITY CARE,Active
+citalopram,'42254010800',20,mg,PHYSICIAN PARTN,Active
+citalopram,'42254010830',20,mg,PHYSICIAN PARTN,Active
+citalopram,'42254010860',20,mg,PHYSICIAN PARTN,Active
+citalopram,'42254010890',20,mg,PHYSICIAN PARTN,Active
+citalopram,'42806002001',20,mg,EPIC PHARMA LLC,Active
+citalopram,'42806002010',20,mg,EPIC PHARMA LLC,Active
+citalopram,'43063006314',20,mg,PD-RX PHARM,Active
+citalopram,'43063006330',20,mg,PD-RX PHARM,Active
+citalopram,'43063006360',20,mg,PD-RX PHARM,Active
+citalopram,'43063006390',20,mg,PD-RX PHARM,Active
+citalopram,'43063068330',20,mg,PD-RX PHARM,Active
+citalopram,'43353011615',20,mg,APHENA PHARMA S,Active
+citalopram,'43353011645',20,mg,APHENA PHARMA S,Active
+citalopram,'43353011660',20,mg,APHENA PHARMA S,Active
+citalopram,'43353020815',20,mg,APHENA PHARMA S,Active
+citalopram,'43353020845',20,mg,APHENA PHARMA S,Active
+citalopram,'43353064215',20,mg,APHENA PHARMA S,Active
+citalopram,'43353064245',20,mg,APHENA PHARMA S,Active
+citalopram,'43353064260',20,mg,APHENA PHARMA S,Active
+citalopram,'43353077815',20,mg,APHENA PHARMA S,Active
+citalopram,'43353077845',20,mg,APHENA PHARMA S,Active
+citalopram,'43353077860',20,mg,APHENA PHARMA S,Active
+citalopram,'45802059665',20,mg,PERRIGO CO.,Active
+citalopram,'45802059678',20,mg,PERRIGO CO.,Active
+citalopram,'49999078930',20,mg,QUALITY CARE,Active
+citalopram,'49999078960',20,mg,QUALITY CARE,Active
+citalopram,'49999078990',20,mg,QUALITY CARE,Active
+citalopram,'50436091602',20,mg,UNIT DOSE SERVI,Active
+citalopram,'52959077330',20,mg,PHARMA PAC,Active
+citalopram,'52959077352',20,mg,PHARMA PAC,Active
+citalopram,'52959077360',20,mg,PHARMA PAC,Active
+citalopram,'54458089602',20,mg,INTERNATIONAL L,Active
+citalopram,'54458091202',20,mg,INTERNATIONAL L,Active
+citalopram,'54458092205',20,mg,INTERNATIONAL L,Active
+citalopram,'54458098005',20,mg,INTERNATIONAL L,Active
+citalopram,'54458098010',20,mg,INTERNATIONAL L,Active
+citalopram,'54569562600',20,mg,A-S MEDICATION,Active
+citalopram,'54569562601',20,mg,A-S MEDICATION,Active
+citalopram,'54569562602',20,mg,A-S MEDICATION,Active
+citalopram,'54569562603',20,mg,A-S MEDICATION,Active
+citalopram,'54868517800',20,mg,PHYSICIANS TC.,Active
+citalopram,'54868517801',20,mg,PHYSICIANS TC.,Active
+citalopram,'54868517802',20,mg,PHYSICIANS TC.,Active
+citalopram,'54868517803',20,mg,PHYSICIANS TC.,Active
+citalopram,'54868517804',20,mg,PHYSICIANS TC.,Active
+citalopram,'54868517805',20,mg,PHYSICIANS TC.,Active
+citalopram,'55045334106',20,mg,DRX,Active
+citalopram,'55111034301',20,mg,DR.REDDY'S LAB,Active
+citalopram,'55111034305',20,mg,DR.REDDY'S LAB,Active
+citalopram,'55111034330',20,mg,DR.REDDY'S LAB,Active
+citalopram,'55289088314',20,mg,PD-RX PHARM,Active
+citalopram,'55289088330',20,mg,PD-RX PHARM,Active
+citalopram,'55289088360',20,mg,PD-RX PHARM,Active
+citalopram,'55289088390',20,mg,PD-RX PHARM,Active
+citalopram,'55700009090',20,mg,QUALITY CARE,Active
+citalopram,'55700035630',20,mg,QUALITY CARE,Active
+citalopram,'55700035690',20,mg,QUALITY CARE,Active
+citalopram,'55887026107',20,mg,DHS INC.,Active
+citalopram,'55887026130',20,mg,DHS INC.,Active
+citalopram,'57664050813',20,mg,CARACO/SUN PHAR,Active
+citalopram,'57664050818',20,mg,CARACO/SUN PHAR,Active
+citalopram,'57664050883',20,mg,CARACO PHARM,Active
+citalopram,'57664050888',20,mg,CARACO PHARM,Active
+citalopram,'58016017800',20,mg,SOUTHWOOD PHARM,Active
+citalopram,'58016017802',20,mg,SOUTHWOOD PHARM,Active
+citalopram,'58016017804',20,mg,SOUTHWOOD PHARM,Active
+citalopram,'58016017805',20,mg,SOUTHWOOD PHARM,Active
+citalopram,'58016017810',20,mg,SOUTHWOOD PHARM,Active
+citalopram,'58016017812',20,mg,SOUTHWOOD PHARM,Active
+citalopram,'58016017814',20,mg,SOUTHWOOD PHARM,Active
+citalopram,'58016017815',20,mg,SOUTHWOOD PHARM,Active
+citalopram,'58016017820',20,mg,SOUTHWOOD PHARM,Active
+citalopram,'58016017830',20,mg,SOUTHWOOD PHARM,Active
+citalopram,'58016017840',20,mg,SOUTHWOOD PHARM,Active
+citalopram,'58016017850',20,mg,SOUTHWOOD PHARM,Active
+citalopram,'58016017860',20,mg,SOUTHWOOD PHARM,Active
+citalopram,'58016017889',20,mg,SOUTHWOOD PHARM,Active
+citalopram,'58016017890',20,mg,SOUTHWOOD PHARM,Active
+citalopram,'58016017899',20,mg,SOUTHWOOD PHARM,Active
+citalopram,'58864087714',20,mg,PD-RX PHARM,Active
+citalopram,'59746054401',20,mg,CADISTA PHARMAC,Active
+citalopram,'59746054405',20,mg,CADISTA PHARMAC,Active
+citalopram,'59762480101',20,mg,GREENSTONE LLC.,Active
+citalopram,'59762480103',20,mg,GREENSTONE LLC.,Active
+citalopram,'59762480105',20,mg,GREENSTONE LLC.,Active
+citalopram,'59762480106',20,mg,GREENSTONE LLC.,Active
+citalopram,'60429017401',20,mg,"GSMS, INC.",Active
+citalopram,'60429017410',20,mg,"GSMS, INC.",Active
+citalopram,'60429017430',20,mg,"GSMS, INC.",Active
+citalopram,'60505251901',20,mg,APOTEX CORP,Active
+citalopram,'60505251903',20,mg,APOTEX CORP,Active
+citalopram,'60505251904',20,mg,APOTEX CORP,Active
+citalopram,'60505251908',20,mg,APOTEX CORP,Active
+citalopram,'61073003401',20,mg,AMKAS LABS.,Active
+citalopram,'61919005630',20,mg,DIRECT RX,Active
+citalopram,'61919005690',20,mg,DIRECT RX,Active
+citalopram,'63629131801',20,mg,BRYANT RANCH PR,Active
+citalopram,'63629131802',20,mg,BRYANT RANCH PR,Active
+citalopram,'63874111301',20,mg,ALTURA PHARMA,Active
+citalopram,'63874111303',20,mg,ALTURA PHARMA,Active
+citalopram,'63874111306',20,mg,ALTURA PHARMA,Active
+citalopram,'64679097011',20,mg,WOCKHARDT USA L,Active
+citalopram,'64679097014',20,mg,WOCKHARDT USA L,Active
+citalopram,'64720017103',20,mg,COREPHARMA LLC,Active
+citalopram,'64720017110',20,mg,COREPHARMA LLC,Active
+citalopram,'64720017111',20,mg,COREPHARMA LLC,Active
+citalopram,'65162005303',20,mg,AMNEAL PHARMACE,Active
+citalopram,'65162005310',20,mg,AMNEAL PHARMACE,Active
+citalopram,'65162005350',20,mg,AMNEAL PHARMACE,Active
+citalopram,'65862000601',20,mg,AUROBINDO PHARM,Active
+citalopram,'65862000605',20,mg,AUROBINDO PHARM,Active
+citalopram,'65862000610',20,mg,AUROBINDO PHARM,Active
+citalopram,'65862000630',20,mg,AUROBINDO PHARM,Active
+citalopram,'66336099330',20,mg,DISPENSING SOLN,Active
+citalopram,'66336099390',20,mg,DISPENSING SOLN,Active
+citalopram,'67544114039',20,mg,APHENA PHARMA S,Active
+citalopram,'68071023130',20,mg,NUCARE PHARMACE,Active
+citalopram,'68071023152',20,mg,NUCARE PHARMACE,Active
+citalopram,'68071023160',20,mg,NUCARE PHARMACE,Active
+citalopram,'68071023190',20,mg,NUCARE PHARMACE,Active
+citalopram,'68084006601',20,mg,AHP,Active
+citalopram,'68084006611',20,mg,AHP,Active
+citalopram,'68084074401',20,mg,AHP,Active
+citalopram,'68084074411',20,mg,AHP,Active
+citalopram,'68115048930',20,mg,"DISPENSEXPRESS,",Active
+citalopram,'69097082307',20,mg,"CIPLA USA, INC.",Active
+citalopram,'69097082312',20,mg,"CIPLA USA, INC.",Active
+citalopram,'76282020701',20,mg,EXELAN PHARMACE,Active
+citalopram,'76282020705',20,mg,EXELAN PHARMACE,Active
+citalopram,'76282020710',20,mg,EXELAN PHARMACE,Active
+citalopram,'76282020730',20,mg,EXELAN PHARMACE,Active
+citalopram,'00093474201',40,mg,TEVA USA,Active
+citalopram,'00093474205',40,mg,TEVA USA,Active
+citalopram,'00093474219',40,mg,TEVA USA,Active
+citalopram,'00093474250',40,mg,TEVA USA,Active
+citalopram,'00093474293',40,mg,TEVA USA,Active
+citalopram,'00172474200',40,mg,IVAX PHARMACEUT,Active
+citalopram,'00172474210',40,mg,IVAX PHARMACEUT,Active
+citalopram,'00172474260',40,mg,IVAX PHARMACEUT,Active
+citalopram,'00172474270',40,mg,IVAX PHARMACEUT,Active
+citalopram,'00172474285',40,mg,IVAX PHARMACEUT,Active
+citalopram,'00185037301',40,mg,SANDOZ,Active
+citalopram,'00185037310',40,mg,EON LABS,Active
+citalopram,'00228275711',40,mg,ALPHARMA US,Active
+citalopram,'00228275750',40,mg,ALPHARMA US,Active
+citalopram,'00258369701',40,mg,INWOOD LABS.,Active
+citalopram,'00258369710',40,mg,INWOOD LABS.,Active
+citalopram,'00378192401',40,mg,MYLAN,Active
+citalopram,'00378192405',40,mg,MYLAN,Active
+citalopram,'00378623301',40,mg,MYLAN,Active
+citalopram,'00378623305',40,mg,MYLAN,Active
+citalopram,'00440729415',40,mg,LIBERTY PHARM,Active
+citalopram,'00440729430',40,mg,LIBERTY PHARM,Active
+citalopram,'00440729445',40,mg,LIBERTY PHARM,Active
+citalopram,'00440729490',40,mg,LIBERTY PHARM,Active
+citalopram,'00591317801',40,mg,WATSON LABS,Active
+citalopram,'00591317805',40,mg,WATSON LABS,Active
+citalopram,'00713474201',40,mg,G & W LABS.,Active
+citalopram,'00713474205',40,mg,G & W LABS.,Active
+citalopram,'00781515901',40,mg,SANDOZ,Active
+citalopram,'00904608661',40,mg,MAJOR PHARMACEU,Active
+citalopram,'10544018230',40,mg,BLENHEIM PHARMA,Active
+citalopram,'10544018290',40,mg,BLENHEIM PHARMA,Active
+citalopram,'10768761601',40,mg,PERRIGO CO.,Active
+citalopram,'10768761603',40,mg,PERRIGO CO.,Active
+citalopram,'12280016900',40,mg,"DISPENSEXPRESS,",Active
+citalopram,'12280016930',40,mg,"DISPENSEXPRESS,",Active
+citalopram,'13107000701',40,mg,AUROBINDO PHARM,Active
+citalopram,'13107000705',40,mg,AUROBINDO PHARM,Active
+citalopram,'13668001101',40,mg,TORRENT PHARMAC,Active
+citalopram,'13668001105',40,mg,TORRENT PHARMAC,Active
+citalopram,'13668001108',40,mg,TORRENT PHARMAC,Active
+citalopram,'13668001130',40,mg,TORRENT PHARMAC,Active
+citalopram,'13668001174',40,mg,TORRENT PHARMAC,Active
+citalopram,'16590048030',40,mg,STAT RX USA,Active
+citalopram,'16590048045',40,mg,STAT RX USA,Active
+citalopram,'16590048060',40,mg,STAT RX USA,Active
+citalopram,'16590048072',40,mg,STAT RX USA,Active
+citalopram,'16590048090',40,mg,STAT RX USA,Active
+citalopram,'18837025230',40,mg,INNOVIANT PHARM,Active
+citalopram,'21695003200',40,mg,PHYSICIAN PARTN,Active
+citalopram,'21695003230',40,mg,PHYSICIAN PARTN,Active
+citalopram,'21695003260',40,mg,PHYSICIAN PARTN,Active
+citalopram,'21695003290',40,mg,PHYSICIAN PARTN,Active
+citalopram,'23490722603',40,mg,PALMETTO STATE,Active
+citalopram,'23490722605',40,mg,PALMETTO STATE,Active
+citalopram,'23490722606',40,mg,PALMETTO STATE,Active
+citalopram,'23490722609',40,mg,PALMETTO STATE,Active
+citalopram,'24658014201',40,mg,BLU PHARMACEUTI,Active
+citalopram,'24658014210',40,mg,BLU PHARMACEUTI,Active
+citalopram,'24658014230',40,mg,BLU PHARMACEUTI,Active
+citalopram,'31722020801',40,mg,CAMBER PHARMACE,Active
+citalopram,'31722020805',40,mg,CAMBER PHARMACE,Active
+citalopram,'31722020810',40,mg,CAMBER PHARMACE,Active
+citalopram,'33358008430',40,mg,RXCHANGE CO.,Active
+citalopram,'33358008460',40,mg,RXCHANGE CO.,Active
+citalopram,'35356071830',40,mg,QUALITY CARE,Active
+citalopram,'42254006600',40,mg,PHYSICIAN PARTN,Active
+citalopram,'42254011930',40,mg,PHYSICIAN PARTN,Active
+citalopram,'42254011990',40,mg,PHYSICIAN PARTN,Active
+citalopram,'42806002101',40,mg,EPIC PHARMA LLC,Active
+citalopram,'42806002110',40,mg,EPIC PHARMA LLC,Active
+citalopram,'43063022101',40,mg,PD-RX PHARM,Active
+citalopram,'43063022130',40,mg,PD-RX PHARM,Active
+citalopram,'43063022190',40,mg,PD-RX PHARM,Active
+citalopram,'43063038501',40,mg,PD-RX PHARM,Active
+citalopram,'43063038530',40,mg,PD-RX PHARM,Active
+citalopram,'43063038590',40,mg,PD-RX PHARM,Active
+citalopram,'43063067030',40,mg,PD-RX PHARM,Active
+citalopram,'43063067090',40,mg,PD-RX PHARM,Active
+citalopram,'43353009130',40,mg,APHENA PHARMA S,Active
+citalopram,'43353011215',40,mg,APHENA PHARMA S,Active
+citalopram,'43353011245',40,mg,APHENA PHARMA S,Active
+citalopram,'43353011253',40,mg,APHENA PHARMA S,Active
+citalopram,'43353011260',40,mg,APHENA PHARMA S,Active
+citalopram,'43353048115',40,mg,APHENA PHARMA S,Active
+citalopram,'43353048145',40,mg,APHENA PHARMA S,Active
+citalopram,'43353048173',40,mg,APHENA PHARMA S,Active
+citalopram,'43353057315',40,mg,APHENA PHARMA S,Active
+citalopram,'43353057330',40,mg,APHENA PHARMA S,Active
+citalopram,'43353057345',40,mg,APHENA PHARMA S,Active
+citalopram,'43353057360',40,mg,APHENA PHARMA S,Active
+citalopram,'45802061665',40,mg,PERRIGO CO.,Active
+citalopram,'45802061678',40,mg,PERRIGO CO.,Active
+citalopram,'49999065400',40,mg,QUALITY CARE,Active
+citalopram,'49999065430',40,mg,QUALITY CARE,Active
+citalopram,'49999065490',40,mg,QUALITY CARE,Active
+citalopram,'52959098630',40,mg,PHARMA PAC,Active
+citalopram,'54458088910',40,mg,INTERNATIONAL L,Active
+citalopram,'54569562700',40,mg,A-S MEDICATION,Active
+citalopram,'54569562701',40,mg,A-S MEDICATION,Active
+citalopram,'54569562702',40,mg,A-S MEDICATION,Active
+citalopram,'54868123900',40,mg,PHYSICIANS TC.,Active
+citalopram,'54868123901',40,mg,PHYSICIANS TC.,Active
+citalopram,'54868123902',40,mg,PHYSICIANS TC.,Active
+citalopram,'54868123903',40,mg,PHYSICIANS TC.,Active
+citalopram,'54868123904',40,mg,PHYSICIANS TC.,Active
+citalopram,'55045342400',40,mg,DRX,Active
+citalopram,'55111034401',40,mg,DR.REDDY'S LAB,Active
+citalopram,'55111034405',40,mg,DR.REDDY'S LAB,Active
+citalopram,'55111034430',40,mg,DR.REDDY'S LAB,Active
+citalopram,'55700009490',40,mg,QUALITY CARE,Active
+citalopram,'55700032490',40,mg,QUALITY CARE,Active
+citalopram,'57664050913',40,mg,CARACO/SUN PHAR,Active
+citalopram,'57664050918',40,mg,CARACO/SUN PHAR,Active
+citalopram,'57664050983',40,mg,CARACO PHARM,Active
+citalopram,'57664050988',40,mg,CARACO/SUN PHAR,Active
+citalopram,'58016022400',40,mg,SOUTHWOOD PHARM,Active
+citalopram,'58016022402',40,mg,SOUTHWOOD PHARM,Active
+citalopram,'58016022404',40,mg,SOUTHWOOD PHARM,Active
+citalopram,'58016022405',40,mg,SOUTHWOOD PHARM,Active
+citalopram,'58016022410',40,mg,SOUTHWOOD PHARM,Active
+citalopram,'58016022412',40,mg,SOUTHWOOD PHARM,Active
+citalopram,'58016022414',40,mg,SOUTHWOOD PHARM,Active
+citalopram,'58016022415',40,mg,SOUTHWOOD PHARM,Active
+citalopram,'58016022420',40,mg,SOUTHWOOD PHARM,Active
+citalopram,'58016022430',40,mg,SOUTHWOOD PHARM,Active
+citalopram,'58016022440',40,mg,SOUTHWOOD PHARM,Active
+citalopram,'58016022450',40,mg,SOUTHWOOD PHARM,Active
+citalopram,'58016022460',40,mg,SOUTHWOOD PHARM,Active
+citalopram,'58016022489',40,mg,SOUTHWOOD PHARM,Active
+citalopram,'58016022490',40,mg,SOUTHWOOD PHARM,Active
+citalopram,'58016022499',40,mg,SOUTHWOOD PHARM,Active
+citalopram,'58517010030',40,mg,NEW HORIZON RX,Active
+citalopram,'58864081215',40,mg,PD-RX PHARM,Active
+citalopram,'58864081230',40,mg,PD-RX PHARM,Active
+citalopram,'59746054601',40,mg,CADISTA PHARMAC,Active
+citalopram,'59746054605',40,mg,CADISTA PHARMAC,Active
+citalopram,'59762480201',40,mg,GREENSTONE LLC.,Active
+citalopram,'59762480203',40,mg,GREENSTONE LLC.,Active
+citalopram,'59762480205',40,mg,GREENSTONE LLC.,Active
+citalopram,'59762480206',40,mg,GREENSTONE LLC.,Active
+citalopram,'60429017501',40,mg,"GSMS, INC.",Active
+citalopram,'60429017510',40,mg,"GSMS, INC.",Active
+citalopram,'60429017530',40,mg,"GSMS, INC.",Active
+citalopram,'60505252001',40,mg,APOTEX CORP,Active
+citalopram,'60505252003',40,mg,APOTEX CORP,Active
+citalopram,'60505252004',40,mg,APOTEX CORP,Active
+citalopram,'60505252008',40,mg,APOTEX CORP,Active
+citalopram,'61073003501',40,mg,AMKAS LABS.,Active
+citalopram,'63187014030',40,mg,PROFICIENT RX L,Active
+citalopram,'63629331701',40,mg,BRYANT RANCH PR,Active
+citalopram,'63874115700',40,mg,ALTURA PHARMA,Active
+citalopram,'63874115703',40,mg,ALTURA PHARMA,Active
+citalopram,'64679097111',40,mg,WOCKHARDT USA L,Active
+citalopram,'64679097114',40,mg,WOCKHARDT USA L,Active
+citalopram,'64720017203',40,mg,COREPHARMA LLC,Active
+citalopram,'64720017210',40,mg,COREPHARMA LLC,Active
+citalopram,'64720017211',40,mg,COREPHARMA LLC,Active
+citalopram,'65162005403',40,mg,AMNEAL PHARMACE,Active
+citalopram,'65162005410',40,mg,AMNEAL PHARMACE,Active
+citalopram,'65162005450',40,mg,AMNEAL PHARMACE,Active
+citalopram,'65243030203',40,mg,"VA CMOP, DALLAS",Active
+citalopram,'65243030209',40,mg,"VA CMOP, DALLAS",Active
+citalopram,'65243031003',40,mg,"VA CMOP, DALLAS",Active
+citalopram,'65243031009',40,mg,"VA CMOP, DALLAS",Active
+citalopram,'65243031015',40,mg,"VA CMOP, DALLAS",Active
+citalopram,'65243031045',40,mg,"VA CMOP, DALLAS",Active
+citalopram,'65243031903',40,mg,"VA CMOP, DALLAS",Active
+citalopram,'65243031909',40,mg,"VA CMOP, DALLAS",Active
+citalopram,'65243031945',40,mg,"VA CMOP, DALLAS",Active
+citalopram,'65243038109',40,mg,"VA CMOP, DALLAS",Active
+citalopram,'65243038145',40,mg,"VA CMOP, DALLAS",Active
+citalopram,'65243038409',40,mg,"VA CMOP, DALLAS",Active
+citalopram,'65243038445',40,mg,"VA CMOP, DALLAS",Active
+citalopram,'65862000701',40,mg,AUROBINDO PHARM,Active
+citalopram,'65862000705',40,mg,AUROBINDO PHARM,Active
+citalopram,'65862000710',40,mg,AUROBINDO PHARM,Active
+citalopram,'65862000730',40,mg,AUROBINDO PHARM,Active
+citalopram,'66336027130',40,mg,DISPENSING SOLN,Active
+citalopram,'67544035215',40,mg,APHENA PHARMA S,Active
+citalopram,'67544035230',40,mg,APHENA PHARMA S,Active
+citalopram,'67544035245',40,mg,APHENA PHARMA S,Active
+citalopram,'67544035253',40,mg,APHENA PHARMA S,Active
+citalopram,'67544035260',40,mg,APHENA PHARMA S,Active
+citalopram,'67544035273',40,mg,APHENA PHARMA S,Active
+citalopram,'67544036015',40,mg,APHENA PHARMA S,Active
+citalopram,'67544036030',40,mg,APHENA PHARMA S,Active
+citalopram,'67544036045',40,mg,APHENA PHARMA S,Active
+citalopram,'67544036053',40,mg,APHENA PHARMA S,Active
+citalopram,'67544036060',40,mg,APHENA PHARMA S,Active
+citalopram,'67544036073',40,mg,APHENA PHARMA S,Active
+citalopram,'67544036615',40,mg,APHENA PHARMA S,Active
+citalopram,'67544036630',40,mg,APHENA PHARMA S,Active
+citalopram,'67544036645',40,mg,APHENA PHARMA S,Active
+citalopram,'67544036653',40,mg,APHENA PHARMA S,Active
+citalopram,'67544036660',40,mg,APHENA PHARMA S,Active
+citalopram,'67544036673',40,mg,APHENA PHARMA S,Active
+citalopram,'67544040915',40,mg,APHENA PHARMA S,Active
+citalopram,'67544040930',40,mg,APHENA PHARMA S,Active
+citalopram,'67544040945',40,mg,APHENA PHARMA S,Active
+citalopram,'67544040953',40,mg,APHENA PHARMA S,Active
+citalopram,'67544040960',40,mg,APHENA PHARMA S,Active
+citalopram,'67544040973',40,mg,APHENA PHARMA S,Active
+citalopram,'67544058815',40,mg,APHENA PHARMA S,Active
+citalopram,'67544058830',40,mg,APHENA PHARMA S,Active
+citalopram,'67544058845',40,mg,APHENA PHARMA S,Active
+citalopram,'67544058853',40,mg,APHENA PHARMA S,Active
+citalopram,'67544058860',40,mg,APHENA PHARMA S,Active
+citalopram,'67544058873',40,mg,APHENA PHARMA S,Active
+citalopram,'67544090615',40,mg,APHENA PHARMA S,Active
+citalopram,'67544090630',40,mg,APHENA PHARMA S,Active
+citalopram,'67544090645',40,mg,APHENA PHARMA S,Active
+citalopram,'67544090653',40,mg,APHENA PHARMA S,Active
+citalopram,'67544090660',40,mg,APHENA PHARMA S,Active
+citalopram,'67544090673',40,mg,APHENA PHARMA S,Active
+citalopram,'68071022230',40,mg,NUCARE PHARMACE,Active
+citalopram,'68645025254',40,mg,LEGACY PHARMACE,Active
+citalopram,'68645028254',40,mg,LEGACY PHARMACE,Active
+citalopram,'68645046754',40,mg,LEGACY PHARMACE,Active
+citalopram,'68645051454',40,mg,LEGACY PHARMACE,Active
+citalopram,'69097082407',40,mg,"CIPLA USA, INC.",Active
+citalopram,'69097082412',40,mg,"CIPLA USA, INC.",Active
+citalopram,'76282020801',40,mg,EXELAN PHARMACE,Active
+citalopram,'76282020805',40,mg,EXELAN PHARMACE,Active
+citalopram,'76282020810',40,mg,EXELAN PHARMACE,Active
+citalopram,'76282020830',40,mg,EXELAN PHARMACE,Active
+Brisdelle,'68968907503',7.5,mg,NOVEN/SEBELA PH,Active
+Paxil,'00029321013',10,mg,APOTEX CORP,Active
+Paxil,'49999059730',10,mg,QUALITY CARE,Active
+Paxil,'52959063930',10,mg,PHARMA PAC,Active
+Paxil,'54569478700',10,mg,A-S MEDICATION,Active
+Paxil,'54868406500',10,mg,PHYSICIANS TC.,Active
+Paxil,'58016066100',10,mg,SOUTHWOOD PHARM,Active
+Paxil,'58016066130',10,mg,SOUTHWOOD PHARM,Active
+Paxil,'58016066160',10,mg,SOUTHWOOD PHARM,Active
+Paxil,'58016066190',10,mg,SOUTHWOOD PHARM,Active
+Paxil,'60505366303',10,mg,APOTEX CORP,Active
+Paxil,'00029321548',10,mg/5 mL,APOTEX CORP,Active
+Paxil,'60505040205',10,mg/5 mL,APOTEX CORP,Active
+Paxil,'00029321113',20,mg,APOTEX CORP,Active
+Paxil,'00029321120',20,mg,GLAXOSMITHKLINE,Active
+Paxil,'00029321121',20,mg,GLAXOSMITHKLINE,Active
+Paxil,'00029321159',20,mg,GLAXOSMITHKLINE,Active
+Paxil,'52959036012',20,mg,PHARMA PAC,Active
+Paxil,'52959036015',20,mg,PHARMA PAC,Active
+Paxil,'52959036020',20,mg,PHARMA PAC,Active
+Paxil,'52959036030',20,mg,PHARMA PAC,Active
+Paxil,'52959036060',20,mg,PHARMA PAC,Active
+Paxil,'54569381000',20,mg,A-S MEDICATION,Active
+Paxil,'54569381001',20,mg,A-S MEDICATION,Active
+Paxil,'54569860900',20,mg,A-S MEDICATION,Active
+Paxil,'54868297600',20,mg,PHYSICIANS TC.,Active
+Paxil,'54868297602',20,mg,PHYSICIANS TC.,Active
+Paxil,'55175271503',20,mg,CHESHIRE DRUGS,Active
+Paxil,'55289021630',20,mg,PD-RX PHARM,Active
+Paxil,'55887054930',20,mg,DHS INC.,Active
+Paxil,'55887054960',20,mg,DHS INC.,Active
+Paxil,'57866004508',20,mg,VIBRANTA INC.,Active
+Paxil,'57866561402',20,mg,VIBRANTA INC.,Active
+Paxil,'58016048500',20,mg,SOUTHWOOD PHARM,Active
+Paxil,'58016048502',20,mg,SOUTHWOOD PHARM,Active
+Paxil,'58016048510',20,mg,SOUTHWOOD PHARM,Active
+Paxil,'58016048512',20,mg,SOUTHWOOD PHARM,Active
+Paxil,'58016048515',20,mg,SOUTHWOOD PHARM,Active
+Paxil,'58016048520',20,mg,SOUTHWOOD PHARM,Active
+Paxil,'58016048525',20,mg,SOUTHWOOD PHARM,Active
+Paxil,'58016048530',20,mg,SOUTHWOOD PHARM,Active
+Paxil,'58016048540',20,mg,SOUTHWOOD PHARM,Active
+Paxil,'58016048550',20,mg,SOUTHWOOD PHARM,Active
+Paxil,'58016048560',20,mg,SOUTHWOOD PHARM,Active
+Paxil,'58016048570',20,mg,SOUTHWOOD PHARM,Active
+Paxil,'58016048580',20,mg,SOUTHWOOD PHARM,Active
+Paxil,'58016048590',20,mg,SOUTHWOOD PHARM,Active
+Paxil,'58864037215',20,mg,PD-RX PHARM,Active
+Paxil,'58864037230',20,mg,PD-RX PHARM,Active
+Paxil,'60505366403',20,mg,APOTEX CORP,Active
+Paxil,'68115026730',20,mg,"DISPENSEXPRESS,",Active
+Paxil,'00029321213',30,mg,APOTEX CORP,Active
+Paxil,'00029321220',30,mg,SK BEECHAM PHAR,Active
+Paxil,'54569414800',30,mg,A-S MEDICATION,Active
+Paxil,'54868352600',30,mg,PHYSICIANS TC.,Active
+Paxil,'58016080600',30,mg,SOUTHWOOD PHARM,Active
+Paxil,'58016080630',30,mg,SOUTHWOOD PHARM,Active
+Paxil,'58016080660',30,mg,SOUTHWOOD PHARM,Active
+Paxil,'58016080690',30,mg,SOUTHWOOD PHARM,Active
+Paxil,'60505366503',30,mg,APOTEX CORP,Active
+Paxil,'00029321313',40,mg,APOTEX CORP,Active
+Paxil,'35356034630',40,mg,QUALITY CARE,Active
+Paxil,'54569490100',40,mg,A-S MEDICATION,Active
+Paxil,'54569490101',40,mg,A-S MEDICATION,Active
+Paxil,'54868396200',40,mg,PHYSICIANS TC.,Active
+Paxil,'58016073100',40,mg,SOUTHWOOD PHARM,Active
+Paxil,'58016073130',40,mg,SOUTHWOOD PHARM,Active
+Paxil,'58016073160',40,mg,SOUTHWOOD PHARM,Active
+Paxil,'58016073190',40,mg,SOUTHWOOD PHARM,Active
+Paxil,'58864062815',40,mg,PD-RX PHARM,Active
+Paxil,'60505366603',40,mg,APOTEX CORP,Active
+Paxil CR,'00029320613',12.5,mg,APOTEX CORP,Active
+Paxil CR,'00029460613',12.5,mg,APOTEX CORP,Active
+Paxil CR,'12280001615',12.5,mg,"DISPENSEXPRESS,",Active
+Paxil CR,'16590051430',12.5,mg,STAT RX USA,Active
+Paxil CR,'16590051460',12.5,mg,STAT RX USA,Active
+Paxil CR,'16590051472',12.5,mg,STAT RX USA,Active
+Paxil CR,'16590051490',12.5,mg,STAT RX USA,Active
+Paxil CR,'21695015915',12.5,mg,PHYSICIAN PARTN,Active
+Paxil CR,'21695015930',12.5,mg,PHYSICIAN PARTN,Active
+Paxil CR,'49999078030',12.5,mg,QUALITY CARE,Active
+Paxil CR,'54569589800',12.5,mg,A-S MEDICATION,Active
+Paxil CR,'54868534700',12.5,mg,PHYSICIANS TC.,Active
+Paxil CR,'55887021330',12.5,mg,DHS INC.,Active
+Paxil CR,'58016089700',12.5,mg,SOUTHWOOD PHARM,Active
+Paxil CR,'58016089730',12.5,mg,SOUTHWOOD PHARM,Active
+Paxil CR,'58016089760',12.5,mg,SOUTHWOOD PHARM,Active
+Paxil CR,'58016089790',12.5,mg,SOUTHWOOD PHARM,Active
+Paxil CR,'60505366803',12.5,mg,APOTEX CORP,Active
+Paxil CR,'68115065630',12.5,mg,"DISPENSEXPRESS,",Active
+Paxil CR,'00029320713',25,mg,APOTEX CORP,Active
+Paxil CR,'00029460713',25,mg,APOTEX CORP,Active
+Paxil CR,'12280001715',25,mg,"DISPENSEXPRESS,",Active
+Paxil CR,'21695016030',25,mg,PHYSICIAN PARTN,Active
+Paxil CR,'49999060115',25,mg,QUALITY CARE,Active
+Paxil CR,'49999060130',25,mg,QUALITY CARE,Active
+Paxil CR,'52959079230',25,mg,PHARMA PAC,Active
+Paxil CR,'54569559800',25,mg,A-S MEDICATION,Active
+Paxil CR,'54868479100',25,mg,PHYSICIANS TC.,Active
+Paxil CR,'55887021430',25,mg,DHS INC.,Active
+Paxil CR,'58016076100',25,mg,SOUTHWOOD PHARM,Active
+Paxil CR,'58016076130',25,mg,SOUTHWOOD PHARM,Active
+Paxil CR,'58016076160',25,mg,SOUTHWOOD PHARM,Active
+Paxil CR,'58016076190',25,mg,SOUTHWOOD PHARM,Active
+Paxil CR,'60505366903',25,mg,APOTEX CORP,Active
+Paxil CR,'68115029730',25,mg,"DISPENSEXPRESS,",Active
+Paxil CR,'00029320813',37.5,mg,APOTEX CORP,Active
+Paxil CR,'12280001815',37.5,mg,"DISPENSEXPRESS,",Active
+Paxil CR,'54868536500',37.5,mg,PHYSICIANS TC.,Active
+Paxil CR,'58016090700',37.5,mg,SOUTHWOOD PHARM,Active
+Paxil CR,'58016090730',37.5,mg,SOUTHWOOD PHARM,Active
+Paxil CR,'58016090760',37.5,mg,SOUTHWOOD PHARM,Active
+Paxil CR,'58016090790',37.5,mg,SOUTHWOOD PHARM,Active
+Paxil CR,'60505367003',37.5,mg,APOTEX CORP,Active
+Paxil CR,'68115091330',37.5,mg,"DISPENSEXPRESS,",Active
+Pexeva,'63672201001',10,mg,JDS PHARMACEUTI,Active
+Pexeva,'68968201001',10,mg,NOVEN/SEBELA PH,Active
+Pexeva,'63672202001',20,mg,JDS PHARMACEUTI,Active
+Pexeva,'68968202001',20,mg,NOVEN/SEBELA PH,Active
+Pexeva,'63672203001',30,mg,JDS PHARMACEUTI,Active
+Pexeva,'68968203001',30,mg,NOVEN/SEBELA PH,Active
+Pexeva,'63672204001',40,mg,JDS PHARMACEUTI,Active
+Pexeva,'68968204001',40,mg,NOVEN/SEBELA PH,Active
+paroxetine HCl,'00093711456',10,mg,TEVA USA,Active
+paroxetine HCl,'00093711498',10,mg,TEVA USA,Active
+paroxetine HCl,'00378700110',10,mg,MYLAN,Active
+paroxetine HCl,'00378700193',10,mg,MYLAN,Active
+paroxetine HCl,'00406209703',10,mg,MALLINCKRODT PH,Active
+paroxetine HCl,'00406209705',10,mg,MALLINCKRODT PH,Active
+paroxetine HCl,'00406209790',10,mg,MALLINCKRODT PH,Active
+paroxetine HCl,'00440801030',10,mg,LIBERTY PHARM,Active
+paroxetine HCl,'00440801090',10,mg,LIBERTY PHARM,Active
+paroxetine HCl,'00781196731',10,mg,SANDOZ,Active
+paroxetine HCl,'00904567661',10,mg,MAJOR PHARMACEU,Active
+paroxetine HCl,'00904610961',10,mg,MAJOR PHARMACEU,Active
+paroxetine HCl,'13107015405',10,mg,AUROBINDO PHARM,Active
+paroxetine HCl,'13107015430',10,mg,AUROBINDO PHARM,Active
+paroxetine HCl,'13107015490',10,mg,AUROBINDO PHARM,Active
+paroxetine HCl,'16590032230',10,mg,STAT RX USA,Active
+paroxetine HCl,'16590032256',10,mg,STAT RX USA,Active
+paroxetine HCl,'16590032260',10,mg,STAT RX USA,Active
+paroxetine HCl,'16590032272',10,mg,STAT RX USA,Active
+paroxetine HCl,'16590032290',10,mg,STAT RX USA,Active
+paroxetine HCl,'21695010130',10,mg,PHYSICIAN PARTN,Active
+paroxetine HCl,'21695010160',10,mg,PHYSICIAN PARTN,Active
+paroxetine HCl,'21695010190',10,mg,PHYSICIAN PARTN,Active
+paroxetine HCl,'23490694701',10,mg,PALMETTO STATE,Active
+paroxetine HCl,'23490694702',10,mg,PALMETTO STATE,Active
+paroxetine HCl,'43547034703',10,mg,SOLCO HEALTHCAR,Active
+paroxetine HCl,'43547034709',10,mg,SOLCO HEALTHCAR,Active
+paroxetine HCl,'43547034711',10,mg,SOLCO HEALTHCAR,Active
+paroxetine HCl,'43547034750',10,mg,SOLCO HEALTHCAR,Active
+paroxetine HCl,'49884087605',10,mg,PAR PHARM.,Active
+paroxetine HCl,'49884087611',10,mg,PAR PHARM.,Active
+paroxetine HCl,'49999063130',10,mg,QUALITY CARE,Active
+paroxetine HCl,'49999063160',10,mg,QUALITY CARE,Active
+paroxetine HCl,'50268064011',10,mg,AVPAK,Active
+paroxetine HCl,'50268064015',10,mg,AVPAK,Active
+paroxetine HCl,'52343007330',10,mg,LUCID PHARMA LL,Active
+paroxetine HCl,'52343007390',10,mg,LUCID PHARMA LL,Active
+paroxetine HCl,'52343007399',10,mg,LUCID PHARMA LL,Active
+paroxetine HCl,'52817014050',10,mg,"TRUPHARMA, LLC.",Active
+paroxetine HCl,'52817014090',10,mg,"TRUPHARMA, LLC.",Active
+paroxetine HCl,'52959077530',10,mg,PHARMA PAC,Active
+paroxetine HCl,'52959077550',10,mg,PHARMA PAC,Active
+paroxetine HCl,'52959077560',10,mg,PHARMA PAC,Active
+paroxetine HCl,'54458099010',10,mg,INTERNATIONAL L,Active
+paroxetine HCl,'54569631800',10,mg,A-S MEDICATION,Active
+paroxetine HCl,'54868508000',10,mg,PHYSICIANS TC.,Active
+paroxetine HCl,'54868508001',10,mg,PHYSICIANS TC.,Active
+paroxetine HCl,'55289003745',10,mg,PD-RX PHARM,Active
+paroxetine HCl,'55289003790',10,mg,PD-RX PHARM,Active
+paroxetine HCl,'55700004060',10,mg,QUALITY CARE,Active
+paroxetine HCl,'57664042113',10,mg,CARACO/SUN PHAR,Active
+paroxetine HCl,'57664042183',10,mg,CARACO/SUN PHAR,Active
+paroxetine HCl,'57664042199',10,mg,CARACO/SUN PHAR,Active
+paroxetine HCl,'58016081700',10,mg,SOUTHWOOD PHARM,Active
+paroxetine HCl,'58016081702',10,mg,SOUTHWOOD PHARM,Active
+paroxetine HCl,'58016081703',10,mg,SOUTHWOOD PHARM,Active
+paroxetine HCl,'58016081730',10,mg,SOUTHWOOD PHARM,Active
+paroxetine HCl,'58016081760',10,mg,SOUTHWOOD PHARM,Active
+paroxetine HCl,'58016081790',10,mg,SOUTHWOOD PHARM,Active
+paroxetine HCl,'59762180801',10,mg,GREENSTONE LLC.,Active
+paroxetine HCl,'59762180802',10,mg,GREENSTONE LLC.,Active
+paroxetine HCl,'59762180803',10,mg,GREENSTONE LLC.,Active
+paroxetine HCl,'60429073401',10,mg,"GSMS, INC.",Active
+paroxetine HCl,'60429073405',10,mg,"GSMS, INC.",Active
+paroxetine HCl,'60429073410',10,mg,"GSMS, INC.",Active
+paroxetine HCl,'60429073430',10,mg,"GSMS, INC.",Active
+paroxetine HCl,'60429073490',10,mg,"GSMS, INC.",Active
+paroxetine HCl,'60505009701',10,mg,APOTEX CORP,Active
+paroxetine HCl,'60505009702',10,mg,APOTEX CORP,Active
+paroxetine HCl,'60505009704',10,mg,APOTEX CORP,Active
+paroxetine HCl,'62037084530',10,mg,WATSON LABS,Active
+paroxetine HCl,'63187019030',10,mg,PROFICIENT RX L,Active
+paroxetine HCl,'63629320501',10,mg,BRYANT RANCH PR,Active
+paroxetine HCl,'63629320502',10,mg,BRYANT RANCH PR,Active
+paroxetine HCl,'63629320503',10,mg,BRYANT RANCH PR,Active
+paroxetine HCl,'63739040710',10,mg,MCKESSON PACKAG,Active
+paroxetine HCl,'63739088810',10,mg,MCKESSON PACKAG,Active
+paroxetine HCl,'63874112506',10,mg,ALTURA PHARMA,Active
+paroxetine HCl,'65862015430',10,mg,AUROBINDO PHARM,Active
+paroxetine HCl,'67544036515',10,mg,APHENA PHARMA S,Active
+paroxetine HCl,'67544036530',10,mg,APHENA PHARMA S,Active
+paroxetine HCl,'67544036553',10,mg,APHENA PHARMA S,Active
+paroxetine HCl,'67544036560',10,mg,APHENA PHARMA S,Active
+paroxetine HCl,'68084004401',10,mg,AHP,Active
+paroxetine HCl,'68084004405',10,mg,AHP,Active
+paroxetine HCl,'68084004411',10,mg,AHP,Active
+paroxetine HCl,'68084004430',10,mg,AHP,Active
+paroxetine HCl,'68084004480',10,mg,AHP,Active
+paroxetine HCl,'68084004485',10,mg,AHP,Active
+paroxetine HCl,'68084004490',10,mg,AHP,Active
+paroxetine HCl,'68115073800',10,mg,"DISPENSEXPRESS,",Active
+paroxetine HCl,'68115073830',10,mg,"DISPENSEXPRESS,",Active
+paroxetine HCl,'68258700703',10,mg,DISPENSING SOLN,Active
+paroxetine HCl,'68382009701',10,mg,ZYDUS PHARMACEU,Active
+paroxetine HCl,'68382009705',10,mg,ZYDUS PHARMACEU,Active
+paroxetine HCl,'68382009706',10,mg,ZYDUS PHARMACEU,Active
+paroxetine HCl,'68382009710',10,mg,ZYDUS PHARMACEU,Active
+paroxetine HCl,'68382009716',10,mg,ZYDUS PHARMACEU,Active
+paroxetine HCl,'60505037401',10,mg/5 mL,APOTEX CORP,Active
+paroxetine HCl,'00378200305',12.5,mg,MYLAN,Active
+paroxetine HCl,'00378200393',12.5,mg,MYLAN,Active
+paroxetine HCl,'21695055230',12.5,mg,PHYSICIAN PARTN,Active
+paroxetine HCl,'42291057950',12.5,mg,AVKARE,Active
+paroxetine HCl,'51079082463',12.5,mg,MYLAN INSTITUTI,Active
+paroxetine HCl,'54868617800',12.5,mg,PHYSICIANS TC.,Active
+paroxetine HCl,'60505367303',12.5,mg,APOTEX CORP,Active
+paroxetine HCl,'62175047032',12.5,mg,KREMERS URBAN,Active
+paroxetine HCl,'00093711556',20,mg,TEVA USA,Active
+paroxetine HCl,'00093711598',20,mg,TEVA USA,Active
+paroxetine HCl,'00378700210',20,mg,MYLAN,Active
+paroxetine HCl,'00378700293',20,mg,MYLAN,Active
+paroxetine HCl,'00406209801',20,mg,MALLINCKRODT PH,Active
+paroxetine HCl,'00406209803',20,mg,MALLINCKRODT PH,Active
+paroxetine HCl,'00406209805',20,mg,MALLINCKRODT PH,Active
+paroxetine HCl,'00406209890',20,mg,MALLINCKRODT PH,Active
+paroxetine HCl,'00440801130',20,mg,LIBERTY PHARM,Active
+paroxetine HCl,'00440801190',20,mg,LIBERTY PHARM,Active
+paroxetine HCl,'00781199101',20,mg,SANDOZ,Active
+paroxetine HCl,'00904567761',20,mg,MAJOR PHARMACEU,Active
+paroxetine HCl,'00904611061',20,mg,MAJOR PHARMACEU,Active
+paroxetine HCl,'10544043330',20,mg,BLENHEIM PHARMA,Active
+paroxetine HCl,'13107015505',20,mg,AUROBINDO PHARM,Active
+paroxetine HCl,'13107015530',20,mg,AUROBINDO PHARM,Active
+paroxetine HCl,'13107015590',20,mg,AUROBINDO PHARM,Active
+paroxetine HCl,'13107015599',20,mg,AUROBINDO PHARM,Active
+paroxetine HCl,'16590018115',20,mg,STAT RX USA,Active
+paroxetine HCl,'16590018128',20,mg,STAT RX USA,Active
+paroxetine HCl,'16590018130',20,mg,STAT RX USA,Active
+paroxetine HCl,'16590018160',20,mg,STAT RX USA,Active
+paroxetine HCl,'16590018190',20,mg,STAT RX USA,Active
+paroxetine HCl,'18837022230',20,mg,INNOVIANT PHARM,Active
+paroxetine HCl,'21695010230',20,mg,PHYSICIAN PARTN,Active
+paroxetine HCl,'21695010260',20,mg,PHYSICIAN PARTN,Active
+paroxetine HCl,'21695010290',20,mg,PHYSICIAN PARTN,Active
+paroxetine HCl,'21695046590',20,mg,PHYSICIAN PARTN,Active
+paroxetine HCl,'23490605901',20,mg,PALMETTO STATE,Active
+paroxetine HCl,'23490605902',20,mg,PALMETTO STATE,Active
+paroxetine HCl,'23490605903',20,mg,PALMETTO STATE,Active
+paroxetine HCl,'33358028330',20,mg,RXCHANGE CO.,Active
+paroxetine HCl,'33358028360',20,mg,RXCHANGE CO.,Active
+paroxetine HCl,'33358028390',20,mg,RXCHANGE CO.,Active
+paroxetine HCl,'35356089230',20,mg,QUALITY CARE,Active
+paroxetine HCl,'35356089290',20,mg,QUALITY CARE,Active
+paroxetine HCl,'35356099430',20,mg,QUALITY CARE,Active
+paroxetine HCl,'35356099460',20,mg,QUALITY CARE,Active
+paroxetine HCl,'35356099490',20,mg,QUALITY CARE,Active
+paroxetine HCl,'43063017090',20,mg,PD-RX PHARM,Active
+paroxetine HCl,'43353055415',20,mg,APHENA PHARMA S,Active
+paroxetine HCl,'43353055445',20,mg,APHENA PHARMA S,Active
+paroxetine HCl,'43353071315',20,mg,APHENA PHARMA S,Active
+paroxetine HCl,'43353099415',20,mg,APHENA PHARMA S,Active
+paroxetine HCl,'43353099445',20,mg,APHENA PHARMA S,Active
+paroxetine HCl,'43547034803',20,mg,SOLCO HEALTHCAR,Active
+paroxetine HCl,'43547034809',20,mg,SOLCO HEALTHCAR,Active
+paroxetine HCl,'43547034811',20,mg,SOLCO HEALTHCAR,Active
+paroxetine HCl,'43547034850',20,mg,SOLCO HEALTHCAR,Active
+paroxetine HCl,'49884087701',20,mg,PAR PHARM.,Active
+paroxetine HCl,'49884087705',20,mg,PAR PHARM.,Active
+paroxetine HCl,'49884087711',20,mg,PAR PHARM.,Active
+paroxetine HCl,'49999063200',20,mg,QUALITY CARE,Active
+paroxetine HCl,'49999063230',20,mg,QUALITY CARE,Active
+paroxetine HCl,'49999063260',20,mg,QUALITY CARE,Active
+paroxetine HCl,'50268064111',20,mg,AVPAK,Active
+paroxetine HCl,'50268064115',20,mg,AVPAK,Active
+paroxetine HCl,'50436393303',20,mg,UNIT DOSE SERVI,Active
+paroxetine HCl,'51079077401',20,mg,MYLAN INSTITUTI,Active
+paroxetine HCl,'51079077420',20,mg,MYLAN INSTITUTI,Active
+paroxetine HCl,'52343007430',20,mg,LUCID PHARMA LL,Active
+paroxetine HCl,'52343007490',20,mg,LUCID PHARMA LL,Active
+paroxetine HCl,'52343007499',20,mg,LUCID PHARMA LL,Active
+paroxetine HCl,'52817014100',20,mg,"TRUPHARMA, LLC.",Active
+paroxetine HCl,'52817014190',20,mg,"TRUPHARMA, LLC.",Active
+paroxetine HCl,'52959077630',20,mg,PHARMA PAC,Active
+paroxetine HCl,'52959077660',20,mg,PHARMA PAC,Active
+paroxetine HCl,'54458098904',20,mg,INTERNATIONAL L,Active
+paroxetine HCl,'54458098910',20,mg,INTERNATIONAL L,Active
+paroxetine HCl,'54569554100',20,mg,A-S MEDICATION,Active
+paroxetine HCl,'54569554101',20,mg,A-S MEDICATION,Active
+paroxetine HCl,'54569554102',20,mg,A-S MEDICATION,Active
+paroxetine HCl,'54868493700',20,mg,PHYSICIANS TC.,Active
+paroxetine HCl,'54868493701',20,mg,PHYSICIANS TC.,Active
+paroxetine HCl,'54868493702',20,mg,PHYSICIANS TC.,Active
+paroxetine HCl,'54868493703',20,mg,PHYSICIANS TC.,Active
+paroxetine HCl,'54868493704',20,mg,PHYSICIANS TC.,Active
+paroxetine HCl,'55154667304',20,mg,CARDINAL HEALTH,Active
+paroxetine HCl,'55154667307',20,mg,CARDINAL HEALTH,Active
+paroxetine HCl,'55289097230',20,mg,PD-RX PHARM,Active
+paroxetine HCl,'55289097260',20,mg,PD-RX PHARM,Active
+paroxetine HCl,'55289097290',20,mg,PD-RX PHARM,Active
+paroxetine HCl,'55700037930',20,mg,QUALITY CARE,Active
+paroxetine HCl,'55700037960',20,mg,QUALITY CARE,Active
+paroxetine HCl,'55700037990',20,mg,QUALITY CARE,Active
+paroxetine HCl,'55887039430',20,mg,DHS INC.,Active
+paroxetine HCl,'55887039460',20,mg,DHS INC.,Active
+paroxetine HCl,'57664042213',20,mg,CARACO/SUN PHAR,Active
+paroxetine HCl,'57664042218',20,mg,CARACO PHARM,Active
+paroxetine HCl,'57664042283',20,mg,CARACO/SUN PHAR,Active
+paroxetine HCl,'57664042299',20,mg,CARACO/SUN PHAR,Active
+paroxetine HCl,'58016081800',20,mg,SOUTHWOOD PHARM,Active
+paroxetine HCl,'58016081802',20,mg,SOUTHWOOD PHARM,Active
+paroxetine HCl,'58016081803',20,mg,SOUTHWOOD PHARM,Active
+paroxetine HCl,'58016081830',20,mg,SOUTHWOOD PHARM,Active
+paroxetine HCl,'58016081860',20,mg,SOUTHWOOD PHARM,Active
+paroxetine HCl,'58016081890',20,mg,SOUTHWOOD PHARM,Active
+paroxetine HCl,'58517016030',20,mg,NEW HORIZON RX,Active
+paroxetine HCl,'58864074115',20,mg,PD-RX PHARM,Active
+paroxetine HCl,'58864074130',20,mg,PD-RX PHARM,Active
+paroxetine HCl,'59762181001',20,mg,GREENSTONE LLC.,Active
+paroxetine HCl,'59762181002',20,mg,GREENSTONE LLC.,Active
+paroxetine HCl,'59762181003',20,mg,GREENSTONE LLC.,Active
+paroxetine HCl,'59762181004',20,mg,GREENSTONE LLC.,Active
+paroxetine HCl,'60429073501',20,mg,"GSMS, INC.",Active
+paroxetine HCl,'60429073505',20,mg,"GSMS, INC.",Active
+paroxetine HCl,'60429073510',20,mg,"GSMS, INC.",Active
+paroxetine HCl,'60429073530',20,mg,"GSMS, INC.",Active
+paroxetine HCl,'60429073590',20,mg,"GSMS, INC.",Active
+paroxetine HCl,'60505008300',20,mg,APOTEX CORP,Active
+paroxetine HCl,'60505008301',20,mg,APOTEX CORP,Active
+paroxetine HCl,'60505008302',20,mg,APOTEX CORP,Active
+paroxetine HCl,'60505008304',20,mg,APOTEX CORP,Active
+paroxetine HCl,'61919018130',20,mg,DIRECT RX,Active
+paroxetine HCl,'62037084601',20,mg,WATSON LABS,Active
+paroxetine HCl,'62037084610',20,mg,WATSON LABS,Active
+paroxetine HCl,'62037084630',20,mg,WATSON LABS,Active
+paroxetine HCl,'63629184001',20,mg,BRYANT RANCH PR,Active
+paroxetine HCl,'63629184002',20,mg,BRYANT RANCH PR,Active
+paroxetine HCl,'63739096310',20,mg,MCKESSON PACKAG,Active
+paroxetine HCl,'63874053801',20,mg,ALTURA PHARMA,Active
+paroxetine HCl,'63874053810',20,mg,ALTURA PHARMA,Active
+paroxetine HCl,'63874053814',20,mg,ALTURA PHARMA,Active
+paroxetine HCl,'63874053815',20,mg,ALTURA PHARMA,Active
+paroxetine HCl,'63874053820',20,mg,ALTURA PHARMA,Active
+paroxetine HCl,'63874053830',20,mg,ALTURA PHARMA,Active
+paroxetine HCl,'63874053860',20,mg,ALTURA PHARMA,Active
+paroxetine HCl,'65243027009',20,mg,"VA CMOP, DALLAS",Active
+paroxetine HCl,'65243033309',20,mg,"VA CMOP, DALLAS",Active
+paroxetine HCl,'65862015505',20,mg,AUROBINDO PHARM,Active
+paroxetine HCl,'65862015530',20,mg,AUROBINDO PHARM,Active
+paroxetine HCl,'65862015599',20,mg,AUROBINDO PHARM,Active
+paroxetine HCl,'66267072130',20,mg,NUCARE PHARMACE,Active
+paroxetine HCl,'66336079930',20,mg,DISPENSING SOLN,Active
+paroxetine HCl,'66336079960',20,mg,DISPENSING SOLN,Active
+paroxetine HCl,'67544021415',20,mg,APHENA PHARMA S,Active
+paroxetine HCl,'67544021430',20,mg,APHENA PHARMA S,Active
+paroxetine HCl,'67544021453',20,mg,APHENA PHARMA S,Active
+paroxetine HCl,'67544031715',20,mg,APHENA PHARMA S,Active
+paroxetine HCl,'67544031730',20,mg,APHENA PHARMA S,Active
+paroxetine HCl,'67544031753',20,mg,APHENA PHARMA S,Active
+paroxetine HCl,'67544031760',20,mg,APHENA PHARMA S,Active
+paroxetine HCl,'67544045515',20,mg,APHENA PHARMA S,Active
+paroxetine HCl,'68084004500',20,mg,AHP,Active
+paroxetine HCl,'68084004501',20,mg,AHP,Active
+paroxetine HCl,'68084004505',20,mg,AHP,Active
+paroxetine HCl,'68084004511',20,mg,AHP,Active
+paroxetine HCl,'68084004530',20,mg,AHP,Active
+paroxetine HCl,'68084004580',20,mg,AHP,Active
+paroxetine HCl,'68084004585',20,mg,AHP,Active
+paroxetine HCl,'68084004590',20,mg,AHP,Active
+paroxetine HCl,'68115047730',20,mg,"DISPENSEXPRESS,",Active
+paroxetine HCl,'68115047760',20,mg,"DISPENSEXPRESS,",Active
+paroxetine HCl,'68115047790',20,mg,"DISPENSEXPRESS,",Active
+paroxetine HCl,'68115074000',20,mg,"DISPENSEXPRESS,",Active
+paroxetine HCl,'68115074030',20,mg,"DISPENSEXPRESS,",Active
+paroxetine HCl,'68382009801',20,mg,ZYDUS PHARMACEU,Active
+paroxetine HCl,'68382009805',20,mg,ZYDUS PHARMACEU,Active
+paroxetine HCl,'68382009806',20,mg,ZYDUS PHARMACEU,Active
+paroxetine HCl,'68382009810',20,mg,ZYDUS PHARMACEU,Active
+paroxetine HCl,'68382009816',20,mg,ZYDUS PHARMACEU,Active
+paroxetine HCl,'68387011230',20,mg,DISPENSING SOLN,Active
+paroxetine HCl,'00378200405',25,mg,MYLAN,Active
+paroxetine HCl,'00378200493',25,mg,MYLAN,Active
+paroxetine HCl,'42291058050',25,mg,AVKARE,Active
+paroxetine HCl,'51079082562',25,mg,MYLAN INSTITUTI,Active
+paroxetine HCl,'51079082563',25,mg,UDL,Active
+paroxetine HCl,'60505367403',25,mg,APOTEX CORP,Active
+paroxetine HCl,'62175047132',25,mg,KREMERS URBAN,Active
+paroxetine HCl,'00093711656',30,mg,TEVA USA,Active
+paroxetine HCl,'00093711698',30,mg,TEVA USA,Active
+paroxetine HCl,'00378700310',30,mg,MYLAN,Active
+paroxetine HCl,'00378700393',30,mg,MYLAN,Active
+paroxetine HCl,'00406209903',30,mg,MALLINCKRODT PH,Active
+paroxetine HCl,'00406209905',30,mg,MALLINCKRODT PH,Active
+paroxetine HCl,'00406209990',30,mg,MALLINCKRODT PH,Active
+paroxetine HCl,'00440801230',30,mg,LIBERTY PHARM,Active
+paroxetine HCl,'00440801290',30,mg,LIBERTY PHARM,Active
+paroxetine HCl,'00781199231',30,mg,SANDOZ,Active
+paroxetine HCl,'00904567861',30,mg,MAJOR PHARMACEU,Active
+paroxetine HCl,'00904611161',30,mg,MAJOR PHARMACEU,Active
+paroxetine HCl,'13107015605',30,mg,AUROBINDO PHARM,Active
+paroxetine HCl,'13107015630',30,mg,AUROBINDO PHARM,Active
+paroxetine HCl,'13107015690',30,mg,AUROBINDO PHARM,Active
+paroxetine HCl,'13107015699',30,mg,AUROBINDO PHARM,Active
+paroxetine HCl,'16590051230',30,mg,STAT RX USA,Active
+paroxetine HCl,'16590051260',30,mg,STAT RX USA,Active
+paroxetine HCl,'16590051272',30,mg,STAT RX USA,Active
+paroxetine HCl,'16590051290',30,mg,STAT RX USA,Active
+paroxetine HCl,'21695010330',30,mg,PHYSICIAN PARTN,Active
+paroxetine HCl,'21695010390',30,mg,PHYSICIAN PARTN,Active
+paroxetine HCl,'23490606001',30,mg,PALMETTO STATE,Active
+paroxetine HCl,'23490606002',30,mg,PALMETTO STATE,Active
+paroxetine HCl,'43547034903',30,mg,SOLCO HEALTHCAR,Active
+paroxetine HCl,'43547034909',30,mg,SOLCO HEALTHCAR,Active
+paroxetine HCl,'43547034911',30,mg,SOLCO HEALTHCAR,Active
+paroxetine HCl,'43547034950',30,mg,SOLCO HEALTHCAR,Active
+paroxetine HCl,'49884087805',30,mg,PAR PHARM.,Active
+paroxetine HCl,'49884087811',30,mg,PAR PHARM.,Active
+paroxetine HCl,'49999061330',30,mg,QUALITY CARE,Active
+paroxetine HCl,'50268064211',30,mg,AVPAK,Active
+paroxetine HCl,'50268064215',30,mg,AVPAK,Active
+paroxetine HCl,'52343007530',30,mg,LUCID PHARMA LL,Active
+paroxetine HCl,'52343007590',30,mg,LUCID PHARMA LL,Active
+paroxetine HCl,'52343007599',30,mg,LUCID PHARMA LL,Active
+paroxetine HCl,'52817014250',30,mg,"TRUPHARMA, LLC.",Active
+paroxetine HCl,'52817014290',30,mg,"TRUPHARMA, LLC.",Active
+paroxetine HCl,'54458098810',30,mg,INTERNATIONAL L,Active
+paroxetine HCl,'54868493800',30,mg,PHYSICIANS TC.,Active
+paroxetine HCl,'57664042413',30,mg,CARACO/SUN PHAR,Active
+paroxetine HCl,'57664042483',30,mg,CARACO/SUN PHAR,Active
+paroxetine HCl,'57664042499',30,mg,CARACO/SUN PHAR,Active
+paroxetine HCl,'58016074900',30,mg,SOUTHWOOD PHARM,Active
+paroxetine HCl,'58016074902',30,mg,SOUTHWOOD PHARM,Active
+paroxetine HCl,'58016074930',30,mg,SOUTHWOOD PHARM,Active
+paroxetine HCl,'58016074960',30,mg,SOUTHWOOD PHARM,Active
+paroxetine HCl,'58016074990',30,mg,SOUTHWOOD PHARM,Active
+paroxetine HCl,'59762181201',30,mg,GREENSTONE LLC.,Active
+paroxetine HCl,'59762181202',30,mg,GREENSTONE LLC.,Active
+paroxetine HCl,'59762181203',30,mg,GREENSTONE LLC.,Active
+paroxetine HCl,'60429073601',30,mg,"GSMS, INC.",Active
+paroxetine HCl,'60429073605',30,mg,"GSMS, INC.",Active
+paroxetine HCl,'60429073610',30,mg,"GSMS, INC.",Active
+paroxetine HCl,'60429073630',30,mg,"GSMS, INC.",Active
+paroxetine HCl,'60429073690',30,mg,"GSMS, INC.",Active
+paroxetine HCl,'60505008401',30,mg,APOTEX CORP,Active
+paroxetine HCl,'60505008402',30,mg,APOTEX CORP,Active
+paroxetine HCl,'60505008404',30,mg,APOTEX CORP,Active
+paroxetine HCl,'61919051230',30,mg,DIRECT RX,Active
+paroxetine HCl,'62037084730',30,mg,WATSON LABS,Active
+paroxetine HCl,'63629334801',30,mg,BRYANT RANCH PR,Active
+paroxetine HCl,'63629334802',30,mg,BRYANT RANCH PR,Active
+paroxetine HCl,'63629334803',30,mg,BRYANT RANCH PR,Active
+paroxetine HCl,'63629334804',30,mg,BRYANT RANCH PR,Active
+paroxetine HCl,'63874115103',30,mg,ALTURA PHARMA,Active
+paroxetine HCl,'65862015630',30,mg,AUROBINDO PHARM,Active
+paroxetine HCl,'65862015699',30,mg,AUROBINDO PHARM,Active
+paroxetine HCl,'67544021330',30,mg,APHENA PHARMA S,Active
+paroxetine HCl,'67544021353',30,mg,APHENA PHARMA S,Active
+paroxetine HCl,'67544021360',30,mg,APHENA PHARMA S,Active
+paroxetine HCl,'68084004601',30,mg,AHP,Active
+paroxetine HCl,'68084004605',30,mg,AHP,Active
+paroxetine HCl,'68084004611',30,mg,AHP,Active
+paroxetine HCl,'68084004630',30,mg,AHP,Active
+paroxetine HCl,'68084004680',30,mg,AHP,Active
+paroxetine HCl,'68084004685',30,mg,AHP,Active
+paroxetine HCl,'68084004690',30,mg,AHP,Active
+paroxetine HCl,'68115080130',30,mg,"DISPENSEXPRESS,",Active
+paroxetine HCl,'68258700803',30,mg,DISPENSING SOLN,Active
+paroxetine HCl,'68382009901',30,mg,ZYDUS PHARMACEU,Active
+paroxetine HCl,'68382009905',30,mg,ZYDUS PHARMACEU,Active
+paroxetine HCl,'68382009906',30,mg,ZYDUS PHARMACEU,Active
+paroxetine HCl,'68382009910',30,mg,ZYDUS PHARMACEU,Active
+paroxetine HCl,'68382009916',30,mg,ZYDUS PHARMACEU,Active
+paroxetine HCl,'00378200593',37.5,mg,MYLAN,Active
+paroxetine HCl,'00378200693',37.5,mg,MYLAN,Active
+paroxetine HCl,'42291058130',37.5,mg,AVKARE,Active
+paroxetine HCl,'60505367503',37.5,mg,APOTEX CORP,Active
+paroxetine HCl,'62175047232',37.5,mg,KREMERS URBAN,Active
+paroxetine HCl,'00093712156',40,mg,TEVA USA,Active
+paroxetine HCl,'00093712198',40,mg,TEVA USA,Active
+paroxetine HCl,'00378700410',40,mg,MYLAN,Active
+paroxetine HCl,'00378700493',40,mg,MYLAN,Active
+paroxetine HCl,'00406200103',40,mg,MALLINCKRODT PH,Active
+paroxetine HCl,'00406200105',40,mg,MALLINCKRODT PH,Active
+paroxetine HCl,'00406200190',40,mg,MALLINCKRODT PH,Active
+paroxetine HCl,'00440801315',40,mg,LIBERTY PHARM,Active
+paroxetine HCl,'00440801330',40,mg,LIBERTY PHARM,Active
+paroxetine HCl,'00440801390',40,mg,LIBERTY PHARM,Active
+paroxetine HCl,'00781196931',40,mg,SANDOZ,Active
+paroxetine HCl,'00904567961',40,mg,MAJOR PHARMACEU,Active
+paroxetine HCl,'00904611261',40,mg,MAJOR PHARMACEU,Active
+paroxetine HCl,'10544080930',40,mg,BLENHEIM PHARMA,Active
+paroxetine HCl,'13107015705',40,mg,AUROBINDO PHARM,Active
+paroxetine HCl,'13107015730',40,mg,AUROBINDO PHARM,Active
+paroxetine HCl,'13107015790',40,mg,AUROBINDO PHARM,Active
+paroxetine HCl,'13107015799',40,mg,AUROBINDO PHARM,Active
+paroxetine HCl,'16590051330',40,mg,STAT RX USA,Active
+paroxetine HCl,'16590051356',40,mg,STAT RX USA,Active
+paroxetine HCl,'16590051360',40,mg,STAT RX USA,Active
+paroxetine HCl,'16590051372',40,mg,STAT RX USA,Active
+paroxetine HCl,'16590051390',40,mg,STAT RX USA,Active
+paroxetine HCl,'18837027830',40,mg,INNOVIANT PHARM,Active
+paroxetine HCl,'21695010430',40,mg,PHYSICIAN PARTN,Active
+paroxetine HCl,'21695010460',40,mg,PHYSICIAN PARTN,Active
+paroxetine HCl,'21695010490',40,mg,PHYSICIAN PARTN,Active
+paroxetine HCl,'23490694801',40,mg,PALMETTO STATE,Active
+paroxetine HCl,'23490694802',40,mg,PALMETTO STATE,Active
+paroxetine HCl,'23490694803',40,mg,PALMETTO STATE,Active
+paroxetine HCl,'43353042915',40,mg,APHENA PHARMA S,Active
+paroxetine HCl,'43353054415',40,mg,APHENA PHARMA S,Active
+paroxetine HCl,'43353054445',40,mg,APHENA PHARMA S,Active
+paroxetine HCl,'43547035003',40,mg,SOLCO HEALTHCAR,Active
+paroxetine HCl,'43547035009',40,mg,SOLCO HEALTHCAR,Active
+paroxetine HCl,'43547035011',40,mg,SOLCO HEALTHCAR,Active
+paroxetine HCl,'43547035050',40,mg,SOLCO HEALTHCAR,Active
+paroxetine HCl,'47463600330',40,mg,PALLIRX,Active
+paroxetine HCl,'49884087905',40,mg,PAR PHARM.,Active
+paroxetine HCl,'49884087911',40,mg,PAR PHARM.,Active
+paroxetine HCl,'49999082830',40,mg,QUALITY CARE,Active
+paroxetine HCl,'50268064311',40,mg,AVPAK,Active
+paroxetine HCl,'50268064315',40,mg,AVPAK,Active
+paroxetine HCl,'51079077520',40,mg,UDL,Active
+paroxetine HCl,'52343007630',40,mg,LUCID PHARMA LL,Active
+paroxetine HCl,'52343007690',40,mg,LUCID PHARMA LL,Active
+paroxetine HCl,'52343007699',40,mg,LUCID PHARMA LL,Active
+paroxetine HCl,'52817014350',40,mg,"TRUPHARMA, LLC.",Active
+paroxetine HCl,'52817014390',40,mg,"TRUPHARMA, LLC.",Active
+paroxetine HCl,'54569568200',40,mg,A-S MEDICATION,Active
+paroxetine HCl,'54569568201',40,mg,A-S MEDICATION,Active
+paroxetine HCl,'54868481700',40,mg,PHYSICIANS TC.,Active
+paroxetine HCl,'54868481701',40,mg,PHYSICIANS TC.,Active
+paroxetine HCl,'54868481702',40,mg,PHYSICIANS TC.,Active
+paroxetine HCl,'55045317308',40,mg,DRX,Active
+paroxetine HCl,'55289005345',40,mg,PD-RX PHARM,Active
+paroxetine HCl,'55289005390',40,mg,PD-RX PHARM,Active
+paroxetine HCl,'55887034630',40,mg,DHS INC.,Active
+paroxetine HCl,'55887034660',40,mg,DHS INC.,Active
+paroxetine HCl,'57664042513',40,mg,CARACO/SUN PHAR,Active
+paroxetine HCl,'57664042583',40,mg,CARACO/SUN PHAR,Active
+paroxetine HCl,'57664042599',40,mg,CARACO/SUN PHAR,Active
+paroxetine HCl,'58864071615',40,mg,PD-RX PHARM,Active
+paroxetine HCl,'58864071630',40,mg,PD-RX PHARM,Active
+paroxetine HCl,'59762181501',40,mg,GREENSTONE LLC.,Active
+paroxetine HCl,'59762181502',40,mg,GREENSTONE LLC.,Active
+paroxetine HCl,'59762181503',40,mg,GREENSTONE LLC.,Active
+paroxetine HCl,'60429073701',40,mg,"GSMS, INC.",Active
+paroxetine HCl,'60429073705',40,mg,"GSMS, INC.",Active
+paroxetine HCl,'60429073710',40,mg,"GSMS, INC.",Active
+paroxetine HCl,'60429073715',40,mg,"GSMS, INC.",Active
+paroxetine HCl,'60429073730',40,mg,"GSMS, INC.",Active
+paroxetine HCl,'60429073745',40,mg,"GSMS, INC.",Active
+paroxetine HCl,'60429073790',40,mg,"GSMS, INC.",Active
+paroxetine HCl,'60505010101',40,mg,APOTEX CORP,Active
+paroxetine HCl,'60505010102',40,mg,APOTEX CORP,Active
+paroxetine HCl,'60505010104',40,mg,APOTEX CORP,Active
+paroxetine HCl,'60505010107',40,mg,APOTEX CORP,Active
+paroxetine HCl,'62037084830',40,mg,WATSON LABS,Active
+paroxetine HCl,'63187043430',40,mg,PROFICIENT RX L,Active
+paroxetine HCl,'63629334901',40,mg,BRYANT RANCH PR,Active
+paroxetine HCl,'63739040810',40,mg,MCKESSON PACKAG,Active
+paroxetine HCl,'65243026845',40,mg,"VA CMOP, DALLAS",Active
+paroxetine HCl,'65862015730',40,mg,AUROBINDO PHARM,Active
+paroxetine HCl,'65862015799',40,mg,AUROBINDO PHARM,Active
+paroxetine HCl,'67544023515',40,mg,APHENA PHARMA S,Active
+paroxetine HCl,'67544023530',40,mg,APHENA PHARMA S,Active
+paroxetine HCl,'67544023545',40,mg,APHENA PHARMA S,Active
+paroxetine HCl,'67544043415',40,mg,APHENA PHARMA S,Active
+paroxetine HCl,'67544043430',40,mg,APHENA PHARMA S,Active
+paroxetine HCl,'67544043445',40,mg,APHENA PHARMA S,Active
+paroxetine HCl,'67544049230',40,mg,APHENA PHARMA S,Active
+paroxetine HCl,'68084004701',40,mg,AHP,Active
+paroxetine HCl,'68084004705',40,mg,AHP,Active
+paroxetine HCl,'68084004711',40,mg,AHP,Active
+paroxetine HCl,'68084004730',40,mg,AHP,Active
+paroxetine HCl,'68084004780',40,mg,AHP,Active
+paroxetine HCl,'68084004785',40,mg,AHP,Active
+paroxetine HCl,'68084004790',40,mg,AHP,Active
+paroxetine HCl,'68115048360',40,mg,"DISPENSEXPRESS,",Active
+paroxetine HCl,'68115075130',40,mg,"DISPENSEXPRESS,",Active
+paroxetine HCl,'68382000101',40,mg,ZYDUS PHARMACEU,Active
+paroxetine HCl,'68382000105',40,mg,ZYDUS PHARMACEU,Active
+paroxetine HCl,'68382000106',40,mg,ZYDUS PHARMACEU,Active
+paroxetine HCl,'68382000110',40,mg,ZYDUS PHARMACEU,Active
+paroxetine HCl,'68382000116',40,mg,ZYDUS PHARMACEU,Active
+Zoloft,'00049491030',100,mg,PFIZER US PHARM,Active
+Zoloft,'00049491041',100,mg,PFIZER US PHARM,Active
+Zoloft,'00049491050',100,mg,"ROERIG,J.B.",Active
+Zoloft,'00049491066',100,mg,PFIZER US PHARM,Active
+Zoloft,'00049491073',100,mg,PFIZER US PHARM,Active
+Zoloft,'00049491094',100,mg,PFIZER US PHARM,Active
+Zoloft,'00247037106',100,mg,PRESCRIPT PHARM,Active
+Zoloft,'00247037107',100,mg,PRESCRIPT PHARM,Active
+Zoloft,'00247037110',100,mg,PRESCRIPT PHARM,Active
+Zoloft,'00247037114',100,mg,PRESCRIPT PHARM,Active
+Zoloft,'00247037128',100,mg,PRESCRIPT PHARM,Active
+Zoloft,'00247037130',100,mg,PRESCRIPT PHARM,Active
+Zoloft,'00247037150',100,mg,PRESCRIPT PHARM,Active
+Zoloft,'00247037160',100,mg,PRESCRIPT PHARM,Active
+Zoloft,'16590025130',100,mg,STAT RX USA,Active
+Zoloft,'16590025160',100,mg,STAT RX USA,Active
+Zoloft,'16590025190',100,mg,STAT RX USA,Active
+Zoloft,'49999037500',100,mg,QUALITY CARE,Active
+Zoloft,'49999037515',100,mg,QUALITY CARE,Active
+Zoloft,'49999037530',100,mg,QUALITY CARE,Active
+Zoloft,'52959078130',100,mg,PHARMA PAC,Active
+Zoloft,'52959078160',100,mg,PHARMA PAC,Active
+Zoloft,'54569357500',100,mg,A-S MEDICATION,Active
+Zoloft,'54569357501',100,mg,A-S MEDICATION,Active
+Zoloft,'54569357502',100,mg,A-S MEDICATION,Active
+Zoloft,'54569357503',100,mg,A-S MEDICATION,Active
+Zoloft,'54868263700',100,mg,PHYSICIANS TC.,Active
+Zoloft,'54868263701',100,mg,PHYSICIANS TC.,Active
+Zoloft,'54868263703',100,mg,PHYSICIANS TC.,Active
+Zoloft,'54868263704',100,mg,PHYSICIANS TC.,Active
+Zoloft,'54868263705',100,mg,PHYSICIANS TC.,Active
+Zoloft,'54868263706',100,mg,PHYSICIANS TC.,Active
+Zoloft,'54868263707',100,mg,PHYSICIANS TC.,Active
+Zoloft,'54868263708',100,mg,PHYSICIANS TC.,Active
+Zoloft,'55045220801',100,mg,DRX,Active
+Zoloft,'55045220803',100,mg,DRX,Active
+Zoloft,'55045220807',100,mg,DRX,Active
+Zoloft,'55045220808',100,mg,DRX,Active
+Zoloft,'55175271608',100,mg,CHESHIRE DRUGS,Active
+Zoloft,'55289055015',100,mg,PD-RX PHARM,Active
+Zoloft,'55289055030',100,mg,PD-RX PHARM,Active
+Zoloft,'55887096715',100,mg,DHS INC.,Active
+Zoloft,'55887096730',100,mg,DHS INC.,Active
+Zoloft,'55887096760',100,mg,DHS INC.,Active
+Zoloft,'55887096790',100,mg,DHS INC.,Active
+Zoloft,'57866630500',100,mg,VIBRANTA INC.,Active
+Zoloft,'57866630501',100,mg,VIBRANTA INC.,Active
+Zoloft,'58016066800',100,mg,SOUTHWOOD PHARM,Active
+Zoloft,'58016066830',100,mg,SOUTHWOOD PHARM,Active
+Zoloft,'58016066860',100,mg,SOUTHWOOD PHARM,Active
+Zoloft,'58016066890',100,mg,SOUTHWOOD PHARM,Active
+Zoloft,'58864036615',100,mg,PD-RX PHARM,Active
+Zoloft,'58864036630',100,mg,PD-RX PHARM,Active
+Zoloft,'58864062715',100,mg,PD-RX PHARM,Active
+Zoloft,'58864062730',100,mg,PD-RX PHARM,Active
+Zoloft,'60346070715',100,mg,QUALITY CARE PH,Active
+Zoloft,'60346070730',100,mg,QUALITY CARE PH,Active
+Zoloft,'63874059601',100,mg,ALTURA PHARMA,Active
+Zoloft,'63874059610',100,mg,ALTURA PHARMA,Active
+Zoloft,'63874059614',100,mg,ALTURA PHARMA,Active
+Zoloft,'63874059615',100,mg,ALTURA PHARMA,Active
+Zoloft,'63874059620',100,mg,ALTURA PHARMA,Active
+Zoloft,'63874059630',100,mg,ALTURA PHARMA,Active
+Zoloft,'63874059660',100,mg,ALTURA PHARMA,Active
+Zoloft,'65243006303',100,mg,"VA CMOP, DALLAS",Active
+Zoloft,'65243006306',100,mg,"VA CMOP, DALLAS",Active
+Zoloft,'65243006309',100,mg,"VA CMOP, DALLAS",Active
+Zoloft,'65243006315',100,mg,"VA CMOP, DALLAS",Active
+Zoloft,'65243006318',100,mg,"VA CMOP, DALLAS",Active
+Zoloft,'65243006345',100,mg,"VA CMOP, DALLAS",Active
+Zoloft,'67544008015',100,mg,APHENA PHARMA S,Active
+Zoloft,'67544008030',100,mg,APHENA PHARMA S,Active
+Zoloft,'67544008045',100,mg,APHENA PHARMA S,Active
+Zoloft,'67544008053',100,mg,APHENA PHARMA S,Active
+Zoloft,'67544008060',100,mg,APHENA PHARMA S,Active
+Zoloft,'67544008071',100,mg,APHENA PHARMA S,Active
+Zoloft,'67544008073',100,mg,APHENA PHARMA S,Active
+Zoloft,'67544008074',100,mg,APHENA PHARMA S,Active
+Zoloft,'67544008080',100,mg,APHENA PHARMA S,Active
+Zoloft,'68030630500',100,mg,VIBRANTA INC.,Active
+Zoloft,'68030630501',100,mg,VIBRANTA INC.,Active
+Zoloft,'68115036500',100,mg,"DISPENSEXPRESS,",Active
+Zoloft,'68115036515',100,mg,"DISPENSEXPRESS,",Active
+Zoloft,'68115036530',100,mg,"DISPENSEXPRESS,",Active
+Zoloft,'00049494023',20,mg/mL,PFIZER US PHARM,Active
+Zoloft,'00049496030',25,mg,PFIZER US PHARM,Active
+Zoloft,'00049496050',25,mg,PFIZER US PHARM,Active
+Zoloft,'16590024930',25,mg,STAT RX USA,Active
+Zoloft,'16590024960',25,mg,STAT RX USA,Active
+Zoloft,'16590024990',25,mg,STAT RX USA,Active
+Zoloft,'49999077630',25,mg,QUALITY CARE,Active
+Zoloft,'49999077650',25,mg,QUALITY CARE,Active
+Zoloft,'52959078730',25,mg,PHARMA PAC,Active
+Zoloft,'54569452900',25,mg,A-S MEDICATION,Active
+Zoloft,'54569452901',25,mg,A-S MEDICATION,Active
+Zoloft,'54569452902',25,mg,A-S MEDICATION,Active
+Zoloft,'54868437200',25,mg,PHYSICIANS TC.,Active
+Zoloft,'54868437201',25,mg,PHYSICIANS TC.,Active
+Zoloft,'54868437202',25,mg,PHYSICIANS TC.,Active
+Zoloft,'55045338608',25,mg,DRX,Active
+Zoloft,'55887051920',25,mg,DHS INC.,Active
+Zoloft,'55887051930',25,mg,DHS INC.,Active
+Zoloft,'55887051960',25,mg,DHS INC.,Active
+Zoloft,'55887051990',25,mg,DHS INC.,Active
+Zoloft,'58016066400',25,mg,SOUTHWOOD PHARM,Active
+Zoloft,'58016066430',25,mg,SOUTHWOOD PHARM,Active
+Zoloft,'58016066460',25,mg,SOUTHWOOD PHARM,Active
+Zoloft,'58016066490',25,mg,SOUTHWOOD PHARM,Active
+Zoloft,'63874105405',25,mg,ALTURA PHARMA,Active
+Zoloft,'68071004060',25,mg,NUCARE PHARMACE,Active
+Zoloft,'68115076550',25,mg,"DISPENSEXPRESS,",Active
+Zoloft,'00049490030',50,mg,PFIZER US PHARM,Active
+Zoloft,'00049490041',50,mg,PFIZER US PHARM,Active
+Zoloft,'00049490050',50,mg,"ROERIG,J.B.",Active
+Zoloft,'00049490066',50,mg,PFIZER US PHARM,Active
+Zoloft,'00049490073',50,mg,PFIZER US PHARM,Active
+Zoloft,'00049490094',50,mg,PFIZER US PHARM,Active
+Zoloft,'00247067507',50,mg,PRESCRIPT PHARM,Active
+Zoloft,'00247067514',50,mg,PRESCRIPT PHARM,Active
+Zoloft,'00247067530',50,mg,PRESCRIPT PHARM,Active
+Zoloft,'00247067590',50,mg,PRESCRIPT PHARM,Active
+Zoloft,'16590025030',50,mg,STAT RX USA,Active
+Zoloft,'16590025060',50,mg,STAT RX USA,Active
+Zoloft,'16590025090',50,mg,STAT RX USA,Active
+Zoloft,'49999029215',50,mg,QUALITY CARE,Active
+Zoloft,'49999029230',50,mg,QUALITY CARE,Active
+Zoloft,'52959036100',50,mg,PHARMA PAC,Active
+Zoloft,'52959036114',50,mg,PHARMA PAC,Active
+Zoloft,'52959036130',50,mg,PHARMA PAC,Active
+Zoloft,'52959036160',50,mg,PHARMA PAC,Active
+Zoloft,'54569372400',50,mg,A-S MEDICATION,Active
+Zoloft,'54569372401',50,mg,A-S MEDICATION,Active
+Zoloft,'54569372402',50,mg,A-S MEDICATION,Active
+Zoloft,'54569372403',50,mg,A-S MEDICATION,Active
+Zoloft,'54569372404',50,mg,A-S MEDICATION,Active
+Zoloft,'54569372405',50,mg,A-S MEDICATION,Active
+Zoloft,'54569857900',50,mg,A-S MEDICATION,Active
+Zoloft,'54868219200',50,mg,PHYSICIANS TC.,Active
+Zoloft,'54868219201',50,mg,PHYSICIANS TC.,Active
+Zoloft,'54868219203',50,mg,PHYSICIANS TC.,Active
+Zoloft,'54868219204',50,mg,PHYSICIANS TC.,Active
+Zoloft,'54868219205',50,mg,PHYSICIANS TC.,Active
+Zoloft,'54868219207',50,mg,PHYSICIANS TC.,Active
+Zoloft,'54868219208',50,mg,PHYSICIANS TC.,Active
+Zoloft,'55045222400',50,mg,DRX,Active
+Zoloft,'55045222402',50,mg,DRX,Active
+Zoloft,'55045222407',50,mg,DRX,Active
+Zoloft,'55045222408',50,mg,DRX,Active
+Zoloft,'55175271403',50,mg,CHESHIRE DRUGS,Active
+Zoloft,'55175271404',50,mg,CHESHIRE DRUGS,Active
+Zoloft,'55175271406',50,mg,CHESHIRE DRUGS,Active
+Zoloft,'55289040930',50,mg,PD-RX PHARM,Active
+Zoloft,'55289040960',50,mg,PD-RX PHARM,Active
+Zoloft,'55887048730',50,mg,DHS INC.,Active
+Zoloft,'55887048760',50,mg,DHS INC.,Active
+Zoloft,'55887048782',50,mg,DHS INC.,Active
+Zoloft,'55887048790',50,mg,DHS INC.,Active
+Zoloft,'57866630401',50,mg,VIBRANTA INC.,Active
+Zoloft,'58016036600',50,mg,SOUTHWOOD PHARM,Active
+Zoloft,'58016036630',50,mg,SOUTHWOOD PHARM,Active
+Zoloft,'58016036660',50,mg,SOUTHWOOD PHARM,Active
+Zoloft,'58016036690',50,mg,SOUTHWOOD PHARM,Active
+Zoloft,'58864070730',50,mg,PD-RX PHARM,Active
+Zoloft,'58864089330',50,mg,PD-RX PHARM,Active
+Zoloft,'59723006201',50,mg,HELIAN PHARM.,Active
+Zoloft,'60346051612',50,mg,QUALITY CARE PH,Active
+Zoloft,'60346051630',50,mg,QUALITY CARE PH,Active
+Zoloft,'63874055501',50,mg,ALTURA PHARMA,Active
+Zoloft,'63874055510',50,mg,ALTURA PHARMA,Active
+Zoloft,'63874055514',50,mg,ALTURA PHARMA,Active
+Zoloft,'63874055515',50,mg,ALTURA PHARMA,Active
+Zoloft,'63874055520',50,mg,ALTURA PHARMA,Active
+Zoloft,'63874055530',50,mg,ALTURA PHARMA,Active
+Zoloft,'63874055560',50,mg,ALTURA PHARMA,Active
+Zoloft,'67544029815',50,mg,APHENA PHARMA S,Active
+Zoloft,'67544029830',50,mg,APHENA PHARMA S,Active
+Zoloft,'67544029845',50,mg,APHENA PHARMA S,Active
+Zoloft,'68030630401',50,mg,VIBRANTA INC.,Active
+Zoloft,'68115036600',50,mg,"DISPENSEXPRESS,",Active
+Zoloft,'68115036615',50,mg,"DISPENSEXPRESS,",Active
+Zoloft,'68115036630',50,mg,"DISPENSEXPRESS,",Active
+sertraline,'00054002413',100,mg,ROXANE LABS.,Active
+sertraline,'00054002428',100,mg,ROXANE LABS.,Active
+sertraline,'00093717710',100,mg,TEVA USA,Active
+sertraline,'00093717756',100,mg,TEVA USA,Active
+sertraline,'00143958005',100,mg,"WEST-WARD, INC.",Active
+sertraline,'00143958009',100,mg,"WEST-WARD, INC.",Active
+sertraline,'00143958030',100,mg,"WEST-WARD, INC.",Active
+sertraline,'00143965405',100,mg,"WEST-WARD, INC.",Active
+sertraline,'00143965409',100,mg,"WEST-WARD, INC.",Active
+sertraline,'00143965430',100,mg,"WEST-WARD, INC.",Active
+sertraline,'00172567410',100,mg,TEVA USA,Active
+sertraline,'00185026530',100,mg,SANDOZ,Active
+sertraline,'00228272303',100,mg,ACTAVIS ELIZABE,Active
+sertraline,'00228272309',100,mg,ACTAVIS ELIZABE,Active
+sertraline,'00228272396',100,mg,ACTAVIS ELIZABE,Active
+sertraline,'00378418801',100,mg,MYLAN,Active
+sertraline,'00378418805',100,mg,MYLAN,Active
+sertraline,'00378418893',100,mg,MYLAN,Active
+sertraline,'00378812701',100,mg,MYLAN,Active
+sertraline,'00378812705',100,mg,MYLAN,Active
+sertraline,'00591324010',100,mg,WATSON LABS,Active
+sertraline,'00591324019',100,mg,WATSON LABS,Active
+sertraline,'00591324030',100,mg,WATSON LABS,Active
+sertraline,'00904586861',100,mg,MAJOR PHARMACEU,Active
+sertraline,'00904608961',100,mg,MAJOR PHARMACEU,Active
+sertraline,'00904633361',100,mg,MAJOR PHARMACEU,Active
+sertraline,'13668000601',100,mg,TORRENT PHARMAC,Active
+sertraline,'13668000605',100,mg,TORRENT PHARMAC,Active
+sertraline,'13668000610',100,mg,TORRENT PHARMAC,Active
+sertraline,'13668000630',100,mg,TORRENT PHARMAC,Active
+sertraline,'13668000650',100,mg,TORRENT PHARMAC,Active
+sertraline,'13668000690',100,mg,TORRENT PHARMAC,Active
+sertraline,'16252053530',100,mg,WATSON LABS,Active
+sertraline,'16252053550',100,mg,WATSON LABS,Active
+sertraline,'16252053590',100,mg,WATSON LABS,Active
+sertraline,'16590041615',100,mg,STAT RX USA,Active
+sertraline,'16590041630',100,mg,STAT RX USA,Active
+sertraline,'16590041660',100,mg,STAT RX USA,Active
+sertraline,'16590041672',100,mg,STAT RX USA,Active
+sertraline,'16590041690',100,mg,STAT RX USA,Active
+sertraline,'16714061301',100,mg,NORTHSTAR RX LL,Active
+sertraline,'16714061304',100,mg,NORTHSTAR RX LL,Active
+sertraline,'16714061305',100,mg,NORTHSTAR RX LL,Active
+sertraline,'16714061306',100,mg,NORTHSTAR RX LL,Active
+sertraline,'16729021716',100,mg,ACCORD HEALTHCA,Active
+sertraline,'18837024930',100,mg,INNOVIANT PHARM,Active
+sertraline,'18837024960',100,mg,INNOVIANT PHARM,Active
+sertraline,'21695016630',100,mg,PHYSICIAN PARTN,Active
+sertraline,'21695016660',100,mg,PHYSICIAN PARTN,Active
+sertraline,'21695016690',100,mg,PHYSICIAN PARTN,Active
+sertraline,'23490626301',100,mg,PALMETTO STATE,Active
+sertraline,'23490626302',100,mg,PALMETTO STATE,Active
+sertraline,'23490626303',100,mg,PALMETTO STATE,Active
+sertraline,'31722021405',100,mg,CAMBER PHARMACE,Active
+sertraline,'31722021430',100,mg,CAMBER PHARMACE,Active
+sertraline,'31722021490',100,mg,CAMBER PHARMACE,Active
+sertraline,'33358032330',100,mg,RXCHANGE CO.,Active
+sertraline,'33358032360',100,mg,RXCHANGE CO.,Active
+sertraline,'33358032390',100,mg,RXCHANGE CO.,Active
+sertraline,'35356083230',100,mg,QUALITY CARE,Active
+sertraline,'35356083260',100,mg,QUALITY CARE,Active
+sertraline,'35356083290',100,mg,QUALITY CARE,Active
+sertraline,'43063041390',100,mg,PD-RX PHARM,Active
+sertraline,'43353036215',100,mg,APHENA PHARMA S,Active
+sertraline,'43353036230',100,mg,APHENA PHARMA S,Active
+sertraline,'43353036245',100,mg,APHENA PHARMA S,Active
+sertraline,'43353036253',100,mg,APHENA PHARMA S,Active
+sertraline,'43353036260',100,mg,APHENA PHARMA S,Active
+sertraline,'43353036273',100,mg,APHENA PHARMA S,Active
+sertraline,'43353036280',100,mg,APHENA PHARMA S,Active
+sertraline,'43353036415',100,mg,APHENA PHARMA S,Active
+sertraline,'43353036430',100,mg,APHENA PHARMA S,Active
+sertraline,'43353036445',100,mg,APHENA PHARMA S,Active
+sertraline,'43353036460',100,mg,APHENA PHARMA S,Active
+sertraline,'43353036480',100,mg,APHENA PHARMA S,Active
+sertraline,'43353041515',100,mg,APHENA PHARMA S,Active
+sertraline,'43353041530',100,mg,APHENA PHARMA S,Active
+sertraline,'43353041545',100,mg,APHENA PHARMA S,Active
+sertraline,'43353041553',100,mg,APHENA PHARMA S,Active
+sertraline,'43353041560',100,mg,APHENA PHARMA S,Active
+sertraline,'43353041573',100,mg,APHENA PHARMA S,Active
+sertraline,'43353041580',100,mg,APHENA PHARMA S,Active
+sertraline,'43353041915',100,mg,APHENA PHARMA S,Active
+sertraline,'43353041930',100,mg,APHENA PHARMA S,Active
+sertraline,'43353041945',100,mg,APHENA PHARMA S,Active
+sertraline,'43353041953',100,mg,APHENA PHARMA S,Active
+sertraline,'43353041960',100,mg,APHENA PHARMA S,Active
+sertraline,'43353041973',100,mg,APHENA PHARMA S,Active
+sertraline,'43353041980',100,mg,APHENA PHARMA S,Active
+sertraline,'43353044715',100,mg,APHENA PHARMA S,Active
+sertraline,'43353044730',100,mg,APHENA PHARMA S,Active
+sertraline,'43353044745',100,mg,APHENA PHARMA S,Active
+sertraline,'43353044753',100,mg,APHENA PHARMA S,Active
+sertraline,'43353054915',100,mg,APHENA PHARMA S,Active
+sertraline,'43353054930',100,mg,APHENA PHARMA S,Active
+sertraline,'43353054945',100,mg,APHENA PHARMA S,Active
+sertraline,'43353054953',100,mg,APHENA PHARMA S,Active
+sertraline,'43353054960',100,mg,APHENA PHARMA S,Active
+sertraline,'43353078715',100,mg,APHENA PHARMA S,Active
+sertraline,'43353078730',100,mg,APHENA PHARMA S,Active
+sertraline,'43353078745',100,mg,APHENA PHARMA S,Active
+sertraline,'43353078753',100,mg,APHENA PHARMA S,Active
+sertraline,'43353078760',100,mg,APHENA PHARMA S,Active
+sertraline,'43353078773',100,mg,APHENA PHARMA S,Active
+sertraline,'43353078780',100,mg,APHENA PHARMA S,Active
+sertraline,'43353080915',100,mg,APHENA PHARMA S,Active
+sertraline,'43353080930',100,mg,APHENA PHARMA S,Active
+sertraline,'43353080945',100,mg,APHENA PHARMA S,Active
+sertraline,'43353080953',100,mg,APHENA PHARMA S,Active
+sertraline,'43353080960',100,mg,APHENA PHARMA S,Active
+sertraline,'43353080973',100,mg,APHENA PHARMA S,Active
+sertraline,'43353080980',100,mg,APHENA PHARMA S,Active
+sertraline,'49999086130',100,mg,QUALITY CARE,Active
+sertraline,'49999086160',100,mg,QUALITY CARE,Active
+sertraline,'49999086190',100,mg,QUALITY CARE,Active
+sertraline,'50111093201',100,mg,"PLIVA, INC",Active
+sertraline,'50111093202',100,mg,"PLIVA, INC",Active
+sertraline,'50111093210',100,mg,"PLIVA, INC",Active
+sertraline,'50436630501',100,mg,UNIT DOSE SERVI,Active
+sertraline,'51079015101',100,mg,MYLAN INSTITUTI,Active
+sertraline,'51079015120',100,mg,MYLAN INSTITUTI,Active
+sertraline,'51079076401',100,mg,MYLAN INSTITUTI,Active
+sertraline,'51079076420',100,mg,MYLAN INSTITUTI,Active
+sertraline,'51138009130',100,mg,MED-HEALTH PHAR,Active
+sertraline,'51138058730',100,mg,MED-HEALTH PHAR,Active
+sertraline,'54458094510',100,mg,INTERNATIONAL L,Active
+sertraline,'54569581900',100,mg,A-S MEDICATION,Active
+sertraline,'54569581901',100,mg,A-S MEDICATION,Active
+sertraline,'54569581902',100,mg,A-S MEDICATION,Active
+sertraline,'54868563800',100,mg,PHYSICIANS TC.,Active
+sertraline,'54868563801',100,mg,PHYSICIANS TC.,Active
+sertraline,'54868563802',100,mg,PHYSICIANS TC.,Active
+sertraline,'54868563803',100,mg,PHYSICIANS TC.,Active
+sertraline,'54868563804',100,mg,PHYSICIANS TC.,Active
+sertraline,'54868563805',100,mg,PHYSICIANS TC.,Active
+sertraline,'54868563806',100,mg,PHYSICIANS TC.,Active
+sertraline,'54868563807',100,mg,PHYSICIANS TC.,Active
+sertraline,'54868563808',100,mg,PHYSICIANS TC.,Active
+sertraline,'55045356201',100,mg,DISPENSING SOLN,Active
+sertraline,'55111017505',100,mg,DR.REDDY'S LAB,Active
+sertraline,'55111017530',100,mg,DR.REDDY'S LAB,Active
+sertraline,'55289038130',100,mg,PD-RX PHARM,Active
+sertraline,'55289038145',100,mg,PD-RX PHARM,Active
+sertraline,'55289038160',100,mg,PD-RX PHARM,Active
+sertraline,'55289038190',100,mg,PD-RX PHARM,Active
+sertraline,'55700036230',100,mg,QUALITY CARE,Active
+sertraline,'55700036260',100,mg,QUALITY CARE,Active
+sertraline,'55700036290',100,mg,QUALITY CARE,Active
+sertraline,'55887092560',100,mg,DHS INC.,Active
+sertraline,'55887092582',100,mg,DHS INC.,Active
+sertraline,'55887092590',100,mg,DHS INC.,Active
+sertraline,'58016000900',100,mg,SOUTHWOOD PHARM,Active
+sertraline,'58016000930',100,mg,SOUTHWOOD PHARM,Active
+sertraline,'58016000960',100,mg,SOUTHWOOD PHARM,Active
+sertraline,'58016000990',100,mg,SOUTHWOOD PHARM,Active
+sertraline,'59762491001',100,mg,GREENSTONE LLC.,Active
+sertraline,'59762491002',100,mg,GREENSTONE LLC.,Active
+sertraline,'59762491003',100,mg,GREENSTONE LLC.,Active
+sertraline,'59762491004',100,mg,GREENSTONE LLC.,Active
+sertraline,'59762491005',100,mg,GREENSTONE LLC.,Active
+sertraline,'60505018203',100,mg,APOTEX CORP,Active
+sertraline,'60505018208',100,mg,APOTEX CORP,Active
+sertraline,'63187021230',100,mg,PROFICIENT RX L,Active
+sertraline,'63187079530',100,mg,PROFICIENT RX L,Active
+sertraline,'63304016601',100,mg,RANBAXY PHARMAC,Active
+sertraline,'63304016605',100,mg,RANBAXY PHARMAC,Active
+sertraline,'63304016630',100,mg,RANBAXY PHARMAC,Active
+sertraline,'63629328901',100,mg,BRYANT RANCH PR,Active
+sertraline,'63629328902',100,mg,BRYANT RANCH PR,Active
+sertraline,'63629328903',100,mg,BRYANT RANCH PR,Active
+sertraline,'63629328904',100,mg,BRYANT RANCH PR,Active
+sertraline,'64679075301',100,mg,WOCKHARDT USA L,Active
+sertraline,'64679075304',100,mg,WOCKHARDT USA L,Active
+sertraline,'64679075307',100,mg,WOCKHARDT USA L,Active
+sertraline,'65243035415',100,mg,"VA CMOP, DALLAS",Active
+sertraline,'65862001301',100,mg,AUROBINDO PHARM,Active
+sertraline,'65862001305',100,mg,AUROBINDO PHARM,Active
+sertraline,'65862001330',100,mg,AUROBINDO PHARM,Active
+sertraline,'65862001390',100,mg,AUROBINDO PHARM,Active
+sertraline,'67544090815',100,mg,APHENA PHARMA S,Active
+sertraline,'67544090830',100,mg,APHENA PHARMA S,Active
+sertraline,'67544090839',100,mg,APHENA PHARMA S,Active
+sertraline,'67544090845',100,mg,APHENA PHARMA S,Active
+sertraline,'67544090873',100,mg,APHENA PHARMA S,Active
+sertraline,'67544090880',100,mg,APHENA PHARMA S,Active
+sertraline,'67544095915',100,mg,APHENA PHARMA S,Active
+sertraline,'67544095930',100,mg,APHENA PHARMA S,Active
+sertraline,'67544095945',100,mg,APHENA PHARMA S,Active
+sertraline,'67544095953',100,mg,APHENA PHARMA S,Active
+sertraline,'67544095960',100,mg,APHENA PHARMA S,Active
+sertraline,'67544095973',100,mg,APHENA PHARMA S,Active
+sertraline,'67544095980',100,mg,APHENA PHARMA S,Active
+sertraline,'68071070228',100,mg,NUCARE PHARMACE,Active
+sertraline,'68071070260',100,mg,NUCARE PHARMACE,Active
+sertraline,'68071131800',100,mg,NUCARE PHARMACE,Active
+sertraline,'68084018201',100,mg,AHP,Active
+sertraline,'68084018211',100,mg,AHP,Active
+sertraline,'68180035301',100,mg,LUPIN PHARMACEU,Active
+sertraline,'68180035302',100,mg,LUPIN PHARMACEU,Active
+sertraline,'68180035305',100,mg,LUPIN PHARMACEU,Active
+sertraline,'68180035306',100,mg,LUPIN PHARMACEU,Active
+sertraline,'68180035309',100,mg,LUPIN PHARMACEU,Active
+sertraline,'68645042654',100,mg,LEGACY PHARMACE,Active
+sertraline,'68645048970',100,mg,LEGACY PHARMACE,Active
+sertraline,'68645050001',100,mg,LEGACY PHARMACE,Active
+sertraline,'68645052301',100,mg,LEGACY PHARMACE,Active
+sertraline,'68645052354',100,mg,LEGACY PHARMACE,Active
+sertraline,'68645052370',100,mg,LEGACY PHARMACE,Active
+sertraline,'69097083502',100,mg,"CIPLA USA, INC.",Active
+sertraline,'69097083512',100,mg,"CIPLA USA, INC.",Active
+sertraline,'76282021401',100,mg,EXELAN PHARMACE,Active
+sertraline,'76282021405',100,mg,EXELAN PHARMACE,Active
+sertraline,'76282021418',100,mg,EXELAN PHARMACE,Active
+sertraline,'76282021430',100,mg,EXELAN PHARMACE,Active
+sertraline,'76282021460',100,mg,EXELAN PHARMACE,Active
+sertraline,'76282021490',100,mg,EXELAN PHARMACE,Active
+sertraline,'00054008246',20,mg/mL,ROXANE LABS.,Active
+sertraline,'16714060101',20,mg/mL,NORTHSTAR RX LL,Active
+sertraline,'16714060102',20,mg/mL,NORTHSTAR RX LL,Active
+sertraline,'59762494001',20,mg/mL,GREENSTONE LLC.,Active
+sertraline,'63304084005',20,mg/mL,RANBAXY PHARMAC,Active
+sertraline,'00054002213',25,mg,ROXANE LABS.,Active
+sertraline,'00093717510',25,mg,TEVA USA,Active
+sertraline,'00093717556',25,mg,TEVA USA,Active
+sertraline,'00143958209',25,mg,"WEST-WARD, INC.",Active
+sertraline,'00143958230',25,mg,"WEST-WARD, INC.",Active
+sertraline,'00143965609',25,mg,"WEST-WARD, INC.",Active
+sertraline,'00143965630',25,mg,"WEST-WARD, INC.",Active
+sertraline,'00172567210',25,mg,TEVA USA,Active
+sertraline,'00172567280',25,mg,TEVA USA,Active
+sertraline,'00179010444',25,mg,KAISER FOUNDATI,Active
+sertraline,'00185005730',25,mg,SANDOZ,Active
+sertraline,'00228272103',25,mg,ACTAVIS ELIZABE,Active
+sertraline,'00228272109',25,mg,ACTAVIS ELIZABE,Active
+sertraline,'00228272150',25,mg,ACTAVIS ELIZABE,Active
+sertraline,'00378418601',25,mg,MYLAN,Active
+sertraline,'00378418605',25,mg,MYLAN,Active
+sertraline,'00378418693',25,mg,MYLAN,Active
+sertraline,'00378801101',25,mg,MYLAN,Active
+sertraline,'00378801105',25,mg,MYLAN,Active
+sertraline,'00591323819',25,mg,WATSON LABS,Active
+sertraline,'00591323830',25,mg,WATSON LABS,Active
+sertraline,'00904586661',25,mg,MAJOR PHARMACEU,Active
+sertraline,'00904608761',25,mg,MAJOR PHARMACEU,Active
+sertraline,'00904633161',25,mg,MAJOR PHARMACEU,Active
+sertraline,'13668000401',25,mg,TORRENT PHARMAC,Active
+sertraline,'13668000405',25,mg,TORRENT PHARMAC,Active
+sertraline,'13668000410',25,mg,TORRENT PHARMAC,Active
+sertraline,'13668000430',25,mg,TORRENT PHARMAC,Active
+sertraline,'13668000450',25,mg,TORRENT PHARMAC,Active
+sertraline,'13668000490',25,mg,TORRENT PHARMAC,Active
+sertraline,'16252053330',25,mg,WATSON LABS,Active
+sertraline,'16252053350',25,mg,WATSON LABS,Active
+sertraline,'16714061101',25,mg,NORTHSTAR RX LL,Active
+sertraline,'16714061104',25,mg,NORTHSTAR RX LL,Active
+sertraline,'16714061105',25,mg,NORTHSTAR RX LL,Active
+sertraline,'16714061106',25,mg,NORTHSTAR RX LL,Active
+sertraline,'16729021510',25,mg,ACCORD HEALTHCA,Active
+sertraline,'21695016430',25,mg,PHYSICIAN PARTN,Active
+sertraline,'23490705001',25,mg,PALMETTO STATE,Active
+sertraline,'23490705002',25,mg,PALMETTO STATE,Active
+sertraline,'31722021205',25,mg,CAMBER PHARMACE,Active
+sertraline,'31722021230',25,mg,CAMBER PHARMACE,Active
+sertraline,'31722021290',25,mg,CAMBER PHARMACE,Active
+sertraline,'33358032130',25,mg,RXCHANGE CO.,Active
+sertraline,'33358032160',25,mg,RXCHANGE CO.,Active
+sertraline,'33358032190',25,mg,RXCHANGE CO.,Active
+sertraline,'35356003330',25,mg,QUALITY CARE,Active
+sertraline,'35356066930',25,mg,QUALITY CARE,Active
+sertraline,'43353081230',25,mg,APHENA PHARMA S,Active
+sertraline,'43353097030',25,mg,APHENA PHARMA S,Active
+sertraline,'50111093010',25,mg,"PLIVA, INC",Active
+sertraline,'50436630601',25,mg,UNIT DOSE SERVI,Active
+sertraline,'51079014901',25,mg,MYLAN INSTITUTI,Active
+sertraline,'51079014920',25,mg,MYLAN INSTITUTI,Active
+sertraline,'51079076201',25,mg,MYLAN INSTITUTI,Active
+sertraline,'51079076220',25,mg,MYLAN INSTITUTI,Active
+sertraline,'51138058530',25,mg,MED-HEALTH PHAR,Active
+sertraline,'52959087230',25,mg,PHARMA PAC,Active
+sertraline,'52959087260',25,mg,PHARMA PAC,Active
+sertraline,'54458094710',25,mg,INTERNATIONAL L,Active
+sertraline,'54569619200',25,mg,A-S MEDICATION,Active
+sertraline,'54868565800',25,mg,PHYSICIANS TC.,Active
+sertraline,'55045356801',25,mg,DRX,Active
+sertraline,'55111017330',25,mg,DR.REDDY'S LAB,Active
+sertraline,'55289037830',25,mg,PD-RX PHARM,Active
+sertraline,'55700022230',25,mg,QUALITY CARE,Active
+sertraline,'58016001100',25,mg,SOUTHWOOD PHARM,Active
+sertraline,'58016001130',25,mg,SOUTHWOOD PHARM,Active
+sertraline,'58016001160',25,mg,SOUTHWOOD PHARM,Active
+sertraline,'58016001190',25,mg,SOUTHWOOD PHARM,Active
+sertraline,'59762496001',25,mg,GREENSTONE LLC.,Active
+sertraline,'60505018003',25,mg,APOTEX CORP,Active
+sertraline,'60505018008',25,mg,APOTEX CORP,Active
+sertraline,'60687023101',25,mg,AHP,Active
+sertraline,'60687023111',25,mg,AHP,Active
+sertraline,'63187047830',25,mg,PROFICIENT RX L,Active
+sertraline,'63304016430',25,mg,RANBAXY PHARMAC,Active
+sertraline,'63629331301',25,mg,BRYANT RANCH PR,Active
+sertraline,'63629331302',25,mg,BRYANT RANCH PR,Active
+sertraline,'63629331303',25,mg,BRYANT RANCH PR,Active
+sertraline,'63629331304',25,mg,BRYANT RANCH PR,Active
+sertraline,'65862001101',25,mg,AUROBINDO PHARM,Active
+sertraline,'65862001105',25,mg,AUROBINDO PHARM,Active
+sertraline,'65862001130',25,mg,AUROBINDO PHARM,Active
+sertraline,'65862001190',25,mg,AUROBINDO PHARM,Active
+sertraline,'68084018001',25,mg,AHP,Active
+sertraline,'68084018011',25,mg,AHP,Active
+sertraline,'68180035106',25,mg,LUPIN PHARMACEU,Active
+sertraline,'68180035109',25,mg,LUPIN PHARMACEU,Active
+sertraline,'68258701003',25,mg,DISPENSING SOLN,Active
+sertraline,'68645042454',25,mg,LEGACY PHARMACE,Active
+sertraline,'68645048770',25,mg,LEGACY PHARMACE,Active
+sertraline,'68645049801',25,mg,LEGACY PHARMACE,Active
+sertraline,'68645052101',25,mg,LEGACY PHARMACE,Active
+sertraline,'68645052154',25,mg,LEGACY PHARMACE,Active
+sertraline,'69097083302',25,mg,"CIPLA USA, INC.",Active
+sertraline,'69097083305',25,mg,"CIPLA USA, INC.",Active
+sertraline,'69097083312',25,mg,"CIPLA USA, INC.",Active
+sertraline,'76282021201',25,mg,EXELAN PHARMACE,Active
+sertraline,'76282021205',25,mg,EXELAN PHARMACE,Active
+sertraline,'76282021218',25,mg,EXELAN PHARMACE,Active
+sertraline,'76282021230',25,mg,EXELAN PHARMACE,Active
+sertraline,'76282021260',25,mg,EXELAN PHARMACE,Active
+sertraline,'76282021290',25,mg,EXELAN PHARMACE,Active
+sertraline,'00054002313',50,mg,ROXANE LABS.,Active
+sertraline,'00054002328',50,mg,ROXANE LABS.,Active
+sertraline,'00093717610',50,mg,TEVA USA,Active
+sertraline,'00093717656',50,mg,TEVA USA,Active
+sertraline,'00143958105',50,mg,"WEST-WARD, INC.",Active
+sertraline,'00143958109',50,mg,"WEST-WARD, INC.",Active
+sertraline,'00143958130',50,mg,"WEST-WARD, INC.",Active
+sertraline,'00143965505',50,mg,"WEST-WARD, INC.",Active
+sertraline,'00143965509',50,mg,"WEST-WARD, INC.",Active
+sertraline,'00143965530',50,mg,"WEST-WARD, INC.",Active
+sertraline,'00172567300',50,mg,IVAX PHARMACEUT,Active
+sertraline,'00172567310',50,mg,IVAX PHARMACEUT,Active
+sertraline,'00185015330',50,mg,SANDOZ,Active
+sertraline,'00228272203',50,mg,ACTAVIS ELIZABE,Active
+sertraline,'00228272209',50,mg,ACTAVIS ELIZABE,Active
+sertraline,'00228272290',50,mg,ACTAVIS ELIZABE,Active
+sertraline,'00378418701',50,mg,MYLAN,Active
+sertraline,'00378418705',50,mg,MYLAN,Active
+sertraline,'00378418793',50,mg,MYLAN,Active
+sertraline,'00378812101',50,mg,MYLAN,Active
+sertraline,'00378812105',50,mg,MYLAN,Active
+sertraline,'00591323910',50,mg,WATSON LABS,Active
+sertraline,'00591323919',50,mg,WATSON LABS,Active
+sertraline,'00591323930',50,mg,WATSON LABS,Active
+sertraline,'00904586761',50,mg,MAJOR PHARMACEU,Active
+sertraline,'00904608861',50,mg,MAJOR PHARMACEU,Active
+sertraline,'00904633261',50,mg,MAJOR PHARMACEU,Active
+sertraline,'13668000501',50,mg,TORRENT PHARMAC,Active
+sertraline,'13668000505',50,mg,TORRENT PHARMAC,Active
+sertraline,'13668000510',50,mg,TORRENT PHARMAC,Active
+sertraline,'13668000530',50,mg,TORRENT PHARMAC,Active
+sertraline,'13668000550',50,mg,TORRENT PHARMAC,Active
+sertraline,'13668000590',50,mg,TORRENT PHARMAC,Active
+sertraline,'16252053430',50,mg,WATSON LABS,Active
+sertraline,'16252053450',50,mg,WATSON LABS,Active
+sertraline,'16252053490',50,mg,WATSON LABS,Active
+sertraline,'16590045715',50,mg,STAT RX USA,Active
+sertraline,'16590045730',50,mg,STAT RX USA,Active
+sertraline,'16590045760',50,mg,STAT RX USA,Active
+sertraline,'16590045790',50,mg,STAT RX USA,Active
+sertraline,'16714061201',50,mg,NORTHSTAR RX LL,Active
+sertraline,'16714061204',50,mg,NORTHSTAR RX LL,Active
+sertraline,'16714061205',50,mg,NORTHSTAR RX LL,Active
+sertraline,'16714061206',50,mg,NORTHSTAR RX LL,Active
+sertraline,'16729021615',50,mg,ACCORD HEALTHCA,Active
+sertraline,'16729021616',50,mg,ACCORD HEALTHCA,Active
+sertraline,'18837024830',50,mg,INNOVIANT PHARM,Active
+sertraline,'18837024860',50,mg,INNOVIANT PHARM,Active
+sertraline,'18837024890',50,mg,INNOVIANT PHARM,Active
+sertraline,'21695016530',50,mg,PHYSICIAN PARTN,Active
+sertraline,'21695016560',50,mg,PHYSICIAN PARTN,Active
+sertraline,'21695016590',50,mg,PHYSICIAN PARTN,Active
+sertraline,'23490626401',50,mg,PALMETTO STATE,Active
+sertraline,'23490626402',50,mg,PALMETTO STATE,Active
+sertraline,'23490626403',50,mg,PALMETTO STATE,Active
+sertraline,'23490626404',50,mg,PALMETTO STATE,Active
+sertraline,'23629017310',50,mg,CHOICE RX US LL,Active
+sertraline,'31722021305',50,mg,CAMBER PHARMACE,Active
+sertraline,'31722021330',50,mg,CAMBER PHARMACE,Active
+sertraline,'31722021390',50,mg,CAMBER PHARMACE,Active
+sertraline,'33358032230',50,mg,RXCHANGE CO.,Active
+sertraline,'33358032260',50,mg,RXCHANGE CO.,Active
+sertraline,'33358032290',50,mg,RXCHANGE CO.,Active
+sertraline,'35356066830',50,mg,QUALITY CARE,Active
+sertraline,'35356066860',50,mg,QUALITY CARE,Active
+sertraline,'43063003301',50,mg,PD-RX PHARM,Active
+sertraline,'43063041160',50,mg,PD-RX PHARM,Active
+sertraline,'43063041190',50,mg,PD-RX PHARM,Active
+sertraline,'43353030215',50,mg,APHENA PHARMA S,Active
+sertraline,'43353030245',50,mg,APHENA PHARMA S,Active
+sertraline,'43353043815',50,mg,APHENA PHARMA S,Active
+sertraline,'43353043845',50,mg,APHENA PHARMA S,Active
+sertraline,'43353060315',50,mg,APHENA PHARMA S,Active
+sertraline,'43353060345',50,mg,APHENA PHARMA S,Active
+sertraline,'43353081715',50,mg,APHENA PHARMA S,Active
+sertraline,'43353081730',50,mg,APHENA PHARMA S,Active
+sertraline,'43353081745',50,mg,APHENA PHARMA S,Active
+sertraline,'43353081760',50,mg,APHENA PHARMA S,Active
+sertraline,'49999086030',50,mg,QUALITY CARE,Active
+sertraline,'49999086060',50,mg,QUALITY CARE,Active
+sertraline,'49999086090',50,mg,QUALITY CARE,Active
+sertraline,'50111093101',50,mg,"PLIVA, INC",Active
+sertraline,'50111093102',50,mg,"PLIVA, INC",Active
+sertraline,'50111093110',50,mg,"PLIVA, INC",Active
+sertraline,'50436630401',50,mg,UNIT DOSE SERVI,Active
+sertraline,'51079015001',50,mg,MYLAN INSTITUTI,Active
+sertraline,'51079015020',50,mg,MYLAN INSTITUTI,Active
+sertraline,'51079076301',50,mg,MYLAN INSTITUTI,Active
+sertraline,'51079076320',50,mg,MYLAN INSTITUTI,Active
+sertraline,'51138058630',50,mg,MED-HEALTH PHAR,Active
+sertraline,'52959087560',50,mg,PHARMA PAC,Active
+sertraline,'54458091302',50,mg,INTERNATIONAL L,Active
+sertraline,'54458092405',50,mg,INTERNATIONAL L,Active
+sertraline,'54458094405',50,mg,INTERNATIONAL L,Active
+sertraline,'54458094410',50,mg,INTERNATIONAL L,Active
+sertraline,'54569581800',50,mg,A-S MEDICATION,Active
+sertraline,'54569581801',50,mg,A-S MEDICATION,Active
+sertraline,'54569581802',50,mg,A-S MEDICATION,Active
+sertraline,'54868563900',50,mg,PHYSICIANS TC.,Active
+sertraline,'54868563901',50,mg,PHYSICIANS TC.,Active
+sertraline,'54868563902',50,mg,PHYSICIANS TC.,Active
+sertraline,'54868563903',50,mg,PHYSICIANS TC.,Active
+sertraline,'54868563904',50,mg,PHYSICIANS TC.,Active
+sertraline,'54868563905',50,mg,PHYSICIANS TC.,Active
+sertraline,'54868563906',50,mg,PHYSICIANS TC.,Active
+sertraline,'55045356601',50,mg,DISPENSING SOLN,Active
+sertraline,'55111017405',50,mg,DR.REDDY'S LAB,Active
+sertraline,'55111017430',50,mg,DR.REDDY'S LAB,Active
+sertraline,'55289029114',50,mg,PD-RX PHARM,Active
+sertraline,'55289029130',50,mg,PD-RX PHARM,Active
+sertraline,'55289029160',50,mg,PD-RX PHARM,Active
+sertraline,'55700022530',50,mg,QUALITY CARE,Active
+sertraline,'55700022560',50,mg,QUALITY CARE,Active
+sertraline,'55700022590',50,mg,QUALITY CARE,Active
+sertraline,'55700034030',50,mg,QUALITY CARE,Active
+sertraline,'55700034060',50,mg,QUALITY CARE,Active
+sertraline,'55700034090',50,mg,QUALITY CARE,Active
+sertraline,'58016001000',50,mg,SOUTHWOOD PHARM,Active
+sertraline,'58016001030',50,mg,SOUTHWOOD PHARM,Active
+sertraline,'58016001060',50,mg,SOUTHWOOD PHARM,Active
+sertraline,'58016001090',50,mg,SOUTHWOOD PHARM,Active
+sertraline,'59762490001',50,mg,GREENSTONE LLC.,Active
+sertraline,'59762490002',50,mg,GREENSTONE LLC.,Active
+sertraline,'59762490003',50,mg,GREENSTONE LLC.,Active
+sertraline,'59762490004',50,mg,GREENSTONE LLC.,Active
+sertraline,'59762490005',50,mg,GREENSTONE LLC.,Active
+sertraline,'60505018103',50,mg,APOTEX CORP,Active
+sertraline,'60505018108',50,mg,APOTEX CORP,Active
+sertraline,'60687024201',50,mg,AHP,Active
+sertraline,'60687024211',50,mg,AHP,Active
+sertraline,'61919045760',50,mg,DIRECT RX,Active
+sertraline,'61919045790',50,mg,DIRECT RX,Active
+sertraline,'63187005530',50,mg,PROFICIENT RX L,Active
+sertraline,'63187076730',50,mg,PROFICIENT RX L,Active
+sertraline,'63304016501',50,mg,RANBAXY PHARMAC,Active
+sertraline,'63304016505',50,mg,RANBAXY PHARMAC,Active
+sertraline,'63304016530',50,mg,RANBAXY PHARMAC,Active
+sertraline,'63629330901',50,mg,BRYANT RANCH PR,Active
+sertraline,'63629330902',50,mg,BRYANT RANCH PR,Active
+sertraline,'63629330903',50,mg,BRYANT RANCH PR,Active
+sertraline,'63629330904',50,mg,BRYANT RANCH PR,Active
+sertraline,'63629330905',50,mg,BRYANT RANCH PR,Active
+sertraline,'64679075201',50,mg,WOCKHARDT USA L,Active
+sertraline,'64679075204',50,mg,WOCKHARDT USA L,Active
+sertraline,'64679075207',50,mg,WOCKHARDT USA L,Active
+sertraline,'65862001201',50,mg,AUROBINDO PHARM,Active
+sertraline,'65862001205',50,mg,AUROBINDO PHARM,Active
+sertraline,'65862001230',50,mg,AUROBINDO PHARM,Active
+sertraline,'65862001290',50,mg,AUROBINDO PHARM,Active
+sertraline,'67544003015',50,mg,APHENA PHARMA S,Active
+sertraline,'68071054828',50,mg,NUCARE PHARMACE,Active
+sertraline,'68071054856',50,mg,NUCARE PHARMACE,Active
+sertraline,'68071054860',50,mg,NUCARE PHARMACE,Active
+sertraline,'68071131700',50,mg,NUCARE PHARMACE,Active
+sertraline,'68084018101',50,mg,AHP,Active
+sertraline,'68084018111',50,mg,AHP,Active
+sertraline,'68180035201',50,mg,LUPIN PHARMACEU,Active
+sertraline,'68180035202',50,mg,LUPIN PHARMACEU,Active
+sertraline,'68180035205',50,mg,LUPIN PHARMACEU,Active
+sertraline,'68180035206',50,mg,LUPIN PHARMACEU,Active
+sertraline,'68180035209',50,mg,LUPIN PHARMACEU,Active
+sertraline,'68387011930',50,mg,DISPENSING SOLN,Active
+sertraline,'68645042554',50,mg,LEGACY PHARMACE,Active
+sertraline,'68645048870',50,mg,LEGACY PHARMACE,Active
+sertraline,'68645049901',50,mg,LEGACY PHARMACE,Active
+sertraline,'68645052201',50,mg,LEGACY PHARMACE,Active
+sertraline,'68645052254',50,mg,LEGACY PHARMACE,Active
+sertraline,'68645052270',50,mg,LEGACY PHARMACE,Active
+sertraline,'69097083402',50,mg,"CIPLA USA, INC.",Active
+sertraline,'69097083412',50,mg,"CIPLA USA, INC.",Active
+sertraline,'76282021301',50,mg,EXELAN PHARMACE,Active
+sertraline,'76282021305',50,mg,EXELAN PHARMACE,Active
+sertraline,'76282021318',50,mg,EXELAN PHARMACE,Active
+sertraline,'76282021330',50,mg,EXELAN PHARMACE,Active
+sertraline,'76282021360',50,mg,EXELAN PHARMACE,Active
+sertraline,'76282021390',50,mg,EXELAN PHARMACE,Active
+sertraline (bulk),'46144010801',100,%,A.P.I. SOLUTION,Active
+sertraline (bulk),'46144010805',100,%,A.P.I. SOLUTION,Active
+sertraline (bulk),'51927422600',100,%,PROFESSIONAL CO,Active
+sertraline (bulk),'51927474600',100,%,PROFESSIONAL CO,Active
+Luvox,'00032421001',100,mg,SOLVAY PHARMACE,Inactive
+Luvox,'00032421011',100,mg,SOLVAY PHARMACE,Inactive
+Luvox,'00032420201',25,mg,SOLVAY PHARMACE,Inactive
+Luvox,'00032420211',25,mg,SOLVAY PHARMACE,Inactive
+Luvox,'00032420501',50,mg,SOLVAY PHARMACE,Inactive
+Luvox,'00032420511',50,mg,SOLVAY PHARMACE,Inactive
+Luvox CR,'68727060001',100,mg,JAZZ PHARMACEUT,Inactive
+Luvox CR,'68727060101',150,mg,JAZZ PHARMACEUT,Inactive
+fluvoxamine,'00228284803',100,mg,ACTAVIS PHARMA,Active
+fluvoxamine,'10370017511',100,mg,PAR PHARM.,Active
+fluvoxamine,'00093005701',100,mg,TEVA USA,Active
+fluvoxamine,'00172439260',100,mg,IVAX PHARMACEUT,Active
+fluvoxamine,'00172439270',100,mg,IVAX PHARMACEUT,Active
+fluvoxamine,'00172439280',100,mg,IVAX PHARMACEUT,Active
+fluvoxamine,'00185015701',100,mg,SANDOZ,Active
+fluvoxamine,'00185015705',100,mg,SANDOZ,Active
+fluvoxamine,'00228265611',100,mg,PUREPAC PHARMAC,Active
+fluvoxamine,'00228265650',100,mg,PUREPAC PHARMAC,Active
+fluvoxamine,'00378041401',100,mg,MYLAN,Active
+fluvoxamine,'00555096902',100,mg,BARR,Active
+fluvoxamine,'00781504201',100,mg,SANDOZ,Active
+fluvoxamine,'00781504210',100,mg,GENEVA PHARM.,Active
+fluvoxamine,'35356003130',100,mg,QUALITY CARE,Active
+fluvoxamine,'42769122100',100,mg,BAYPHARMA INC.,Active
+fluvoxamine,'51079099301',100,mg,MYLAN INSTITUTI,Active
+fluvoxamine,'51079099320',100,mg,MYLAN INSTITUTI,Active
+fluvoxamine,'57664036213',100,mg,CARACO PHARM,Active
+fluvoxamine,'57664036288',100,mg,CARACO PHARM,Active
+fluvoxamine,'60429076001',100,mg,"GSMS, INC.",Active
+fluvoxamine,'60429076030',100,mg,"GSMS, INC.",Active
+fluvoxamine,'60429076090',100,mg,"GSMS, INC.",Active
+fluvoxamine,'60505016601',100,mg,APOTEX CORP,Active
+fluvoxamine,'62559016001',100,mg,ANI PHARMACEUTI,Active
+fluvoxamine,'63629412501',100,mg,BRYANT RANCH PR,Active
+fluvoxamine,'63672110002',100,mg,SYNTHON PHARMAC,Active
+fluvoxamine,'68115083100',100,mg,"DISPENSEXPRESS,",Active
+fluvoxamine,'00228284903',150,mg,ACTAVIS PHARMA,Active
+fluvoxamine,'10370017611',150,mg,PAR PHARM.,Active
+fluvoxamine,'00093007201',25,mg,TEVA USA,Active
+fluvoxamine,'00172438960',25,mg,IVAX PHARMACEUT,Active
+fluvoxamine,'00172438970',25,mg,IVAX PHARMACEUT,Active
+fluvoxamine,'00185001701',25,mg,SANDOZ,Active
+fluvoxamine,'00228270411',25,mg,PUREPAC PHARMAC,Active
+fluvoxamine,'00228270450',25,mg,PUREPAC PHARMAC,Active
+fluvoxamine,'00378040701',25,mg,MYLAN,Active
+fluvoxamine,'00555096702',25,mg,BARR,Active
+fluvoxamine,'00781504001',25,mg,SANDOZ,Active
+fluvoxamine,'00781504010',25,mg,GENEVA PHARM.,Active
+fluvoxamine,'35356002930',25,mg,QUALITY CARE,Active
+fluvoxamine,'42769122200',25,mg,BAYPHARMA INC.,Active
+fluvoxamine,'57664035788',25,mg,CARACO PHARM,Active
+fluvoxamine,'60429075801',25,mg,"GSMS, INC.",Active
+fluvoxamine,'60505016401',25,mg,APOTEX CORP,Active
+fluvoxamine,'62559015801',25,mg,ANI PHARMACEUTI,Active
+fluvoxamine,'63672102502',25,mg,SYNTHON PHARMAC,Active
+fluvoxamine,'00093005601',50,mg,TEVA USA,Active
+fluvoxamine,'00172439160',50,mg,IVAX PHARMACEUT,Active
+fluvoxamine,'00172439170',50,mg,IVAX PHARMACEUT,Active
+fluvoxamine,'00172439180',50,mg,IVAX PHARMACEUT,Active
+fluvoxamine,'00185002701',50,mg,SANDOZ,Active
+fluvoxamine,'00185002705',50,mg,SANDOZ,Active
+fluvoxamine,'00185002788',50,mg,EON LABS,Active
+fluvoxamine,'00228265511',50,mg,PUREPAC PHARMAC,Active
+fluvoxamine,'00228265550',50,mg,PUREPAC PHARMAC,Active
+fluvoxamine,'00378041201',50,mg,MYLAN,Active
+fluvoxamine,'00555096802',50,mg,BARR,Active
+fluvoxamine,'00781504101',50,mg,SANDOZ,Active
+fluvoxamine,'00781504110',50,mg,GENEVA PHARM.,Active
+fluvoxamine,'35356003030',50,mg,QUALITY CARE,Active
+fluvoxamine,'42254042030',50,mg,PHYSICIAN PARTN,Active
+fluvoxamine,'42769122500',50,mg,BAYPHARMA INC.,Active
+fluvoxamine,'51079099201',50,mg,MYLAN INSTITUTI,Active
+fluvoxamine,'51079099220',50,mg,MYLAN INSTITUTI,Active
+fluvoxamine,'57664036113',50,mg,CARACO PHARM,Active
+fluvoxamine,'57664036188',50,mg,CARACO PHARM,Active
+fluvoxamine,'60429075901',50,mg,"GSMS, INC.",Active
+fluvoxamine,'60429075930',50,mg,"GSMS, INC.",Active
+fluvoxamine,'60429075990',50,mg,"GSMS, INC.",Active
+fluvoxamine,'60505016501',50,mg,APOTEX CORP,Active
+fluvoxamine,'62559015901',50,mg,ANI PHARMACEUTI,Active
+fluvoxamine,'63672105002',50,mg,SYNTHON PHARMAC,Active
+fluvoxamine,'68084083711',50,mg,AHP,Active
+fluvoxamine,'68084083721',50,mg,AHP,Active
+fluvoxamine,'68084083725',50,mg,AHP,Active
+fluvoxamine,'68084083795',50,mg,AHP,Active
+Lexapro,'00456201001',10,mg,ACTAVIS U.S. BR,Active
+Lexapro,'00456201011',10,mg,ACTAVIS U.S. BR,Active
+Lexapro,'00456201063',10,mg,ACTAVIS U.S. BR,Active
+Lexapro,'16590013930',10,mg,STAT RX USA,Active
+Lexapro,'16590013945',10,mg,STAT RX USA,Active
+Lexapro,'16590013960',10,mg,STAT RX USA,Active
+Lexapro,'16590013990',10,mg,STAT RX USA,Active
+Lexapro,'18837007630',10,mg,INNOVIANT PHARM,Active
+Lexapro,'18837007660',10,mg,INNOVIANT PHARM,Active
+Lexapro,'21695007315',10,mg,PHYSICIAN PARTN,Active
+Lexapro,'21695007330',10,mg,PHYSICIAN PARTN,Active
+Lexapro,'21695007345',10,mg,PHYSICIAN PARTN,Active
+Lexapro,'49848001100',10,mg,BIOGEN PHARMACE,Active
+Lexapro,'49999060000',10,mg,QUALITY CARE,Active
+Lexapro,'49999060015',10,mg,QUALITY CARE,Active
+Lexapro,'49999060030',10,mg,QUALITY CARE,Active
+Lexapro,'49999060090',10,mg,QUALITY CARE,Active
+Lexapro,'50436980301',10,mg,UNIT DOSE SERVI,Active
+Lexapro,'52959070300',10,mg,PHARMA PAC,Active
+Lexapro,'52959070330',10,mg,PHARMA PAC,Active
+Lexapro,'52959070360',10,mg,PHARMA PAC,Active
+Lexapro,'54569548300',10,mg,A-S MEDICATION,Active
+Lexapro,'54868470000',10,mg,PHYSICIANS TC.,Active
+Lexapro,'54868470001',10,mg,PHYSICIANS TC.,Active
+Lexapro,'54868470002',10,mg,PHYSICIANS TC.,Active
+Lexapro,'54868470003',10,mg,PHYSICIANS TC.,Active
+Lexapro,'54868470004',10,mg,PHYSICIANS TC.,Active
+Lexapro,'54868470005',10,mg,PHYSICIANS TC.,Active
+Lexapro,'54868470006',10,mg,PHYSICIANS TC.,Active
+Lexapro,'55045293400',10,mg,DRX,Active
+Lexapro,'55045293408',10,mg,DRX,Active
+Lexapro,'55289076830',10,mg,PD-RX PHARM,Active
+Lexapro,'55887048630',10,mg,DHS INC.,Active
+Lexapro,'55887048660',10,mg,DHS INC.,Active
+Lexapro,'55887048682',10,mg,DHS INC.,Active
+Lexapro,'55887048690',10,mg,DHS INC.,Active
+Lexapro,'57866980301',10,mg,VIBRANTA INC.,Active
+Lexapro,'58016097700',10,mg,SOUTHWOOD PHARM,Active
+Lexapro,'58016097702',10,mg,SOUTHWOOD PHARM,Active
+Lexapro,'58016097730',10,mg,SOUTHWOOD PHARM,Active
+Lexapro,'58016097760',10,mg,SOUTHWOOD PHARM,Active
+Lexapro,'58016097790',10,mg,SOUTHWOOD PHARM,Active
+Lexapro,'63629331801',10,mg,BRYANT RANCH PR,Active
+Lexapro,'63629331802',10,mg,BRYANT RANCH PR,Active
+Lexapro,'63874100901',10,mg,ALTURA PHARMA,Active
+Lexapro,'63874100903',10,mg,ALTURA PHARMA,Active
+Lexapro,'63874100906',10,mg,ALTURA PHARMA,Active
+Lexapro,'63874100909',10,mg,ALTURA PHARMA,Active
+Lexapro,'66105096903',10,mg,AQ PHARMACEUTIC,Active
+Lexapro,'67801040930',10,mg,DIRECT PHARMACE,Active
+Lexapro,'68115050615',10,mg,"DISPENSEXPRESS,",Active
+Lexapro,'68115050630',10,mg,"DISPENSEXPRESS,",Active
+Lexapro,'68115086600',10,mg,"DISPENSEXPRESS,",Active
+Lexapro,'68387012730',10,mg,DISPENSING SOLN,Active
+Lexapro,'00456202001',20,mg,ACTAVIS U.S. BR,Active
+Lexapro,'00456202011',20,mg,ACTAVIS U.S. BR,Active
+Lexapro,'00456202063',20,mg,ACTAVIS U.S. BR,Active
+Lexapro,'12280003200',20,mg,"DISPENSEXPRESS,",Active
+Lexapro,'16590049728',20,mg,STAT RX USA,Active
+Lexapro,'16590049730',20,mg,STAT RX USA,Active
+Lexapro,'16590049760',20,mg,STAT RX USA,Active
+Lexapro,'16590049772',20,mg,STAT RX USA,Active
+Lexapro,'16590049790',20,mg,STAT RX USA,Active
+Lexapro,'18837007730',20,mg,INNOVIANT PHARM,Active
+Lexapro,'18837007760',20,mg,INNOVIANT PHARM,Active
+Lexapro,'21695007415',20,mg,PHYSICIAN PARTN,Active
+Lexapro,'21695007430',20,mg,PHYSICIAN PARTN,Active
+Lexapro,'21695007445',20,mg,PHYSICIAN PARTN,Active
+Lexapro,'33358020930',20,mg,RXCHANGE CO.,Active
+Lexapro,'49848002500',20,mg,BIOGEN PHARMACE,Active
+Lexapro,'49999062700',20,mg,QUALITY CARE,Active
+Lexapro,'49999062730',20,mg,QUALITY CARE,Active
+Lexapro,'49999062760',20,mg,QUALITY CARE,Active
+Lexapro,'52959070400',20,mg,PHARMA PAC,Active
+Lexapro,'52959070430',20,mg,PHARMA PAC,Active
+Lexapro,'52959070460',20,mg,PHARMA PAC,Active
+Lexapro,'54569548400',20,mg,A-S MEDICATION,Active
+Lexapro,'54868477500',20,mg,PHYSICIANS TC.,Active
+Lexapro,'54868477501',20,mg,PHYSICIANS TC.,Active
+Lexapro,'54868477502',20,mg,PHYSICIANS TC.,Active
+Lexapro,'54868477503',20,mg,PHYSICIANS TC.,Active
+Lexapro,'54868477504',20,mg,PHYSICIANS TC.,Active
+Lexapro,'55045298500',20,mg,DRX,Active
+Lexapro,'55045298508',20,mg,DRX,Active
+Lexapro,'55289082830',20,mg,PD-RX PHARM,Active
+Lexapro,'63629298101',20,mg,BRYANT RANCH PR,Active
+Lexapro,'63629298102',20,mg,BRYANT RANCH PR,Active
+Lexapro,'63629298103',20,mg,BRYANT RANCH PR,Active
+Lexapro,'66105097703',20,mg,AQ PHARMACEUTIC,Active
+Lexapro,'67801031030',20,mg,DIRECT PHARMACE,Active
+Lexapro,'68115037115',20,mg,"DISPENSEXPRESS,",Active
+Lexapro,'68115037130',20,mg,"DISPENSEXPRESS,",Active
+Lexapro,'68387012830',20,mg,DISPENSING SOLN,Active
+Lexapro,'00456200501',5,mg,ACTAVIS U.S. BR,Active
+Lexapro,'16590083390',5,mg,STAT RX USA,Active
+Lexapro,'33358020830',5,mg,RXCHANGE CO.,Active
+Lexapro,'49848001000',5,mg,BIOGEN PHARMACE,Active
+Lexapro,'54868595100',5,mg,PHYSICIANS TC.,Active
+Lexapro,'54868595102',5,mg,PHYSICIANS TC.,Active
+Lexapro,'58016002700',5,mg,SOUTHWOOD PHARM,Active
+Lexapro,'58016002760',5,mg,SOUTHWOOD PHARM,Active
+Lexapro,'58016002790',5,mg,SOUTHWOOD PHARM,Active
+Lexapro,'00456210108',5,mg/5 mL,ACTAVIS U.S. BR,Active
+escitalopram oxalate,'00093585101',10,mg,TEVA USA,Active
+escitalopram oxalate,'00093585105',10,mg,TEVA USA,Active
+escitalopram oxalate,'00093585119',10,mg,TEVA USA,Active
+escitalopram oxalate,'00093585193',10,mg,TEVA USA,Active
+escitalopram oxalate,'00143980801',10,mg,"WEST-WARD, INC.",Active
+escitalopram oxalate,'00143980805',10,mg,"WEST-WARD, INC.",Active
+escitalopram oxalate,'00378385610',10,mg,MYLAN,Active
+escitalopram oxalate,'00378385677',10,mg,MYLAN,Active
+escitalopram oxalate,'00378385693',10,mg,MYLAN,Active
+escitalopram oxalate,'00440550500',10,mg,LIBERTY PHARM,Active
+escitalopram oxalate,'00440550530',10,mg,LIBERTY PHARM,Active
+escitalopram oxalate,'00440550560',10,mg,LIBERTY PHARM,Active
+escitalopram oxalate,'00440550581',10,mg,LIBERTY PHARM,Active
+escitalopram oxalate,'00440550585',10,mg,LIBERTY PHARM,Active
+escitalopram oxalate,'00440550590',10,mg,LIBERTY PHARM,Active
+escitalopram oxalate,'00904631461',10,mg,MAJOR PHARMACEU,Active
+escitalopram oxalate,'00904642661',10,mg,MAJOR PHARMACEU,Active
+escitalopram oxalate,'10544022530',10,mg,BLENHEIM PHARMA,Active
+escitalopram oxalate,'13668013601',10,mg,TORRENT PHARMAC,Active
+escitalopram oxalate,'13668013605',10,mg,TORRENT PHARMAC,Active
+escitalopram oxalate,'13668013610',10,mg,TORRENT PHARMAC,Active
+escitalopram oxalate,'16729016901',10,mg,ACCORD HEALTHCA,Active
+escitalopram oxalate,'16729016917',10,mg,ACCORD HEALTHCA,Active
+escitalopram oxalate,'31722025090',10,mg,CAMBER PHARMACE,Active
+escitalopram oxalate,'33342003711',10,mg,MACLEODS PHARMA,Active
+escitalopram oxalate,'35356080030',10,mg,QUALITY CARE,Active
+escitalopram oxalate,'42254036230',10,mg,PHYSICIAN PARTN,Active
+escitalopram oxalate,'42254036260',10,mg,PHYSICIAN PARTN,Active
+escitalopram oxalate,'43063037401',10,mg,PD-RX PHARM,Active
+escitalopram oxalate,'43063037430',10,mg,PD-RX PHARM,Active
+escitalopram oxalate,'43063037490',10,mg,PD-RX PHARM,Active
+escitalopram oxalate,'43063038930',10,mg,PD-RX PHARM,Active
+escitalopram oxalate,'43063066601',10,mg,PD-RX PHARM,Active
+escitalopram oxalate,'43063066630',10,mg,PD-RX PHARM,Active
+escitalopram oxalate,'43063066690',10,mg,PD-RX PHARM,Active
+escitalopram oxalate,'43547028110',10,mg,SOLCO HEALTHCAR,Active
+escitalopram oxalate,'43547028111',10,mg,SOLCO HEALTHCAR,Active
+escitalopram oxalate,'51079054301',10,mg,MYLAN INSTITUTI,Active
+escitalopram oxalate,'51079054320',10,mg,MYLAN INSTITUTI,Active
+escitalopram oxalate,'51079054330',10,mg,MYLAN INSTITUTI,Active
+escitalopram oxalate,'51079054356',10,mg,MYLAN INSTITUTI,Active
+escitalopram oxalate,'54458089210',10,mg,INTERNATIONAL L,Active
+escitalopram oxalate,'54569630400',10,mg,A-S MEDICATION,Active
+escitalopram oxalate,'54569630401',10,mg,A-S MEDICATION,Active
+escitalopram oxalate,'54868637500',10,mg,PHYSICIANS TC.,Active
+escitalopram oxalate,'54868637501',10,mg,PHYSICIANS TC.,Active
+escitalopram oxalate,'54879001001',10,mg,"STI PHARMA, LLC",Active
+escitalopram oxalate,'55700001330',10,mg,QUALITY CARE,Active
+escitalopram oxalate,'55700001360',10,mg,QUALITY CARE,Active
+escitalopram oxalate,'59746028001',10,mg,CADISTA PHARMAC,Active
+escitalopram oxalate,'60505278101',10,mg,APOTEX CORP,Active
+escitalopram oxalate,'60505278108',10,mg,APOTEX CORP,Active
+escitalopram oxalate,'61919013930',10,mg,DIRECT RX,Active
+escitalopram oxalate,'63629468801',10,mg,BRYANT RANCH PR,Active
+escitalopram oxalate,'63629468802',10,mg,BRYANT RANCH PR,Active
+escitalopram oxalate,'63629468803',10,mg,BRYANT RANCH PR,Active
+escitalopram oxalate,'63629468804',10,mg,BRYANT RANCH PR,Active
+escitalopram oxalate,'65862037401',10,mg,AUROBINDO PHARM,Active
+escitalopram oxalate,'65862037405',10,mg,AUROBINDO PHARM,Active
+escitalopram oxalate,'68001019600',10,mg,BLUEPOINT LABOR,Active
+escitalopram oxalate,'68001019603',10,mg,BLUEPOINT LABOR,Active
+escitalopram oxalate,'68084061701',10,mg,AHP,Active
+escitalopram oxalate,'68084061711',10,mg,AHP,Active
+escitalopram oxalate,'68180013501',10,mg,LUPIN PHARMACEU,Active
+escitalopram oxalate,'68645044870',10,mg,LEGACY PHARMACE,Active
+escitalopram oxalate,'68645051954',10,mg,LEGACY PHARMACE,Active
+escitalopram oxalate,'68645051970',10,mg,LEGACY PHARMACE,Active
+escitalopram oxalate,'69097084805',10,mg,"CIPLA USA, INC.",Active
+escitalopram oxalate,'76282025010',10,mg,EXELAN PHARMACE,Active
+escitalopram oxalate,'76282025030',10,mg,EXELAN PHARMACE,Active
+escitalopram oxalate,'76282025090',10,mg,EXELAN PHARMACE,Active
+escitalopram oxalate,'00093585201',20,mg,TEVA USA,Active
+escitalopram oxalate,'00093585205',20,mg,TEVA USA,Active
+escitalopram oxalate,'00093585219',20,mg,TEVA USA,Active
+escitalopram oxalate,'00093585293',20,mg,TEVA USA,Active
+escitalopram oxalate,'00143980701',20,mg,"WEST-WARD, INC.",Active
+escitalopram oxalate,'00143980705',20,mg,"WEST-WARD, INC.",Active
+escitalopram oxalate,'00378385710',20,mg,MYLAN,Active
+escitalopram oxalate,'00378385777',20,mg,MYLAN,Active
+escitalopram oxalate,'00378385793',20,mg,MYLAN,Active
+escitalopram oxalate,'00440550600',20,mg,LIBERTY PHARM,Active
+escitalopram oxalate,'00440550630',20,mg,LIBERTY PHARM,Active
+escitalopram oxalate,'00440550660',20,mg,LIBERTY PHARM,Active
+escitalopram oxalate,'00440550681',20,mg,LIBERTY PHARM,Active
+escitalopram oxalate,'00440550685',20,mg,LIBERTY PHARM,Active
+escitalopram oxalate,'00440550690',20,mg,LIBERTY PHARM,Active
+escitalopram oxalate,'00904631561',20,mg,MAJOR PHARMACEU,Active
+escitalopram oxalate,'00904642761',20,mg,MAJOR PHARMACEU,Active
+escitalopram oxalate,'10544023030',20,mg,BLENHEIM PHARMA,Active
+escitalopram oxalate,'13668013701',20,mg,TORRENT PHARMAC,Active
+escitalopram oxalate,'13668013705',20,mg,TORRENT PHARMAC,Active
+escitalopram oxalate,'13668013710',20,mg,TORRENT PHARMAC,Active
+escitalopram oxalate,'16729017001',20,mg,ACCORD HEALTHCA,Active
+escitalopram oxalate,'16729017017',20,mg,ACCORD HEALTHCA,Active
+escitalopram oxalate,'21695072530',20,mg,PHYSICIAN PARTN,Active
+escitalopram oxalate,'31722025190',20,mg,CAMBER PHARMACE,Active
+escitalopram oxalate,'33342003811',20,mg,MACLEODS PHARMA,Active
+escitalopram oxalate,'35356079930',20,mg,QUALITY CARE,Active
+escitalopram oxalate,'43063039030',20,mg,PD-RX PHARM,Active
+escitalopram oxalate,'43063052130',20,mg,PD-RX PHARM,Active
+escitalopram oxalate,'43063052190',20,mg,PD-RX PHARM,Active
+escitalopram oxalate,'43063066130',20,mg,PD-RX PHARM,Active
+escitalopram oxalate,'43063066190',20,mg,PD-RX PHARM,Active
+escitalopram oxalate,'43547028210',20,mg,SOLCO HEALTHCAR,Active
+escitalopram oxalate,'43547028211',20,mg,SOLCO HEALTHCAR,Active
+escitalopram oxalate,'50436005401',20,mg,UNIT DOSE SERVI,Active
+escitalopram oxalate,'51079054401',20,mg,MYLAN INSTITUTI,Active
+escitalopram oxalate,'51079054420',20,mg,MYLAN INSTITUTI,Active
+escitalopram oxalate,'51079054430',20,mg,MYLAN INSTITUTI,Active
+escitalopram oxalate,'51079054456',20,mg,MYLAN INSTITUTI,Active
+escitalopram oxalate,'54458089110',20,mg,INTERNATIONAL L,Active
+escitalopram oxalate,'54569630500',20,mg,A-S MEDICATION,Active
+escitalopram oxalate,'54569630501',20,mg,A-S MEDICATION,Active
+escitalopram oxalate,'54868637600',20,mg,PHYSICIANS TC.,Active
+escitalopram oxalate,'54868637601',20,mg,PHYSICIANS TC.,Active
+escitalopram oxalate,'54879001101',20,mg,"STI PHARMA, LLC",Active
+escitalopram oxalate,'55700015730',20,mg,QUALITY CARE,Active
+escitalopram oxalate,'59746028101',20,mg,CADISTA PHARMAC,Active
+escitalopram oxalate,'60505278201',20,mg,APOTEX CORP,Active
+escitalopram oxalate,'60505278208',20,mg,APOTEX CORP,Active
+escitalopram oxalate,'63187028130',20,mg,PROFICIENT RX L,Active
+escitalopram oxalate,'63629469901',20,mg,BRYANT RANCH PR,Active
+escitalopram oxalate,'63629469902',20,mg,BRYANT RANCH PR,Active
+escitalopram oxalate,'63629469903',20,mg,BRYANT RANCH PR,Active
+escitalopram oxalate,'63629469904',20,mg,BRYANT RANCH PR,Active
+escitalopram oxalate,'63629469905',20,mg,BRYANT RANCH PR,Active
+escitalopram oxalate,'63629469906',20,mg,BRYANT RANCH PR,Active
+escitalopram oxalate,'63629469907',20,mg,BRYANT RANCH PR,Active
+escitalopram oxalate,'65862037501',20,mg,AUROBINDO PHARM,Active
+escitalopram oxalate,'65862037505',20,mg,AUROBINDO PHARM,Active
+escitalopram oxalate,'68001019700',20,mg,BLUEPOINT LABOR,Active
+escitalopram oxalate,'68001019703',20,mg,BLUEPOINT LABOR,Active
+escitalopram oxalate,'68084061801',20,mg,AHP,Active
+escitalopram oxalate,'68084061811',20,mg,AHP,Active
+escitalopram oxalate,'68180013601',20,mg,LUPIN PHARMACEU,Active
+escitalopram oxalate,'68645044770',20,mg,LEGACY PHARMACE,Active
+escitalopram oxalate,'68645052054',20,mg,LEGACY PHARMACE,Active
+escitalopram oxalate,'68645052070',20,mg,LEGACY PHARMACE,Active
+escitalopram oxalate,'69097084905',20,mg,"CIPLA USA, INC.",Active
+escitalopram oxalate,'76282025110',20,mg,EXELAN PHARMACE,Active
+escitalopram oxalate,'76282025130',20,mg,EXELAN PHARMACE,Active
+escitalopram oxalate,'76282025190',20,mg,EXELAN PHARMACE,Active
+escitalopram oxalate,'00093585001',5,mg,TEVA USA,Active
+escitalopram oxalate,'00093585005',5,mg,TEVA USA,Active
+escitalopram oxalate,'00093585019',5,mg,TEVA USA,Active
+escitalopram oxalate,'00093585093',5,mg,TEVA USA,Active
+escitalopram oxalate,'00143980901',5,mg,"WEST-WARD, INC.",Active
+escitalopram oxalate,'00378385577',5,mg,MYLAN,Active
+escitalopram oxalate,'00378385593',5,mg,MYLAN,Active
+escitalopram oxalate,'00440550400',5,mg,LIBERTY PHARM,Active
+escitalopram oxalate,'00440550430',5,mg,LIBERTY PHARM,Active
+escitalopram oxalate,'00440550460',5,mg,LIBERTY PHARM,Active
+escitalopram oxalate,'00440550481',5,mg,LIBERTY PHARM,Active
+escitalopram oxalate,'00440550485',5,mg,LIBERTY PHARM,Active
+escitalopram oxalate,'00440550490',5,mg,LIBERTY PHARM,Active
+escitalopram oxalate,'10544022430',5,mg,BLENHEIM PHARMA,Active
+escitalopram oxalate,'13668013501',5,mg,TORRENT PHARMAC,Active
+escitalopram oxalate,'13668013505',5,mg,TORRENT PHARMAC,Active
+escitalopram oxalate,'13668013510',5,mg,TORRENT PHARMAC,Active
+escitalopram oxalate,'16729016801',5,mg,ACCORD HEALTHCA,Active
+escitalopram oxalate,'16729016817',5,mg,ACCORD HEALTHCA,Active
+escitalopram oxalate,'31722024990',5,mg,CAMBER PHARMACE,Active
+escitalopram oxalate,'33342003611',5,mg,MACLEODS PHARMA,Active
+escitalopram oxalate,'43547028010',5,mg,SOLCO HEALTHCAR,Active
+escitalopram oxalate,'43547028011',5,mg,SOLCO HEALTHCAR,Active
+escitalopram oxalate,'54879000901',5,mg,"STI PHARMA, LLC",Active
+escitalopram oxalate,'59746027901',5,mg,CADISTA PHARMAC,Active
+escitalopram oxalate,'60505278001',5,mg,APOTEX CORP,Active
+escitalopram oxalate,'60505278008',5,mg,APOTEX CORP,Active
+escitalopram oxalate,'65862037301',5,mg,AUROBINDO PHARM,Active
+escitalopram oxalate,'65862037305',5,mg,AUROBINDO PHARM,Active
+escitalopram oxalate,'68001019500',5,mg,BLUEPOINT LABOR,Active
+escitalopram oxalate,'68180013701',5,mg,LUPIN PHARMACEU,Active
+escitalopram oxalate,'69097084705',5,mg,"CIPLA USA, INC.",Active
+escitalopram oxalate,'76282024910',5,mg,EXELAN PHARMACE,Active
+escitalopram oxalate,'76282024930',5,mg,EXELAN PHARMACE,Active
+escitalopram oxalate,'76282024990',5,mg,EXELAN PHARMACE,Active
+escitalopram oxalate,'00591415138',5,mg/5 mL,ACTAVIS PHARMA,Active
+escitalopram oxalate,'31722056924',5,mg/5 mL,CAMBER PHARMACE,Active
+escitalopram oxalate,'51672134801',5,mg/5 mL,TARO PHARM USA,Active
+escitalopram oxalate,'54838055170',5,mg/5 mL,SILARX PHARM,Active
+escitalopram oxalate,'65162070588',5,mg/5 mL,AMNEAL PHARMACE,Active
+escitalopram oxalate,'65862024824',5,mg/5 mL,AUROBINDO PHARM,Active

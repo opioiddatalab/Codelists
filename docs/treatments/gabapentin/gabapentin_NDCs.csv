@@ -1,0 +1,1805 @@
+drug_name,ndc,strength,strength_uom,manufacturer,status
+Active-Pac,'45861010801',300-4-1,mg-%-%,PHARMACEUTICA N,Active
+Gabarone,'00182271801',100,mg,IVAX PHARMACEUT,Inactive
+Gabarone,'00182271901',300,mg,IVAX PHARMACEUT,Inactive
+Gabarone,'00182272001',400,mg,IVAX PHARMACEUT,Inactive
+Gralise,'13913000413',300,mg,"DEPOMED, INC.",Active
+Gralise,'13913000419',300,mg,"DEPOMED, INC.",Active
+Gralise,'13913000519',600,mg,"DEPOMED, INC.",Active
+Gralise,'50436126203',600,mg,UNIT DOSE SERVI,Active
+Gralise,'54569637200',600,mg,A-S MEDICATION,Active
+Gralise 30-Day Starter Pack,'13913000616',300 mg (9)-,600 mg (69),"DEPOMED, INC.",Active
+Gralise 30-Day Starter Pack,'54569637100',300 mg (9)-,600 mg (69),A-S MEDICATION,Active
+Horizant,'53451010301',300,mg,XENOPORT/ARBOR,Active
+Horizant,'00173080601',600,mg,GLAXOSMITHKLINE,Active
+Horizant,'53451010101',600,mg,XENOPORT/ARBOR,Active
+Neurontin,'00071080324',100,mg,PFIZER US PHARM,Active
+Neurontin,'00071080340',100,mg,PFIZER US PHARM,Active
+Neurontin,'52959050600',100,mg,PHARMA PAC,Active
+Neurontin,'52959050602',100,mg,PHARMA PAC,Active
+Neurontin,'52959050614',100,mg,PHARMA PAC,Active
+Neurontin,'52959050620',100,mg,PHARMA PAC,Active
+Neurontin,'52959050621',100,mg,PHARMA PAC,Active
+Neurontin,'52959050630',100,mg,PHARMA PAC,Active
+Neurontin,'52959050645',100,mg,PHARMA PAC,Active
+Neurontin,'52959050660',100,mg,PHARMA PAC,Active
+Neurontin,'52959050690',100,mg,PHARMA PAC,Active
+Neurontin,'54569457600',100,mg,A-S MEDICATION,Active
+Neurontin,'54569457601',100,mg,A-S MEDICATION,Active
+Neurontin,'54868352900',100,mg,PHYSICIANS TC.,Active
+Neurontin,'54868352901',100,mg,PHYSICIANS TC.,Active
+Neurontin,'54868352902',100,mg,PHYSICIANS TC.,Active
+Neurontin,'54868352903',100,mg,PHYSICIANS TC.,Active
+Neurontin,'55045269600',100,mg,DRX,Active
+Neurontin,'55045269606',100,mg,DRX,Active
+Neurontin,'55045269608',100,mg,DRX,Active
+Neurontin,'55289084330',100,mg,PD-RX PHARM,Active
+Neurontin,'55887054030',100,mg,DHS INC.,Active
+Neurontin,'55887054060',100,mg,DHS INC.,Active
+Neurontin,'55887054082',100,mg,DHS INC.,Active
+Neurontin,'55887054090',100,mg,DHS INC.,Active
+Neurontin,'58016042700',100,mg,SOUTHWOOD PHARM,Active
+Neurontin,'58016042710',100,mg,SOUTHWOOD PHARM,Active
+Neurontin,'58016042714',100,mg,SOUTHWOOD PHARM,Active
+Neurontin,'58016042715',100,mg,SOUTHWOOD PHARM,Active
+Neurontin,'58016042720',100,mg,SOUTHWOOD PHARM,Active
+Neurontin,'58016042721',100,mg,SOUTHWOOD PHARM,Active
+Neurontin,'58016042728',100,mg,SOUTHWOOD PHARM,Active
+Neurontin,'58016042730',100,mg,SOUTHWOOD PHARM,Active
+Neurontin,'58016042740',100,mg,SOUTHWOOD PHARM,Active
+Neurontin,'58016042750',100,mg,SOUTHWOOD PHARM,Active
+Neurontin,'58016042760',100,mg,SOUTHWOOD PHARM,Active
+Neurontin,'58016042790',100,mg,SOUTHWOOD PHARM,Active
+Neurontin,'58864071260',100,mg,PD-RX PHARM,Active
+Neurontin,'63874070601',100,mg,ALTURA PHARMA,Active
+Neurontin,'63874070604',100,mg,ALTURA PHARMA,Active
+Neurontin,'63874070610',100,mg,ALTURA PHARMA,Active
+Neurontin,'63874070614',100,mg,ALTURA PHARMA,Active
+Neurontin,'63874070618',100,mg,ALTURA PHARMA,Active
+Neurontin,'63874070620',100,mg,ALTURA PHARMA,Active
+Neurontin,'63874070621',100,mg,ALTURA PHARMA,Active
+Neurontin,'63874070628',100,mg,ALTURA PHARMA,Active
+Neurontin,'63874070630',100,mg,ALTURA PHARMA,Active
+Neurontin,'63874070640',100,mg,ALTURA PHARMA,Active
+Neurontin,'63874070660',100,mg,ALTURA PHARMA,Active
+Neurontin,'63874070690',100,mg,ALTURA PHARMA,Active
+Neurontin,'66267033930',100,mg,NUCARE PHARMACE,Active
+Neurontin,'66267033945',100,mg,NUCARE PHARMACE,Active
+Neurontin,'66267033990',100,mg,NUCARE PHARMACE,Active
+Neurontin,'67544020060',100,mg,APHENA PHARMA S,Active
+Neurontin,'68115025300',100,mg,"DISPENSEXPRESS,",Active
+Neurontin,'68115025330',100,mg,"DISPENSEXPRESS,",Active
+Neurontin,'68115025360',100,mg,"DISPENSEXPRESS,",Active
+Neurontin,'68115025390',100,mg,"DISPENSEXPRESS,",Active
+Neurontin,'00071201223',250,mg/5 mL,PFIZER US PHARM,Active
+Neurontin,'00071080524',300,mg,PFIZER US PHARM,Active
+Neurontin,'00071080540',300,mg,PFIZER US PHARM,Active
+Neurontin,'49999025700',300,mg,QUALITY CARE,Active
+Neurontin,'52959043400',300,mg,PHARMA PAC,Active
+Neurontin,'52959043420',300,mg,PHARMA PAC,Active
+Neurontin,'52959043430',300,mg,PHARMA PAC,Active
+Neurontin,'52959043435',300,mg,PHARMA PAC,Active
+Neurontin,'52959043445',300,mg,PHARMA PAC,Active
+Neurontin,'52959043460',300,mg,PHARMA PAC,Active
+Neurontin,'52959043490',300,mg,PHARMA PAC,Active
+Neurontin,'54569457700',300,mg,A-S MEDICATION,Active
+Neurontin,'54569457701',300,mg,A-S MEDICATION,Active
+Neurontin,'54569457702',300,mg,A-S MEDICATION,Active
+Neurontin,'54868376801',300,mg,PHYSICIANS TC.,Active
+Neurontin,'54868376802',300,mg,PHYSICIANS TC.,Active
+Neurontin,'54868376803',300,mg,PHYSICIANS TC.,Active
+Neurontin,'54868376804',300,mg,PHYSICIANS TC.,Active
+Neurontin,'54868376805',300,mg,PHYSICIANS TC.,Active
+Neurontin,'55045261600',300,mg,DRX,Active
+Neurontin,'55045261605',300,mg,DRX,Active
+Neurontin,'55045261606',300,mg,DRX,Active
+Neurontin,'55045261608',300,mg,DRX,Active
+Neurontin,'55045261609',300,mg,DRX,Active
+Neurontin,'55289057010',300,mg,PD-RX PHARM,Active
+Neurontin,'55289057030',300,mg,PD-RX PHARM,Active
+Neurontin,'55289057060',300,mg,PD-RX PHARM,Active
+Neurontin,'55887055120',300,mg,DHS INC.,Active
+Neurontin,'55887055130',300,mg,DHS INC.,Active
+Neurontin,'55887055160',300,mg,DHS INC.,Active
+Neurontin,'55887055190',300,mg,DHS INC.,Active
+Neurontin,'57866105302',300,mg,VIBRANTA INC.,Active
+Neurontin,'57866105303',300,mg,VIBRANTA INC.,Active
+Neurontin,'57866105304',300,mg,VIBRANTA INC.,Active
+Neurontin,'58016048100',300,mg,SOUTHWOOD PHARM,Active
+Neurontin,'58016048110',300,mg,SOUTHWOOD PHARM,Active
+Neurontin,'58016048114',300,mg,SOUTHWOOD PHARM,Active
+Neurontin,'58016048115',300,mg,SOUTHWOOD PHARM,Active
+Neurontin,'58016048120',300,mg,SOUTHWOOD PHARM,Active
+Neurontin,'58016048121',300,mg,SOUTHWOOD PHARM,Active
+Neurontin,'58016048128',300,mg,SOUTHWOOD PHARM,Active
+Neurontin,'58016048130',300,mg,SOUTHWOOD PHARM,Active
+Neurontin,'58016048140',300,mg,SOUTHWOOD PHARM,Active
+Neurontin,'58016048150',300,mg,SOUTHWOOD PHARM,Active
+Neurontin,'58016048160',300,mg,SOUTHWOOD PHARM,Active
+Neurontin,'58016048190',300,mg,SOUTHWOOD PHARM,Active
+Neurontin,'60760080560',300,mg,ST MARYS MPP,Active
+Neurontin,'63874062901',300,mg,ALTURA PHARMA,Active
+Neurontin,'63874062904',300,mg,ALTURA PHARMA,Active
+Neurontin,'63874062910',300,mg,ALTURA PHARMA,Active
+Neurontin,'63874062914',300,mg,ALTURA PHARMA,Active
+Neurontin,'63874062918',300,mg,ALTURA PHARMA,Active
+Neurontin,'63874062921',300,mg,ALTURA PHARMA,Active
+Neurontin,'63874062928',300,mg,ALTURA PHARMA,Active
+Neurontin,'63874062930',300,mg,ALTURA PHARMA,Active
+Neurontin,'63874062940',300,mg,ALTURA PHARMA,Active
+Neurontin,'63874062950',300,mg,ALTURA PHARMA,Active
+Neurontin,'63874062960',300,mg,ALTURA PHARMA,Active
+Neurontin,'63874062990',300,mg,ALTURA PHARMA,Active
+Neurontin,'66267015530',300,mg,NUCARE PHARMACE,Active
+Neurontin,'66267015545',300,mg,NUCARE PHARMACE,Active
+Neurontin,'66267015560',300,mg,NUCARE PHARMACE,Active
+Neurontin,'66267015590',300,mg,NUCARE PHARMACE,Active
+Neurontin,'66267015592',300,mg,NUCARE PHARMACE,Active
+Neurontin,'67544009530',300,mg,APHENA PHARMA S,Active
+Neurontin,'67544009553',300,mg,APHENA PHARMA S,Active
+Neurontin,'67544009560',300,mg,APHENA PHARMA S,Active
+Neurontin,'67544009580',300,mg,APHENA PHARMA S,Active
+Neurontin,'67544009592',300,mg,APHENA PHARMA S,Active
+Neurontin,'68115025400',300,mg,"DISPENSEXPRESS,",Active
+Neurontin,'68115025430',300,mg,"DISPENSEXPRESS,",Active
+Neurontin,'68115025445',300,mg,"DISPENSEXPRESS,",Active
+Neurontin,'68115025460',300,mg,"DISPENSEXPRESS,",Active
+Neurontin,'68115025490',300,mg,"DISPENSEXPRESS,",Active
+Neurontin,'00071080624',400,mg,PFIZER US PHARM,Active
+Neurontin,'00071080640',400,mg,PFIZER US PHARM,Active
+Neurontin,'54569457800',400,mg,A-S MEDICATION,Active
+Neurontin,'54868393100',400,mg,PHYSICIANS TC.,Active
+Neurontin,'54868393101',400,mg,PHYSICIANS TC.,Active
+Neurontin,'54868393102',400,mg,PHYSICIANS TC.,Active
+Neurontin,'55045254500',400,mg,DRX,Active
+Neurontin,'55045254508',400,mg,DRX,Active
+Neurontin,'58016043300',400,mg,SOUTHWOOD PHARM,Active
+Neurontin,'58016043310',400,mg,SOUTHWOOD PHARM,Active
+Neurontin,'58016043314',400,mg,SOUTHWOOD PHARM,Active
+Neurontin,'58016043315',400,mg,SOUTHWOOD PHARM,Active
+Neurontin,'58016043320',400,mg,SOUTHWOOD PHARM,Active
+Neurontin,'58016043321',400,mg,SOUTHWOOD PHARM,Active
+Neurontin,'58016043328',400,mg,SOUTHWOOD PHARM,Active
+Neurontin,'58016043330',400,mg,SOUTHWOOD PHARM,Active
+Neurontin,'58016043340',400,mg,SOUTHWOOD PHARM,Active
+Neurontin,'58016043350',400,mg,SOUTHWOOD PHARM,Active
+Neurontin,'58016043360',400,mg,SOUTHWOOD PHARM,Active
+Neurontin,'58016043390',400,mg,SOUTHWOOD PHARM,Active
+Neurontin,'67544004460',400,mg,APHENA PHARMA S,Active
+Neurontin,'67544004480',400,mg,APHENA PHARMA S,Active
+Neurontin,'67544004492',400,mg,APHENA PHARMA S,Active
+Neurontin,'68115072300',400,mg,"DISPENSEXPRESS,",Active
+Neurontin,'00071041624',600,mg,PFIZER US PHARM,Active
+Neurontin,'00071051324',600,mg,PFIZER US PHARM,Active
+Neurontin,'16590062773',600,mg,STAT RX USA,Active
+Neurontin,'52959064002',600,mg,PHARMA PAC,Active
+Neurontin,'52959064030',600,mg,PHARMA PAC,Active
+Neurontin,'52959064060',600,mg,PHARMA PAC,Active
+Neurontin,'52959064090',600,mg,PHARMA PAC,Active
+Neurontin,'54569524900',600,mg,A-S MEDICATION,Active
+Neurontin,'54868449100',600,mg,PHYSICIANS TC.,Active
+Neurontin,'54868449102',600,mg,PHYSICIANS TC.,Active
+Neurontin,'54868449103',600,mg,PHYSICIANS TC.,Active
+Neurontin,'54868449104',600,mg,PHYSICIANS TC.,Active
+Neurontin,'55289085030',600,mg,PD-RX PHARM,Active
+Neurontin,'55887053930',600,mg,DHS INC.,Active
+Neurontin,'55887053960',600,mg,DHS INC.,Active
+Neurontin,'55887053982',600,mg,DHS INC.,Active
+Neurontin,'55887053990',600,mg,DHS INC.,Active
+Neurontin,'58016048200',600,mg,SOUTHWOOD PHARM,Active
+Neurontin,'58016048210',600,mg,SOUTHWOOD PHARM,Active
+Neurontin,'58016048214',600,mg,SOUTHWOOD PHARM,Active
+Neurontin,'58016048215',600,mg,SOUTHWOOD PHARM,Active
+Neurontin,'58016048220',600,mg,SOUTHWOOD PHARM,Active
+Neurontin,'58016048221',600,mg,SOUTHWOOD PHARM,Active
+Neurontin,'58016048228',600,mg,SOUTHWOOD PHARM,Active
+Neurontin,'58016048230',600,mg,SOUTHWOOD PHARM,Active
+Neurontin,'58016048240',600,mg,SOUTHWOOD PHARM,Active
+Neurontin,'58016048250',600,mg,SOUTHWOOD PHARM,Active
+Neurontin,'58016048260',600,mg,SOUTHWOOD PHARM,Active
+Neurontin,'58016048290',600,mg,SOUTHWOOD PHARM,Active
+Neurontin,'63874107300',600,mg,ALTURA PHARMA,Active
+Neurontin,'63874107301',600,mg,ALTURA PHARMA,Active
+Neurontin,'63874107302',600,mg,ALTURA PHARMA,Active
+Neurontin,'63874107303',600,mg,ALTURA PHARMA,Active
+Neurontin,'63874107304',600,mg,ALTURA PHARMA,Active
+Neurontin,'63874107305',600,mg,ALTURA PHARMA,Active
+Neurontin,'63874107306',600,mg,ALTURA PHARMA,Active
+Neurontin,'63874107307',600,mg,ALTURA PHARMA,Active
+Neurontin,'63874107308',600,mg,ALTURA PHARMA,Active
+Neurontin,'63874107309',600,mg,ALTURA PHARMA,Active
+Neurontin,'68115038500',600,mg,"DISPENSEXPRESS,",Active
+Neurontin,'68115038560',600,mg,"DISPENSEXPRESS,",Active
+Neurontin,'00071040124',800,mg,PFIZER US PHARM,Active
+Neurontin,'00071042624',800,mg,PFIZER US PHARM,Active
+Neurontin,'35356006130',800,mg,QUALITY CARE,Active
+Neurontin,'54868460000',800,mg,PHYSICIANS TC.,Active
+Neurontin,'54868460001',800,mg,PHYSICIANS TC.,Active
+Neurontin,'58016048300',800,mg,SOUTHWOOD PHARM,Active
+Neurontin,'58016048310',800,mg,SOUTHWOOD PHARM,Active
+Neurontin,'58016048320',800,mg,SOUTHWOOD PHARM,Active
+Neurontin,'58016048330',800,mg,SOUTHWOOD PHARM,Active
+Neurontin,'58016048340',800,mg,SOUTHWOOD PHARM,Active
+Neurontin,'58016048350',800,mg,SOUTHWOOD PHARM,Active
+Neurontin,'58016048360',800,mg,SOUTHWOOD PHARM,Active
+Neurontin,'58016048390',800,mg,SOUTHWOOD PHARM,Active
+Neurontin,'68115029200',800,mg,"DISPENSEXPRESS,",Active
+SmartRx Gaba-V Kit,'69677006902',300 mg-0.037 %-,20 %-5 %,MAS MANAGEMENT,Active
+SmartRx GabaKit,'69677006302',300-4-1,mg-%-%,MAS MANAGEMENT,Active
+Therapentin-60,'68405806826',300,mg,PHYSICIAN THERA,Inactive
+Therapentin-90,'68405806836',300,mg,PHYSICIAN THERA,Inactive
+gabapentin,'00093103801',100,mg,TEVA USA,Active
+gabapentin,'00093103805',100,mg,TEVA USA,Active
+gabapentin,'00143999201',100,mg,"WEST-WARD, INC.",Active
+gabapentin,'00172438100',100,mg,IVAX PHARMACEUT,Active
+gabapentin,'00172438110',100,mg,IVAX PHARMACEUT,Active
+gabapentin,'00172438160',100,mg,IVAX PHARMACEUT,Active
+gabapentin,'00172438170',100,mg,IVAX PHARMACEUT,Active
+gabapentin,'00172438184',100,mg,IVAX PHARMACEUT,Active
+gabapentin,'00185009101',100,mg,EON LABS,Active
+gabapentin,'00185009105',100,mg,EON LABS,Active
+gabapentin,'00185009110',100,mg,EON LABS,Active
+gabapentin,'00228266511',100,mg,ACTAVIS PHARMA,Active
+gabapentin,'00228266550',100,mg,ACTAVIS PHARMA,Active
+gabapentin,'00378542601',100,mg,MYLAN,Active
+gabapentin,'00378542605',100,mg,MYLAN,Active
+gabapentin,'00440755892',100,mg,LIBERTY PHARM,Active
+gabapentin,'00677193501',100,mg,URL PHARMA,Active
+gabapentin,'00677193505',100,mg,URL PHARMA,Active
+gabapentin,'00677193510',100,mg,URL PHARMA,Active
+gabapentin,'00904563140',100,mg,MAJOR PHARMACEU,Active
+gabapentin,'00904563161',100,mg,MAJOR PHARMACEU,Active
+gabapentin,'00904563189',100,mg,MAJOR PHARMACEU,Active
+gabapentin,'00904563193',100,mg,MAJOR PHARMACEU,Active
+gabapentin,'00904607861',100,mg,MAJOR PHARMACEU,Active
+gabapentin,'10544031228',100,mg,BLENHEIM PHARMA,Active
+gabapentin,'10544031260',100,mg,BLENHEIM PHARMA,Active
+gabapentin,'14550051102',100,mg,ACTAVIS PHARMA,Active
+gabapentin,'14550051104',100,mg,ACTAVIS PHARMA,Active
+gabapentin,'16590010110',100,mg,STAT RX USA,Active
+gabapentin,'16590010130',100,mg,STAT RX USA,Active
+gabapentin,'16590010145',100,mg,STAT RX USA,Active
+gabapentin,'16590010160',100,mg,STAT RX USA,Active
+gabapentin,'16590010186',100,mg,STAT RX USA,Active
+gabapentin,'16590010190',100,mg,STAT RX USA,Active
+gabapentin,'16714050301',100,mg,NORTHSTAR RX LL,Active
+gabapentin,'16714050302',100,mg,NORTHSTAR RX LL,Active
+gabapentin,'16714066101',100,mg,NORTHSTAR RX LL,Active
+gabapentin,'16714066102',100,mg,NORTHSTAR RX LL,Active
+gabapentin,'18837005530',100,mg,INNOVIANT PHARM,Active
+gabapentin,'18837005590',100,mg,INNOVIANT PHARM,Active
+gabapentin,'21695005500',100,mg,PHYSICIAN PARTN,Active
+gabapentin,'21695005530',100,mg,PHYSICIAN PARTN,Active
+gabapentin,'21695005560',100,mg,PHYSICIAN PARTN,Active
+gabapentin,'21695005590',100,mg,PHYSICIAN PARTN,Active
+gabapentin,'23490651301',100,mg,PALMETTO STATE,Active
+gabapentin,'23490651302',100,mg,PALMETTO STATE,Active
+gabapentin,'23490651306',100,mg,PALMETTO STATE,Active
+gabapentin,'23490651307',100,mg,PALMETTO STATE,Active
+gabapentin,'23490651308',100,mg,PALMETTO STATE,Active
+gabapentin,'23629013010',100,mg,CHOICE RX US LL,Active
+gabapentin,'31722022101',100,mg,CAMBER PHARMACE,Active
+gabapentin,'31722022105',100,mg,CAMBER PHARMACE,Active
+gabapentin,'33358015201',100,mg,RXCHANGE CO.,Active
+gabapentin,'33358015220',100,mg,RXCHANGE CO.,Active
+gabapentin,'33358015230',100,mg,RXCHANGE CO.,Active
+gabapentin,'33358015260',100,mg,RXCHANGE CO.,Active
+gabapentin,'33358015290',100,mg,RXCHANGE CO.,Active
+gabapentin,'35356070930',100,mg,QUALITY CARE,Active
+gabapentin,'35356070960',100,mg,QUALITY CARE,Active
+gabapentin,'35356070990',100,mg,QUALITY CARE,Active
+gabapentin,'42254010330',100,mg,PHYSICIAN PARTN,Active
+gabapentin,'42254010360',100,mg,PHYSICIAN PARTN,Active
+gabapentin,'42254010390',100,mg,PHYSICIAN PARTN,Active
+gabapentin,'42291030010',100,mg,AVKARE,Active
+gabapentin,'42291030018',100,mg,AVKARE,Active
+gabapentin,'42291030027',100,mg,AVKARE,Active
+gabapentin,'42291030090',100,mg,AVKARE,Active
+gabapentin,'42549051228',100,mg,4UORTHO LLC,Active
+gabapentin,'42549051260',100,mg,4UORTHO LLC,Active
+gabapentin,'42549051290',100,mg,4UORTHO LLC,Active
+gabapentin,'42582011410',100,mg,BI-COASTAL PHAR,Active
+gabapentin,'42582011418',100,mg,BI-COASTAL PHAR,Active
+gabapentin,'43063049030',100,mg,PD-RX PHARM,Active
+gabapentin,'43063049045',100,mg,PD-RX PHARM,Active
+gabapentin,'43063049090',100,mg,PD-RX PHARM,Active
+gabapentin,'43063066430',100,mg,PD-RX PHARM,Active
+gabapentin,'43063066490',100,mg,PD-RX PHARM,Active
+gabapentin,'43063068730',100,mg,PD-RX PHARM,Active
+gabapentin,'43063068745',100,mg,PD-RX PHARM,Active
+gabapentin,'43063068790',100,mg,PD-RX PHARM,Active
+gabapentin,'43353061853',100,mg,APHENA PHARMA S,Active
+gabapentin,'43353061860',100,mg,APHENA PHARMA S,Active
+gabapentin,'43353061880',100,mg,APHENA PHARMA S,Active
+gabapentin,'43353073192',100,mg,APHENA PHARMA S,Active
+gabapentin,'43353073198',100,mg,APHENA PHARMA S,Active
+gabapentin,'43353086260',100,mg,APHENA PHARMA S,Active
+gabapentin,'43353086280',100,mg,APHENA PHARMA S,Active
+gabapentin,'43353086292',100,mg,APHENA PHARMA S,Active
+gabapentin,'43353086298',100,mg,APHENA PHARMA S,Active
+gabapentin,'43547026510',100,mg,SOLCO HEALTHCAR,Active
+gabapentin,'43547026550',100,mg,SOLCO HEALTHCAR,Active
+gabapentin,'43547038310',100,mg,SOLCO HEALTHCAR,Active
+gabapentin,'43547038350',100,mg,SOLCO HEALTHCAR,Active
+gabapentin,'45963055511',100,mg,ACTAVIS PHARMA,Active
+gabapentin,'45963055550',100,mg,ACTAVIS PHARMA,Active
+gabapentin,'49483060501',100,mg,TIME-CAP LABS,Active
+gabapentin,'49483060550',100,mg,TIME-CAP LABS,Active
+gabapentin,'49999056800',100,mg,QUALITY CARE,Active
+gabapentin,'49999056801',100,mg,QUALITY CARE,Active
+gabapentin,'49999056830',100,mg,QUALITY CARE,Active
+gabapentin,'49999056860',100,mg,QUALITY CARE,Active
+gabapentin,'49999056890',100,mg,QUALITY CARE,Active
+gabapentin,'50436126301',100,mg,UNIT DOSE SERVI,Active
+gabapentin,'50436126302',100,mg,UNIT DOSE SERVI,Active
+gabapentin,'50436126303',100,mg,UNIT DOSE SERVI,Active
+gabapentin,'51079078501',100,mg,UDL,Active
+gabapentin,'51079078517',100,mg,UDL,Active
+gabapentin,'51079078519',100,mg,UDL,Active
+gabapentin,'51079078520',100,mg,UDL,Active
+gabapentin,'51138012128',100,mg,MED-HEALTH PHAR,Active
+gabapentin,'51138012130',100,mg,MED-HEALTH PHAR,Active
+gabapentin,'51138014028',100,mg,MED-HEALTH PHAR,Active
+gabapentin,'51138014030',100,mg,MED-HEALTH PHAR,Active
+gabapentin,'51991033701',100,mg,BRECKENRIDGE,Active
+gabapentin,'51991033705',100,mg,BRECKENRIDGE,Active
+gabapentin,'52343003001',100,mg,LUCID PHARMA LL,Active
+gabapentin,'52343003018',100,mg,LUCID PHARMA LL,Active
+gabapentin,'52343003027',100,mg,LUCID PHARMA LL,Active
+gabapentin,'52343003090',100,mg,LUCID PHARMA LL,Active
+gabapentin,'52343003099',100,mg,LUCID PHARMA LL,Active
+gabapentin,'52959075701',100,mg,PHARMA PAC,Active
+gabapentin,'52959075702',100,mg,PHARMA PAC,Active
+gabapentin,'52959075703',100,mg,PHARMA PAC,Active
+gabapentin,'52959075720',100,mg,PHARMA PAC,Active
+gabapentin,'52959075721',100,mg,PHARMA PAC,Active
+gabapentin,'52959075727',100,mg,PHARMA PAC,Active
+gabapentin,'52959075730',100,mg,PHARMA PAC,Active
+gabapentin,'52959075760',100,mg,PHARMA PAC,Active
+gabapentin,'52959075780',100,mg,PHARMA PAC,Active
+gabapentin,'52959075790',100,mg,PHARMA PAC,Active
+gabapentin,'53489028401',100,mg,MUTUAL PHARM CO,Active
+gabapentin,'53489028405',100,mg,MUTUAL PHARM CO,Active
+gabapentin,'53489028410',100,mg,MUTUAL PHARM CO,Active
+gabapentin,'53746010101',100,mg,AMNEAL PHARMACE,Active
+gabapentin,'53746010105',100,mg,AMNEAL PHARMACE,Active
+gabapentin,'53746010110',100,mg,AMNEAL PHARMACE,Active
+gabapentin,'54569573400',100,mg,A-S MEDICATION,Active
+gabapentin,'54569573401',100,mg,A-S MEDICATION,Active
+gabapentin,'54569573402',100,mg,A-S MEDICATION,Active
+gabapentin,'54868522600',100,mg,PHYSICIANS TC.,Active
+gabapentin,'54868522601',100,mg,PHYSICIANS TC.,Active
+gabapentin,'54868522602',100,mg,PHYSICIANS TC.,Active
+gabapentin,'54868522603',100,mg,PHYSICIANS TC.,Active
+gabapentin,'54868522604',100,mg,PHYSICIANS TC.,Active
+gabapentin,'54868522605',100,mg,PHYSICIANS TC.,Active
+gabapentin,'55045326401',100,mg,DRX,Active
+gabapentin,'55045326408',100,mg,DRX,Active
+gabapentin,'55045326409',100,mg,DRX,Active
+gabapentin,'55154358004',100,mg,CARDINAL HEALTH,Active
+gabapentin,'55154358007',100,mg,CARDINAL HEALTH,Active
+gabapentin,'55289093930',100,mg,PD-RX PHARM,Active
+gabapentin,'55289093945',100,mg,PD-RX PHARM,Active
+gabapentin,'55289093986',100,mg,PD-RX PHARM,Active
+gabapentin,'55289093990',100,mg,PD-RX PHARM,Active
+gabapentin,'55289093994',100,mg,PD-RX PHARM,Active
+gabapentin,'55700027601',100,mg,QUALITY CARE,Active
+gabapentin,'55700027630',100,mg,QUALITY CARE,Active
+gabapentin,'55700027660',100,mg,QUALITY CARE,Active
+gabapentin,'55700027690',100,mg,QUALITY CARE,Active
+gabapentin,'55700036001',100,mg,QUALITY CARE,Active
+gabapentin,'55700036030',100,mg,QUALITY CARE,Active
+gabapentin,'55700036060',100,mg,QUALITY CARE,Active
+gabapentin,'55700036090',100,mg,QUALITY CARE,Active
+gabapentin,'55887032930',100,mg,DHS INC.,Active
+gabapentin,'55887032990',100,mg,DHS INC.,Active
+gabapentin,'57866126301',100,mg,VIBRANTA INC.,Active
+gabapentin,'57866126302',100,mg,VIBRANTA INC.,Active
+gabapentin,'58016013400',100,mg,SOUTHWOOD PHARM,Active
+gabapentin,'58016013402',100,mg,SOUTHWOOD PHARM,Active
+gabapentin,'58016013403',100,mg,SOUTHWOOD PHARM,Active
+gabapentin,'58016013410',100,mg,SOUTHWOOD PHARM,Active
+gabapentin,'58016013414',100,mg,SOUTHWOOD PHARM,Active
+gabapentin,'58016013415',100,mg,SOUTHWOOD PHARM,Active
+gabapentin,'58016013420',100,mg,SOUTHWOOD PHARM,Active
+gabapentin,'58016013421',100,mg,SOUTHWOOD PHARM,Active
+gabapentin,'58016013428',100,mg,SOUTHWOOD PHARM,Active
+gabapentin,'58016013430',100,mg,SOUTHWOOD PHARM,Active
+gabapentin,'58016013440',100,mg,SOUTHWOOD PHARM,Active
+gabapentin,'58016013450',100,mg,SOUTHWOOD PHARM,Active
+gabapentin,'58016013460',100,mg,SOUTHWOOD PHARM,Active
+gabapentin,'58016013490',100,mg,SOUTHWOOD PHARM,Active
+gabapentin,'58016013499',100,mg,SOUTHWOOD PHARM,Active
+gabapentin,'58657062001',100,mg,METHOD PHARMACE,Active
+gabapentin,'58657062050',100,mg,METHOD PHARMACE,Active
+gabapentin,'59762502601',100,mg,GREENSTONE LLC.,Active
+gabapentin,'60429073801',100,mg,"GSMS, INC.",Active
+gabapentin,'60429073805',100,mg,"GSMS, INC.",Active
+gabapentin,'60429073850',100,mg,"GSMS, INC.",Active
+gabapentin,'60429073890',100,mg,"GSMS, INC.",Active
+gabapentin,'60505011200',100,mg,APOTEX CORP,Active
+gabapentin,'60505011201',100,mg,APOTEX CORP,Active
+gabapentin,'60505011207',100,mg,APOTEX CORP,Active
+gabapentin,'60505011208',100,mg,APOTEX CORP,Active
+gabapentin,'60760062790',100,mg,ST MARYS MPP,Active
+gabapentin,'61919010130',100,mg,DIRECT RX,Active
+gabapentin,'61919010160',100,mg,DIRECT RX,Active
+gabapentin,'61919010172',100,mg,DIRECT RX,Active
+gabapentin,'61919010190',100,mg,DIRECT RX,Active
+gabapentin,'61919025230',100,mg,DIRECT RX,Active
+gabapentin,'61919025260',100,mg,DIRECT RX,Active
+gabapentin,'61919025272',100,mg,DIRECT RX,Active
+gabapentin,'61919025290',100,mg,DIRECT RX,Active
+gabapentin,'62756013702',100,mg,SUN PHARMACEUTI,Active
+gabapentin,'62756013705',100,mg,SUN PHARMACEUTI,Active
+gabapentin,'63187024830',100,mg,PROFICIENT RX L,Active
+gabapentin,'63187024860',100,mg,PROFICIENT RX L,Active
+gabapentin,'63187024890',100,mg,PROFICIENT RX L,Active
+gabapentin,'63187039290',100,mg,PROFICIENT RX L,Active
+gabapentin,'63304062701',100,mg,RANBAXY PHARMAC,Active
+gabapentin,'63304062705',100,mg,RANBAXY PHARMAC,Active
+gabapentin,'63629157201',100,mg,BRYANT RANCH PR,Active
+gabapentin,'63629157202',100,mg,BRYANT RANCH PR,Active
+gabapentin,'63629157203',100,mg,BRYANT RANCH PR,Active
+gabapentin,'63629157204',100,mg,BRYANT RANCH PR,Active
+gabapentin,'63629157205',100,mg,BRYANT RANCH PR,Active
+gabapentin,'63629157206',100,mg,BRYANT RANCH PR,Active
+gabapentin,'63629157207',100,mg,BRYANT RANCH PR,Active
+gabapentin,'63629157208',100,mg,BRYANT RANCH PR,Active
+gabapentin,'63739037410',100,mg,MCKESSON PACKAG,Active
+gabapentin,'63739037415',100,mg,MCKESSON PACKAG,Active
+gabapentin,'63739059110',100,mg,MCKESSON PACKAG,Active
+gabapentin,'63739067510',100,mg,MCKESSON PACKAG,Active
+gabapentin,'63874110201',100,mg,ALTURA PHARMA,Active
+gabapentin,'63874110202',100,mg,ALTURA PHARMA,Active
+gabapentin,'63874110203',100,mg,ALTURA PHARMA,Active
+gabapentin,'63874110204',100,mg,ALTURA PHARMA,Active
+gabapentin,'63874110206',100,mg,ALTURA PHARMA,Active
+gabapentin,'63874110208',100,mg,ALTURA PHARMA,Active
+gabapentin,'63874110209',100,mg,ALTURA PHARMA,Active
+gabapentin,'65162010110',100,mg,AMNEAL PHARMACE,Active
+gabapentin,'65162010111',100,mg,AMNEAL PHARMACE,Active
+gabapentin,'65162010150',100,mg,AMNEAL PHARMACE,Active
+gabapentin,'65243037709',100,mg,"VA CMOP, DALLAS",Active
+gabapentin,'65862019801',100,mg,AUROBINDO PHARM,Active
+gabapentin,'65862019805',100,mg,AUROBINDO PHARM,Active
+gabapentin,'65862019899',100,mg,AUROBINDO PHARM,Active
+gabapentin,'66336056730',100,mg,DISPENSING SOLN,Active
+gabapentin,'66336056760',100,mg,DISPENSING SOLN,Active
+gabapentin,'66336056790',100,mg,DISPENSING SOLN,Active
+gabapentin,'67544036160',100,mg,APHENA PHARMA S,Active
+gabapentin,'67544079860',100,mg,APHENA PHARMA S,Active
+gabapentin,'67877022201',100,mg,ASCEND LABORATO,Active
+gabapentin,'67877022205',100,mg,ASCEND LABORATO,Active
+gabapentin,'67877022210',100,mg,ASCEND LABORATO,Active
+gabapentin,'68071022830',100,mg,NUCARE PHARMACE,Active
+gabapentin,'68071022845',100,mg,NUCARE PHARMACE,Active
+gabapentin,'68071022884',100,mg,NUCARE PHARMACE,Active
+gabapentin,'68071022890',100,mg,NUCARE PHARMACE,Active
+gabapentin,'68084007901',100,mg,AHP,Active
+gabapentin,'68084007908',100,mg,AHP,Active
+gabapentin,'68084007911',100,mg,AHP,Active
+gabapentin,'68084007965',100,mg,AHP,Active
+gabapentin,'68084007990',100,mg,AHP,Active
+gabapentin,'68084059401',100,mg,AHP,Active
+gabapentin,'68084059411',100,mg,AHP,Active
+gabapentin,'68084059465',100,mg,AHP,Active
+gabapentin,'68084078301',100,mg,AHP,Active
+gabapentin,'68084078311',100,mg,AHP,Active
+gabapentin,'68115048400',100,mg,"DISPENSEXPRESS,",Active
+gabapentin,'68115048430',100,mg,"DISPENSEXPRESS,",Active
+gabapentin,'68115048490',100,mg,"DISPENSEXPRESS,",Active
+gabapentin,'68387042012',100,mg,DISPENSING SOLN,Active
+gabapentin,'68387042030',100,mg,DISPENSING SOLN,Active
+gabapentin,'68387042045',100,mg,DISPENSING SOLN,Active
+gabapentin,'68387042090',100,mg,DISPENSING SOLN,Active
+gabapentin,'69097081307',100,mg,"CIPLA USA, INC.",Active
+gabapentin,'69097081312',100,mg,"CIPLA USA, INC.",Active
+gabapentin,'69367013104',100,mg,WESTMINSTER PHA,Active
+gabapentin,'69367013106',100,mg,WESTMINSTER PHA,Active
+gabapentin,'76282022101',100,mg,EXELAN PHARMACE,Active
+gabapentin,'76282022105',100,mg,EXELAN PHARMACE,Active
+gabapentin,'76282032101',100,mg,EXELAN PHARMACE,Active
+gabapentin,'76282032105',100,mg,EXELAN PHARMACE,Active
+gabapentin,'42192060816',250,mg/5 mL,ACELLA PHARMACE,Active
+gabapentin,'50383031147',250,mg/5 mL,HI-TECH/AKORN C,Active
+gabapentin,'59762502501',250,mg/5 mL,GREENSTONE LLC.,Active
+gabapentin,'65162069890',250,mg/5 mL,AMNEAL PHARMACE,Active
+gabapentin,'50383031105',250,mg/5 mL (5 mL),HI-TECH/AKORN C,Active
+gabapentin,'50383031107',250,mg/5 mL (5 mL),HI-TECH/AKORN C,Active
+gabapentin,'00093103901',300,mg,TEVA USA,Active
+gabapentin,'00093103905',300,mg,TEVA USA,Active
+gabapentin,'00093103910',300,mg,TEVA USA,Active
+gabapentin,'00093103919',300,mg,TEVA USA,Active
+gabapentin,'00093103993',300,mg,TEVA USA,Active
+gabapentin,'00143999301',300,mg,"WEST-WARD, INC.",Active
+gabapentin,'00172438200',300,mg,IVAX PHARMACEUT,Active
+gabapentin,'00172438210',300,mg,IVAX PHARMACEUT,Active
+gabapentin,'00172438260',300,mg,IVAX PHARMACEUT,Active
+gabapentin,'00172438270',300,mg,IVAX PHARMACEUT,Active
+gabapentin,'00172438288',300,mg,IVAX PHARMACEUT,Active
+gabapentin,'00185009301',300,mg,EON LABS,Active
+gabapentin,'00185009305',300,mg,EON LABS,Active
+gabapentin,'00185009310',300,mg,EON LABS,Active
+gabapentin,'00228266611',300,mg,ACTAVIS PHARMA,Active
+gabapentin,'00228266650',300,mg,ACTAVIS PHARMA,Active
+gabapentin,'00378542701',300,mg,MYLAN,Active
+gabapentin,'00378542705',300,mg,MYLAN,Active
+gabapentin,'00440755960',300,mg,LIBERTY PHARM,Active
+gabapentin,'00440755990',300,mg,LIBERTY PHARM,Active
+gabapentin,'00440755992',300,mg,LIBERTY PHARM,Active
+gabapentin,'00440755994',300,mg,LIBERTY PHARM,Active
+gabapentin,'00677193601',300,mg,URL PHARMA,Active
+gabapentin,'00677193605',300,mg,URL PHARMA,Active
+gabapentin,'00677193610',300,mg,URL PHARMA,Active
+gabapentin,'00904563240',300,mg,MAJOR PHARMACEU,Active
+gabapentin,'00904563246',300,mg,MAJOR PHARMACEU,Active
+gabapentin,'00904563252',300,mg,MAJOR PHARMACEU,Active
+gabapentin,'00904563253',300,mg,MAJOR PHARMACEU,Active
+gabapentin,'00904563261',300,mg,MAJOR PHARMACEU,Active
+gabapentin,'00904563289',300,mg,MAJOR PHARMACEU,Active
+gabapentin,'00904563293',300,mg,MAJOR PHARMACEU,Active
+gabapentin,'00904607961',300,mg,MAJOR PHARMACEU,Active
+gabapentin,'10544031302',300,mg,BLENHEIM PHARMA,Active
+gabapentin,'10544031328',300,mg,BLENHEIM PHARMA,Active
+gabapentin,'10544031330',300,mg,BLENHEIM PHARMA,Active
+gabapentin,'10544031360',300,mg,BLENHEIM PHARMA,Active
+gabapentin,'10544031390',300,mg,BLENHEIM PHARMA,Active
+gabapentin,'10544043602',300,mg,BLENHEIM PHARMA,Active
+gabapentin,'10544043630',300,mg,BLENHEIM PHARMA,Active
+gabapentin,'10544043660',300,mg,BLENHEIM PHARMA,Active
+gabapentin,'10544043681',300,mg,BLENHEIM PHARMA,Active
+gabapentin,'10544043690',300,mg,BLENHEIM PHARMA,Active
+gabapentin,'14550051202',300,mg,ACTAVIS PHARMA,Active
+gabapentin,'14550051204',300,mg,ACTAVIS PHARMA,Active
+gabapentin,'16590010230',300,mg,STAT RX USA,Active
+gabapentin,'16590010250',300,mg,STAT RX USA,Active
+gabapentin,'16590010260',300,mg,STAT RX USA,Active
+gabapentin,'16590010272',300,mg,STAT RX USA,Active
+gabapentin,'16590010273',300,mg,STAT RX USA,Active
+gabapentin,'16590010282',300,mg,STAT RX USA,Active
+gabapentin,'16590010283',300,mg,STAT RX USA,Active
+gabapentin,'16590010290',300,mg,STAT RX USA,Active
+gabapentin,'16714050401',300,mg,NORTHSTAR RX LL,Active
+gabapentin,'16714050402',300,mg,NORTHSTAR RX LL,Active
+gabapentin,'16714066201',300,mg,NORTHSTAR RX LL,Active
+gabapentin,'16714066202',300,mg,NORTHSTAR RX LL,Active
+gabapentin,'18837005630',300,mg,INNOVIANT PHARM,Active
+gabapentin,'18837005660',300,mg,INNOVIANT PHARM,Active
+gabapentin,'18837005690',300,mg,INNOVIANT PHARM,Active
+gabapentin,'18837005698',300,mg,INNOVIANT PHARM,Active
+gabapentin,'21695005600',300,mg,PHYSICIAN PARTN,Active
+gabapentin,'21695005630',300,mg,PHYSICIAN PARTN,Active
+gabapentin,'21695005642',300,mg,PHYSICIAN PARTN,Active
+gabapentin,'21695005660',300,mg,PHYSICIAN PARTN,Active
+gabapentin,'21695005672',300,mg,PHYSICIAN PARTN,Active
+gabapentin,'21695005678',300,mg,PHYSICIAN PARTN,Active
+gabapentin,'21695005687',300,mg,PHYSICIAN PARTN,Active
+gabapentin,'21695005690',300,mg,PHYSICIAN PARTN,Active
+gabapentin,'23490651401',300,mg,PALMETTO STATE,Active
+gabapentin,'23490651402',300,mg,PALMETTO STATE,Active
+gabapentin,'23490651403',300,mg,PALMETTO STATE,Active
+gabapentin,'23490651404',300,mg,PALMETTO STATE,Active
+gabapentin,'23490651405',300,mg,PALMETTO STATE,Active
+gabapentin,'23490651406',300,mg,PALMETTO STATE,Active
+gabapentin,'23490651407',300,mg,PALMETTO STATE,Active
+gabapentin,'23629013110',300,mg,CHOICE RX US LL,Active
+gabapentin,'23629013210',300,mg,CHOICE RX US LL,Active
+gabapentin,'31722022201',300,mg,CAMBER PHARMACE,Active
+gabapentin,'31722022205',300,mg,CAMBER PHARMACE,Active
+gabapentin,'33358015301',300,mg,RXCHANGE CO.,Active
+gabapentin,'33358015330',300,mg,RXCHANGE CO.,Active
+gabapentin,'33358015360',300,mg,RXCHANGE CO.,Active
+gabapentin,'33358015390',300,mg,RXCHANGE CO.,Active
+gabapentin,'35356070801',300,mg,QUALITY CARE,Active
+gabapentin,'35356070830',300,mg,QUALITY CARE,Active
+gabapentin,'35356070860',300,mg,QUALITY CARE,Active
+gabapentin,'35356070890',300,mg,QUALITY CARE,Active
+gabapentin,'42254004900',300,mg,PHYSICIAN PARTN,Active
+gabapentin,'42254004921',300,mg,PHYSICIAN PARTN,Active
+gabapentin,'42254004930',300,mg,PHYSICIAN PARTN,Active
+gabapentin,'42254004960',300,mg,PHYSICIAN PARTN,Active
+gabapentin,'42254004964',300,mg,PHYSICIAN PARTN,Active
+gabapentin,'42254004972',300,mg,PHYSICIAN PARTN,Active
+gabapentin,'42254004978',300,mg,PHYSICIAN PARTN,Active
+gabapentin,'42254004990',300,mg,PHYSICIAN PARTN,Active
+gabapentin,'42291030110',300,mg,AVKARE,Active
+gabapentin,'42291030118',300,mg,AVKARE,Active
+gabapentin,'42291030127',300,mg,AVKARE,Active
+gabapentin,'42291030130',300,mg,AVKARE,Active
+gabapentin,'42291030190',300,mg,AVKARE,Active
+gabapentin,'42549031390',300,mg,4UORTHO LLC,Active
+gabapentin,'42549051302',300,mg,4UORTHO LLC,Active
+gabapentin,'42549051328',300,mg,4UORTHO LLC,Active
+gabapentin,'42549051330',300,mg,4UORTHO LLC,Active
+gabapentin,'42549051360',300,mg,4UORTHO LLC,Active
+gabapentin,'42549051390',300,mg,4UORTHO LLC,Active
+gabapentin,'42582011510',300,mg,BI-COASTAL PHAR,Active
+gabapentin,'42582011518',300,mg,BI-COASTAL PHAR,Active
+gabapentin,'43063044130',300,mg,PD-RX PHARM,Active
+gabapentin,'43063044160',300,mg,PD-RX PHARM,Active
+gabapentin,'43063044186',300,mg,PD-RX PHARM,Active
+gabapentin,'43063044190',300,mg,PD-RX PHARM,Active
+gabapentin,'43063044193',300,mg,PD-RX PHARM,Active
+gabapentin,'43063044194',300,mg,PD-RX PHARM,Active
+gabapentin,'43063044198',300,mg,PD-RX PHARM,Active
+gabapentin,'43063066510',300,mg,PD-RX PHARM,Active
+gabapentin,'43063066530',300,mg,PD-RX PHARM,Active
+gabapentin,'43063066590',300,mg,PD-RX PHARM,Active
+gabapentin,'43063067330',300,mg,PD-RX PHARM,Active
+gabapentin,'43063067345',300,mg,PD-RX PHARM,Active
+gabapentin,'43063067360',300,mg,PD-RX PHARM,Active
+gabapentin,'43063067390',300,mg,PD-RX PHARM,Active
+gabapentin,'43353007560',300,mg,APHENA PHARMA S,Active
+gabapentin,'43353059130',300,mg,APHENA PHARMA S,Active
+gabapentin,'43353059153',300,mg,APHENA PHARMA S,Active
+gabapentin,'43353059160',300,mg,APHENA PHARMA S,Active
+gabapentin,'43353059170',300,mg,APHENA PHARMA S,Active
+gabapentin,'43353059180',300,mg,APHENA PHARMA S,Active
+gabapentin,'43353059192',300,mg,APHENA PHARMA S,Active
+gabapentin,'43353059194',300,mg,APHENA PHARMA S,Active
+gabapentin,'43353059198',300,mg,APHENA PHARMA S,Active
+gabapentin,'43353070930',300,mg,APHENA PHARMA S,Active
+gabapentin,'43353070953',300,mg,APHENA PHARMA S,Active
+gabapentin,'43353070960',300,mg,APHENA PHARMA S,Active
+gabapentin,'43353070970',300,mg,APHENA PHARMA S,Active
+gabapentin,'43353070980',300,mg,APHENA PHARMA S,Active
+gabapentin,'43353070992',300,mg,APHENA PHARMA S,Active
+gabapentin,'43353070994',300,mg,APHENA PHARMA S,Active
+gabapentin,'43353070998',300,mg,APHENA PHARMA S,Active
+gabapentin,'43353082330',300,mg,APHENA PHARMA S,Active
+gabapentin,'43353082360',300,mg,APHENA PHARMA S,Active
+gabapentin,'43353082370',300,mg,APHENA PHARMA S,Active
+gabapentin,'43353082392',300,mg,APHENA PHARMA S,Active
+gabapentin,'43353082394',300,mg,APHENA PHARMA S,Active
+gabapentin,'43353082398',300,mg,APHENA PHARMA S,Active
+gabapentin,'43353086330',300,mg,APHENA PHARMA S,Active
+gabapentin,'43353086353',300,mg,APHENA PHARMA S,Active
+gabapentin,'43353086360',300,mg,APHENA PHARMA S,Active
+gabapentin,'43353086370',300,mg,APHENA PHARMA S,Active
+gabapentin,'43353086380',300,mg,APHENA PHARMA S,Active
+gabapentin,'43353086392',300,mg,APHENA PHARMA S,Active
+gabapentin,'43353086394',300,mg,APHENA PHARMA S,Active
+gabapentin,'43353086398',300,mg,APHENA PHARMA S,Active
+gabapentin,'43547026610',300,mg,SOLCO HEALTHCAR,Active
+gabapentin,'43547026650',300,mg,SOLCO HEALTHCAR,Active
+gabapentin,'43547038410',300,mg,SOLCO HEALTHCAR,Active
+gabapentin,'43547038450',300,mg,SOLCO HEALTHCAR,Active
+gabapentin,'45861001100',300,mg,PHARMACEUTICA N,Active
+gabapentin,'45963055611',300,mg,ACTAVIS PHARMA,Active
+gabapentin,'45963055650',300,mg,ACTAVIS PHARMA,Active
+gabapentin,'49483060601',300,mg,TIME-CAP LABS,Active
+gabapentin,'49483060650',300,mg,TIME-CAP LABS,Active
+gabapentin,'49999053901',300,mg,QUALITY CARE,Active
+gabapentin,'49999053918',300,mg,QUALITY CARE,Active
+gabapentin,'49999053930',300,mg,QUALITY CARE,Active
+gabapentin,'49999053960',300,mg,QUALITY CARE,Active
+gabapentin,'49999053990',300,mg,QUALITY CARE,Active
+gabapentin,'50268034811',300,mg,AVPAK,Active
+gabapentin,'50268034815',300,mg,AVPAK,Active
+gabapentin,'50436728501',300,mg,UNIT DOSE SERVI,Active
+gabapentin,'50436728502',300,mg,UNIT DOSE SERVI,Active
+gabapentin,'50436728503',300,mg,UNIT DOSE SERVI,Active
+gabapentin,'50436728506',300,mg,UNIT DOSE SERVI,Active
+gabapentin,'51079078601',300,mg,UDL,Active
+gabapentin,'51079078617',300,mg,UDL,Active
+gabapentin,'51079078619',300,mg,UDL,Active
+gabapentin,'51079078620',300,mg,UDL,Active
+gabapentin,'51138012228',300,mg,MED-HEALTH PHAR,Active
+gabapentin,'51138012230',300,mg,MED-HEALTH PHAR,Active
+gabapentin,'51138014128',300,mg,MED-HEALTH PHAR,Active
+gabapentin,'51138014130',300,mg,MED-HEALTH PHAR,Active
+gabapentin,'51991033801',300,mg,BRECKENRIDGE,Active
+gabapentin,'51991033805',300,mg,BRECKENRIDGE,Active
+gabapentin,'52343003101',300,mg,LUCID PHARMA LL,Active
+gabapentin,'52343003118',300,mg,LUCID PHARMA LL,Active
+gabapentin,'52343003127',300,mg,LUCID PHARMA LL,Active
+gabapentin,'52343003130',300,mg,LUCID PHARMA LL,Active
+gabapentin,'52343003160',300,mg,LUCID PHARMA LL,Active
+gabapentin,'52343003190',300,mg,LUCID PHARMA LL,Active
+gabapentin,'52343003199',300,mg,LUCID PHARMA LL,Active
+gabapentin,'52959075400',300,mg,PHARMA PAC,Active
+gabapentin,'52959075402',300,mg,PHARMA PAC,Active
+gabapentin,'52959075420',300,mg,PHARMA PAC,Active
+gabapentin,'52959075430',300,mg,PHARMA PAC,Active
+gabapentin,'52959075445',300,mg,PHARMA PAC,Active
+gabapentin,'52959075460',300,mg,PHARMA PAC,Active
+gabapentin,'52959075463',300,mg,PHARMA PAC,Active
+gabapentin,'52959075490',300,mg,PHARMA PAC,Active
+gabapentin,'53489028501',300,mg,MUTUAL PHARM CO,Active
+gabapentin,'53489028505',300,mg,MUTUAL PHARM CO,Active
+gabapentin,'53489028510',300,mg,MUTUAL PHARM CO,Active
+gabapentin,'53746010201',300,mg,AMNEAL PHARMACE,Active
+gabapentin,'53746010205',300,mg,AMNEAL PHARMACE,Active
+gabapentin,'53746010210',300,mg,AMNEAL PHARMACE,Active
+gabapentin,'54569563300',300,mg,A-S MEDICATION,Active
+gabapentin,'54569563301',300,mg,A-S MEDICATION,Active
+gabapentin,'54569563302',300,mg,A-S MEDICATION,Active
+gabapentin,'54569563303',300,mg,A-S MEDICATION,Active
+gabapentin,'54569563304',300,mg,A-S MEDICATION,Active
+gabapentin,'54569563305',300,mg,A-S MEDICATION,Active
+gabapentin,'54868516600',300,mg,PHYSICIANS TC.,Active
+gabapentin,'54868516601',300,mg,PHYSICIANS TC.,Active
+gabapentin,'54868516602',300,mg,PHYSICIANS TC.,Active
+gabapentin,'54868516603',300,mg,PHYSICIANS TC.,Active
+gabapentin,'54868516604',300,mg,PHYSICIANS TC.,Active
+gabapentin,'54868516605',300,mg,PHYSICIANS TC.,Active
+gabapentin,'54868516606',300,mg,PHYSICIANS TC.,Active
+gabapentin,'54868516607',300,mg,PHYSICIANS TC.,Active
+gabapentin,'55045323402',300,mg,DRX,Active
+gabapentin,'55045323406',300,mg,DRX,Active
+gabapentin,'55045323409',300,mg,DRX,Active
+gabapentin,'55045372301',300,mg,DRX,Active
+gabapentin,'55045376506',300,mg,DRX,Active
+gabapentin,'55154358104',300,mg,CARDINAL HEALTH,Active
+gabapentin,'55154358107',300,mg,CARDINAL HEALTH,Active
+gabapentin,'55289089830',300,mg,PD-RX PHARM,Active
+gabapentin,'55289089845',300,mg,PD-RX PHARM,Active
+gabapentin,'55289089860',300,mg,PD-RX PHARM,Active
+gabapentin,'55289089883',300,mg,PD-RX PHARM,Active
+gabapentin,'55289089886',300,mg,PD-RX PHARM,Active
+gabapentin,'55289089890',300,mg,PD-RX PHARM,Active
+gabapentin,'55289089893',300,mg,PD-RX PHARM,Active
+gabapentin,'55289089894',300,mg,PD-RX PHARM,Active
+gabapentin,'55289089898',300,mg,PD-RX PHARM,Active
+gabapentin,'55289089899',300,mg,PD-RX PHARM,Active
+gabapentin,'55700027701',300,mg,QUALITY CARE,Active
+gabapentin,'55700027730',300,mg,QUALITY CARE,Active
+gabapentin,'55700027760',300,mg,QUALITY CARE,Active
+gabapentin,'55700027790',300,mg,QUALITY CARE,Active
+gabapentin,'55700029901',300,mg,QUALITY CARE,Active
+gabapentin,'55700029930',300,mg,QUALITY CARE,Active
+gabapentin,'55700029960',300,mg,QUALITY CARE,Active
+gabapentin,'55700029990',300,mg,QUALITY CARE,Active
+gabapentin,'55887033820',300,mg,DHS INC.,Active
+gabapentin,'55887033860',300,mg,DHS INC.,Active
+gabapentin,'55887033890',300,mg,DHS INC.,Active
+gabapentin,'57866728502',300,mg,VIBRANTA INC.,Active
+gabapentin,'58016029800',300,mg,SOUTHWOOD PHARM,Active
+gabapentin,'58016029802',300,mg,SOUTHWOOD PHARM,Active
+gabapentin,'58016029803',300,mg,SOUTHWOOD PHARM,Active
+gabapentin,'58016029804',300,mg,SOUTHWOOD PHARM,Active
+gabapentin,'58016029810',300,mg,SOUTHWOOD PHARM,Active
+gabapentin,'58016029814',300,mg,SOUTHWOOD PHARM,Active
+gabapentin,'58016029815',300,mg,SOUTHWOOD PHARM,Active
+gabapentin,'58016029820',300,mg,SOUTHWOOD PHARM,Active
+gabapentin,'58016029821',300,mg,SOUTHWOOD PHARM,Active
+gabapentin,'58016029828',300,mg,SOUTHWOOD PHARM,Active
+gabapentin,'58016029830',300,mg,SOUTHWOOD PHARM,Active
+gabapentin,'58016029840',300,mg,SOUTHWOOD PHARM,Active
+gabapentin,'58016029850',300,mg,SOUTHWOOD PHARM,Active
+gabapentin,'58016029860',300,mg,SOUTHWOOD PHARM,Active
+gabapentin,'58016029863',300,mg,SOUTHWOOD PHARM,Active
+gabapentin,'58016029867',300,mg,SOUTHWOOD PHARM,Active
+gabapentin,'58016029873',300,mg,SOUTHWOOD PHARM,Active
+gabapentin,'58016029889',300,mg,SOUTHWOOD PHARM,Active
+gabapentin,'58016029890',300,mg,SOUTHWOOD PHARM,Active
+gabapentin,'58016029891',300,mg,SOUTHWOOD PHARM,Active
+gabapentin,'58016029899',300,mg,SOUTHWOOD PHARM,Active
+gabapentin,'58517006030',300,mg,NEW HORIZON RX,Active
+gabapentin,'58657062101',300,mg,METHOD PHARMACE,Active
+gabapentin,'58657062150',300,mg,METHOD PHARMACE,Active
+gabapentin,'59762502701',300,mg,GREENSTONE LLC.,Active
+gabapentin,'59762502702',300,mg,GREENSTONE LLC.,Active
+gabapentin,'60429073901',300,mg,"GSMS, INC.",Active
+gabapentin,'60429073905',300,mg,"GSMS, INC.",Active
+gabapentin,'60429073918',300,mg,"GSMS, INC.",Active
+gabapentin,'60429073927',300,mg,"GSMS, INC.",Active
+gabapentin,'60429073950',300,mg,"GSMS, INC.",Active
+gabapentin,'60429073990',300,mg,"GSMS, INC.",Active
+gabapentin,'60505011300',300,mg,APOTEX CORP,Active
+gabapentin,'60505011301',300,mg,APOTEX CORP,Active
+gabapentin,'60505011307',300,mg,APOTEX CORP,Active
+gabapentin,'60505011308',300,mg,APOTEX CORP,Active
+gabapentin,'60760003930',300,mg,ST MARYS MPP,Active
+gabapentin,'60760003960',300,mg,ST MARYS MPP,Active
+gabapentin,'60760003990',300,mg,ST MARYS MPP,Active
+gabapentin,'61919010230',300,mg,DIRECT RX,Active
+gabapentin,'61919010260',300,mg,DIRECT RX,Active
+gabapentin,'61919010272',300,mg,DIRECT RX,Active
+gabapentin,'61919010290',300,mg,DIRECT RX,Active
+gabapentin,'61919083930',300,mg,DIRECT RX,Active
+gabapentin,'61919083960',300,mg,DIRECT RX,Active
+gabapentin,'61919083971',300,mg,DIRECT RX,Active
+gabapentin,'61919083972',300,mg,DIRECT RX,Active
+gabapentin,'61919083990',300,mg,DIRECT RX,Active
+gabapentin,'61919098230',300,mg,DIRECT RX,Active
+gabapentin,'61919098260',300,mg,DIRECT RX,Active
+gabapentin,'61919098271',300,mg,DIRECT RX,Active
+gabapentin,'61919098272',300,mg,DIRECT RX,Active
+gabapentin,'61919098290',300,mg,DIRECT RX,Active
+gabapentin,'62756013802',300,mg,SUN PHARMACEUTI,Active
+gabapentin,'62756013805',300,mg,SUN PHARMACEUTI,Active
+gabapentin,'63187003100',300,mg,PROFICIENT RX L,Active
+gabapentin,'63187003130',300,mg,PROFICIENT RX L,Active
+gabapentin,'63187003190',300,mg,PROFICIENT RX L,Active
+gabapentin,'63187037200',300,mg,PROFICIENT RX L,Active
+gabapentin,'63304062801',300,mg,RANBAXY PHARMAC,Active
+gabapentin,'63304062805',300,mg,RANBAXY PHARMAC,Active
+gabapentin,'63629305600',300,mg,BRYANT RANCH PR,Active
+gabapentin,'63629305601',300,mg,BRYANT RANCH PR,Active
+gabapentin,'63629305602',300,mg,BRYANT RANCH PR,Active
+gabapentin,'63629305603',300,mg,BRYANT RANCH PR,Active
+gabapentin,'63629305604',300,mg,BRYANT RANCH PR,Active
+gabapentin,'63629305605',300,mg,BRYANT RANCH PR,Active
+gabapentin,'63629305606',300,mg,BRYANT RANCH PR,Active
+gabapentin,'63629305607',300,mg,BRYANT RANCH PR,Active
+gabapentin,'63629305608',300,mg,BRYANT RANCH PR,Active
+gabapentin,'63629305609',300,mg,BRYANT RANCH PR,Active
+gabapentin,'63739023610',300,mg,MCKESSON PACKAG,Active
+gabapentin,'63739037510',300,mg,MCKESSON PACKAG,Active
+gabapentin,'63739037515',300,mg,MCKESSON PACKAG,Active
+gabapentin,'63739068910',300,mg,MCKESSON PACKAG,Active
+gabapentin,'63739080941',300,mg,MCKESSON PACKAG,Active
+gabapentin,'63739080942',300,mg,MCKESSON PACKAG,Active
+gabapentin,'63739080943',300,mg,MCKESSON PACKAG,Active
+gabapentin,'63739080945',300,mg,MCKESSON PACKAG,Active
+gabapentin,'63739080947',300,mg,MCKESSON PACKAG,Active
+gabapentin,'63874110301',300,mg,ALTURA PHARMA,Active
+gabapentin,'63874110302',300,mg,ALTURA PHARMA,Active
+gabapentin,'63874110303',300,mg,ALTURA PHARMA,Active
+gabapentin,'63874110304',300,mg,ALTURA PHARMA,Active
+gabapentin,'63874110306',300,mg,ALTURA PHARMA,Active
+gabapentin,'63874110308',300,mg,ALTURA PHARMA,Active
+gabapentin,'63874110309',300,mg,ALTURA PHARMA,Active
+gabapentin,'65084037014',300,mg,RXPAK DIV MCKES,Active
+gabapentin,'65084037018',300,mg,RXPAK DIV MCKES,Active
+gabapentin,'65084037032',300,mg,RXPAK DIV MCKES,Active
+gabapentin,'65084037034',300,mg,RXPAK DIV MCKES,Active
+gabapentin,'65162010210',300,mg,AMNEAL PHARMACE,Active
+gabapentin,'65162010211',300,mg,AMNEAL PHARMACE,Active
+gabapentin,'65162010250',300,mg,AMNEAL PHARMACE,Active
+gabapentin,'65243030103',300,mg,"VA CMOP, DALLAS",Active
+gabapentin,'65243030106',300,mg,"VA CMOP, DALLAS",Active
+gabapentin,'65243030109',300,mg,"VA CMOP, DALLAS",Active
+gabapentin,'65243030118',300,mg,"VA CMOP, DALLAS",Active
+gabapentin,'65243034406',300,mg,"VA CMOP, DALLAS",Active
+gabapentin,'65243034409',300,mg,"VA CMOP, DALLAS",Active
+gabapentin,'65862019901',300,mg,AUROBINDO PHARM,Active
+gabapentin,'65862019905',300,mg,AUROBINDO PHARM,Active
+gabapentin,'65862019999',300,mg,AUROBINDO PHARM,Active
+gabapentin,'66267125900',300,mg,NUCARE PHARMACE,Active
+gabapentin,'66336043930',300,mg,DISPENSING SOLN,Active
+gabapentin,'66336043960',300,mg,DISPENSING SOLN,Active
+gabapentin,'66336043990',300,mg,DISPENSING SOLN,Active
+gabapentin,'66336043994',300,mg,DISPENSING SOLN,Active
+gabapentin,'67544035330',300,mg,APHENA PHARMA S,Active
+gabapentin,'67544035353',300,mg,APHENA PHARMA S,Active
+gabapentin,'67544035360',300,mg,APHENA PHARMA S,Active
+gabapentin,'67544035370',300,mg,APHENA PHARMA S,Active
+gabapentin,'67544035380',300,mg,APHENA PHARMA S,Active
+gabapentin,'67544035392',300,mg,APHENA PHARMA S,Active
+gabapentin,'67544035394',300,mg,APHENA PHARMA S,Active
+gabapentin,'67544035398',300,mg,APHENA PHARMA S,Active
+gabapentin,'67544038530',300,mg,APHENA PHARMA S,Active
+gabapentin,'67544038553',300,mg,APHENA PHARMA S,Active
+gabapentin,'67544038560',300,mg,APHENA PHARMA S,Active
+gabapentin,'67544038570',300,mg,APHENA PHARMA S,Active
+gabapentin,'67544038580',300,mg,APHENA PHARMA S,Active
+gabapentin,'67544038592',300,mg,APHENA PHARMA S,Active
+gabapentin,'67544051830',300,mg,APHENA PHARMA S,Active
+gabapentin,'67544051853',300,mg,APHENA PHARMA S,Active
+gabapentin,'67544051860',300,mg,APHENA PHARMA S,Active
+gabapentin,'67544051870',300,mg,APHENA PHARMA S,Active
+gabapentin,'67544051880',300,mg,APHENA PHARMA S,Active
+gabapentin,'67544051892',300,mg,APHENA PHARMA S,Active
+gabapentin,'67544051894',300,mg,APHENA PHARMA S,Active
+gabapentin,'67544051898',300,mg,APHENA PHARMA S,Active
+gabapentin,'67544079953',300,mg,APHENA PHARMA S,Active
+gabapentin,'67877022301',300,mg,ASCEND LABORATO,Active
+gabapentin,'67877022305',300,mg,ASCEND LABORATO,Active
+gabapentin,'67877022310',300,mg,ASCEND LABORATO,Active
+gabapentin,'68071021207',300,mg,NUCARE PHARMACE,Active
+gabapentin,'68071021214',300,mg,NUCARE PHARMACE,Active
+gabapentin,'68071021230',300,mg,NUCARE PHARMACE,Active
+gabapentin,'68071021245',300,mg,NUCARE PHARMACE,Active
+gabapentin,'68071021260',300,mg,NUCARE PHARMACE,Active
+gabapentin,'68071021284',300,mg,NUCARE PHARMACE,Active
+gabapentin,'68071021290',300,mg,NUCARE PHARMACE,Active
+gabapentin,'68084008001',300,mg,AHP,Active
+gabapentin,'68084008008',300,mg,AHP,Active
+gabapentin,'68084008011',300,mg,AHP,Active
+gabapentin,'68084008065',300,mg,AHP,Active
+gabapentin,'68084008090',300,mg,AHP,Active
+gabapentin,'68084056301',300,mg,AHP,Active
+gabapentin,'68084056311',300,mg,AHP,Active
+gabapentin,'68084056365',300,mg,AHP,Active
+gabapentin,'68084076201',300,mg,AHP,Active
+gabapentin,'68084076211',300,mg,AHP,Active
+gabapentin,'68115048500',300,mg,"DISPENSEXPRESS,",Active
+gabapentin,'68115048530',300,mg,"DISPENSEXPRESS,",Active
+gabapentin,'68115048560',300,mg,"DISPENSEXPRESS,",Active
+gabapentin,'68115048590',300,mg,"DISPENSEXPRESS,",Active
+gabapentin,'68115048593',300,mg,"DISPENSEXPRESS,",Active
+gabapentin,'68115048597',300,mg,"DISPENSEXPRESS,",Active
+gabapentin,'68115048599',300,mg,"DISPENSEXPRESS,",Active
+gabapentin,'68387041010',300,mg,DISPENSING SOLN,Active
+gabapentin,'68387041018',300,mg,DISPENSING SOLN,Active
+gabapentin,'68387041030',300,mg,DISPENSING SOLN,Active
+gabapentin,'68387041045',300,mg,DISPENSING SOLN,Active
+gabapentin,'68387041060',300,mg,DISPENSING SOLN,Active
+gabapentin,'68387041090',300,mg,DISPENSING SOLN,Active
+gabapentin,'69097081407',300,mg,"CIPLA USA, INC.",Active
+gabapentin,'69097081412',300,mg,"CIPLA USA, INC.",Active
+gabapentin,'69336010611',300,mg,STERLING-KNIGHT,Active
+gabapentin,'69367013204',300,mg,WESTMINSTER PHA,Active
+gabapentin,'69367013206',300,mg,WESTMINSTER PHA,Active
+gabapentin,'69512010210',300,mg,ALIVIO MEDICAL,Active
+gabapentin,'76282022201',300,mg,EXELAN PHARMACE,Active
+gabapentin,'76282022205',300,mg,EXELAN PHARMACE,Active
+gabapentin,'76282032201',300,mg,EXELAN PHARMACE,Active
+gabapentin,'76282032205',300,mg,EXELAN PHARMACE,Active
+gabapentin,'50383031106',300,mg/6 mL (6 mL),HI-TECH/AKORN C,Active
+gabapentin,'50383031109',300,mg/6 mL (6 mL),HI-TECH/AKORN C,Active
+gabapentin,'00093104001',400,mg,TEVA USA,Active
+gabapentin,'00093104005',400,mg,TEVA USA,Active
+gabapentin,'00143999401',400,mg,"WEST-WARD, INC.",Active
+gabapentin,'00172438300',400,mg,IVAX PHARMACEUT,Active
+gabapentin,'00172438310',400,mg,IVAX PHARMACEUT,Active
+gabapentin,'00172438360',400,mg,IVAX PHARMACEUT,Active
+gabapentin,'00172438370',400,mg,IVAX PHARMACEUT,Active
+gabapentin,'00172438378',400,mg,IVAX PHARMACEUT,Active
+gabapentin,'00185009401',400,mg,SANDOZ,Active
+gabapentin,'00185009405',400,mg,EON LABS,Active
+gabapentin,'00185009410',400,mg,EON LABS,Active
+gabapentin,'00228266711',400,mg,ACTAVIS PHARMA,Active
+gabapentin,'00228266750',400,mg,ACTAVIS PHARMA,Active
+gabapentin,'00378542801',400,mg,MYLAN,Active
+gabapentin,'00378542805',400,mg,MYLAN,Active
+gabapentin,'00440756192',400,mg,LIBERTY PHARM,Active
+gabapentin,'00440756199',400,mg,LIBERTY PHARM,Active
+gabapentin,'00677193701',400,mg,URL PHARMA,Active
+gabapentin,'00677193705',400,mg,URL PHARMA,Active
+gabapentin,'00677193710',400,mg,URL PHARMA,Active
+gabapentin,'00904563340',400,mg,MAJOR PHARMACEU,Active
+gabapentin,'00904563361',400,mg,MAJOR PHARMACEU,Active
+gabapentin,'00904563389',400,mg,MAJOR PHARMACEU,Active
+gabapentin,'00904610561',400,mg,MAJOR PHARMACEU,Active
+gabapentin,'10544044702',400,mg,BLENHEIM PHARMA,Active
+gabapentin,'10544044790',400,mg,BLENHEIM PHARMA,Active
+gabapentin,'12280024700',400,mg,"DISPENSEXPRESS,",Active
+gabapentin,'12280024790',400,mg,"DISPENSEXPRESS,",Active
+gabapentin,'14550051302',400,mg,ACTAVIS PHARMA,Active
+gabapentin,'14550051304',400,mg,ACTAVIS PHARMA,Active
+gabapentin,'16590049230',400,mg,STAT RX USA,Active
+gabapentin,'16590049240',400,mg,STAT RX USA,Active
+gabapentin,'16590049260',400,mg,STAT RX USA,Active
+gabapentin,'16590049262',400,mg,STAT RX USA,Active
+gabapentin,'16590049272',400,mg,STAT RX USA,Active
+gabapentin,'16590049282',400,mg,STAT RX USA,Active
+gabapentin,'16590049283',400,mg,STAT RX USA,Active
+gabapentin,'16590049290',400,mg,STAT RX USA,Active
+gabapentin,'16714050501',400,mg,NORTHSTAR RX LL,Active
+gabapentin,'16714050502',400,mg,NORTHSTAR RX LL,Active
+gabapentin,'16714066301',400,mg,NORTHSTAR RX LL,Active
+gabapentin,'16714066302',400,mg,NORTHSTAR RX LL,Active
+gabapentin,'18837005730',400,mg,INNOVIANT PHARM,Active
+gabapentin,'18837005760',400,mg,INNOVIANT PHARM,Active
+gabapentin,'18837005790',400,mg,INNOVIANT PHARM,Active
+gabapentin,'21695005700',400,mg,PHYSICIAN PARTN,Active
+gabapentin,'21695005790',400,mg,PHYSICIAN PARTN,Active
+gabapentin,'21695034400',400,mg,PHYSICIAN PARTN,Active
+gabapentin,'21695034430',400,mg,PHYSICIAN PARTN,Active
+gabapentin,'21695034460',400,mg,PHYSICIAN PARTN,Active
+gabapentin,'21695034490',400,mg,PHYSICIAN PARTN,Active
+gabapentin,'23490651501',400,mg,PALMETTO STATE,Active
+gabapentin,'23490651502',400,mg,PALMETTO STATE,Active
+gabapentin,'23490651506',400,mg,PALMETTO STATE,Active
+gabapentin,'23490651507',400,mg,PALMETTO STATE,Active
+gabapentin,'23490651509',400,mg,PALMETTO STATE,Active
+gabapentin,'31722022301',400,mg,CAMBER PHARMACE,Active
+gabapentin,'31722022305',400,mg,CAMBER PHARMACE,Active
+gabapentin,'33261005002',400,mg,AIDAREX,Active
+gabapentin,'33261005010',400,mg,AIDAREX,Active
+gabapentin,'33261005020',400,mg,AIDAREX,Active
+gabapentin,'33261005030',400,mg,AIDAREX,Active
+gabapentin,'33261005060',400,mg,AIDAREX,Active
+gabapentin,'33261005090',400,mg,AIDAREX,Active
+gabapentin,'35356072730',400,mg,QUALITY CARE,Active
+gabapentin,'35356072760',400,mg,QUALITY CARE,Active
+gabapentin,'35356072790',400,mg,QUALITY CARE,Active
+gabapentin,'42254011230',400,mg,PHYSICIAN PARTN,Active
+gabapentin,'42254011260',400,mg,PHYSICIAN PARTN,Active
+gabapentin,'42254011290',400,mg,PHYSICIAN PARTN,Active
+gabapentin,'42291030218',400,mg,AVKARE,Active
+gabapentin,'42291030227',400,mg,AVKARE,Active
+gabapentin,'42291030250',400,mg,AVKARE,Active
+gabapentin,'42291030290',400,mg,AVKARE,Active
+gabapentin,'42582011610',400,mg,BI-COASTAL PHAR,Active
+gabapentin,'42582011618',400,mg,BI-COASTAL PHAR,Active
+gabapentin,'43063022390',400,mg,PD-RX PHARM,Active
+gabapentin,'43353008160',400,mg,APHENA PHARMA S,Active
+gabapentin,'43353008180',400,mg,APHENA PHARMA S,Active
+gabapentin,'43353008192',400,mg,APHENA PHARMA S,Active
+gabapentin,'43353037260',400,mg,APHENA PHARMA S,Active
+gabapentin,'43353037280',400,mg,APHENA PHARMA S,Active
+gabapentin,'43353037292',400,mg,APHENA PHARMA S,Active
+gabapentin,'43353060560',400,mg,APHENA PHARMA S,Active
+gabapentin,'43353060580',400,mg,APHENA PHARMA S,Active
+gabapentin,'43353060592',400,mg,APHENA PHARMA S,Active
+gabapentin,'43353060595',400,mg,APHENA PHARMA S,Active
+gabapentin,'43353071060',400,mg,APHENA PHARMA S,Active
+gabapentin,'43353071080',400,mg,APHENA PHARMA S,Active
+gabapentin,'43353071092',400,mg,APHENA PHARMA S,Active
+gabapentin,'43353071094',400,mg,APHENA PHARMA S,Active
+gabapentin,'43353081080',400,mg,APHENA PHARMA S,Active
+gabapentin,'43353081092',400,mg,APHENA PHARMA S,Active
+gabapentin,'43353081094',400,mg,APHENA PHARMA S,Active
+gabapentin,'43353086460',400,mg,APHENA PHARMA S,Active
+gabapentin,'43353086480',400,mg,APHENA PHARMA S,Active
+gabapentin,'43353086492',400,mg,APHENA PHARMA S,Active
+gabapentin,'43353086494',400,mg,APHENA PHARMA S,Active
+gabapentin,'43547026710',400,mg,SOLCO HEALTHCAR,Active
+gabapentin,'43547026750',400,mg,SOLCO HEALTHCAR,Active
+gabapentin,'43547038510',400,mg,SOLCO HEALTHCAR,Active
+gabapentin,'43547038550',400,mg,SOLCO HEALTHCAR,Active
+gabapentin,'45963055711',400,mg,ACTAVIS PHARMA,Active
+gabapentin,'45963055750',400,mg,ACTAVIS PHARMA,Active
+gabapentin,'47463270512',400,mg,PALLIRX,Active
+gabapentin,'47463270590',400,mg,PALLIRX,Active
+gabapentin,'49483060701',400,mg,TIME-CAP LABS,Active
+gabapentin,'49483060750',400,mg,TIME-CAP LABS,Active
+gabapentin,'49999054015',400,mg,QUALITY CARE,Active
+gabapentin,'49999054030',400,mg,QUALITY CARE,Active
+gabapentin,'49999054060',400,mg,QUALITY CARE,Active
+gabapentin,'49999054090',400,mg,QUALITY CARE,Active
+gabapentin,'50268034911',400,mg,AVPAK,Active
+gabapentin,'50268034915',400,mg,AVPAK,Active
+gabapentin,'50436728401',400,mg,UNIT DOSE SERVI,Active
+gabapentin,'50436728402',400,mg,UNIT DOSE SERVI,Active
+gabapentin,'50436728403',400,mg,UNIT DOSE SERVI,Active
+gabapentin,'51138012328',400,mg,MED-HEALTH PHAR,Active
+gabapentin,'51138012330',400,mg,MED-HEALTH PHAR,Active
+gabapentin,'51138014228',400,mg,MED-HEALTH PHAR,Active
+gabapentin,'51138014230',400,mg,MED-HEALTH PHAR,Active
+gabapentin,'51991033901',400,mg,BRECKENRIDGE,Active
+gabapentin,'51991033905',400,mg,BRECKENRIDGE,Active
+gabapentin,'52343003201',400,mg,LUCID PHARMA LL,Active
+gabapentin,'52343003205',400,mg,LUCID PHARMA LL,Active
+gabapentin,'52343003227',400,mg,LUCID PHARMA LL,Active
+gabapentin,'52343003290',400,mg,LUCID PHARMA LL,Active
+gabapentin,'52959081002',400,mg,PHARMA PAC,Active
+gabapentin,'52959081030',400,mg,PHARMA PAC,Active
+gabapentin,'52959081060',400,mg,PHARMA PAC,Active
+gabapentin,'52959081080',400,mg,PHARMA PAC,Active
+gabapentin,'52959081090',400,mg,PHARMA PAC,Active
+gabapentin,'53489028601',400,mg,MUTUAL PHARM CO,Active
+gabapentin,'53489028605',400,mg,MUTUAL PHARM CO,Active
+gabapentin,'53489028610',400,mg,MUTUAL PHARM CO,Active
+gabapentin,'53746010301',400,mg,AMNEAL PHARMACE,Active
+gabapentin,'53746010305',400,mg,AMNEAL PHARMACE,Active
+gabapentin,'54569598100',400,mg,A-S MEDICATION,Active
+gabapentin,'54868590100',400,mg,PHYSICIANS TC.,Active
+gabapentin,'54868590101',400,mg,PHYSICIANS TC.,Active
+gabapentin,'54868590102',400,mg,PHYSICIANS TC.,Active
+gabapentin,'54868590103',400,mg,PHYSICIANS TC.,Active
+gabapentin,'54868590104',400,mg,PHYSICIANS TC.,Active
+gabapentin,'55045342101',400,mg,DRX,Active
+gabapentin,'55045342106',400,mg,DRX,Active
+gabapentin,'55045342108',400,mg,DRX,Active
+gabapentin,'55045342109',400,mg,DRX,Active
+gabapentin,'55154358204',400,mg,CARDINAL HEALTH,Active
+gabapentin,'55154358207',400,mg,CARDINAL HEALTH,Active
+gabapentin,'55887017730',400,mg,DHS INC.,Active
+gabapentin,'57866017701',400,mg,VIBRANTA INC.,Active
+gabapentin,'58016013300',400,mg,SOUTHWOOD PHARM,Active
+gabapentin,'58016013302',400,mg,SOUTHWOOD PHARM,Active
+gabapentin,'58016013303',400,mg,SOUTHWOOD PHARM,Active
+gabapentin,'58016013310',400,mg,SOUTHWOOD PHARM,Active
+gabapentin,'58016013314',400,mg,SOUTHWOOD PHARM,Active
+gabapentin,'58016013315',400,mg,SOUTHWOOD PHARM,Active
+gabapentin,'58016013320',400,mg,SOUTHWOOD PHARM,Active
+gabapentin,'58016013321',400,mg,SOUTHWOOD PHARM,Active
+gabapentin,'58016013328',400,mg,SOUTHWOOD PHARM,Active
+gabapentin,'58016013330',400,mg,SOUTHWOOD PHARM,Active
+gabapentin,'58016013340',400,mg,SOUTHWOOD PHARM,Active
+gabapentin,'58016013350',400,mg,SOUTHWOOD PHARM,Active
+gabapentin,'58016013360',400,mg,SOUTHWOOD PHARM,Active
+gabapentin,'58016013390',400,mg,SOUTHWOOD PHARM,Active
+gabapentin,'58016013399',400,mg,SOUTHWOOD PHARM,Active
+gabapentin,'58657062201',400,mg,METHOD PHARMACE,Active
+gabapentin,'58657062250',400,mg,METHOD PHARMACE,Active
+gabapentin,'59762502801',400,mg,GREENSTONE LLC.,Active
+gabapentin,'60429074001',400,mg,"GSMS, INC.",Active
+gabapentin,'60429074005',400,mg,"GSMS, INC.",Active
+gabapentin,'60429074050',400,mg,"GSMS, INC.",Active
+gabapentin,'60429074090',400,mg,"GSMS, INC.",Active
+gabapentin,'60505011400',400,mg,APOTEX CORP,Active
+gabapentin,'60505011401',400,mg,APOTEX CORP,Active
+gabapentin,'60505011405',400,mg,APOTEX CORP,Active
+gabapentin,'60505011407',400,mg,APOTEX CORP,Active
+gabapentin,'60760003590',400,mg,ST MARYS MPP,Active
+gabapentin,'61919008330',400,mg,DIRECT RX,Active
+gabapentin,'61919008360',400,mg,DIRECT RX,Active
+gabapentin,'61919008372',400,mg,DIRECT RX,Active
+gabapentin,'61919008390',400,mg,DIRECT RX,Active
+gabapentin,'61919049230',400,mg,DIRECT RX,Active
+gabapentin,'61919049260',400,mg,DIRECT RX,Active
+gabapentin,'61919049272',400,mg,DIRECT RX,Active
+gabapentin,'61919049290',400,mg,DIRECT RX,Active
+gabapentin,'62756013902',400,mg,SUN PHARMACEUTI,Active
+gabapentin,'62756013905',400,mg,SUN PHARMACEUTI,Active
+gabapentin,'63187005690',400,mg,PROFICIENT RX L,Active
+gabapentin,'63304062901',400,mg,RANBAXY PHARMAC,Active
+gabapentin,'63304062905',400,mg,RANBAXY PHARMAC,Active
+gabapentin,'63629259301',400,mg,BRYANT RANCH PR,Active
+gabapentin,'63629259302',400,mg,BRYANT RANCH PR,Active
+gabapentin,'63629259303',400,mg,BRYANT RANCH PR,Active
+gabapentin,'63629259304',400,mg,BRYANT RANCH PR,Active
+gabapentin,'63629259305',400,mg,BRYANT RANCH PR,Active
+gabapentin,'63629259306',400,mg,BRYANT RANCH PR,Active
+gabapentin,'63739037610',400,mg,MCKESSON PACKAG,Active
+gabapentin,'63739037615',400,mg,MCKESSON PACKAG,Active
+gabapentin,'63739069310',400,mg,MCKESSON PACKAG,Active
+gabapentin,'63739098410',400,mg,MCKESSON PACKAG,Active
+gabapentin,'63874110401',400,mg,ALTURA PHARMA,Active
+gabapentin,'63874110402',400,mg,ALTURA PHARMA,Active
+gabapentin,'63874110403',400,mg,ALTURA PHARMA,Active
+gabapentin,'63874110404',400,mg,ALTURA PHARMA,Active
+gabapentin,'63874110406',400,mg,ALTURA PHARMA,Active
+gabapentin,'63874110408',400,mg,ALTURA PHARMA,Active
+gabapentin,'63874110409',400,mg,ALTURA PHARMA,Active
+gabapentin,'65162010310',400,mg,AMNEAL PHARMACE,Active
+gabapentin,'65162010350',400,mg,AMNEAL PHARMACE,Active
+gabapentin,'65862020001',400,mg,AUROBINDO PHARM,Active
+gabapentin,'65862020005',400,mg,AUROBINDO PHARM,Active
+gabapentin,'66336026630',400,mg,DISPENSING SOLN,Active
+gabapentin,'66336026690',400,mg,DISPENSING SOLN,Active
+gabapentin,'66336026694',400,mg,DISPENSING SOLN,Active
+gabapentin,'67544035460',400,mg,APHENA PHARMA S,Active
+gabapentin,'67544035480',400,mg,APHENA PHARMA S,Active
+gabapentin,'67544035492',400,mg,APHENA PHARMA S,Active
+gabapentin,'67544035494',400,mg,APHENA PHARMA S,Active
+gabapentin,'67544038660',400,mg,APHENA PHARMA S,Active
+gabapentin,'67544038680',400,mg,APHENA PHARMA S,Active
+gabapentin,'67544038692',400,mg,APHENA PHARMA S,Active
+gabapentin,'67544080060',400,mg,APHENA PHARMA S,Active
+gabapentin,'67877022401',400,mg,ASCEND LABORATO,Active
+gabapentin,'67877022405',400,mg,ASCEND LABORATO,Active
+gabapentin,'67877022410',400,mg,ASCEND LABORATO,Active
+gabapentin,'68071029130',400,mg,NUCARE PHARMACE,Active
+gabapentin,'68071029160',400,mg,NUCARE PHARMACE,Active
+gabapentin,'68071029184',400,mg,NUCARE PHARMACE,Active
+gabapentin,'68071029190',400,mg,NUCARE PHARMACE,Active
+gabapentin,'68084008101',400,mg,AHP,Active
+gabapentin,'68084008108',400,mg,AHP,Active
+gabapentin,'68084008111',400,mg,AHP,Active
+gabapentin,'68084008165',400,mg,AHP,Active
+gabapentin,'68084008190',400,mg,AHP,Active
+gabapentin,'68084059501',400,mg,AHP,Active
+gabapentin,'68084059511',400,mg,AHP,Active
+gabapentin,'68084059565',400,mg,AHP,Active
+gabapentin,'68084077401',400,mg,AHP,Active
+gabapentin,'68084077411',400,mg,AHP,Active
+gabapentin,'68387040412',400,mg,DISPENSING SOLN,Active
+gabapentin,'68387040460',400,mg,DISPENSING SOLN,Active
+gabapentin,'68387040490',400,mg,DISPENSING SOLN,Active
+gabapentin,'69097081507',400,mg,"CIPLA USA, INC.",Active
+gabapentin,'69097081512',400,mg,"CIPLA USA, INC.",Active
+gabapentin,'69367013304',400,mg,WESTMINSTER PHA,Active
+gabapentin,'69367013306',400,mg,WESTMINSTER PHA,Active
+gabapentin,'76282022301',400,mg,EXELAN PHARMACE,Active
+gabapentin,'76282022305',400,mg,EXELAN PHARMACE,Active
+gabapentin,'76282032301',400,mg,EXELAN PHARMACE,Active
+gabapentin,'76282032305',400,mg,EXELAN PHARMACE,Active
+gabapentin,'00093444301',600,mg,TEVA USA,Active
+gabapentin,'00093444305',600,mg,TEVA USA,Active
+gabapentin,'00093444310',600,mg,TEVA USA,Active
+gabapentin,'00093717301',600,mg,TEVA USA,Active
+gabapentin,'00093717305',600,mg,TEVA USA,Active
+gabapentin,'00172444300',600,mg,IVAX PHARMACEUT,Active
+gabapentin,'00172444310',600,mg,IVAX PHARMACEUT,Active
+gabapentin,'00172444360',600,mg,IVAX PHARMACEUT,Active
+gabapentin,'00172444370',600,mg,IVAX PHARMACEUT,Active
+gabapentin,'00172444380',600,mg,IVAX PHARMACEUT,Active
+gabapentin,'00185010701',600,mg,SANDOZ,Active
+gabapentin,'00228263611',600,mg,ACTAVIS PHARMA,Active
+gabapentin,'00228263650',600,mg,ACTAVIS PHARMA,Active
+gabapentin,'00378542401',600,mg,MYLAN,Active
+gabapentin,'00378542405',600,mg,MYLAN,Active
+gabapentin,'00440556205',600,mg,LIBERTY PHARM,Active
+gabapentin,'00440556230',600,mg,LIBERTY PHARM,Active
+gabapentin,'00440556260',600,mg,LIBERTY PHARM,Active
+gabapentin,'00440556281',600,mg,LIBERTY PHARM,Active
+gabapentin,'00440556290',600,mg,LIBERTY PHARM,Active
+gabapentin,'00440556291',600,mg,LIBERTY PHARM,Active
+gabapentin,'00440556292',600,mg,LIBERTY PHARM,Active
+gabapentin,'00440556294',600,mg,LIBERTY PHARM,Active
+gabapentin,'00440756292',600,mg,LIBERTY PHARM,Active
+gabapentin,'10544033760',600,mg,BLENHEIM PHARMA,Active
+gabapentin,'10544033790',600,mg,BLENHEIM PHARMA,Active
+gabapentin,'10544043902',600,mg,BLENHEIM PHARMA,Active
+gabapentin,'10544043930',600,mg,BLENHEIM PHARMA,Active
+gabapentin,'10544043960',600,mg,BLENHEIM PHARMA,Active
+gabapentin,'10544043990',600,mg,BLENHEIM PHARMA,Active
+gabapentin,'12280014100',600,mg,"DISPENSEXPRESS,",Active
+gabapentin,'16590010330',600,mg,STAT RX USA,Active
+gabapentin,'16590010342',600,mg,STAT RX USA,Active
+gabapentin,'16590010345',600,mg,STAT RX USA,Active
+gabapentin,'16590010356',600,mg,STAT RX USA,Active
+gabapentin,'16590010360',600,mg,STAT RX USA,Active
+gabapentin,'16590010362',600,mg,STAT RX USA,Active
+gabapentin,'16590010371',600,mg,STAT RX USA,Active
+gabapentin,'16590010382',600,mg,STAT RX USA,Active
+gabapentin,'16590010383',600,mg,STAT RX USA,Active
+gabapentin,'16590010390',600,mg,STAT RX USA,Active
+gabapentin,'16714033001',600,mg,NORTHSTAR RX LL,Active
+gabapentin,'16714033002',600,mg,NORTHSTAR RX LL,Active
+gabapentin,'18837005830',600,mg,INNOVIANT PHARM,Active
+gabapentin,'18837005860',600,mg,INNOVIANT PHARM,Active
+gabapentin,'18837005890',600,mg,INNOVIANT PHARM,Active
+gabapentin,'18837005898',600,mg,INNOVIANT PHARM,Active
+gabapentin,'21695005800',600,mg,PHYSICIAN PARTN,Active
+gabapentin,'21695005830',600,mg,PHYSICIAN PARTN,Active
+gabapentin,'21695005842',600,mg,PHYSICIAN PARTN,Active
+gabapentin,'21695005860',600,mg,PHYSICIAN PARTN,Active
+gabapentin,'21695005872',600,mg,PHYSICIAN PARTN,Active
+gabapentin,'21695005890',600,mg,PHYSICIAN PARTN,Active
+gabapentin,'23490732500',600,mg,PALMETTO STATE,Active
+gabapentin,'23490732502',600,mg,PALMETTO STATE,Active
+gabapentin,'23490732503',600,mg,PALMETTO STATE,Active
+gabapentin,'23490732504',600,mg,PALMETTO STATE,Active
+gabapentin,'23490732506',600,mg,PALMETTO STATE,Active
+gabapentin,'23490732509',600,mg,PALMETTO STATE,Active
+gabapentin,'24658012001',600,mg,BLU PHARMACEUTI,Active
+gabapentin,'24658012005',600,mg,BLU PHARMACEUTI,Active
+gabapentin,'31722040501',600,mg,CAMBER PHARMACE,Active
+gabapentin,'31722040505',600,mg,CAMBER PHARMACE,Active
+gabapentin,'33358015430',600,mg,RXCHANGE CO.,Active
+gabapentin,'33358015460',600,mg,RXCHANGE CO.,Active
+gabapentin,'33358015490',600,mg,RXCHANGE CO.,Active
+gabapentin,'35356085030',600,mg,QUALITY CARE,Active
+gabapentin,'35356085060',600,mg,QUALITY CARE,Active
+gabapentin,'35356085090',600,mg,QUALITY CARE,Active
+gabapentin,'42254005400',600,mg,PHYSICIAN PARTN,Active
+gabapentin,'42254005430',600,mg,PHYSICIAN PARTN,Active
+gabapentin,'42254005460',600,mg,PHYSICIAN PARTN,Active
+gabapentin,'42254005472',600,mg,PHYSICIAN PARTN,Active
+gabapentin,'42254005490',600,mg,PHYSICIAN PARTN,Active
+gabapentin,'42254039330',600,mg,PHYSICIAN PARTN,Active
+gabapentin,'42254039360',600,mg,PHYSICIAN PARTN,Active
+gabapentin,'42254039390',600,mg,PHYSICIAN PARTN,Active
+gabapentin,'42292002401',600,mg,MYLAN INSTITUTI,Active
+gabapentin,'42292002420',600,mg,MYLAN INSTITUTI,Active
+gabapentin,'42549033760',600,mg,4UORTHO LLC,Active
+gabapentin,'42549053760',600,mg,4UORTHO LLC,Active
+gabapentin,'42549053790',600,mg,4UORTHO LLC,Active
+gabapentin,'43353061945',600,mg,APHENA PHARMA S,Active
+gabapentin,'43353061960',600,mg,APHENA PHARMA S,Active
+gabapentin,'43353061974',600,mg,APHENA PHARMA S,Active
+gabapentin,'43353061980',600,mg,APHENA PHARMA S,Active
+gabapentin,'43353061992',600,mg,APHENA PHARMA S,Active
+gabapentin,'43353063045',600,mg,APHENA PHARMA S,Active
+gabapentin,'43353063060',600,mg,APHENA PHARMA S,Active
+gabapentin,'43353063080',600,mg,APHENA PHARMA S,Active
+gabapentin,'43353063092',600,mg,APHENA PHARMA S,Active
+gabapentin,'43353080445',600,mg,APHENA PHARMA S,Active
+gabapentin,'43353080460',600,mg,APHENA PHARMA S,Active
+gabapentin,'43353080480',600,mg,APHENA PHARMA S,Active
+gabapentin,'43353080492',600,mg,APHENA PHARMA S,Active
+gabapentin,'43353087245',600,mg,APHENA PHARMA S,Active
+gabapentin,'43353087260',600,mg,APHENA PHARMA S,Active
+gabapentin,'43353087273',600,mg,APHENA PHARMA S,Active
+gabapentin,'43353087280',600,mg,APHENA PHARMA S,Active
+gabapentin,'43353087292',600,mg,APHENA PHARMA S,Active
+gabapentin,'43547033210',600,mg,SOLCO HEALTHCAR,Active
+gabapentin,'43547033250',600,mg,SOLCO HEALTHCAR,Active
+gabapentin,'43547038950',600,mg,SOLCO HEALTHCAR,Active
+gabapentin,'49999078401',600,mg,QUALITY CARE,Active
+gabapentin,'49999078430',600,mg,QUALITY CARE,Active
+gabapentin,'49999078460',600,mg,QUALITY CARE,Active
+gabapentin,'49999078490',600,mg,QUALITY CARE,Active
+gabapentin,'50268035111',600,mg,AVPAK,Active
+gabapentin,'50268035115',600,mg,AVPAK,Active
+gabapentin,'50436301101',600,mg,UNIT DOSE SERVI,Active
+gabapentin,'50436301102',600,mg,UNIT DOSE SERVI,Active
+gabapentin,'50436301103',600,mg,UNIT DOSE SERVI,Active
+gabapentin,'51138012428',600,mg,MED-HEALTH PHAR,Active
+gabapentin,'51138012430',600,mg,MED-HEALTH PHAR,Active
+gabapentin,'51138012928',600,mg,MED-HEALTH PHAR,Active
+gabapentin,'51138012930',600,mg,MED-HEALTH PHAR,Active
+gabapentin,'52959078912',600,mg,PHARMA PAC,Active
+gabapentin,'52959078930',600,mg,PHARMA PAC,Active
+gabapentin,'52959078960',600,mg,PHARMA PAC,Active
+gabapentin,'52959078990',600,mg,PHARMA PAC,Active
+gabapentin,'54569595600',600,mg,A-S MEDICATION,Active
+gabapentin,'54569595601',600,mg,A-S MEDICATION,Active
+gabapentin,'54569595602',600,mg,A-S MEDICATION,Active
+gabapentin,'54569595603',600,mg,A-S MEDICATION,Active
+gabapentin,'54868521900',600,mg,PHYSICIANS TC.,Active
+gabapentin,'54868521901',600,mg,PHYSICIANS TC.,Active
+gabapentin,'54868521902',600,mg,PHYSICIANS TC.,Active
+gabapentin,'54868521903',600,mg,PHYSICIANS TC.,Active
+gabapentin,'54868521904',600,mg,PHYSICIANS TC.,Active
+gabapentin,'54868521905',600,mg,PHYSICIANS TC.,Active
+gabapentin,'54868521906',600,mg,PHYSICIANS TC.,Active
+gabapentin,'55045332201',600,mg,DRX,Active
+gabapentin,'55045332206',600,mg,DRX,Active
+gabapentin,'55045332208',600,mg,DRX,Active
+gabapentin,'55045332209',600,mg,DRX,Active
+gabapentin,'55289095960',600,mg,PD-RX PHARM,Active
+gabapentin,'55289095990',600,mg,PD-RX PHARM,Active
+gabapentin,'55289095998',600,mg,PD-RX PHARM,Active
+gabapentin,'55700029630',600,mg,QUALITY CARE,Active
+gabapentin,'55700029660',600,mg,QUALITY CARE,Active
+gabapentin,'55700029690',600,mg,QUALITY CARE,Active
+gabapentin,'55887028260',600,mg,DHS INC.,Active
+gabapentin,'55887028290',600,mg,DHS INC.,Active
+gabapentin,'57866301101',600,mg,VIBRANTA INC.,Active
+gabapentin,'58016031200',600,mg,SOUTHWOOD PHARM,Active
+gabapentin,'58016031202',600,mg,SOUTHWOOD PHARM,Active
+gabapentin,'58016031203',600,mg,SOUTHWOOD PHARM,Active
+gabapentin,'58016031210',600,mg,SOUTHWOOD PHARM,Active
+gabapentin,'58016031214',600,mg,SOUTHWOOD PHARM,Active
+gabapentin,'58016031215',600,mg,SOUTHWOOD PHARM,Active
+gabapentin,'58016031220',600,mg,SOUTHWOOD PHARM,Active
+gabapentin,'58016031221',600,mg,SOUTHWOOD PHARM,Active
+gabapentin,'58016031228',600,mg,SOUTHWOOD PHARM,Active
+gabapentin,'58016031230',600,mg,SOUTHWOOD PHARM,Active
+gabapentin,'58016031240',600,mg,SOUTHWOOD PHARM,Active
+gabapentin,'58016031250',600,mg,SOUTHWOOD PHARM,Active
+gabapentin,'58016031260',600,mg,SOUTHWOOD PHARM,Active
+gabapentin,'58016031273',600,mg,SOUTHWOOD PHARM,Active
+gabapentin,'58016031290',600,mg,SOUTHWOOD PHARM,Active
+gabapentin,'58016031299',600,mg,SOUTHWOOD PHARM,Active
+gabapentin,'58657062301',600,mg,METHOD PHARMACE,Active
+gabapentin,'58657062350',600,mg,METHOD PHARMACE,Active
+gabapentin,'59762502301',600,mg,GREENSTONE LLC.,Active
+gabapentin,'60429078201',600,mg,"GSMS, INC.",Active
+gabapentin,'60429078205',600,mg,"GSMS, INC.",Active
+gabapentin,'60429078290',600,mg,"GSMS, INC.",Active
+gabapentin,'60505255101',600,mg,APOTEX CORP,Active
+gabapentin,'60505255105',600,mg,APOTEX CORP,Active
+gabapentin,'60760017330',600,mg,ST MARYS MPP,Active
+gabapentin,'60760017390',600,mg,ST MARYS MPP,Active
+gabapentin,'60760017392',600,mg,ST MARYS MPP,Active
+gabapentin,'61919010330',600,mg,DIRECT RX,Active
+gabapentin,'61919010360',600,mg,DIRECT RX,Active
+gabapentin,'61919010372',600,mg,DIRECT RX,Active
+gabapentin,'61919010390',600,mg,DIRECT RX,Active
+gabapentin,'61919056330',600,mg,DIRECT RX,Active
+gabapentin,'61919056360',600,mg,DIRECT RX,Active
+gabapentin,'61919056372',600,mg,DIRECT RX,Active
+gabapentin,'61919056390',600,mg,DIRECT RX,Active
+gabapentin,'62756020201',600,mg,SUN PHARMACEUTI,Active
+gabapentin,'62756020203',600,mg,SUN PHARMACEUTI,Active
+gabapentin,'63187000690',600,mg,PROFICIENT RX L,Active
+gabapentin,'63187005700',600,mg,PROFICIENT RX L,Active
+gabapentin,'63187005790',600,mg,PROFICIENT RX L,Active
+gabapentin,'63187014930',600,mg,PROFICIENT RX L,Active
+gabapentin,'63187014990',600,mg,PROFICIENT RX L,Active
+gabapentin,'63187078590',600,mg,PROFICIENT RX L,Active
+gabapentin,'63304059201',600,mg,RANBAXY PHARMAC,Active
+gabapentin,'63304059205',600,mg,RANBAXY PHARMAC,Active
+gabapentin,'63629306301',600,mg,BRYANT RANCH PR,Active
+gabapentin,'63629306302',600,mg,BRYANT RANCH PR,Active
+gabapentin,'63629306303',600,mg,BRYANT RANCH PR,Active
+gabapentin,'63629306304',600,mg,BRYANT RANCH PR,Active
+gabapentin,'63629306305',600,mg,BRYANT RANCH PR,Active
+gabapentin,'63629306306',600,mg,BRYANT RANCH PR,Active
+gabapentin,'63739039104',600,mg,MCKESSON PACKAG,Active
+gabapentin,'63739039110',600,mg,MCKESSON PACKAG,Active
+gabapentin,'63739039115',600,mg,MCKESSON PACKAG,Active
+gabapentin,'63739056010',600,mg,MCKESSON PACKAG,Active
+gabapentin,'63874113101',600,mg,ALTURA PHARMA,Active
+gabapentin,'63874113103',600,mg,ALTURA PHARMA,Active
+gabapentin,'63874113106',600,mg,ALTURA PHARMA,Active
+gabapentin,'63874113109',600,mg,ALTURA PHARMA,Active
+gabapentin,'65862052301',600,mg,AUROBINDO PHARM,Active
+gabapentin,'65862052305',600,mg,AUROBINDO PHARM,Active
+gabapentin,'66336047130',600,mg,DISPENSING SOLN,Active
+gabapentin,'66336047190',600,mg,DISPENSING SOLN,Active
+gabapentin,'66336047194',600,mg,DISPENSING SOLN,Active
+gabapentin,'67877042801',600,mg,ASCEND LABORATO,Active
+gabapentin,'67877042805',600,mg,ASCEND LABORATO,Active
+gabapentin,'68001000600',600,mg,BLUEPOINT LABOR,Active
+gabapentin,'68001000603',600,mg,BLUEPOINT LABOR,Active
+gabapentin,'68071029230',600,mg,NUCARE PHARMACE,Active
+gabapentin,'68071029260',600,mg,NUCARE PHARMACE,Active
+gabapentin,'68071029290',600,mg,NUCARE PHARMACE,Active
+gabapentin,'68071029291',600,mg,NUCARE PHARMACE,Active
+gabapentin,'68084012201',600,mg,AHP,Active
+gabapentin,'68084012211',600,mg,AHP,Active
+gabapentin,'68084012285',600,mg,AHP,Active
+gabapentin,'68084062401',600,mg,AHP,Active
+gabapentin,'68084062411',600,mg,AHP,Active
+gabapentin,'68084079701',600,mg,AHP,Active
+gabapentin,'68084079711',600,mg,AHP,Active
+gabapentin,'68115050130',600,mg,"DISPENSEXPRESS,",Active
+gabapentin,'68115050160',600,mg,"DISPENSEXPRESS,",Active
+gabapentin,'68115050190',600,mg,"DISPENSEXPRESS,",Active
+gabapentin,'68115050197',600,mg,"DISPENSEXPRESS,",Active
+gabapentin,'68382020401',600,mg,ZYDUS PHARMACEU,Active
+gabapentin,'68382020405',600,mg,ZYDUS PHARMACEU,Active
+gabapentin,'68387040512',600,mg,DISPENSING SOLN,Active
+gabapentin,'68387040590',600,mg,DISPENSING SOLN,Active
+gabapentin,'68387042112',600,mg,DISPENSING SOLN,Active
+gabapentin,'68387042190',600,mg,DISPENSING SOLN,Active
+gabapentin,'68462012601',600,mg,GLENMARK PHARMA,Active
+gabapentin,'68462012605',600,mg,GLENMARK PHARMA,Active
+gabapentin,'69097081207',600,mg,"CIPLA USA, INC.",Active
+gabapentin,'69097081212',600,mg,"CIPLA USA, INC.",Active
+gabapentin,'69367013406',600,mg,WESTMINSTER PHA,Active
+gabapentin,'76282040501',600,mg,EXELAN PHARMACE,Active
+gabapentin,'76282040505',600,mg,EXELAN PHARMACE,Active
+gabapentin,'76282040590',600,mg,EXELAN PHARMACE,Active
+gabapentin,'00093444401',800,mg,TEVA USA,Active
+gabapentin,'00093444405',800,mg,TEVA USA,Active
+gabapentin,'00093717401',800,mg,TEVA USA,Active
+gabapentin,'00093717405',800,mg,TEVA USA,Active
+gabapentin,'00172444400',800,mg,IVAX PHARMACEUT,Active
+gabapentin,'00172444410',800,mg,IVAX PHARMACEUT,Active
+gabapentin,'00172444460',800,mg,IVAX PHARMACEUT,Active
+gabapentin,'00172444470',800,mg,IVAX PHARMACEUT,Active
+gabapentin,'00185011301',800,mg,SANDOZ,Active
+gabapentin,'00228263711',800,mg,ACTAVIS PHARMA,Active
+gabapentin,'00228263750',800,mg,ACTAVIS PHARMA,Active
+gabapentin,'00378542501',800,mg,MYLAN,Active
+gabapentin,'00378542505',800,mg,MYLAN,Active
+gabapentin,'00440556305',800,mg,LIBERTY PHARM,Active
+gabapentin,'00440556330',800,mg,LIBERTY PHARM,Active
+gabapentin,'00440556360',800,mg,LIBERTY PHARM,Active
+gabapentin,'00440556381',800,mg,LIBERTY PHARM,Active
+gabapentin,'00440556390',800,mg,LIBERTY PHARM,Active
+gabapentin,'00440556391',800,mg,LIBERTY PHARM,Active
+gabapentin,'00440556392',800,mg,LIBERTY PHARM,Active
+gabapentin,'00440556394',800,mg,LIBERTY PHARM,Active
+gabapentin,'10544044802',800,mg,BLENHEIM PHARMA,Active
+gabapentin,'10544044890',800,mg,BLENHEIM PHARMA,Active
+gabapentin,'16590010415',800,mg,STAT RX USA,Active
+gabapentin,'16590010430',800,mg,STAT RX USA,Active
+gabapentin,'16590010460',800,mg,STAT RX USA,Active
+gabapentin,'16590010462',800,mg,STAT RX USA,Active
+gabapentin,'16590010472',800,mg,STAT RX USA,Active
+gabapentin,'16590010482',800,mg,STAT RX USA,Active
+gabapentin,'16590010483',800,mg,STAT RX USA,Active
+gabapentin,'16590010490',800,mg,STAT RX USA,Active
+gabapentin,'16714033201',800,mg,NORTHSTAR RX LL,Active
+gabapentin,'16714033202',800,mg,NORTHSTAR RX LL,Active
+gabapentin,'18837005960',800,mg,INNOVIANT PHARM,Active
+gabapentin,'18837005990',800,mg,INNOVIANT PHARM,Active
+gabapentin,'18837005998',800,mg,INNOVIANT PHARM,Active
+gabapentin,'21695005900',800,mg,PHYSICIAN PARTN,Active
+gabapentin,'21695005930',800,mg,PHYSICIAN PARTN,Active
+gabapentin,'21695005960',800,mg,PHYSICIAN PARTN,Active
+gabapentin,'21695005990',800,mg,PHYSICIAN PARTN,Active
+gabapentin,'23490732600',800,mg,PALMETTO STATE,Active
+gabapentin,'23490732602',800,mg,PALMETTO STATE,Active
+gabapentin,'23490732603',800,mg,PALMETTO STATE,Active
+gabapentin,'23490732604',800,mg,PALMETTO STATE,Active
+gabapentin,'23490732606',800,mg,PALMETTO STATE,Active
+gabapentin,'23490732609',800,mg,PALMETTO STATE,Active
+gabapentin,'24658012101',800,mg,BLU PHARMACEUTI,Active
+gabapentin,'24658012105',800,mg,BLU PHARMACEUTI,Active
+gabapentin,'31722040601',800,mg,CAMBER PHARMACE,Active
+gabapentin,'31722040605',800,mg,CAMBER PHARMACE,Active
+gabapentin,'42254010930',800,mg,PHYSICIAN PARTN,Active
+gabapentin,'42254010960',800,mg,PHYSICIAN PARTN,Active
+gabapentin,'42254010990',800,mg,PHYSICIAN PARTN,Active
+gabapentin,'42254039430',800,mg,PHYSICIAN PARTN,Active
+gabapentin,'42254039490',800,mg,PHYSICIAN PARTN,Active
+gabapentin,'42292002501',800,mg,MYLAN INSTITUTI,Active
+gabapentin,'42292002508',800,mg,MYLAN INSTITUTI,Active
+gabapentin,'43063027190',800,mg,PD-RX PHARM,Active
+gabapentin,'43353019070',800,mg,APHENA PHARMA S,Active
+gabapentin,'43353019092',800,mg,APHENA PHARMA S,Active
+gabapentin,'43547033310',800,mg,SOLCO HEALTHCAR,Active
+gabapentin,'43547033350',800,mg,SOLCO HEALTHCAR,Active
+gabapentin,'43547039050',800,mg,SOLCO HEALTHCAR,Active
+gabapentin,'49999079901',800,mg,QUALITY CARE,Active
+gabapentin,'49999079930',800,mg,QUALITY CARE,Active
+gabapentin,'49999079960',800,mg,QUALITY CARE,Active
+gabapentin,'49999079990',800,mg,QUALITY CARE,Active
+gabapentin,'50268035211',800,mg,AVPAK,Active
+gabapentin,'50268035213',800,mg,AVPAK,Active
+gabapentin,'50436728601',800,mg,UNIT DOSE SERVI,Active
+gabapentin,'50436728602',800,mg,UNIT DOSE SERVI,Active
+gabapentin,'50436728603',800,mg,UNIT DOSE SERVI,Active
+gabapentin,'50436728605',800,mg,UNIT DOSE SERVI,Active
+gabapentin,'51079009701',800,mg,MYLAN INSTITUTI,Active
+gabapentin,'51079009720',800,mg,MYLAN INSTITUTI,Active
+gabapentin,'51138012528',800,mg,MED-HEALTH PHAR,Active
+gabapentin,'51138012530',800,mg,MED-HEALTH PHAR,Active
+gabapentin,'51138013028',800,mg,MED-HEALTH PHAR,Active
+gabapentin,'51138013030',800,mg,MED-HEALTH PHAR,Active
+gabapentin,'52959077202',800,mg,PHARMA PAC,Active
+gabapentin,'52959077230',800,mg,PHARMA PAC,Active
+gabapentin,'52959077260',800,mg,PHARMA PAC,Active
+gabapentin,'52959077290',800,mg,PHARMA PAC,Active
+gabapentin,'54569630600',800,mg,A-S MEDICATION,Active
+gabapentin,'54569630601',800,mg,A-S MEDICATION,Active
+gabapentin,'54569630602',800,mg,A-S MEDICATION,Active
+gabapentin,'54868519500',800,mg,PHYSICIANS TC.,Active
+gabapentin,'54868519501',800,mg,PHYSICIANS TC.,Active
+gabapentin,'54868519502',800,mg,PHYSICIANS TC.,Active
+gabapentin,'54868519503',800,mg,PHYSICIANS TC.,Active
+gabapentin,'54868519505',800,mg,PHYSICIANS TC.,Active
+gabapentin,'55045342200',800,mg,DRX,Active
+gabapentin,'55045342208',800,mg,DRX,Active
+gabapentin,'55045342209',800,mg,DRX,Active
+gabapentin,'55700000330',800,mg,QUALITY CARE,Active
+gabapentin,'55700000360',800,mg,QUALITY CARE,Active
+gabapentin,'55700000390',800,mg,QUALITY CARE,Active
+gabapentin,'55700027830',800,mg,QUALITY CARE,Active
+gabapentin,'55700027860',800,mg,QUALITY CARE,Active
+gabapentin,'55700027890',800,mg,QUALITY CARE,Active
+gabapentin,'55887028101',800,mg,DHS INC.,Active
+gabapentin,'55887028130',800,mg,DHS INC.,Active
+gabapentin,'55887028160',800,mg,DHS INC.,Active
+gabapentin,'55887028182',800,mg,DHS INC.,Active
+gabapentin,'55887028186',800,mg,DHS INC.,Active
+gabapentin,'55887028190',800,mg,DHS INC.,Active
+gabapentin,'57866390501',800,mg,VIBRANTA INC.,Active
+gabapentin,'58016032000',800,mg,SOUTHWOOD PHARM,Active
+gabapentin,'58016032002',800,mg,SOUTHWOOD PHARM,Active
+gabapentin,'58016032003',800,mg,SOUTHWOOD PHARM,Active
+gabapentin,'58016032010',800,mg,SOUTHWOOD PHARM,Active
+gabapentin,'58016032014',800,mg,SOUTHWOOD PHARM,Active
+gabapentin,'58016032015',800,mg,SOUTHWOOD PHARM,Active
+gabapentin,'58016032020',800,mg,SOUTHWOOD PHARM,Active
+gabapentin,'58016032021',800,mg,SOUTHWOOD PHARM,Active
+gabapentin,'58016032028',800,mg,SOUTHWOOD PHARM,Active
+gabapentin,'58016032030',800,mg,SOUTHWOOD PHARM,Active
+gabapentin,'58016032040',800,mg,SOUTHWOOD PHARM,Active
+gabapentin,'58016032050',800,mg,SOUTHWOOD PHARM,Active
+gabapentin,'58016032060',800,mg,SOUTHWOOD PHARM,Active
+gabapentin,'58016032090',800,mg,SOUTHWOOD PHARM,Active
+gabapentin,'58016032099',800,mg,SOUTHWOOD PHARM,Active
+gabapentin,'58657062401',800,mg,METHOD PHARMACE,Active
+gabapentin,'58657062450',800,mg,METHOD PHARMACE,Active
+gabapentin,'59762502401',800,mg,GREENSTONE LLC.,Active
+gabapentin,'60429078301',800,mg,"GSMS, INC.",Active
+gabapentin,'60429078305',800,mg,"GSMS, INC.",Active
+gabapentin,'60429078390',800,mg,"GSMS, INC.",Active
+gabapentin,'60505255201',800,mg,APOTEX CORP,Active
+gabapentin,'60505255205',800,mg,APOTEX CORP,Active
+gabapentin,'60760003860',800,mg,ST MARYS MPP,Active
+gabapentin,'60760003890',800,mg,ST MARYS MPP,Active
+gabapentin,'61919010490',800,mg,DIRECT RX,Active
+gabapentin,'61919035030',800,mg,DIRECT RX,Active
+gabapentin,'61919035060',800,mg,DIRECT RX,Active
+gabapentin,'61919035090',800,mg,DIRECT RX,Active
+gabapentin,'62756020401',800,mg,SUN PHARMACEUTI,Active
+gabapentin,'62756020403',800,mg,SUN PHARMACEUTI,Active
+gabapentin,'63187001030',800,mg,PROFICIENT RX L,Active
+gabapentin,'63187001060',800,mg,PROFICIENT RX L,Active
+gabapentin,'63187001090',800,mg,PROFICIENT RX L,Active
+gabapentin,'63187023160',800,mg,PROFICIENT RX L,Active
+gabapentin,'63187023190',800,mg,PROFICIENT RX L,Active
+gabapentin,'63304059301',800,mg,RANBAXY PHARMAC,Active
+gabapentin,'63304059305',800,mg,RANBAXY PHARMAC,Active
+gabapentin,'63629337501',800,mg,BRYANT RANCH PR,Active
+gabapentin,'63629337502',800,mg,BRYANT RANCH PR,Active
+gabapentin,'63629337503',800,mg,BRYANT RANCH PR,Active
+gabapentin,'63629337504',800,mg,BRYANT RANCH PR,Active
+gabapentin,'63629337505',800,mg,BRYANT RANCH PR,Active
+gabapentin,'63629337506',800,mg,BRYANT RANCH PR,Active
+gabapentin,'63739039210',800,mg,MCKESSON PACKAG,Active
+gabapentin,'63739039215',800,mg,MCKESSON PACKAG,Active
+gabapentin,'63874112901',800,mg,ALTURA PHARMA,Active
+gabapentin,'63874112903',800,mg,ALTURA PHARMA,Active
+gabapentin,'63874112906',800,mg,ALTURA PHARMA,Active
+gabapentin,'63874112909',800,mg,ALTURA PHARMA,Active
+gabapentin,'65862052401',800,mg,AUROBINDO PHARM,Active
+gabapentin,'65862052405',800,mg,AUROBINDO PHARM,Active
+gabapentin,'66336076290',800,mg,DISPENSING SOLN,Active
+gabapentin,'66336076294',800,mg,DISPENSING SOLN,Active
+gabapentin,'67877042901',800,mg,ASCEND LABORATO,Active
+gabapentin,'67877042905',800,mg,ASCEND LABORATO,Active
+gabapentin,'68001000700',800,mg,BLUEPOINT LABOR,Active
+gabapentin,'68001000703',800,mg,BLUEPOINT LABOR,Active
+gabapentin,'68071029330',800,mg,NUCARE PHARMACE,Active
+gabapentin,'68071029360',800,mg,NUCARE PHARMACE,Active
+gabapentin,'68071029384',800,mg,NUCARE PHARMACE,Active
+gabapentin,'68071029390',800,mg,NUCARE PHARMACE,Active
+gabapentin,'68071029391',800,mg,NUCARE PHARMACE,Active
+gabapentin,'68084012301',800,mg,AHP,Active
+gabapentin,'68084012311',800,mg,AHP,Active
+gabapentin,'68084012385',800,mg,AHP,Active
+gabapentin,'68084062501',800,mg,AHP,Active
+gabapentin,'68084062511',800,mg,AHP,Active
+gabapentin,'68084080201',800,mg,AHP,Active
+gabapentin,'68084080211',800,mg,AHP,Active
+gabapentin,'68115050230',800,mg,"DISPENSEXPRESS,",Active
+gabapentin,'68115050290',800,mg,"DISPENSEXPRESS,",Active
+gabapentin,'68382020501',800,mg,ZYDUS PHARMACEU,Active
+gabapentin,'68382020505',800,mg,ZYDUS PHARMACEU,Active
+gabapentin,'68387040812',800,mg,DISPENSING SOLN,Active
+gabapentin,'68387040860',800,mg,DISPENSING SOLN,Active
+gabapentin,'68387040890',800,mg,DISPENSING SOLN,Active
+gabapentin,'68462012701',800,mg,GLENMARK PHARMA,Active
+gabapentin,'68462012705',800,mg,GLENMARK PHARMA,Active
+gabapentin,'69097081107',800,mg,"CIPLA USA, INC.",Active
+gabapentin,'69097081112',800,mg,"CIPLA USA, INC.",Active
+gabapentin,'69367013506',800,mg,WESTMINSTER PHA,Active
+gabapentin,'76282040601',800,mg,EXELAN PHARMACE,Active
+gabapentin,'76282040605',800,mg,EXELAN PHARMACE,Active
+gabapentin,'76282040690',800,mg,EXELAN PHARMACE,Active
+gabapentin,'00172444060',100,mg,IVAX PHARMACEUT,Inactive
+gabapentin,'00172444070',100,mg,IVAX PHARMACEUT,Inactive
+gabapentin,'12280007690',100,mg,"DISPENSEXPRESS,",Inactive
+gabapentin,'58016030100',100,mg,SOUTHWOOD PHARM,Inactive
+gabapentin,'58016030102',100,mg,SOUTHWOOD PHARM,Inactive
+gabapentin,'58016030103',100,mg,SOUTHWOOD PHARM,Inactive
+gabapentin,'58016030110',100,mg,SOUTHWOOD PHARM,Inactive
+gabapentin,'58016030114',100,mg,SOUTHWOOD PHARM,Inactive
+gabapentin,'58016030115',100,mg,SOUTHWOOD PHARM,Inactive
+gabapentin,'58016030120',100,mg,SOUTHWOOD PHARM,Inactive
+gabapentin,'58016030121',100,mg,SOUTHWOOD PHARM,Inactive
+gabapentin,'58016030128',100,mg,SOUTHWOOD PHARM,Inactive
+gabapentin,'58016030130',100,mg,SOUTHWOOD PHARM,Inactive
+gabapentin,'58016030140',100,mg,SOUTHWOOD PHARM,Inactive
+gabapentin,'58016030150',100,mg,SOUTHWOOD PHARM,Inactive
+gabapentin,'58016030160',100,mg,SOUTHWOOD PHARM,Inactive
+gabapentin,'58016030190',100,mg,SOUTHWOOD PHARM,Inactive
+gabapentin,'00172444160',300,mg,IVAX PHARMACEUT,Inactive
+gabapentin,'00172444170',300,mg,IVAX PHARMACEUT,Inactive
+gabapentin,'12280007790',300,mg,"DISPENSEXPRESS,",Inactive
+gabapentin,'12280007793',300,mg,"DISPENSEXPRESS,",Inactive
+gabapentin,'12280007797',300,mg,"DISPENSEXPRESS,",Inactive
+gabapentin,'57866728501',300,mg,DIRECT DISPENSE,Inactive
+gabapentin,'57866728504',300,mg,DIRECT DISPENSE,Inactive
+gabapentin,'57866728505',300,mg,DIRECT DISPENSE,Inactive
+gabapentin,'58016028500',300,mg,SOUTHWOOD PHARM,Inactive
+gabapentin,'58016028502',300,mg,SOUTHWOOD PHARM,Inactive
+gabapentin,'58016028503',300,mg,SOUTHWOOD PHARM,Inactive
+gabapentin,'58016028510',300,mg,SOUTHWOOD PHARM,Inactive
+gabapentin,'58016028514',300,mg,SOUTHWOOD PHARM,Inactive
+gabapentin,'58016028515',300,mg,SOUTHWOOD PHARM,Inactive
+gabapentin,'58016028520',300,mg,SOUTHWOOD PHARM,Inactive
+gabapentin,'58016028521',300,mg,SOUTHWOOD PHARM,Inactive
+gabapentin,'58016028528',300,mg,SOUTHWOOD PHARM,Inactive
+gabapentin,'58016028530',300,mg,SOUTHWOOD PHARM,Inactive
+gabapentin,'58016028540',300,mg,SOUTHWOOD PHARM,Inactive
+gabapentin,'58016028550',300,mg,SOUTHWOOD PHARM,Inactive
+gabapentin,'58016028560',300,mg,SOUTHWOOD PHARM,Inactive
+gabapentin,'58016028590',300,mg,SOUTHWOOD PHARM,Inactive
+gabapentin,'00172444260',400,mg,IVAX PHARMACEUT,Inactive
+gabapentin,'00172444270',400,mg,IVAX PHARMACEUT,Inactive
+gabapentin,'12280007590',400,mg,"DISPENSEXPRESS,",Inactive
+gabapentin,'54868516400',400,mg,PHYSICIANS TC.,Inactive
+gabapentin,'54868516403',400,mg,PHYSICIANS TC.,Inactive
+gabapentin,'54868516404',400,mg,PHYSICIANS TC.,Inactive
+gabapentin,'55887027630',400,mg,DHS INC.,Inactive
+gabapentin,'55887027660',400,mg,DHS INC.,Inactive
+gabapentin,'55887027690',400,mg,DHS INC.,Inactive
+gabapentin,'58016029500',400,mg,SOUTHWOOD PHARM,Inactive
+gabapentin,'58016029502',400,mg,SOUTHWOOD PHARM,Inactive
+gabapentin,'58016029503',400,mg,SOUTHWOOD PHARM,Inactive
+gabapentin,'58016029510',400,mg,SOUTHWOOD PHARM,Inactive
+gabapentin,'58016029514',400,mg,SOUTHWOOD PHARM,Inactive
+gabapentin,'58016029515',400,mg,SOUTHWOOD PHARM,Inactive
+gabapentin,'58016029520',400,mg,SOUTHWOOD PHARM,Inactive
+gabapentin,'58016029521',400,mg,SOUTHWOOD PHARM,Inactive
+gabapentin,'58016029528',400,mg,SOUTHWOOD PHARM,Inactive
+gabapentin,'58016029530',400,mg,SOUTHWOOD PHARM,Inactive
+gabapentin,'58016029540',400,mg,SOUTHWOOD PHARM,Inactive
+gabapentin,'58016029550',400,mg,SOUTHWOOD PHARM,Inactive
+gabapentin,'58016029560',400,mg,SOUTHWOOD PHARM,Inactive
+gabapentin,'58016029590',400,mg,SOUTHWOOD PHARM,Inactive
+gabapentin,'68115054500',400,mg,"DISPENSEXPRESS,",Inactive
+gabapentin (bulk),'00395805519',100,%,HUMCO LAB.,Active
+gabapentin (bulk),'00395805535',100,%,HUMCO LAB.,Active
+gabapentin (bulk),'00395805537',100,%,HUMCO LAB.,Active
+gabapentin (bulk),'00395805543',100,%,HUMCO LAB.,Active
+gabapentin (bulk),'00395805562',100,%,HUMCO LAB.,Active
+gabapentin (bulk),'15455061703',100,%,ALVIX LABORATOR,Active
+gabapentin (bulk),'15455061707',100,%,ALVIX LABORATOR,Active
+gabapentin (bulk),'37803070102',100,%,APOTHECA SUPPLY,Active
+gabapentin (bulk),'37803070104',100,%,APOTHECA SUPPLY,Active
+gabapentin (bulk),'37803070105',100,%,APOTHECA SUPPLY,Active
+gabapentin (bulk),'37803070106',100,%,APOTHECA SUPPLY,Active
+gabapentin (bulk),'37803070107',100,%,APOTHECA SUPPLY,Active
+gabapentin (bulk),'37803070108',100,%,APOTHECA SUPPLY,Active
+gabapentin (bulk),'37803070110',100,%,APOTHECA SUPPLY,Active
+gabapentin (bulk),'37803070115',100,%,APOTHECA SUPPLY,Active
+gabapentin (bulk),'37803070117',100,%,APOTHECA SUPPLY,Active
+gabapentin (bulk),'38779198001',100,%,MEDISCA INC.,Active
+gabapentin (bulk),'38779198004',100,%,MEDISCA INC.,Active
+gabapentin (bulk),'38779198005',100,%,MEDISCA INC.,Active
+gabapentin (bulk),'38779198008',100,%,MEDISCA INC.,Active
+gabapentin (bulk),'38779246100',100,%,MEDISCA INC.,Active
+gabapentin (bulk),'38779246101',100,%,MEDISCA INC.,Active
+gabapentin (bulk),'38779246102',100,%,MEDISCA INC.,Active
+gabapentin (bulk),'38779246103',100,%,MEDISCA INC.,Active
+gabapentin (bulk),'38779246104',100,%,MEDISCA INC.,Active
+gabapentin (bulk),'38779246105',100,%,MEDISCA INC.,Active
+gabapentin (bulk),'38779246108',100,%,MEDISCA INC.,Active
+gabapentin (bulk),'38779246109',100,%,MEDISCA INC.,Active
+gabapentin (bulk),'38779246199',100,%,MEDISCA INC.,Active
+gabapentin (bulk),'38779287301',100,%,MEDISCA INC.,Active
+gabapentin (bulk),'38779287303',100,%,MEDISCA INC.,Active
+gabapentin (bulk),'38779287307',100,%,MEDISCA INC.,Active
+gabapentin (bulk),'45861002101',100,%,PHARMACEUTICA N,Active
+gabapentin (bulk),'45861002105',100,%,PHARMACEUTICA N,Active
+gabapentin (bulk),'45861002112',100,%,PHARMACEUTICA N,Active
+gabapentin (bulk),'45861002115',100,%,PHARMACEUTICA N,Active
+gabapentin (bulk),'45861002124',100,%,PHARMACEUTICA N,Active
+gabapentin (bulk),'45861002194',100,%,PHARMACEUTICA N,Active
+gabapentin (bulk),'45861002196',100,%,PHARMACEUTICA N,Active
+gabapentin (bulk),'45861002198',100,%,PHARMACEUTICA N,Active
+gabapentin (bulk),'46144010401',100,%,A.P.I. SOLUTION,Active
+gabapentin (bulk),'46144010405',100,%,A.P.I. SOLUTION,Active
+gabapentin (bulk),'49452324002',100,%,SPECTRUM,Active
+gabapentin (bulk),'49452324003',100,%,SPECTRUM,Active
+gabapentin (bulk),'49452324004',100,%,SPECTRUM,Active
+gabapentin (bulk),'49452324005',100,%,SPECTRUM,Active
+gabapentin (bulk),'49452324101',100,%,SPECTRUM,Active
+gabapentin (bulk),'49452324102',100,%,SPECTRUM,Active
+gabapentin (bulk),'50488100800',100,%,ALEXSO INC,Active
+gabapentin (bulk),'50488100801',100,%,ALEXSO INC,Active
+gabapentin (bulk),'50488100802',100,%,ALEXSO INC,Active
+gabapentin (bulk),'51552090202',100,%,FAGRON INC,Active
+gabapentin (bulk),'51552090204',100,%,FAGRON INC,Active
+gabapentin (bulk),'51552090205',100,%,FAGRON INC,Active
+gabapentin (bulk),'51552090206',100,%,FAGRON INC,Active
+gabapentin (bulk),'51552090207',100,%,FAGRON INC,Active
+gabapentin (bulk),'51552090208',100,%,FAGRON INC,Active
+gabapentin (bulk),'51552090211',100,%,FAGRON INC,Active
+gabapentin (bulk),'51552090225',100,%,FAGRON INC,Active
+gabapentin (bulk),'51552090250',100,%,FAGRON INC,Active
+gabapentin (bulk),'51552090299',100,%,FAGRON INC,Active
+gabapentin (bulk),'51552145404',100,%,FAGRON INC,Active
+gabapentin (bulk),'51552145405',100,%,FAGRON INC,Active
+gabapentin (bulk),'51552145406',100,%,FAGRON INC,Active
+gabapentin (bulk),'51552145407',100,%,FAGRON INC,Active
+gabapentin (bulk),'51552145408',100,%,FAGRON INC,Active
+gabapentin (bulk),'51927421300',100,%,PROFESSIONAL CO,Active
+gabapentin (bulk),'52372075701',100,%,FREEDOM PHARMAC,Active
+gabapentin (bulk),'52372075702',100,%,FREEDOM PHARMAC,Active
+gabapentin (bulk),'52372075703',100,%,FREEDOM PHARMAC,Active
+gabapentin (bulk),'52372075704',100,%,FREEDOM PHARMAC,Active
+gabapentin (bulk),'52372075705',100,%,FREEDOM PHARMAC,Active
+gabapentin (bulk),'52372091201',100,%,FREEDOM PHARMAC,Active
+gabapentin (bulk),'52372091202',100,%,FREEDOM PHARMAC,Active
+gabapentin (bulk),'52372091203',100,%,FREEDOM PHARMAC,Active
+gabapentin (bulk),'52372091204',100,%,FREEDOM PHARMAC,Active
+gabapentin (bulk),'52372091205',100,%,FREEDOM PHARMAC,Active
+gabapentin (bulk),'52372091210',100,%,FREEDOM PHARMAC,Active
+gabapentin (bulk),'52372091225',100,%,FREEDOM PHARMAC,Active
+gabapentin (bulk),'52372091250',100,%,FREEDOM PHARMAC,Active
+gabapentin (bulk),'53598000105',100,%,BONITA PHARMACE,Active
+gabapentin (bulk),'54288120201',100,%,"BPI LABS, LLC",Active
+gabapentin (bulk),'54288120202',100,%,"BPI LABS, LLC",Active
+gabapentin (bulk),'54288120203',100,%,"BPI LABS, LLC",Active
+gabapentin (bulk),'54288120210',100,%,"BPI LABS, LLC",Active
+gabapentin (bulk),'54288120250',100,%,"BPI LABS, LLC",Active
+gabapentin (bulk),'55812019101',100,%,DIVERSIFIED PHA,Active
+gabapentin (bulk),'55812019102',100,%,DIVERSIFIED PHA,Active
+gabapentin (bulk),'55812019103',100,%,DIVERSIFIED PHA,Active
+gabapentin (bulk),'55812019104',100,%,DIVERSIFIED PHA,Active
+gabapentin (bulk),'55812019105',100,%,DIVERSIFIED PHA,Active
+gabapentin (bulk),'58597801402',100,%,AMERICAN PHARMA,Active
+gabapentin (bulk),'58597801403',100,%,AMERICAN PHARMA,Active
+gabapentin (bulk),'58597801404',100,%,AMERICAN PHARMA,Active
+gabapentin (bulk),'58597801406',100,%,AMERICAN PHARMA,Active
+gabapentin (bulk),'58597801407',100,%,AMERICAN PHARMA,Active
+gabapentin (bulk),'58597801408',100,%,AMERICAN PHARMA,Active
+gabapentin (bulk),'58597801409',100,%,AMERICAN PHARMA,Active
+gabapentin (bulk),'60966012304',100,%,HURON PHARMACEU,Active
+gabapentin (bulk),'60966022303',100,%,HURON PHARMACEU,Active
+gabapentin (bulk),'60966032302',100,%,HURON PHARMACEU,Active
+gabapentin (bulk),'60966042301',100,%,HURON PHARMACEU,Active
+gabapentin (bulk),'62991220401',100,%,"LETCO MEDICAL,",Active
+gabapentin (bulk),'62991220402',100,%,"LETCO MEDICAL,",Active
+gabapentin (bulk),'62991220403',100,%,"LETCO MEDICAL,",Active
+gabapentin (bulk),'62991220404',100,%,"LETCO MEDICAL,",Active
+gabapentin (bulk),'62991220408',100,%,"LETCO MEDICAL,",Active
+gabapentin (bulk),'63275997004',100,%,B&B PHARM,Active
+gabapentin (bulk),'63275997005',100,%,B&B PHARM,Active
+gabapentin (bulk),'63275997008',100,%,B&B PHARM,Active
+gabapentin (bulk),'63275997009',100,%,B&B PHARM,Active
+gabapentin (bulk),'63307023005',100,%,TOTAL PHARMACY,Active
+gabapentin (bulk),'63307023011',100,%,TOTAL PHARMACY,Active
+gabapentin (bulk),'63307023015',100,%,TOTAL PHARMACY,Active
+gabapentin (bulk),'63307023025',100,%,TOTAL PHARMACY,Active
+gabapentin (bulk),'63307023027',100,%,TOTAL PHARMACY,Active
+gabapentin (bulk),'63307023037',100,%,TOTAL PHARMACY,Active
+gabapentin (bulk),'69746010282',100,%,DSQUARED PHARMA,Active
+gabapentin (bulk),'70175020601',100,%,PHOENIX PHARMA,Active
+gabapentin (bulk),'70859000601',100,%,NUCARE PHARMACE,Active
+gabapentin (bulk),'75839017600',100,%,ATTIX PHARMACEU,Active
+gabapentin (bulk),'75840010701',100,%,GENPAK SOLUTION,Active
+gabapentin (bulk),'51927330100',NA,NA,PROFESSIONAL CO,Inactive
+gabapentin (bulk),'63370009925',NA,NA,HAWKINS CHEMICA,Inactive
+gabapentin (bulk),'63370009935',NA,NA,HAWKINS CHEMICA,Inactive

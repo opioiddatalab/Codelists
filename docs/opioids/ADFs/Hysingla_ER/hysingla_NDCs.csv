@@ -1,8 +1,8 @@
-NDC,DRUG_NAME,STRENGTH,STRENGTH_UNIT_OF_MEASURE,MANUFACTURER_ABBR_NAME,STATUS
-59011027160,Hysingla Er,20,MG,Purdue,Active
-59011027260,Hysingla Er,30,MG,Purdue,Active
-59011027360,Hysingla Er,40,MG,Purdue,Active
-59011027460,Hysingla Er,60,MG,Purdue,Active
-59011027560,Hysingla Er,80,MG,Purdue,Active
-59011027660,Hysingla Er,100,MG,Purdue,Active
-59011027760,Hysingla Er,120,MG,Purdue,Active
+NDC,DRUG_NAME,INGREDIENTS,OPIOID_INGREDIENT1,STRENGTH,STRENGTH_UOM,MANUFACTURER_ABBR_NAME,STATUS,IR_ER
+'59011027160',Hysingla Er,Hydrocodone Bitartrate,Hydrocodone,20,MG,Purdue,Active,Er
+'59011027260',Hysingla Er,Hydrocodone Bitartrate,Hydrocodone,30,MG,Purdue,Active,Er
+'59011027360',Hysingla Er,Hydrocodone Bitartrate,Hydrocodone,40,MG,Purdue,Active,Er
+'59011027460',Hysingla Er,Hydrocodone Bitartrate,Hydrocodone,60,MG,Purdue,Active,Er
+'59011027560',Hysingla Er,Hydrocodone Bitartrate,Hydrocodone,80,MG,Purdue,Active,Er
+'59011027660',Hysingla Er,Hydrocodone Bitartrate,Hydrocodone,100,MG,Purdue,Active,Er
+'59011027760',Hysingla Er,Hydrocodone Bitartrate,Hydrocodone,120,MG,Purdue,Active,Er

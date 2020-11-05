@@ -1,4 +1,4 @@
-ndc,drug_name,generic_name,opioid_ingredient1,opioid_ingredient2,form,route,strength,strength_uom,package_size,manufacturer,startdate,enddate,status
-00004191506,nisentil,alphaprodine,alphaprodine,NA,NA,NA,40 mg/ml,NA,10,NA,NA,NA,NA
-00004191701,nisentil,alphaprodine,alphaprodine,NA,NA,NA,60 mg/ml,NA,10,NA,NA,NA,NA
-00004191706,nisentil,alphaprodine,alphaprodine,NA,NA,NA,60 mg/ml,NA,0,NA,NA,NA,inactive
+ndc,drug_name,generic_name,opioid_ingredient1,opioid_ingredient2,strength,strength_uom,manufacturer,status,ingredients,manufacturer_abbr_name,ir_er
+'00004191506',nisentil,alphaprodine,alphaprodine,NA,40 mg/ml,NA,NA,NA,NA,NA,NA
+'00004191701',nisentil,alphaprodine,alphaprodine,NA,60 mg/ml,NA,NA,NA,NA,NA,NA
+'00004191706',nisentil,alphaprodine,alphaprodine,NA,60 mg/ml,NA,NA,inactive,NA,NA,NA

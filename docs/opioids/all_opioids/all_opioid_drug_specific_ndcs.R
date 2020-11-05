@@ -20,10 +20,10 @@ path <- str_replace(rstudioapi::getActiveDocumentContext()$path,"all_opioid_drug
 
 all_opioids <- read_csv(str_c(path,"opioid_NDCs.csv")) %>% 
   mutate_if(is.character, str_to_lower) %>% 
-  filter(opioid_ingredient1!="opium")
-write_csv(all_opioids, str_c(path,"opioid_NDCs.csv"))
-names(all_adfs) <- tolower(names(all_adfs))
+  select(ndc, drug_name, generic_name, opioid_ingredient1, opioid_ingredient2,
+         strength, strength_uom, manufacturer, status)
 
+#write_csv(all_opioids, str_c(path,"opioid_NDCs.csv"))
 
 ingredients <- c(list.dirs(path = path, full.names = F))[-1]
 

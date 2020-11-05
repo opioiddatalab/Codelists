@@ -1,18 +1,18 @@
-ndc,drug_name,generic_name,opioid_ingredient1,opioid_ingredient2,form,route,strength,strength_uom,package_size,manufacturer,startdate,enddate,status
-00074449803,ultiva,remifentanil,remifentanil,NA,recon soln,intravenous,1,mg,1,bioniche pharma,10/1/96,10/1/96,active
-00074450405,ultiva,remifentanil,remifentanil,NA,recon soln,intravenous,2,mg,1,bioniche pharma,10/1/96,10/1/96,active
-00074450710,ultiva,remifentanil,remifentanil,NA,recon soln,intravenous,5,mg,1,bioniche pharma,10/1/96,10/1/96,active
-00173048300,ultiva,remifentanil,remifentanil,NA,recon soln,intravenous,1,mg,10,abbott hosp,7/12/96,7/12/96,active
-00173048400,ultiva,remifentanil,remifentanil,NA,recon soln,intravenous,2,mg,1,abbott hosp,7/12/96,7/12/96,active
-00173048500,ultiva,remifentanil,remifentanil,NA,recon soln,intravenous,5,mg,1,abbott hosp,7/12/96,7/12/96,active
-24200041644,remifentanil hydrochloride,remifentanil hydrochloride,remifentanil,NA,NA,NA,50 mcg/ml,NA,1,NA,NA,NA,NA
-61553030079,remifentanil hcl-0.9%nacl (pf),remifentanil,remifentanil,NA,syringe,intravenous,100 mcg/2 ml,(50 mcg/ml),2,pharmedium,NA,NA,active
-63323072303,remifentanil hydrochloride,remifentanil hydrochloride,remifentanil,NA,"injection, powder, lyophilized, for solution",intravenous,1 mg/ml,NA,"10 vial, single-dose in 1 carton (63323-723-03)  > 3 ml in 1 vial, single-dose (63323-723-01)","fresenius kabi usa, llc",NA,NA,NA
-63323072405,remifentanil hydrochloride,remifentanil hydrochloride,remifentanil,NA,"injection, powder, lyophilized, for solution",intravenous,1 mg/ml,NA,"10 vial, single-dose in 1 carton (63323-724-05)  > 5 ml in 1 vial, single-dose (63323-724-01)","fresenius kabi usa, llc",NA,NA,NA
-63323072510,remifentanil hydrochloride,remifentanil hydrochloride,remifentanil,NA,"injection, powder, lyophilized, for solution",intravenous,1 mg/ml,NA,"10 vial, single-dose in 1 carton (63323-725-10)  > 10 ml in 1 vial, single-dose (63323-725-01)","fresenius kabi usa, llc",NA,NA,NA
-67457019800,ultiva,remifentanil,remifentanil,NA,recon soln,intravenous,1,mg,1,mylan instituti,7/12/96,7/12/96,active
-67457019803,ultiva,remifentanil,remifentanil,NA,recon soln,intravenous,1,mg,1,mylan instituti,7/12/96,7/12/96,active
-67457019805,ultiva,remifentanil,remifentanil,NA,recon soln,intravenous,2,mg,1,mylan instituti,7/12/96,7/12/96,active
-67457019810,ultiva,remifentanil,remifentanil,NA,recon soln,intravenous,5,mg,1,mylan instituti,7/12/96,7/12/96,active
-67457019898,ultiva,remifentanil,remifentanil,NA,recon soln,intravenous,5,mg,1,mylan instituti,7/12/96,7/12/96,active
-67457019899,ultiva,remifentanil,remifentanil,NA,recon soln,intravenous,2,mg,1,mylan instituti,7/12/96,7/12/96,active
+ndc,drug_name,generic_name,opioid_ingredient1,opioid_ingredient2,strength,strength_uom,manufacturer,status,ingredients,manufacturer_abbr_name,ir_er
+'00074449803',ultiva,remifentanil,remifentanil,NA,1,mg,bioniche pharma,active,NA,NA,NA
+'00074450405',ultiva,remifentanil,remifentanil,NA,2,mg,bioniche pharma,active,NA,NA,NA
+'00074450710',ultiva,remifentanil,remifentanil,NA,5,mg,bioniche pharma,active,NA,NA,NA
+'00173048300',ultiva,remifentanil,remifentanil,NA,1,mg,abbott hosp,active,NA,NA,NA
+'00173048400',ultiva,remifentanil,remifentanil,NA,2,mg,abbott hosp,active,NA,NA,NA
+'00173048500',ultiva,remifentanil,remifentanil,NA,5,mg,abbott hosp,active,NA,NA,NA
+'24200041644',remifentanil hydrochloride,remifentanil hydrochloride,remifentanil,NA,50 mcg/ml,NA,NA,NA,NA,NA,NA
+'61553030079',remifentanil hcl-0.9%nacl (pf),remifentanil,remifentanil,NA,100 mcg/2 ml,(50 mcg/ml),pharmedium,active,NA,NA,NA
+'63323072303',remifentanil hydrochloride,remifentanil hydrochloride,remifentanil,NA,1 mg/ml,NA,"fresenius kabi usa, llc",NA,NA,NA,NA
+'63323072405',remifentanil hydrochloride,remifentanil hydrochloride,remifentanil,NA,1 mg/ml,NA,"fresenius kabi usa, llc",NA,NA,NA,NA
+'63323072510',remifentanil hydrochloride,remifentanil hydrochloride,remifentanil,NA,1 mg/ml,NA,"fresenius kabi usa, llc",NA,NA,NA,NA
+'67457019800',ultiva,remifentanil,remifentanil,NA,1,mg,mylan instituti,active,NA,NA,NA
+'67457019803',ultiva,remifentanil,remifentanil,NA,1,mg,mylan instituti,active,NA,NA,NA
+'67457019805',ultiva,remifentanil,remifentanil,NA,2,mg,mylan instituti,active,NA,NA,NA
+'67457019810',ultiva,remifentanil,remifentanil,NA,5,mg,mylan instituti,active,NA,NA,NA
+'67457019898',ultiva,remifentanil,remifentanil,NA,5,mg,mylan instituti,active,NA,NA,NA
+'67457019899',ultiva,remifentanil,remifentanil,NA,2,mg,mylan instituti,active,NA,NA,NA

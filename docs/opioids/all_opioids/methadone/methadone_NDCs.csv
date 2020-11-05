@@ -1,333 +1,333 @@
-ndc,drug_name,generic_name,opioid_ingredient1,opioid_ingredient2,form,route,strength,strength_uom,package_size,manufacturer,startdate,enddate,status
-00002106402,dolophine,methadone,methadone,NA,tablet,oral,5,mg,100,eli lilly & co.,NA,NA,active
-00002106404,dolophine,methadone,methadone,NA,tablet,oral,5,mg,1000,eli lilly & co.,NA,NA,active
-00002107202,dolophine,methadone,methadone,NA,tablet,oral,10,mg,100,eli lilly & co.,5/1/48,5/1/48,active
-00002168201,dolophine,methadone,methadone,NA,solution,injection,10,mg/ml,20,eli lilly & co.,9/1/47,9/1/47,inactive
-00002168225,dolophine,methadone,methadone,NA,solution,injection,10,mg/ml,20,eli lilly & co.,NA,NA,inactive
-00002168702,dolophine hcl,methadone hydrochloride,methadone,NA,NA,NA,10 mg/1 ml,NA,100,NA,NA,NA,NA
-00002168712,dolophine hcl,methadone hydrochloride,methadone,NA,NA,NA,10 mg/1 ml,NA,12,NA,NA,NA,NA
-00002215302,methadone,methadone,methadone,NA,"tablet,soluble",oral,40,mg,100,eli lilly & co.,4/27/73,4/27/73,active
-00019052705,methadose,methadone,methadone,NA,concentrate,oral,10,mg/ml,946,mallinckrodt,NA,NA,active
-00019151056,methadone (bulk),methadone,methadone,NA,powder,miscellaneous,100,%,50,mallinckrodt,NA,NA,active
-00019151057,methadone (bulk),methadone,methadone,NA,powder,miscellaneous,100,%,100,mallinckrodt,NA,NA,active
-00019151059,methadone (bulk),methadone,methadone,NA,powder,miscellaneous,100,%,500,mallinckrodt,NA,NA,active
-00019151061,methadone (bulk),methadone,methadone,NA,powder,miscellaneous,100,%,1000,mallinckrodt,NA,NA,active
-00054039168,methadone,methadone,methadone,NA,concentrate,oral,10,mg/ml,1000,roxane/west-war,4/30/98,4/30/98,active
-00054039268,methadone,methadone,methadone,NA,concentrate,oral,10,mg/ml,1000,roxane/west-war,4/30/98,4/30/98,active
-00054121811,dolophine,methadone,methadone,NA,solution,injection,10,mg/ml,20,roxane labs.,9/1/47,9/1/47,inactive
-00054121842,dolophine,methadone,methadone,NA,solution,injection,10,mg/ml,20,roxane labs.,7/1/90,7/1/90,inactive
-00054355344,methadone intensol,methadone,methadone,NA,concentrate,oral,10,mg/ml,30,roxane/west-war,9/30/90,9/30/90,active
-00054355367,methadone,methadone,methadone,NA,concentrate,oral,10,mg/ml,946,roxane labs.,9/30/90,9/30/90,active
-00054355467,methadone,methadone,methadone,NA,concentrate,oral,10,mg/ml,946,roxane labs.,9/30/90,9/30/90,active
-00054355563,methadone,methadone,methadone,NA,solution,oral,5,mg/5 ml,500,roxane/west-war,9/30/90,9/30/90,active
-00054355663,methadone,methadone,methadone,NA,solution,oral,10,mg/5 ml,500,roxane/west-war,9/30/90,9/30/90,active
-00054421625,dolophine,methadone,methadone,NA,tablet,oral,5,mg,100,roxane labs.,7/1/90,7/1/90,active
-00054421725,dolophine,methadone,methadone,NA,tablet,oral,10,mg,100,roxane labs.,9/30/90,9/30/90,active
-00054421825,dolophine,methadone,methadone,NA,tablet,oral,5,mg,100,"west-ward, inc.",5/5/00,5/5/00,active
-00054421925,dolophine,methadone,methadone,NA,tablet,oral,10,mg,100,"west-ward, inc.",9/30/90,9/30/90,active
-00054453825,diskets,methadone,methadone,NA,"tablet,soluble",oral,40,mg,100,"west-ward, inc.",3/20/95,3/20/95,active
-00054454725,methadone,methadone,methadone,NA,"tablet,soluble",oral,40,mg,100,roxane labs.,4/28/95,4/28/95,active
-00054457025,methadone,methadone,methadone,NA,tablet,oral,5,mg,100,"west-ward, inc.",9/30/90,9/30/90,active
-00054457125,methadone,methadone,methadone,NA,tablet,oral,10,mg,100,"west-ward, inc.",9/30/90,9/30/90,active
-00054854725,methadone,methadone,methadone,NA,"tablet,soluble",oral,40,mg,100,roxane labs.,NA,NA,active
-00054854816,methadone,methadone,methadone,NA,solution,oral,5,mg/5 ml,5,roxane labs.,NA,NA,active
-00054854916,methadone,methadone,methadone,NA,solution,oral,10,mg/5 ml,10,roxane labs.,NA,NA,active
-00054855311,methadone,methadone,methadone,NA,tablet,oral,5,mg,250,roxane labs.,NA,NA,active
-00054855324,methadone,methadone,methadone,NA,tablet,oral,5,mg,100,"west-ward, inc.",1/1/92,1/1/92,active
-00054855411,methadone,methadone,methadone,NA,tablet,oral,10,mg,250,roxane labs.,NA,NA,active
-00054855424,methadone,methadone,methadone,NA,tablet,oral,10,mg,100,"west-ward, inc.",1/1/92,1/1/92,active
-00054975085,methadone (bulk),methadone,methadone,NA,powder,miscellaneous,100,%,50,roxane labs.,10/14/97,10/14/97,active
-00054975088,methadone (bulk),methadone,methadone,NA,powder,miscellaneous,100,%,100,roxane labs.,10/14/97,10/14/97,active
-00378326001,methadone,methadone,methadone,NA,tablet,oral,5,mg,100,mylan,10/1/99,10/1/99,active
-00378327201,methadone,methadone,methadone,NA,tablet,oral,10,mg,100,mylan,10/1/99,10/1/99,active
-00406052705,methadose,methadone,methadone,NA,concentrate,oral,10,mg/ml,946,mallinckrodt sp,9/30/90,9/30/90,active
-00406052710,methadose,methadone,methadone,NA,concentrate,oral,10,mg/ml,1000,mallinckrodt ph,9/30/90,9/30/90,active
-00406052715,methadose,methadone hydrochloride,methadone,NA,concentrate,oral,10,mg/ml,"15000 ml in 1 bottle, plastic (0406-0527-15)","mallinckrodt, inc.",3/10/10,NA,NA
-00406054034,methadose,methadone,methadone,NA,"tablet,soluble",oral,40,mg,100,mallinckrodt ph,4/29/93,4/29/93,active
-00406151056,methadone (bulk),methadone,methadone,NA,powder,miscellaneous,100,%,50,mallinckrodt ph,9/30/90,9/30/90,active
-00406151057,methadone (bulk),methadone,methadone,NA,powder,miscellaneous,100,%,100,mallinckrodt ph,9/30/90,9/30/90,active
-00406151059,methadone (bulk),methadone,methadone,NA,powder,miscellaneous,100,%,500,mallinckrodt ph,9/30/90,9/30/90,active
-00406254001,methadone,methadone,methadone,NA,"tablet,soluble",oral,40,mg,100,mallinckrodt ph,7/12/05,7/12/05,active
-00406345434,methadose,methadone,methadone,NA,tablet,oral,10,mg,100,mallinckrodt ph,10/1/93,10/1/93,inactive
-00406575501,methadone,methadone,methadone,NA,tablet,oral,5,mg,100,mallinckrodt ph,4/27/04,4/27/04,active
-00406575523,methadone,methadone,methadone,NA,tablet,oral,5,mg,1,mallinckrodt ph,4/27/04,4/27/04,active
-00406575562,methadone,methadone,methadone,NA,tablet,oral,5,mg,100,mallinckrodt ph,4/27/04,4/27/04,active
-00406577101,methadone,methadone,methadone,NA,tablet,oral,10,mg,100,mallinckrodt ph,4/27/04,4/27/04,active
-00406577123,methadone,methadone,methadone,NA,tablet,oral,10,mg,1,mallinckrodt ph,4/27/04,4/27/04,active
-00406577162,methadone,methadone,methadone,NA,tablet,oral,10,mg,100,mallinckrodt ph,4/27/04,4/27/04,active
-00406697434,methadose,methadone,methadone,NA,tablet,oral,5,mg,100,mallinckrodt ph,4/15/93,4/15/93,inactive
-00406872510,methadose,methadone,methadone,NA,concentrate,oral,10,mg/ml,1000,mallinckrodt ph,9/30/90,9/30/90,active
-00406872515,methadose,methadone hydrochloride,methadone,NA,concentrate,oral,10,mg/ml,"15000 ml in 1 bottle, plastic (0406-8725-15)","mallinckrodt, inc.",3/10/10,NA,NA
-00904653060,methadone,methadone,methadone,NA,tablet,oral,10,mg,100,major pharmaceu,11/25/09,11/25/09,active
-00904653061,methadone,methadone,methadone,NA,tablet,oral,10,mg,100,major pharmaceu,11/25/09,11/25/09,active
-10544037702,methadone,methadone,methadone,NA,tablet,oral,5,mg,112,blenheim pharma,NA,NA,active
-10544037728,methadone,methadone,methadone,NA,tablet,oral,5,mg,28,blenheim pharma,NA,NA,active
-10544037802,methadone hcl,methadone hydrochloride,methadone,NA,NA,NA,10 mg,NA,112,NA,NA,NA,NA
-10544037808,methadone,methadone,methadone,NA,tablet,oral,10,mg,168,blenheim pharma,NA,NA,active
-10544037828,methadone,methadone,methadone,NA,tablet,oral,10,mg,28,blenheim pharma,NA,NA,active
-10544037830,methadone,methadone,methadone,NA,tablet,oral,10,mg,30,blenheim pharma,NA,NA,active
-10544037856,methadone hcl,methadone hydrochloride,methadone,NA,NA,NA,10 mg,NA,56,NA,NA,NA,NA
-10544037860,methadone,methadone,methadone,NA,tablet,oral,10,mg,60,blenheim pharma,NA,NA,active
-13107008801,methadone,methadone,methadone,NA,tablet,oral,5,mg,100,aurobindo pharm,8/31/15,8/31/15,active
-13107008830,methadone hydrochloride,methadone hydrochloride,methadone,NA,tablet,oral,5,mg/1,30 tablet in 1 bottle (13107-088-30),"aurolife pharma, llc",9/15/15,NA,NA
-13107008899,methadone hydrochloride,methadone hydrochloride,methadone,NA,tablet,oral,5,mg/1,1000 tablet in 1 bottle (13107-088-99),"aurolife pharma, llc",9/15/15,NA,NA
-13107008901,methadone,methadone,methadone,NA,tablet,oral,10,mg,100,aurobindo pharm,8/31/15,8/31/15,active
-13107008930,methadone hydrochloride,methadone hydrochloride,methadone,NA,tablet,oral,10,mg/1,30 tablet in 1 bottle (13107-089-30),"aurolife pharma, llc",9/15/15,NA,NA
-13107008999,methadone hydrochloride,methadone hydrochloride,methadone,NA,tablet,oral,10,mg/1,1000 tablet in 1 bottle (13107-089-99),"aurolife pharma, llc",9/15/15,NA,NA
-16590067007,methadone,methadone,methadone,NA,tablet,oral,10,mg,7,stat rx usa,NA,NA,active
-16590067015,methadone hcl,methadone hydrochloride,methadone,NA,NA,NA,10 mg,NA,15,NA,NA,NA,NA
-16590067030,methadone hcl,methadone hydrochloride,methadone,NA,NA,NA,10 mg,NA,30,NA,NA,NA,NA
-16590067045,methadone,methadone,methadone,NA,tablet,oral,10,mg,45,stat rx usa,NA,NA,active
-16590067060,methadone,methadone,methadone,NA,tablet,oral,10,mg,60,stat rx usa,NA,NA,active
-16590067071,methadone,methadone,methadone,NA,tablet,oral,10,mg,100,stat rx usa,NA,NA,active
-16590067072,methadone,methadone,methadone,NA,tablet,oral,10,mg,120,stat rx usa,NA,NA,active
-16590067075,methadone hcl,methadone hydrochloride,methadone,NA,NA,NA,10 mg,NA,75,NA,NA,NA,NA
-16590067082,methadone,methadone,methadone,NA,tablet,oral,10,mg,180,stat rx usa,NA,NA,active
-16590067083,methadone,methadone,methadone,NA,tablet,oral,10,mg,150,stat rx usa,NA,NA,active
-16590067084,methadone hcl,methadone hydrochloride,methadone,NA,NA,NA,10 mg,NA,240,NA,NA,NA,NA
-16590067086,methadone hcl,methadone hydrochloride,methadone,NA,NA,NA,10 mg,NA,270,NA,NA,NA,NA
-16590067090,methadone,methadone,methadone,NA,tablet,oral,10,mg,90,stat rx usa,NA,NA,active
-16590068930,methadone hydrochloride,methadone hydrochloride,methadone,NA,tablet,oral,5,mg/1,30 tablet in 1 bottle (16590-689-30),stat rx usa llc,8/13/47,NA,NA
-16590068945,methadone,methadone,methadone,NA,tablet,oral,5,mg,45,stat rx usa,NA,NA,active
-16590068960,methadone,methadone,methadone,NA,tablet,oral,5,mg,60,stat rx usa,NA,NA,active
-16590068972,methadone,methadone,methadone,NA,tablet,oral,5,mg,120,stat rx usa,NA,NA,active
-16590068986,methadone hcl,methadone hydrochloride,methadone,NA,NA,NA,5 mg,NA,270,NA,NA,NA,NA
-16590068990,methadone,methadone,methadone,NA,tablet,oral,5,mg,90,stat rx usa,NA,NA,active
-16590083660,methadone hcl,methadone hydrochloride,methadone,NA,NA,NA,40 mg,NA,60,NA,NA,NA,NA
-17478038020,methadone hydrochloride,methadone hydrochloride,methadone,NA,"injection, solution",intramuscular; intravenous; subcutaneous,10 mg/ml,NA,"20 ml in 1 vial, multi-dose (17478-380-20)","akorn, inc.",NA,NA,NA
-17856052701,methadose,methadone hydrochloride,methadone,NA,concentrate,oral,10,mg/ml,.5 ml in 1 syringe (17856-0527-1),atlantic biologicals corps,3/10/10,NA,NA
-17856052702,methadose (u),methadone,methadone,NA,NA, , ,NA, ,atlantic biologicals corps,NA,NA,NA
-17856355301,methadone hydrochloride,methadone hydrochloride,methadone,NA,concentrate,oral,10 mg/ml,NA,"60 syringe in 1 box, unit-dose (17856-3553-1)  > 1 ml in 1 syringe",atlantic biologicals corp.,NA,NA,NA
-17856355302,methadone hydrochloride,methadone hydrochloride,methadone,NA,concentrate,oral,10 mg/ml,NA,"60 syringe in 1 box, unit-dose (17856-3553-2)  > .5 ml in 1 syringe",atlantic biologicals corp.,NA,NA,NA
-17856355501,methadone hydrochloride,methadone hydrochloride,methadone,NA,solution,oral,5,mg/5ml,2 ml in 1 cup (17856-3555-1),atlantic biologicals corps,5/22/81,NA,NA
-17856355502,methadone hydrochloride,methadone hydrochloride,methadone,NA,solution,oral,5 mg/5ml,NA,120 syringe in 1 case (17856-3555-2)  > 1 ml in 1 syringe,atlantic biologicals corps,NA,NA,NA
-17856355505,methadone hydrochloride,methadone hydrochloride,methadone,NA,solution,oral,5,mg/5ml,"5 ml in 1 cup, unit-dose (17856-3555-5)",atlantic biologicals corps,5/22/81,NA,NA
-17856355605,methadone hydrochloride,methadone hydrochloride,methadone,NA,solution,oral,10 mg/5ml,NA,72 cup in 1 case (17856-3556-5)  > 10 ml in 1 cup,atlantic biologicals corps,NA,NA,NA
-17856355606,methadone hydrochloride,methadone hydrochloride,methadone,NA,solution,oral,10 mg/5ml,NA,"72 cup, unit-dose in 1 case (17856-3556-6)  > 5 ml in 1 cup, unit-dose",atlantic biologicals corps,NA,NA,NA
-23490587703,methadone,methadone,methadone,NA,tablet,oral,10,mg,30,palmetto state,NA,NA,active
-23490587706,methadone,methadone,methadone,NA,tablet,oral,10,mg,60,palmetto state,NA,NA,active
-23490587707,methadone,methadone,methadone,NA,tablet,oral,10,mg,100,palmetto state,NA,NA,active
-23490587709,methadone,methadone,methadone,NA,tablet,oral,10,mg,90,palmetto state,NA,NA,active
-23490587801,methadone,methadone,methadone,NA,tablet,oral,5,mg,60,palmetto state,NA,NA,active
-23490587802,methadone,methadone,methadone,NA,tablet,oral,5,mg,100,palmetto state,NA,NA,active
-23490587803,methadone,methadone,methadone,NA,tablet,oral,5,mg,30,palmetto state,NA,NA,active
-23490587809,methadone,methadone,methadone,NA,tablet,oral,5,mg,90,palmetto state,NA,NA,active
-23490779801,methadone,methadone,methadone,NA,"tablet,soluble",oral,40,mg,100,palmetto state,NA,NA,active
-23490779803,methadone,methadone,methadone,NA,"tablet,soluble",oral,40,mg,30,palmetto state,NA,NA,active
-24200027503,methadone in 0.9 % sod. chlor,methadone,methadone,NA,solution,intravenous,1,mg/ml,50,ameridose llc,NA,NA,inactive
-24200028149,methadone,methadone,methadone,NA,syringe,oral,5,mg/5 ml,5,ameridose llc,NA,NA,inactive
-24200028363,methadone,methadone,methadone,NA,syringe,oral,10,mg/ml,1,ameridose llc,NA,NA,inactive
-35356083401,methadone,methadone,methadone,NA,tablet,oral,10,mg,120,quality care,NA,NA,active
-35356083430,methadone,methadone,methadone,NA,tablet,oral,10,mg,30,quality care,NA,NA,active
-35356083460,methadone,methadone,methadone,NA,tablet,oral,10,mg,60,quality care,NA,NA,active
-35356083490,methadone,methadone,methadone,NA,tablet,oral,10,mg,90,quality care,NA,NA,active
-35356083530,methadone,methadone,methadone,NA,tablet,oral,5,mg,30,quality care,NA,NA,active
-35356083560,methadone,methadone,methadone,NA,tablet,oral,5,mg,60,quality care,NA,NA,active
-35356083590,methadone,methadone,methadone,NA,tablet,oral,5,mg,90,quality care,NA,NA,active
-38779010403,methadone (bulk),methadone,methadone,NA,powder,miscellaneous,100,%,5,medisca inc.,1/2/01,1/2/01,active
-38779010404,methadone (bulk),methadone,methadone,NA,powder,miscellaneous,100,%,25,medisca inc.,1/2/01,1/2/01,active
-38779010405,methadone (bulk),methadone,methadone,NA,powder,miscellaneous,100,%,100,medisca inc.,1/2/01,1/2/01,active
-38779010406,methadone hcl,methadone hydrochloride,methadone,NA,NA,NA,NA,NA,1,NA,NA,NA,NA
-42549057702,methadone,methadone,methadone,NA,tablet,oral,5,mg,112,4uortho llc,NA,NA,active
-42549057728,methadone,methadone,methadone,NA,tablet,oral,5,mg,28,4uortho llc,NA,NA,active
-42549057802,methadone,methadone,methadone,NA,tablet,oral,10,mg,112,4uortho llc,NA,NA,active
-42549057808,methadone,methadone,methadone,NA,tablet,oral,10,mg,168,4uortho llc,NA,NA,active
-42549057828,methadone,methadone,methadone,NA,tablet,oral,10,mg,28,4uortho llc,NA,NA,active
-42549057830,methadone,methadone,methadone,NA,tablet,oral,10,mg,30,4uortho llc,NA,NA,active
-42549057856,methadone,methadone,methadone,NA,tablet,oral,10,mg,56,4uortho llc,NA,NA,active
-42549057860,methadone,methadone,methadone,NA,tablet,oral,10,mg,60,4uortho llc,NA,NA,active
-42806031701,methadone hydrochloride,methadone hydrochloride,methadone,NA,tablet,oral,5 mg/1,NA,100 tablet in 1 bottle (42806-317-01),"epic pharma, llc",NA,NA,NA
-42806031801,methadone hydrochloride,methadone hydrochloride,methadone,NA,tablet,oral,10 mg/1,NA,100 tablet in 1 bottle (42806-318-01),"epic pharma, llc",NA,NA,NA
-43063022260,methadone,methadone,methadone,NA,tablet,oral,5,mg,60,pd-rx pharm,NA,NA,active
-43063022290,methadone,methadone,methadone,NA,tablet,oral,5,mg,90,pd-rx pharm,NA,NA,active
-43063022293,methadone,methadone,methadone,NA,tablet,oral,5,mg,180,pd-rx pharm,NA,NA,active
-43063022298,methadone,methadone,methadone,NA,tablet,oral,5,mg,120,pd-rx pharm,NA,NA,active
-49452455301,methadone (bulk),methadone,methadone,NA,powder,miscellaneous,100,%,5,spectrum,NA,NA,active
-49452455302,methadone (bulk),methadone,methadone,NA,powder,miscellaneous,100,%,25,spectrum,NA,NA,active
-49452455303,methadone (bulk),methadone,methadone,NA,powder,miscellaneous,100,%,100,spectrum,NA,NA,active
-49999083901,methadone,methadone,methadone,NA,tablet,oral,10,mg,120,quality care,NA,NA,active
-49999083930,methadone,methadone,methadone,NA,tablet,oral,10,mg,30,quality care,NA,NA,active
-49999083960,methadone,methadone,methadone,NA,tablet,oral,10,mg,60,quality care,NA,NA,active
-49999083990,methadone,methadone,methadone,NA,tablet,oral,10,mg,90,quality care,NA,NA,active
-49999084030,methadose,methadone,methadone,NA,tablet,oral,10,mg,30,quality care,NA,NA,inactive
-49999084060,methadose,methadone,methadone,NA,tablet,oral,10,mg,60,quality care,NA,NA,inactive
-49999084130,methadose,methadone,methadone,NA,"tablet,soluble",oral,40,mg,30,quality care,NA,NA,active
-49999084160,methadose,methadone,methadone,NA,"tablet,soluble",oral,40,mg,60,quality care,NA,NA,active
-49999096330,methadone,methadone,methadone,NA,tablet,oral,5,mg,30,quality care,NA,NA,active
-49999096360,methadone,methadone,methadone,NA,tablet,oral,5,mg,60,quality care,NA,NA,active
-49999096390,methadone,methadone,methadone,NA,tablet,oral,5,mg,90,quality care,NA,NA,active
-50436052701,methadose,methadone hydrochloride,methadone,NA,concentrate,oral,10,mg/ml,.5 ml in 1 syringe (50436-0527-1),unit dose services,3/10/10,NA,NA
-51079068155,methadone (bulk),methadone,methadone,NA,powder,miscellaneous,100,%,100,udl,NA,NA,active
-51079069439,methadone,methadone,methadone,NA,concentrate,oral,10,mg/ml,946,udl,11/30/94,11/30/94,active
-51079089840,methadone,methadone,methadone,NA,"tablet,soluble",oral,40,mg,100,udl,3/25/98,3/25/98,active
-51552072801,methadone (bulk),methadone,methadone,NA,powder,miscellaneous,100,%,1,fagron inc,9/30/90,9/30/90,active
-51552072802,methadone (bulk),methadone,methadone,NA,powder,miscellaneous,100,%,5,fagron inc,9/30/90,9/30/90,active
-51552072804,methadone (bulk),methadone,methadone,NA,powder,miscellaneous,100,%,25,fagron inc,9/30/90,9/30/90,active
-51552072806,methadone (bulk),methadone,methadone,NA,powder,miscellaneous,100,%,100,fagron inc,NA,NA,active
-51927101700,methadone (bulk),methadone,methadone,NA,powder,miscellaneous,100,%,1,professional co,NA,NA,active
-52372079601,methadone (bulk),methadone,methadone,NA,powder,miscellaneous,100,%,5,freedom pharmac,NA,NA,active
-52372079602,methadone (bulk),methadone,methadone,NA,powder,miscellaneous,100,%,25,freedom pharmac,NA,NA,active
-52372079603,methadone (bulk),methadone,methadone,NA,powder,miscellaneous,100,%,1,freedom pharmac,NA,NA,active
-52959038602,methadone,methadone,methadone,NA,tablet,oral,10,mg,120,pharma pac,NA,NA,active
-52959038630,methadone,methadone,methadone,NA,tablet,oral,10,mg,30,pharma pac,NA,NA,active
-52959038660,methadone,methadone,methadone,NA,tablet,oral,10,mg,60,pharma pac,NA,NA,active
-52959038690,methadone,methadone,methadone,NA,tablet,oral,10,mg,90,pharma pac,NA,NA,active
-52959043502,methadone hydrochloride,methadone hydrochloride,methadone,NA,tablet,oral,5,mg/1,120 tablet in 1 bottle (52959-435-02),h.j. harkins company inc.,5/19/09,NA,NA
-52959043530,methadone,methadone,methadone,NA,tablet,oral,5,mg,30,pharma pac,NA,NA,active
-52959043560,methadone hydrochloride,methadone hydrochloride,methadone,NA,tablet,oral,5,mg/1,60 tablet in 1 bottle (52959-435-60),h.j. harkins company inc.,5/19/09,NA,NA
-52959043590,methadone hydrochloride,methadone hydrochloride,methadone,NA,tablet,oral,5,mg/1,90 tablet in 1 bottle (52959-435-90),h.j. harkins company inc.,5/19/09,NA,NA
-54868285400,methadone,methadone,methadone,NA,tablet,oral,10,mg,100,physicians tc.,NA,NA,active
-54868285401,methadose,methadone,methadone,NA,tablet,oral,10,mg,30,physicians tc.,NA,NA,inactive
-54868285402,methadose,methadone,methadone,NA,tablet,oral,10,mg,60,physicians tc.,NA,NA,inactive
-54868285403,methadone,methadone,methadone,NA,tablet,oral,10,mg,300,physicians tc.,NA,NA,active
-54868440800,methadose,methadone,methadone,NA,tablet,oral,5,mg,60,physicians tc.,NA,NA,inactive
-54868440801,methadose,methadone,methadone,NA,tablet,oral,5,mg,20,physicians tc.,NA,NA,inactive
-54868494800,methadone,methadone,methadone,NA,tablet,oral,10,mg,60,physicians tc.,NA,NA,active
-54868494801,methadone,methadone,methadone,NA,tablet,oral,10,mg,100,physicians tc.,NA,NA,active
-54868494802,methadone,methadone,methadone,NA,tablet,oral,10,mg,120,physicians tc.,NA,NA,active
-54868494803,methadone,methadone,methadone,NA,tablet,oral,10,mg,50,physicians tc.,NA,NA,active
-54868494804,methadone hydrochloride,methadone hydrochloride,methadone,NA,tablet,oral,10,mg/1,300 tablet in 1 bottle (54868-4948-4),"physicians total care, inc.",1/7/04,NA,NA
-54868494805,methadone,methadone,methadone,NA,tablet,oral,10,mg,30,physicians tc.,NA,NA,active
-54868494806,methadone,methadone,methadone,NA,tablet,oral,10,mg,90,physicians tc.,NA,NA,active
-54868494807,methadone,methadone,methadone,NA,tablet,oral,10,mg,150,physicians tc.,NA,NA,active
-54868570100,methadone,methadone,methadone,NA,tablet,oral,5,mg,60,physicians tc.,NA,NA,active
-54868570101,methadone,methadone,methadone,NA,tablet,oral,5,mg,90,physicians tc.,NA,NA,active
-54868570102,methadone,methadone,methadone,NA,tablet,oral,5,mg,120,physicians tc.,NA,NA,active
-54868570103,methadone,methadone,methadone,NA,tablet,oral,5,mg,30,physicians tc.,NA,NA,active
-55289081430,methadone,methadone,methadone,NA,tablet,oral,10,mg,30,pd-rx pharm,NA,NA,active
-55289081460,methadone,methadone,methadone,NA,tablet,oral,10,mg,60,pd-rx pharm,NA,NA,active
-55289081490,methadone,methadone,methadone,NA,tablet,oral,10,mg,90,pd-rx pharm,NA,NA,active
-55289081493,methadone,methadone,methadone,NA,tablet,oral,10,mg,180,pd-rx pharm,NA,NA,active
-55289081498,methadone,methadone,methadone,NA,tablet,oral,10,mg,120,pd-rx pharm,NA,NA,active
-55289081499,methadone,methadone,methadone,NA,tablet,oral,10,mg,240,pd-rx pharm,NA,NA,active
-55887009082,methadone,methadone,methadone,NA,tablet,oral,5,mg,120,dhs inc.,NA,NA,active
-55887009090,methadone,methadone,methadone,NA,tablet,oral,5,mg,90,dhs inc.,NA,NA,active
-55887013460,methadone,methadone,methadone,NA,"tablet,soluble",oral,40,mg,60,dhs inc.,NA,NA,active
-55887013490,methadone,methadone,methadone,NA,"tablet,soluble",oral,40,mg,90,dhs inc.,NA,NA,active
-55887020042,methadone,methadone hydrochloride,methadone,NA,NA,NA,10 mg,NA,42,NA,NA,NA,NA
-55887020056,methadone,methadone hydrochloride,methadone,NA,NA,NA,10 mg,NA,56,NA,NA,NA,NA
-55887020060,methadone,methadone,methadone,NA,tablet,oral,10,mg,60,dhs inc.,NA,NA,active
-55887020082,methadone,methadone,methadone,NA,tablet,oral,10,mg,120,dhs inc.,NA,NA,active
-55887020090,methadone,methadone,methadone,NA,tablet,oral,10,mg,90,dhs inc.,NA,NA,active
-57664060288,methadone hydrochloride,methadone hydrochloride,methadone,NA,tablet,oral,5 mg/1001,NA,100 tablet in 1 bottle (57664-602-88),"sun pharmaceutical industries, inc.",NA,NA,NA
-57664060388,methadone hydrochloride,methadone hydrochloride,methadone,NA,tablet,oral,10 mg/1001,NA,100 tablet in 1 bottle (57664-603-88),"sun pharmaceutical industries, inc.",NA,NA,NA
-57866318701,methadose,methadone,methadone,NA,tablet,oral,10,mg,30,vibranta inc.,NA,NA,inactive
-57866318702,methadose,methadone,methadone,NA,tablet,oral,10,mg,60,vibranta inc.,NA,NA,inactive
-57866318801,methadose,methadone,methadone,NA,"tablet,soluble",oral,40,mg,30,vibranta inc.,NA,NA,active
-57866318802,methadose,methadone,methadone,NA,"tablet,soluble",oral,40,mg,60,vibranta inc.,NA,NA,active
-57866395001,methadone,methadone,methadone,NA,tablet,oral,5,mg,60,vibranta inc.,NA,NA,active
-57866395002,methadone,methadone,methadone,NA,tablet,oral,5,mg,90,vibranta inc.,NA,NA,active
-57866395003,methadone,methadone,methadone,NA,tablet,oral,5,mg,120,vibranta inc.,NA,NA,active
-57866707001,methadone,methadone,methadone,NA,tablet,oral,10,mg,60,vibranta inc.,NA,NA,active
-57866707002,methadone,methadone,methadone,NA,tablet,oral,10,mg,90,vibranta inc.,NA,NA,active
-57866707003,methadone,methadone,methadone,NA,tablet,oral,10,mg,120,vibranta inc.,NA,NA,active
-57866707006,methadone,methadone,methadone,NA,tablet,oral,10,mg,30,vibranta inc.,NA,NA,active
-57866708101,methadone,methadone,methadone,NA,"tablet,soluble",oral,40,mg,30,vibranta inc.,NA,NA,active
-57866708102,methadone,methadone,methadone,NA,"tablet,soluble",oral,40,mg,60,vibranta inc.,NA,NA,active
-60687020932,methadose,methadone,methadone,NA,"tablet,soluble",oral,40,mg,20,ahp,6/20/16,6/20/16,active
-60687020933,methadose,methadone,methadone,NA,"tablet,soluble",oral,40,mg,1,ahp,6/20/16,6/20/16,active
-60687021401,methadone,methadone,methadone,NA,tablet,oral,5,mg,100,ahp,NA,NA,active
-60687021411,methadone,methadone,methadone,NA,tablet,oral,5,mg,1,ahp,NA,NA,active
-61553012078,methadone in 0.9 % sod. chlor,methadone,methadone,NA,syringe,intravenous,1,mg/ml (1 ml),1,pharmedium,NA,NA,active
-61553013490,methadone in 0.9 % sod. chlor,methadone,methadone,NA,syringe,intravenous,2.5,mg/0.5 ml,.5,pharmedium/of,NA,NA,active
-61553014940,methadone,methadone,methadone,NA,syringe,intravenous,10,mg/ml,1,pharmedium/of,NA,NA,active
-61553014978,methadone,methadone,methadone,NA,syringe,intravenous,10,mg/ml,1,pharmedium,NA,NA,active
-61919067030,methadone hydrochloride,methadone hydrochloride,methadone,NA,tablet,oral,10,mg/1,"30 tablet in 1 bottle, plastic (61919-670-30)",direct rx,1/1/14,NA,NA
-62991140801,methadone (bulk),methadone,methadone,NA,powder,miscellaneous,100,%,5,"letco medical,",NA,NA,active
-62991140802,methadone (bulk),methadone,methadone,NA,powder,miscellaneous,100,%,25,"letco medical,",NA,NA,active
-62991140803,methadone (bulk),methadone,methadone,NA,powder,miscellaneous,100,%,100,"letco medical,",NA,NA,active
-62991140805,methadone (bulk),methadone,methadone,NA,powder,miscellaneous,100,%,1,"letco medical,",NA,NA,active
-63275910004,methadone (bulk),methadone,methadone,NA,powder,miscellaneous,100,%,25,b&b pharm,NA,NA,active
-63275910005,methadone (bulk),methadone,methadone,NA,powder,miscellaneous,100,%,100,b&b pharm,NA,NA,active
-63370093915,methadone hcl,methadone hydrochloride,methadone,NA,NA,NA,NA,NA,1,NA,NA,NA,NA
-63370093925,methadone hcl,methadone hydrochloride,methadone,NA,NA,NA,NA,NA,1,NA,NA,NA,NA
-63370093935,methadone hcl,methadone hydrochloride,methadone,NA,NA,NA,NA,NA,1,NA,NA,NA,NA
-63629377100,methadone hydrochloride,methadone hydrochloride,methadone,NA,tablet,oral,10,mg/1,168 tablet in 1 bottle (63629-3771-0),bryant ranch prepack,5/19/09,NA,NA
-63629377101,methadone,methadone,methadone,NA,tablet,oral,10,mg,150,bryant ranch pr,NA,NA,active
-63629377102,methadone,methadone,methadone,NA,tablet,oral,10,mg,30,bryant ranch pr,NA,NA,active
-63629377103,methadone,methadone,methadone,NA,tablet,oral,10,mg,90,bryant ranch pr,NA,NA,active
-63629377104,methadone,methadone,methadone,NA,tablet,oral,10,mg,120,bryant ranch pr,NA,NA,active
-63629377105,methadone,methadone,methadone,NA,tablet,oral,10,mg,180,bryant ranch pr,NA,NA,active
-63629377106,methadone,methadone,methadone,NA,tablet,oral,10,mg,60,bryant ranch pr,NA,NA,active
-63629377107,methadone hydrochloride,methadone hydrochloride,methadone,NA,tablet,oral,10,mg/1,28 tablet in 1 bottle (63629-3771-7),bryant ranch prepack,5/19/09,NA,NA
-63629377108,methadone hydrochloride,methadone hydrochloride,methadone,NA,tablet,oral,10,mg/1,112 tablet in 1 bottle (63629-3771-8),bryant ranch prepack,5/19/09,NA,NA
-63629377109,methadone hydrochloride,methadone hydrochloride,methadone,NA,tablet,oral,10,mg/1,56 tablet in 1 bottle (63629-3771-9),bryant ranch prepack,5/19/09,NA,NA
-63629378801,methadone,methadone,methadone,NA,tablet,oral,5,mg,90,bryant ranch pr,NA,NA,active
-63629378802,methadone hydrochloride,methadone hydrochloride,methadone,NA,tablet,oral,5,mg/1,30 tablet in 1 bottle (63629-3788-2),bryant ranch prepack,5/19/09,NA,NA
-63629378803,methadone hydrochloride,methadone hydrochloride,methadone,NA,tablet,oral,5,mg/1,120 tablet in 1 bottle (63629-3788-3),bryant ranch prepack,5/19/09,NA,NA
-63629378804,methadone hydrochloride,methadone hydrochloride,methadone,NA,tablet,oral,5,mg/1,112 tablet in 1 bottle (63629-3788-4),bryant ranch prepack,5/19/09,NA,NA
-63629378805,methadone hydrochloride,methadone hydrochloride,methadone,NA,tablet,oral,5,mg/1,60 tablet in 1 bottle (63629-3788-5),bryant ranch prepack,5/19/09,NA,NA
-63629378806,methadone hydrochloride,methadone hydrochloride,methadone,NA,tablet,oral,5,mg/1,180 tablet in 1 bottle (63629-3788-6),bryant ranch prepack,5/19/09,NA,NA
-63739000610,methadone,methadone,methadone,NA,tablet,oral,10,mg,100,mckesson packag,11/25/09,11/25/09,active
-63874126503,methadone hcl,methadone hydrochloride,methadone,NA,NA,NA,10 mg,NA,30,NA,NA,NA,NA
-63874126506,methadone hcl,methadone hydrochloride,methadone,NA,NA,NA,10 mg,NA,60,NA,NA,NA,NA
-64019053825,methadone,methadone,methadone,NA,"tablet,soluble",oral,40,mg,100,roxane labs.,4/1/95,4/1/95,active
-64019055367,methadone,methadone,methadone,NA,concentrate,oral,10,mg/ml,946,roxane labs.,9/30/90,9/30/90,active
-64019055467,methadone,methadone,methadone,NA,concentrate,oral,10,mg/ml,946,roxane labs.,9/30/90,9/30/90,active
-64019075085,methadone hcl,methadone hydrochloride,methadone,NA,NA,NA,NA,NA,1,NA,NA,NA,NA
-64019075088,methadone (bulk),methadone,methadone,NA,powder,miscellaneous,100,%,100,cebert pharm,NA,NA,active
-66336017030,methadone,methadone,methadone,NA,tablet,oral,5,mg,30,dispensing soln,NA,NA,active
-66336017060,methadone,methadone,methadone,NA,tablet,oral,5,mg,60,dispensing soln,NA,NA,active
-66336017062,methadone,methadone,methadone,NA,tablet,oral,5,mg,180,dispensing soln,NA,NA,active
-66336017090,methadone,methadone,methadone,NA,tablet,oral,5,mg,90,dispensing soln,NA,NA,active
-66336017094,methadone,methadone,methadone,NA,tablet,oral,5,mg,120,dispensing soln,NA,NA,active
-66336017130,methadone,methadone,methadone,NA,tablet,oral,10,mg,30,dispensing soln,NA,NA,active
-66336017142,methadone,methadone,methadone,NA,tablet,oral,10,mg,42,dispensing soln,NA,NA,active
-66336017156,methadone,methadone,methadone,NA,tablet,oral,10,mg,56,dispensing soln,NA,NA,active
-66336017160,methadone,methadone,methadone,NA,tablet,oral,10,mg,60,dispensing soln,NA,NA,active
-66336017162,methadone,methadone,methadone,NA,tablet,oral,10,mg,180,dispensing soln,NA,NA,active
-66336017190,methadone,methadone,methadone,NA,tablet,oral,10,mg,90,dispensing soln,NA,NA,active
-66336017194,methadone,methadone,methadone,NA,tablet,oral,10,mg,120,dispensing soln,NA,NA,active
-66336017198,methadone,methadone,methadone,NA,tablet,oral,10,mg,240,dispensing soln,NA,NA,active
-66479053002,methadone,methadone,methadone,NA,solution,injection,10,mg/ml,20,bioniche pharma,9/30/90,9/30/90,active
-66591081551,methadone,methadone,methadone,NA,solution,injection,10,mg/ml,20,xanodyne pharm,9/30/90,9/30/90,active
-66689068155,methadone (bulk),methadone,methadone,NA,powder,miscellaneous,100,%,100,vistapharm,NA,NA,active
-66689069430,methadone,methadone,methadone,NA,concentrate,oral,10,mg/ml,30,vistapharm,11/30/94,11/30/94,active
-66689069439,methadone,methadone,methadone,NA,concentrate,oral,10,mg/ml,946,vistapharm,11/30/94,11/30/94,active
-66689069479,methadone,methadone,methadone,NA,concentrate,oral,10,mg/ml,1000,vistapharm,11/30/94,11/30/94,active
-66689069530,methadone hydrochloride,methadone hydrochloride,methadone,NA,concentrate,oral,10,mg/ml,"30 ml in 1 bottle, dropper (66689-695-30)",vistapharm inc,12/1/11,NA,NA
-66689069579,methadone,methadone,methadone,NA,concentrate,oral,10,mg/ml,1000,vistapharm,12/22/11,12/22/11,active
-66689071116,methadone,methadone,methadone,NA,solution,oral,5,mg/5 ml,500,vistapharm,6/30/10,6/30/10,active
-66689071216,methadone,methadone,methadone,NA,solution,oral,10,mg/5 ml,500,vistapharm,6/30/10,6/30/10,active
-66689081010,methadone,methadone,methadone,NA,tablet,oral,10,mg,100,vistapharm,3/25/98,3/25/98,active
-66689082010,methadone hydrochloride,methadone hydrochloride,methadone,NA,tablet,oral,10 mg/1,NA,100 tablet in 1 bottle (66689-820-10),"vistapharm, inc.",NA,NA,NA
-66689089840,methadone,methadone,methadone,NA,"tablet,soluble",oral,40,mg,100,vistapharm,3/25/98,3/25/98,active
-67457021720,methadone,methadone,methadone,NA,solution,injection,10,mg/ml,20,mylan instituti,9/30/90,9/30/90,active
-67877011601,methadone,methadone,methadone,NA,tablet,oral,10,mg,100,ascend laborato,11/25/09,11/25/09,active
-68084073801,methadone,methadone,methadone,NA,tablet,oral,10,mg,100,ahp,10/2/14,10/2/14,active
-68084073811,methadone,methadone,methadone,NA,tablet,oral,10,mg,1,ahp,10/2/14,10/2/14,active
-68084097732,methadone,methadone,methadone,NA,"tablet,soluble",oral,40,mg,20,ahp,3/31/15,3/31/15,active
-68084097733,methadone,methadone,methadone,NA,"tablet,soluble",oral,40,mg,1,ahp,3/31/15,3/31/15,active
-68115057100,methadone,methadone,methadone,NA,tablet,oral,10,mg,100,"dispensexpress,",NA,NA,active
-68115057200,methadone,methadone,methadone,NA,tablet,oral,5,mg,100,"dispensexpress,",NA,NA,active
-68462080001,methadone hydrochloride,methadone hydrochloride,methadone,NA,tablet,oral,5 mg/1,NA,"100 tablet in 1 bottle, plastic (68462-800-01)","glenmark pharmaceuticals inc.,usa",NA,NA,NA
-68462080101,methadone hydrochloride,methadone hydrochloride,methadone,NA,tablet,oral,10 mg/1,NA,"100 tablet in 1 bottle, plastic (68462-801-01)","glenmark pharmaceuticals inc.,usa",NA,NA,NA
-70166028401,methadone hydrochloride,methadone hydrochloride,methadone,NA,concentrate,oral,10 mg/ml,NA,30 bag in 1 box (70166-284-01)  > 1 syringe in 1 bag > 1 ml in 1 syringe,lohxa,NA,NA,NA
-70166028402,methadone hydrochloride,methadone hydrochloride,methadone,NA,concentrate,oral,10 mg/ml,NA,30 bag in 1 box (70166-284-02)  > 1 syringe in 1 bag > 5 ml in 1 syringe,lohxa,NA,NA,NA
-71335011900,methadone hydrochloride,methadone hydrochloride,methadone,NA,tablet,oral,10 mg/1,NA,168 tablet in 1 bottle (71335-0119-0),bryant ranch prepack,NA,NA,NA
-71335011901,methadone hydrochloride,methadone hydrochloride,methadone,NA,tablet,oral,10 mg/1,NA,15 tablet in 1 bottle (71335-0119-1),bryant ranch prepack,NA,NA,NA
-71335011902,methadone hydrochloride,methadone hydrochloride,methadone,NA,tablet,oral,10 mg/1,NA,30 tablet in 1 bottle (71335-0119-2),bryant ranch prepack,NA,NA,NA
-71335011903,methadone hydrochloride,methadone hydrochloride,methadone,NA,tablet,oral,10 mg/1,NA,90 tablet in 1 bottle (71335-0119-3),bryant ranch prepack,NA,NA,NA
-71335011904,methadone hydrochloride,methadone hydrochloride,methadone,NA,tablet,oral,10 mg/1,NA,120 tablet in 1 bottle (71335-0119-4),bryant ranch prepack,NA,NA,NA
-71335011905,methadone hydrochloride,methadone hydrochloride,methadone,NA,tablet,oral,10 mg/1,NA,180 tablet in 1 bottle (71335-0119-5),bryant ranch prepack,NA,NA,NA
-71335011906,methadone hydrochloride,methadone hydrochloride,methadone,NA,tablet,oral,10 mg/1,NA,60 tablet in 1 bottle (71335-0119-6),bryant ranch prepack,NA,NA,NA
-71335011907,methadone hydrochloride,methadone hydrochloride,methadone,NA,tablet,oral,10 mg/1,NA,28 tablet in 1 bottle (71335-0119-7),bryant ranch prepack,NA,NA,NA
-71335011908,methadone hydrochloride,methadone hydrochloride,methadone,NA,tablet,oral,10 mg/1,NA,112 tablet in 1 bottle (71335-0119-8),bryant ranch prepack,NA,NA,NA
-71335011909,methadone hydrochloride,methadone hydrochloride,methadone,NA,tablet,oral,10 mg/1,NA,56 tablet in 1 bottle (71335-0119-9),bryant ranch prepack,NA,NA,NA
-71335049301,methadone hydrochloride,methadone hydrochloride,methadone,NA,tablet,oral,5 mg/1,NA,90 tablet in 1 bottle (71335-0493-1),bryant ranch prepack,NA,NA,NA
-71335049302,methadone hydrochloride,methadone hydrochloride,methadone,NA,tablet,oral,5 mg/1,NA,30 tablet in 1 bottle (71335-0493-2),bryant ranch prepack,NA,NA,NA
-71335049303,methadone hydrochloride,methadone hydrochloride,methadone,NA,tablet,oral,5 mg/1,NA,120 tablet in 1 bottle (71335-0493-3),bryant ranch prepack,NA,NA,NA
-71335049304,methadone hydrochloride,methadone hydrochloride,methadone,NA,tablet,oral,5 mg/1,NA,112 tablet in 1 bottle (71335-0493-4),bryant ranch prepack,NA,NA,NA
-71335049305,methadone hydrochloride,methadone hydrochloride,methadone,NA,tablet,oral,5 mg/1,NA,60 tablet in 1 bottle (71335-0493-5),bryant ranch prepack,NA,NA,NA
-71335049306,methadone hydrochloride,methadone hydrochloride,methadone,NA,tablet,oral,5 mg/1,NA,180 tablet in 1 bottle (71335-0493-6),bryant ranch prepack,NA,NA,NA
-71335049307,methadone hydrochloride,methadone hydrochloride,methadone,NA,tablet,oral,5 mg/1,NA,28 tablet in 1 bottle (71335-0493-7),bryant ranch prepack,NA,NA,NA
-71335073500,methadone hydrochloride,methadone hydrochloride,methadone,NA,tablet,oral,10 mg/1,NA,168 tablet in 1 bottle (71335-0735-0),bryant ranch prepack,NA,NA,NA
-71335073501,methadone hydrochloride,methadone hydrochloride,methadone,NA,tablet,oral,10 mg/1,NA,15 tablet in 1 bottle (71335-0735-1),bryant ranch prepack,NA,NA,NA
-71335073502,methadone hydrochloride,methadone hydrochloride,methadone,NA,tablet,oral,10 mg/1,NA,30 tablet in 1 bottle (71335-0735-2),bryant ranch prepack,NA,NA,NA
-71335073503,methadone hydrochloride,methadone hydrochloride,methadone,NA,tablet,oral,10 mg/1,NA,90 tablet in 1 bottle (71335-0735-3),bryant ranch prepack,NA,NA,NA
-71335073504,methadone hydrochloride,methadone hydrochloride,methadone,NA,tablet,oral,10 mg/1,NA,120 tablet in 1 bottle (71335-0735-4),bryant ranch prepack,NA,NA,NA
-71335073505,methadone hydrochloride,methadone hydrochloride,methadone,NA,tablet,oral,10 mg/1,NA,180 tablet in 1 bottle (71335-0735-5),bryant ranch prepack,NA,NA,NA
-71335073506,methadone hydrochloride,methadone hydrochloride,methadone,NA,tablet,oral,10 mg/1,NA,60 tablet in 1 bottle (71335-0735-6),bryant ranch prepack,NA,NA,NA
-71335073507,methadone hydrochloride,methadone hydrochloride,methadone,NA,tablet,oral,10 mg/1,NA,28 tablet in 1 bottle (71335-0735-7),bryant ranch prepack,NA,NA,NA
-71335073508,methadone hydrochloride,methadone hydrochloride,methadone,NA,tablet,oral,10 mg/1,NA,112 tablet in 1 bottle (71335-0735-8),bryant ranch prepack,NA,NA,NA
-71335073509,methadone hydrochloride,methadone hydrochloride,methadone,NA,tablet,oral,10 mg/1,NA,56 tablet in 1 bottle (71335-0735-9),bryant ranch prepack,NA,NA,NA
+ndc,drug_name,generic_name,opioid_ingredient1,opioid_ingredient2,strength,strength_uom,manufacturer,status,ingredients,manufacturer_abbr_name,ir_er
+'00002106402',dolophine,methadone,methadone,NA,5,mg,eli lilly & co.,active,NA,NA,NA
+'00002106404',dolophine,methadone,methadone,NA,5,mg,eli lilly & co.,active,NA,NA,NA
+'00002107202',dolophine,methadone,methadone,NA,10,mg,eli lilly & co.,active,NA,NA,NA
+'00002168201',dolophine,methadone,methadone,NA,10,mg/ml,eli lilly & co.,inactive,NA,NA,NA
+'00002168225',dolophine,methadone,methadone,NA,10,mg/ml,eli lilly & co.,inactive,NA,NA,NA
+'00002168702',dolophine hcl,methadone hydrochloride,methadone,NA,10 mg/1 ml,NA,NA,NA,NA,NA,NA
+'00002168712',dolophine hcl,methadone hydrochloride,methadone,NA,10 mg/1 ml,NA,NA,NA,NA,NA,NA
+'00002215302',methadone,methadone,methadone,NA,40,mg,eli lilly & co.,active,NA,NA,NA
+'00019052705',methadose,methadone,methadone,NA,10,mg/ml,mallinckrodt,active,NA,NA,NA
+'00019151056',methadone (bulk),methadone,methadone,NA,100,%,mallinckrodt,active,NA,NA,NA
+'00019151057',methadone (bulk),methadone,methadone,NA,100,%,mallinckrodt,active,NA,NA,NA
+'00019151059',methadone (bulk),methadone,methadone,NA,100,%,mallinckrodt,active,NA,NA,NA
+'00019151061',methadone (bulk),methadone,methadone,NA,100,%,mallinckrodt,active,NA,NA,NA
+'00054039168',methadone,methadone,methadone,NA,10,mg/ml,roxane/west-war,active,NA,NA,NA
+'00054039268',methadone,methadone,methadone,NA,10,mg/ml,roxane/west-war,active,NA,NA,NA
+'00054121811',dolophine,methadone,methadone,NA,10,mg/ml,roxane labs.,inactive,NA,NA,NA
+'00054121842',dolophine,methadone,methadone,NA,10,mg/ml,roxane labs.,inactive,NA,NA,NA
+'00054355344',methadone intensol,methadone,methadone,NA,10,mg/ml,roxane/west-war,active,NA,NA,NA
+'00054355367',methadone,methadone,methadone,NA,10,mg/ml,roxane labs.,active,NA,NA,NA
+'00054355467',methadone,methadone,methadone,NA,10,mg/ml,roxane labs.,active,NA,NA,NA
+'00054355563',methadone,methadone,methadone,NA,5,mg/5 ml,roxane/west-war,active,NA,NA,NA
+'00054355663',methadone,methadone,methadone,NA,10,mg/5 ml,roxane/west-war,active,NA,NA,NA
+'00054421625',dolophine,methadone,methadone,NA,5,mg,roxane labs.,active,NA,NA,NA
+'00054421725',dolophine,methadone,methadone,NA,10,mg,roxane labs.,active,NA,NA,NA
+'00054421825',dolophine,methadone,methadone,NA,5,mg,"west-ward, inc.",active,NA,NA,NA
+'00054421925',dolophine,methadone,methadone,NA,10,mg,"west-ward, inc.",active,NA,NA,NA
+'00054453825',diskets,methadone,methadone,NA,40,mg,"west-ward, inc.",active,NA,NA,NA
+'00054454725',methadone,methadone,methadone,NA,40,mg,roxane labs.,active,NA,NA,NA
+'00054457025',methadone,methadone,methadone,NA,5,mg,"west-ward, inc.",active,NA,NA,NA
+'00054457125',methadone,methadone,methadone,NA,10,mg,"west-ward, inc.",active,NA,NA,NA
+'00054854725',methadone,methadone,methadone,NA,40,mg,roxane labs.,active,NA,NA,NA
+'00054854816',methadone,methadone,methadone,NA,5,mg/5 ml,roxane labs.,active,NA,NA,NA
+'00054854916',methadone,methadone,methadone,NA,10,mg/5 ml,roxane labs.,active,NA,NA,NA
+'00054855311',methadone,methadone,methadone,NA,5,mg,roxane labs.,active,NA,NA,NA
+'00054855324',methadone,methadone,methadone,NA,5,mg,"west-ward, inc.",active,NA,NA,NA
+'00054855411',methadone,methadone,methadone,NA,10,mg,roxane labs.,active,NA,NA,NA
+'00054855424',methadone,methadone,methadone,NA,10,mg,"west-ward, inc.",active,NA,NA,NA
+'00054975085',methadone (bulk),methadone,methadone,NA,100,%,roxane labs.,active,NA,NA,NA
+'00054975088',methadone (bulk),methadone,methadone,NA,100,%,roxane labs.,active,NA,NA,NA
+'00378326001',methadone,methadone,methadone,NA,5,mg,mylan,active,NA,NA,NA
+'00378327201',methadone,methadone,methadone,NA,10,mg,mylan,active,NA,NA,NA
+'00406052705',methadose,methadone,methadone,NA,10,mg/ml,mallinckrodt sp,active,NA,NA,NA
+'00406052710',methadose,methadone,methadone,NA,10,mg/ml,mallinckrodt ph,active,NA,NA,NA
+'00406052715',methadose,methadone hydrochloride,methadone,NA,10,mg/ml,"mallinckrodt, inc.",NA,NA,NA,NA
+'00406054034',methadose,methadone,methadone,NA,40,mg,mallinckrodt ph,active,NA,NA,NA
+'00406151056',methadone (bulk),methadone,methadone,NA,100,%,mallinckrodt ph,active,NA,NA,NA
+'00406151057',methadone (bulk),methadone,methadone,NA,100,%,mallinckrodt ph,active,NA,NA,NA
+'00406151059',methadone (bulk),methadone,methadone,NA,100,%,mallinckrodt ph,active,NA,NA,NA
+'00406254001',methadone,methadone,methadone,NA,40,mg,mallinckrodt ph,active,NA,NA,NA
+'00406345434',methadose,methadone,methadone,NA,10,mg,mallinckrodt ph,inactive,NA,NA,NA
+'00406575501',methadone,methadone,methadone,NA,5,mg,mallinckrodt ph,active,NA,NA,NA
+'00406575523',methadone,methadone,methadone,NA,5,mg,mallinckrodt ph,active,NA,NA,NA
+'00406575562',methadone,methadone,methadone,NA,5,mg,mallinckrodt ph,active,NA,NA,NA
+'00406577101',methadone,methadone,methadone,NA,10,mg,mallinckrodt ph,active,NA,NA,NA
+'00406577123',methadone,methadone,methadone,NA,10,mg,mallinckrodt ph,active,NA,NA,NA
+'00406577162',methadone,methadone,methadone,NA,10,mg,mallinckrodt ph,active,NA,NA,NA
+'00406697434',methadose,methadone,methadone,NA,5,mg,mallinckrodt ph,inactive,NA,NA,NA
+'00406872510',methadose,methadone,methadone,NA,10,mg/ml,mallinckrodt ph,active,NA,NA,NA
+'00406872515',methadose,methadone hydrochloride,methadone,NA,10,mg/ml,"mallinckrodt, inc.",NA,NA,NA,NA
+'00904653060',methadone,methadone,methadone,NA,10,mg,major pharmaceu,active,NA,NA,NA
+'00904653061',methadone,methadone,methadone,NA,10,mg,major pharmaceu,active,NA,NA,NA
+'10544037702',methadone,methadone,methadone,NA,5,mg,blenheim pharma,active,NA,NA,NA
+'10544037728',methadone,methadone,methadone,NA,5,mg,blenheim pharma,active,NA,NA,NA
+'10544037802',methadone hcl,methadone hydrochloride,methadone,NA,10 mg,NA,NA,NA,NA,NA,NA
+'10544037808',methadone,methadone,methadone,NA,10,mg,blenheim pharma,active,NA,NA,NA
+'10544037828',methadone,methadone,methadone,NA,10,mg,blenheim pharma,active,NA,NA,NA
+'10544037830',methadone,methadone,methadone,NA,10,mg,blenheim pharma,active,NA,NA,NA
+'10544037856',methadone hcl,methadone hydrochloride,methadone,NA,10 mg,NA,NA,NA,NA,NA,NA
+'10544037860',methadone,methadone,methadone,NA,10,mg,blenheim pharma,active,NA,NA,NA
+'13107008801',methadone,methadone,methadone,NA,5,mg,aurobindo pharm,active,NA,NA,NA
+'13107008830',methadone hydrochloride,methadone hydrochloride,methadone,NA,5,mg/1,"aurolife pharma, llc",NA,NA,NA,NA
+'13107008899',methadone hydrochloride,methadone hydrochloride,methadone,NA,5,mg/1,"aurolife pharma, llc",NA,NA,NA,NA
+'13107008901',methadone,methadone,methadone,NA,10,mg,aurobindo pharm,active,NA,NA,NA
+'13107008930',methadone hydrochloride,methadone hydrochloride,methadone,NA,10,mg/1,"aurolife pharma, llc",NA,NA,NA,NA
+'13107008999',methadone hydrochloride,methadone hydrochloride,methadone,NA,10,mg/1,"aurolife pharma, llc",NA,NA,NA,NA
+'16590067007',methadone,methadone,methadone,NA,10,mg,stat rx usa,active,NA,NA,NA
+'16590067015',methadone hcl,methadone hydrochloride,methadone,NA,10 mg,NA,NA,NA,NA,NA,NA
+'16590067030',methadone hcl,methadone hydrochloride,methadone,NA,10 mg,NA,NA,NA,NA,NA,NA
+'16590067045',methadone,methadone,methadone,NA,10,mg,stat rx usa,active,NA,NA,NA
+'16590067060',methadone,methadone,methadone,NA,10,mg,stat rx usa,active,NA,NA,NA
+'16590067071',methadone,methadone,methadone,NA,10,mg,stat rx usa,active,NA,NA,NA
+'16590067072',methadone,methadone,methadone,NA,10,mg,stat rx usa,active,NA,NA,NA
+'16590067075',methadone hcl,methadone hydrochloride,methadone,NA,10 mg,NA,NA,NA,NA,NA,NA
+'16590067082',methadone,methadone,methadone,NA,10,mg,stat rx usa,active,NA,NA,NA
+'16590067083',methadone,methadone,methadone,NA,10,mg,stat rx usa,active,NA,NA,NA
+'16590067084',methadone hcl,methadone hydrochloride,methadone,NA,10 mg,NA,NA,NA,NA,NA,NA
+'16590067086',methadone hcl,methadone hydrochloride,methadone,NA,10 mg,NA,NA,NA,NA,NA,NA
+'16590067090',methadone,methadone,methadone,NA,10,mg,stat rx usa,active,NA,NA,NA
+'16590068930',methadone hydrochloride,methadone hydrochloride,methadone,NA,5,mg/1,stat rx usa llc,NA,NA,NA,NA
+'16590068945',methadone,methadone,methadone,NA,5,mg,stat rx usa,active,NA,NA,NA
+'16590068960',methadone,methadone,methadone,NA,5,mg,stat rx usa,active,NA,NA,NA
+'16590068972',methadone,methadone,methadone,NA,5,mg,stat rx usa,active,NA,NA,NA
+'16590068986',methadone hcl,methadone hydrochloride,methadone,NA,5 mg,NA,NA,NA,NA,NA,NA
+'16590068990',methadone,methadone,methadone,NA,5,mg,stat rx usa,active,NA,NA,NA
+'16590083660',methadone hcl,methadone hydrochloride,methadone,NA,40 mg,NA,NA,NA,NA,NA,NA
+'17478038020',methadone hydrochloride,methadone hydrochloride,methadone,NA,10 mg/ml,NA,"akorn, inc.",NA,NA,NA,NA
+'17856052701',methadose,methadone hydrochloride,methadone,NA,10,mg/ml,atlantic biologicals corps,NA,NA,NA,NA
+'17856052702',methadose (u),methadone,methadone,NA,�,NA,atlantic biologicals corps,NA,NA,NA,NA
+'17856355301',methadone hydrochloride,methadone hydrochloride,methadone,NA,10 mg/ml,NA,atlantic biologicals corp.,NA,NA,NA,NA
+'17856355302',methadone hydrochloride,methadone hydrochloride,methadone,NA,10 mg/ml,NA,atlantic biologicals corp.,NA,NA,NA,NA
+'17856355501',methadone hydrochloride,methadone hydrochloride,methadone,NA,5,mg/5ml,atlantic biologicals corps,NA,NA,NA,NA
+'17856355502',methadone hydrochloride,methadone hydrochloride,methadone,NA,5 mg/5ml,NA,atlantic biologicals corps,NA,NA,NA,NA
+'17856355505',methadone hydrochloride,methadone hydrochloride,methadone,NA,5,mg/5ml,atlantic biologicals corps,NA,NA,NA,NA
+'17856355605',methadone hydrochloride,methadone hydrochloride,methadone,NA,10 mg/5ml,NA,atlantic biologicals corps,NA,NA,NA,NA
+'17856355606',methadone hydrochloride,methadone hydrochloride,methadone,NA,10 mg/5ml,NA,atlantic biologicals corps,NA,NA,NA,NA
+'23490587703',methadone,methadone,methadone,NA,10,mg,palmetto state,active,NA,NA,NA
+'23490587706',methadone,methadone,methadone,NA,10,mg,palmetto state,active,NA,NA,NA
+'23490587707',methadone,methadone,methadone,NA,10,mg,palmetto state,active,NA,NA,NA
+'23490587709',methadone,methadone,methadone,NA,10,mg,palmetto state,active,NA,NA,NA
+'23490587801',methadone,methadone,methadone,NA,5,mg,palmetto state,active,NA,NA,NA
+'23490587802',methadone,methadone,methadone,NA,5,mg,palmetto state,active,NA,NA,NA
+'23490587803',methadone,methadone,methadone,NA,5,mg,palmetto state,active,NA,NA,NA
+'23490587809',methadone,methadone,methadone,NA,5,mg,palmetto state,active,NA,NA,NA
+'23490779801',methadone,methadone,methadone,NA,40,mg,palmetto state,active,NA,NA,NA
+'23490779803',methadone,methadone,methadone,NA,40,mg,palmetto state,active,NA,NA,NA
+'24200027503',methadone in 0.9 % sod. chlor,methadone,methadone,NA,1,mg/ml,ameridose llc,inactive,NA,NA,NA
+'24200028149',methadone,methadone,methadone,NA,5,mg/5 ml,ameridose llc,inactive,NA,NA,NA
+'24200028363',methadone,methadone,methadone,NA,10,mg/ml,ameridose llc,inactive,NA,NA,NA
+'35356083401',methadone,methadone,methadone,NA,10,mg,quality care,active,NA,NA,NA
+'35356083430',methadone,methadone,methadone,NA,10,mg,quality care,active,NA,NA,NA
+'35356083460',methadone,methadone,methadone,NA,10,mg,quality care,active,NA,NA,NA
+'35356083490',methadone,methadone,methadone,NA,10,mg,quality care,active,NA,NA,NA
+'35356083530',methadone,methadone,methadone,NA,5,mg,quality care,active,NA,NA,NA
+'35356083560',methadone,methadone,methadone,NA,5,mg,quality care,active,NA,NA,NA
+'35356083590',methadone,methadone,methadone,NA,5,mg,quality care,active,NA,NA,NA
+'38779010403',methadone (bulk),methadone,methadone,NA,100,%,medisca inc.,active,NA,NA,NA
+'38779010404',methadone (bulk),methadone,methadone,NA,100,%,medisca inc.,active,NA,NA,NA
+'38779010405',methadone (bulk),methadone,methadone,NA,100,%,medisca inc.,active,NA,NA,NA
+'38779010406',methadone hcl,methadone hydrochloride,methadone,NA,NA,NA,NA,NA,NA,NA,NA
+'42549057702',methadone,methadone,methadone,NA,5,mg,4uortho llc,active,NA,NA,NA
+'42549057728',methadone,methadone,methadone,NA,5,mg,4uortho llc,active,NA,NA,NA
+'42549057802',methadone,methadone,methadone,NA,10,mg,4uortho llc,active,NA,NA,NA
+'42549057808',methadone,methadone,methadone,NA,10,mg,4uortho llc,active,NA,NA,NA
+'42549057828',methadone,methadone,methadone,NA,10,mg,4uortho llc,active,NA,NA,NA
+'42549057830',methadone,methadone,methadone,NA,10,mg,4uortho llc,active,NA,NA,NA
+'42549057856',methadone,methadone,methadone,NA,10,mg,4uortho llc,active,NA,NA,NA
+'42549057860',methadone,methadone,methadone,NA,10,mg,4uortho llc,active,NA,NA,NA
+'42806031701',methadone hydrochloride,methadone hydrochloride,methadone,NA,5 mg/1,NA,"epic pharma, llc",NA,NA,NA,NA
+'42806031801',methadone hydrochloride,methadone hydrochloride,methadone,NA,10 mg/1,NA,"epic pharma, llc",NA,NA,NA,NA
+'43063022260',methadone,methadone,methadone,NA,5,mg,pd-rx pharm,active,NA,NA,NA
+'43063022290',methadone,methadone,methadone,NA,5,mg,pd-rx pharm,active,NA,NA,NA
+'43063022293',methadone,methadone,methadone,NA,5,mg,pd-rx pharm,active,NA,NA,NA
+'43063022298',methadone,methadone,methadone,NA,5,mg,pd-rx pharm,active,NA,NA,NA
+'49452455301',methadone (bulk),methadone,methadone,NA,100,%,spectrum,active,NA,NA,NA
+'49452455302',methadone (bulk),methadone,methadone,NA,100,%,spectrum,active,NA,NA,NA
+'49452455303',methadone (bulk),methadone,methadone,NA,100,%,spectrum,active,NA,NA,NA
+'49999083901',methadone,methadone,methadone,NA,10,mg,quality care,active,NA,NA,NA
+'49999083930',methadone,methadone,methadone,NA,10,mg,quality care,active,NA,NA,NA
+'49999083960',methadone,methadone,methadone,NA,10,mg,quality care,active,NA,NA,NA
+'49999083990',methadone,methadone,methadone,NA,10,mg,quality care,active,NA,NA,NA
+'49999084030',methadose,methadone,methadone,NA,10,mg,quality care,inactive,NA,NA,NA
+'49999084060',methadose,methadone,methadone,NA,10,mg,quality care,inactive,NA,NA,NA
+'49999084130',methadose,methadone,methadone,NA,40,mg,quality care,active,NA,NA,NA
+'49999084160',methadose,methadone,methadone,NA,40,mg,quality care,active,NA,NA,NA
+'49999096330',methadone,methadone,methadone,NA,5,mg,quality care,active,NA,NA,NA
+'49999096360',methadone,methadone,methadone,NA,5,mg,quality care,active,NA,NA,NA
+'49999096390',methadone,methadone,methadone,NA,5,mg,quality care,active,NA,NA,NA
+'50436052701',methadose,methadone hydrochloride,methadone,NA,10,mg/ml,unit dose services,NA,NA,NA,NA
+'51079068155',methadone (bulk),methadone,methadone,NA,100,%,udl,active,NA,NA,NA
+'51079069439',methadone,methadone,methadone,NA,10,mg/ml,udl,active,NA,NA,NA
+'51079089840',methadone,methadone,methadone,NA,40,mg,udl,active,NA,NA,NA
+'51552072801',methadone (bulk),methadone,methadone,NA,100,%,fagron inc,active,NA,NA,NA
+'51552072802',methadone (bulk),methadone,methadone,NA,100,%,fagron inc,active,NA,NA,NA
+'51552072804',methadone (bulk),methadone,methadone,NA,100,%,fagron inc,active,NA,NA,NA
+'51552072806',methadone (bulk),methadone,methadone,NA,100,%,fagron inc,active,NA,NA,NA
+'51927101700',methadone (bulk),methadone,methadone,NA,100,%,professional co,active,NA,NA,NA
+'52372079601',methadone (bulk),methadone,methadone,NA,100,%,freedom pharmac,active,NA,NA,NA
+'52372079602',methadone (bulk),methadone,methadone,NA,100,%,freedom pharmac,active,NA,NA,NA
+'52372079603',methadone (bulk),methadone,methadone,NA,100,%,freedom pharmac,active,NA,NA,NA
+'52959038602',methadone,methadone,methadone,NA,10,mg,pharma pac,active,NA,NA,NA
+'52959038630',methadone,methadone,methadone,NA,10,mg,pharma pac,active,NA,NA,NA
+'52959038660',methadone,methadone,methadone,NA,10,mg,pharma pac,active,NA,NA,NA
+'52959038690',methadone,methadone,methadone,NA,10,mg,pharma pac,active,NA,NA,NA
+'52959043502',methadone hydrochloride,methadone hydrochloride,methadone,NA,5,mg/1,h.j. harkins company inc.,NA,NA,NA,NA
+'52959043530',methadone,methadone,methadone,NA,5,mg,pharma pac,active,NA,NA,NA
+'52959043560',methadone hydrochloride,methadone hydrochloride,methadone,NA,5,mg/1,h.j. harkins company inc.,NA,NA,NA,NA
+'52959043590',methadone hydrochloride,methadone hydrochloride,methadone,NA,5,mg/1,h.j. harkins company inc.,NA,NA,NA,NA
+'54868285400',methadone,methadone,methadone,NA,10,mg,physicians tc.,active,NA,NA,NA
+'54868285401',methadose,methadone,methadone,NA,10,mg,physicians tc.,inactive,NA,NA,NA
+'54868285402',methadose,methadone,methadone,NA,10,mg,physicians tc.,inactive,NA,NA,NA
+'54868285403',methadone,methadone,methadone,NA,10,mg,physicians tc.,active,NA,NA,NA
+'54868440800',methadose,methadone,methadone,NA,5,mg,physicians tc.,inactive,NA,NA,NA
+'54868440801',methadose,methadone,methadone,NA,5,mg,physicians tc.,inactive,NA,NA,NA
+'54868494800',methadone,methadone,methadone,NA,10,mg,physicians tc.,active,NA,NA,NA
+'54868494801',methadone,methadone,methadone,NA,10,mg,physicians tc.,active,NA,NA,NA
+'54868494802',methadone,methadone,methadone,NA,10,mg,physicians tc.,active,NA,NA,NA
+'54868494803',methadone,methadone,methadone,NA,10,mg,physicians tc.,active,NA,NA,NA
+'54868494804',methadone hydrochloride,methadone hydrochloride,methadone,NA,10,mg/1,"physicians total care, inc.",NA,NA,NA,NA
+'54868494805',methadone,methadone,methadone,NA,10,mg,physicians tc.,active,NA,NA,NA
+'54868494806',methadone,methadone,methadone,NA,10,mg,physicians tc.,active,NA,NA,NA
+'54868494807',methadone,methadone,methadone,NA,10,mg,physicians tc.,active,NA,NA,NA
+'54868570100',methadone,methadone,methadone,NA,5,mg,physicians tc.,active,NA,NA,NA
+'54868570101',methadone,methadone,methadone,NA,5,mg,physicians tc.,active,NA,NA,NA
+'54868570102',methadone,methadone,methadone,NA,5,mg,physicians tc.,active,NA,NA,NA
+'54868570103',methadone,methadone,methadone,NA,5,mg,physicians tc.,active,NA,NA,NA
+'55289081430',methadone,methadone,methadone,NA,10,mg,pd-rx pharm,active,NA,NA,NA
+'55289081460',methadone,methadone,methadone,NA,10,mg,pd-rx pharm,active,NA,NA,NA
+'55289081490',methadone,methadone,methadone,NA,10,mg,pd-rx pharm,active,NA,NA,NA
+'55289081493',methadone,methadone,methadone,NA,10,mg,pd-rx pharm,active,NA,NA,NA
+'55289081498',methadone,methadone,methadone,NA,10,mg,pd-rx pharm,active,NA,NA,NA
+'55289081499',methadone,methadone,methadone,NA,10,mg,pd-rx pharm,active,NA,NA,NA
+'55887009082',methadone,methadone,methadone,NA,5,mg,dhs inc.,active,NA,NA,NA
+'55887009090',methadone,methadone,methadone,NA,5,mg,dhs inc.,active,NA,NA,NA
+'55887013460',methadone,methadone,methadone,NA,40,mg,dhs inc.,active,NA,NA,NA
+'55887013490',methadone,methadone,methadone,NA,40,mg,dhs inc.,active,NA,NA,NA
+'55887020042',methadone,methadone hydrochloride,methadone,NA,10 mg,NA,NA,NA,NA,NA,NA
+'55887020056',methadone,methadone hydrochloride,methadone,NA,10 mg,NA,NA,NA,NA,NA,NA
+'55887020060',methadone,methadone,methadone,NA,10,mg,dhs inc.,active,NA,NA,NA
+'55887020082',methadone,methadone,methadone,NA,10,mg,dhs inc.,active,NA,NA,NA
+'55887020090',methadone,methadone,methadone,NA,10,mg,dhs inc.,active,NA,NA,NA
+'57664060288',methadone hydrochloride,methadone hydrochloride,methadone,NA,5 mg/1001,NA,"sun pharmaceutical industries, inc.",NA,NA,NA,NA
+'57664060388',methadone hydrochloride,methadone hydrochloride,methadone,NA,10 mg/1001,NA,"sun pharmaceutical industries, inc.",NA,NA,NA,NA
+'57866318701',methadose,methadone,methadone,NA,10,mg,vibranta inc.,inactive,NA,NA,NA
+'57866318702',methadose,methadone,methadone,NA,10,mg,vibranta inc.,inactive,NA,NA,NA
+'57866318801',methadose,methadone,methadone,NA,40,mg,vibranta inc.,active,NA,NA,NA
+'57866318802',methadose,methadone,methadone,NA,40,mg,vibranta inc.,active,NA,NA,NA
+'57866395001',methadone,methadone,methadone,NA,5,mg,vibranta inc.,active,NA,NA,NA
+'57866395002',methadone,methadone,methadone,NA,5,mg,vibranta inc.,active,NA,NA,NA
+'57866395003',methadone,methadone,methadone,NA,5,mg,vibranta inc.,active,NA,NA,NA
+'57866707001',methadone,methadone,methadone,NA,10,mg,vibranta inc.,active,NA,NA,NA
+'57866707002',methadone,methadone,methadone,NA,10,mg,vibranta inc.,active,NA,NA,NA
+'57866707003',methadone,methadone,methadone,NA,10,mg,vibranta inc.,active,NA,NA,NA
+'57866707006',methadone,methadone,methadone,NA,10,mg,vibranta inc.,active,NA,NA,NA
+'57866708101',methadone,methadone,methadone,NA,40,mg,vibranta inc.,active,NA,NA,NA
+'57866708102',methadone,methadone,methadone,NA,40,mg,vibranta inc.,active,NA,NA,NA
+'60687020932',methadose,methadone,methadone,NA,40,mg,ahp,active,NA,NA,NA
+'60687020933',methadose,methadone,methadone,NA,40,mg,ahp,active,NA,NA,NA
+'60687021401',methadone,methadone,methadone,NA,5,mg,ahp,active,NA,NA,NA
+'60687021411',methadone,methadone,methadone,NA,5,mg,ahp,active,NA,NA,NA
+'61553012078',methadone in 0.9 % sod. chlor,methadone,methadone,NA,1,mg/ml (1 ml),pharmedium,active,NA,NA,NA
+'61553013490',methadone in 0.9 % sod. chlor,methadone,methadone,NA,2.5,mg/0.5 ml,pharmedium/of,active,NA,NA,NA
+'61553014940',methadone,methadone,methadone,NA,10,mg/ml,pharmedium/of,active,NA,NA,NA
+'61553014978',methadone,methadone,methadone,NA,10,mg/ml,pharmedium,active,NA,NA,NA
+'61919067030',methadone hydrochloride,methadone hydrochloride,methadone,NA,10,mg/1,direct rx,NA,NA,NA,NA
+'62991140801',methadone (bulk),methadone,methadone,NA,100,%,"letco medical,",active,NA,NA,NA
+'62991140802',methadone (bulk),methadone,methadone,NA,100,%,"letco medical,",active,NA,NA,NA
+'62991140803',methadone (bulk),methadone,methadone,NA,100,%,"letco medical,",active,NA,NA,NA
+'62991140805',methadone (bulk),methadone,methadone,NA,100,%,"letco medical,",active,NA,NA,NA
+'63275910004',methadone (bulk),methadone,methadone,NA,100,%,b&b pharm,active,NA,NA,NA
+'63275910005',methadone (bulk),methadone,methadone,NA,100,%,b&b pharm,active,NA,NA,NA
+'63370093915',methadone hcl,methadone hydrochloride,methadone,NA,NA,NA,NA,NA,NA,NA,NA
+'63370093925',methadone hcl,methadone hydrochloride,methadone,NA,NA,NA,NA,NA,NA,NA,NA
+'63370093935',methadone hcl,methadone hydrochloride,methadone,NA,NA,NA,NA,NA,NA,NA,NA
+'63629377100',methadone hydrochloride,methadone hydrochloride,methadone,NA,10,mg/1,bryant ranch prepack,NA,NA,NA,NA
+'63629377101',methadone,methadone,methadone,NA,10,mg,bryant ranch pr,active,NA,NA,NA
+'63629377102',methadone,methadone,methadone,NA,10,mg,bryant ranch pr,active,NA,NA,NA
+'63629377103',methadone,methadone,methadone,NA,10,mg,bryant ranch pr,active,NA,NA,NA
+'63629377104',methadone,methadone,methadone,NA,10,mg,bryant ranch pr,active,NA,NA,NA
+'63629377105',methadone,methadone,methadone,NA,10,mg,bryant ranch pr,active,NA,NA,NA
+'63629377106',methadone,methadone,methadone,NA,10,mg,bryant ranch pr,active,NA,NA,NA
+'63629377107',methadone hydrochloride,methadone hydrochloride,methadone,NA,10,mg/1,bryant ranch prepack,NA,NA,NA,NA
+'63629377108',methadone hydrochloride,methadone hydrochloride,methadone,NA,10,mg/1,bryant ranch prepack,NA,NA,NA,NA
+'63629377109',methadone hydrochloride,methadone hydrochloride,methadone,NA,10,mg/1,bryant ranch prepack,NA,NA,NA,NA
+'63629378801',methadone,methadone,methadone,NA,5,mg,bryant ranch pr,active,NA,NA,NA
+'63629378802',methadone hydrochloride,methadone hydrochloride,methadone,NA,5,mg/1,bryant ranch prepack,NA,NA,NA,NA
+'63629378803',methadone hydrochloride,methadone hydrochloride,methadone,NA,5,mg/1,bryant ranch prepack,NA,NA,NA,NA
+'63629378804',methadone hydrochloride,methadone hydrochloride,methadone,NA,5,mg/1,bryant ranch prepack,NA,NA,NA,NA
+'63629378805',methadone hydrochloride,methadone hydrochloride,methadone,NA,5,mg/1,bryant ranch prepack,NA,NA,NA,NA
+'63629378806',methadone hydrochloride,methadone hydrochloride,methadone,NA,5,mg/1,bryant ranch prepack,NA,NA,NA,NA
+'63739000610',methadone,methadone,methadone,NA,10,mg,mckesson packag,active,NA,NA,NA
+'63874126503',methadone hcl,methadone hydrochloride,methadone,NA,10 mg,NA,NA,NA,NA,NA,NA
+'63874126506',methadone hcl,methadone hydrochloride,methadone,NA,10 mg,NA,NA,NA,NA,NA,NA
+'64019053825',methadone,methadone,methadone,NA,40,mg,roxane labs.,active,NA,NA,NA
+'64019055367',methadone,methadone,methadone,NA,10,mg/ml,roxane labs.,active,NA,NA,NA
+'64019055467',methadone,methadone,methadone,NA,10,mg/ml,roxane labs.,active,NA,NA,NA
+'64019075085',methadone hcl,methadone hydrochloride,methadone,NA,NA,NA,NA,NA,NA,NA,NA
+'64019075088',methadone (bulk),methadone,methadone,NA,100,%,cebert pharm,active,NA,NA,NA
+'66336017030',methadone,methadone,methadone,NA,5,mg,dispensing soln,active,NA,NA,NA
+'66336017060',methadone,methadone,methadone,NA,5,mg,dispensing soln,active,NA,NA,NA
+'66336017062',methadone,methadone,methadone,NA,5,mg,dispensing soln,active,NA,NA,NA
+'66336017090',methadone,methadone,methadone,NA,5,mg,dispensing soln,active,NA,NA,NA
+'66336017094',methadone,methadone,methadone,NA,5,mg,dispensing soln,active,NA,NA,NA
+'66336017130',methadone,methadone,methadone,NA,10,mg,dispensing soln,active,NA,NA,NA
+'66336017142',methadone,methadone,methadone,NA,10,mg,dispensing soln,active,NA,NA,NA
+'66336017156',methadone,methadone,methadone,NA,10,mg,dispensing soln,active,NA,NA,NA
+'66336017160',methadone,methadone,methadone,NA,10,mg,dispensing soln,active,NA,NA,NA
+'66336017162',methadone,methadone,methadone,NA,10,mg,dispensing soln,active,NA,NA,NA
+'66336017190',methadone,methadone,methadone,NA,10,mg,dispensing soln,active,NA,NA,NA
+'66336017194',methadone,methadone,methadone,NA,10,mg,dispensing soln,active,NA,NA,NA
+'66336017198',methadone,methadone,methadone,NA,10,mg,dispensing soln,active,NA,NA,NA
+'66479053002',methadone,methadone,methadone,NA,10,mg/ml,bioniche pharma,active,NA,NA,NA
+'66591081551',methadone,methadone,methadone,NA,10,mg/ml,xanodyne pharm,active,NA,NA,NA
+'66689068155',methadone (bulk),methadone,methadone,NA,100,%,vistapharm,active,NA,NA,NA
+'66689069430',methadone,methadone,methadone,NA,10,mg/ml,vistapharm,active,NA,NA,NA
+'66689069439',methadone,methadone,methadone,NA,10,mg/ml,vistapharm,active,NA,NA,NA
+'66689069479',methadone,methadone,methadone,NA,10,mg/ml,vistapharm,active,NA,NA,NA
+'66689069530',methadone hydrochloride,methadone hydrochloride,methadone,NA,10,mg/ml,vistapharm inc,NA,NA,NA,NA
+'66689069579',methadone,methadone,methadone,NA,10,mg/ml,vistapharm,active,NA,NA,NA
+'66689071116',methadone,methadone,methadone,NA,5,mg/5 ml,vistapharm,active,NA,NA,NA
+'66689071216',methadone,methadone,methadone,NA,10,mg/5 ml,vistapharm,active,NA,NA,NA
+'66689081010',methadone,methadone,methadone,NA,10,mg,vistapharm,active,NA,NA,NA
+'66689082010',methadone hydrochloride,methadone hydrochloride,methadone,NA,10 mg/1,NA,"vistapharm, inc.",NA,NA,NA,NA
+'66689089840',methadone,methadone,methadone,NA,40,mg,vistapharm,active,NA,NA,NA
+'67457021720',methadone,methadone,methadone,NA,10,mg/ml,mylan instituti,active,NA,NA,NA
+'67877011601',methadone,methadone,methadone,NA,10,mg,ascend laborato,active,NA,NA,NA
+'68084073801',methadone,methadone,methadone,NA,10,mg,ahp,active,NA,NA,NA
+'68084073811',methadone,methadone,methadone,NA,10,mg,ahp,active,NA,NA,NA
+'68084097732',methadone,methadone,methadone,NA,40,mg,ahp,active,NA,NA,NA
+'68084097733',methadone,methadone,methadone,NA,40,mg,ahp,active,NA,NA,NA
+'68115057100',methadone,methadone,methadone,NA,10,mg,"dispensexpress,",active,NA,NA,NA
+'68115057200',methadone,methadone,methadone,NA,5,mg,"dispensexpress,",active,NA,NA,NA
+'68462080001',methadone hydrochloride,methadone hydrochloride,methadone,NA,5 mg/1,NA,"glenmark pharmaceuticals inc.,usa",NA,NA,NA,NA
+'68462080101',methadone hydrochloride,methadone hydrochloride,methadone,NA,10 mg/1,NA,"glenmark pharmaceuticals inc.,usa",NA,NA,NA,NA
+'70166028401',methadone hydrochloride,methadone hydrochloride,methadone,NA,10 mg/ml,NA,lohxa,NA,NA,NA,NA
+'70166028402',methadone hydrochloride,methadone hydrochloride,methadone,NA,10 mg/ml,NA,lohxa,NA,NA,NA,NA
+'71335011900',methadone hydrochloride,methadone hydrochloride,methadone,NA,10 mg/1,NA,bryant ranch prepack,NA,NA,NA,NA
+'71335011901',methadone hydrochloride,methadone hydrochloride,methadone,NA,10 mg/1,NA,bryant ranch prepack,NA,NA,NA,NA
+'71335011902',methadone hydrochloride,methadone hydrochloride,methadone,NA,10 mg/1,NA,bryant ranch prepack,NA,NA,NA,NA
+'71335011903',methadone hydrochloride,methadone hydrochloride,methadone,NA,10 mg/1,NA,bryant ranch prepack,NA,NA,NA,NA
+'71335011904',methadone hydrochloride,methadone hydrochloride,methadone,NA,10 mg/1,NA,bryant ranch prepack,NA,NA,NA,NA
+'71335011905',methadone hydrochloride,methadone hydrochloride,methadone,NA,10 mg/1,NA,bryant ranch prepack,NA,NA,NA,NA
+'71335011906',methadone hydrochloride,methadone hydrochloride,methadone,NA,10 mg/1,NA,bryant ranch prepack,NA,NA,NA,NA
+'71335011907',methadone hydrochloride,methadone hydrochloride,methadone,NA,10 mg/1,NA,bryant ranch prepack,NA,NA,NA,NA
+'71335011908',methadone hydrochloride,methadone hydrochloride,methadone,NA,10 mg/1,NA,bryant ranch prepack,NA,NA,NA,NA
+'71335011909',methadone hydrochloride,methadone hydrochloride,methadone,NA,10 mg/1,NA,bryant ranch prepack,NA,NA,NA,NA
+'71335049301',methadone hydrochloride,methadone hydrochloride,methadone,NA,5 mg/1,NA,bryant ranch prepack,NA,NA,NA,NA
+'71335049302',methadone hydrochloride,methadone hydrochloride,methadone,NA,5 mg/1,NA,bryant ranch prepack,NA,NA,NA,NA
+'71335049303',methadone hydrochloride,methadone hydrochloride,methadone,NA,5 mg/1,NA,bryant ranch prepack,NA,NA,NA,NA
+'71335049304',methadone hydrochloride,methadone hydrochloride,methadone,NA,5 mg/1,NA,bryant ranch prepack,NA,NA,NA,NA
+'71335049305',methadone hydrochloride,methadone hydrochloride,methadone,NA,5 mg/1,NA,bryant ranch prepack,NA,NA,NA,NA
+'71335049306',methadone hydrochloride,methadone hydrochloride,methadone,NA,5 mg/1,NA,bryant ranch prepack,NA,NA,NA,NA
+'71335049307',methadone hydrochloride,methadone hydrochloride,methadone,NA,5 mg/1,NA,bryant ranch prepack,NA,NA,NA,NA
+'71335073500',methadone hydrochloride,methadone hydrochloride,methadone,NA,10 mg/1,NA,bryant ranch prepack,NA,NA,NA,NA
+'71335073501',methadone hydrochloride,methadone hydrochloride,methadone,NA,10 mg/1,NA,bryant ranch prepack,NA,NA,NA,NA
+'71335073502',methadone hydrochloride,methadone hydrochloride,methadone,NA,10 mg/1,NA,bryant ranch prepack,NA,NA,NA,NA
+'71335073503',methadone hydrochloride,methadone hydrochloride,methadone,NA,10 mg/1,NA,bryant ranch prepack,NA,NA,NA,NA
+'71335073504',methadone hydrochloride,methadone hydrochloride,methadone,NA,10 mg/1,NA,bryant ranch prepack,NA,NA,NA,NA
+'71335073505',methadone hydrochloride,methadone hydrochloride,methadone,NA,10 mg/1,NA,bryant ranch prepack,NA,NA,NA,NA
+'71335073506',methadone hydrochloride,methadone hydrochloride,methadone,NA,10 mg/1,NA,bryant ranch prepack,NA,NA,NA,NA
+'71335073507',methadone hydrochloride,methadone hydrochloride,methadone,NA,10 mg/1,NA,bryant ranch prepack,NA,NA,NA,NA
+'71335073508',methadone hydrochloride,methadone hydrochloride,methadone,NA,10 mg/1,NA,bryant ranch prepack,NA,NA,NA,NA
+'71335073509',methadone hydrochloride,methadone hydrochloride,methadone,NA,10 mg/1,NA,bryant ranch prepack,NA,NA,NA,NA

@@ -1,5 +1,5 @@
-NDC,DRUG_NAME,STRENGTH,STRENGTH_UNIT_OF_MEASURE,MANUFACTURER_ABBR_NAME,STATUS
-69344011311,Oxaydo,5,MG,Egalet Us Inc.,Active
-69344021311,Oxaydo,7.5,MG,Egalet Us Inc.,Active
-60793052501,Oxecta,5,MG,Acura Pharmaceu,Inactive
-60793052601,Oxecta,7.5,MG,Acura Pharmaceu,Inactive
+NDC,DRUG_NAME,INGREDIENTS,OPIOID_INGREDIENT1,STRENGTH,STRENGTH_UOM,MANUFACTURER_ABBR_NAME,STATUS,IR_ER
+'69344011311',Oxaydo,Oxycodone Hydrochloride,Oxycodone,5,MG,Egalet Us Inc.,Active,Er
+'69344021311',Oxaydo,Oxycodone Hydrochloride,Oxycodone,7.5,MG,Egalet Us Inc.,Active,Er
+'60793052501',Oxecta,Oxycodone Hydrochloride,Oxycodone,5,MG,Acura Pharmaceu,Inactive,Er
+'60793052601',Oxecta,Oxycodone Hydrochloride,Oxycodone,7.5,MG,Acura Pharmaceu,Inactive,Er

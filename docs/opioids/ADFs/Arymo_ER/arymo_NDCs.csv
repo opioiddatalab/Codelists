@@ -1,4 +1,4 @@
-NDC,DRUG_NAME,STRENGTH,STRENGTH_UNIT_OF_MEASURE,MANUFACTURER_ABBR_NAME,STATUS
-6934421111,Arymo,30,MG,Zyla Life Sciences Us Inc.,Active
-6934411111,Arymo,15,MG,Zyla Life Sciences Us Inc.,Active
-6934431111,Arymo,60,MG,Zyla Life Sciences Us Inc.,Active
+NDC,DRUG_NAME,INGREDIENTS,OPIOID_INGREDIENT1,STRENGTH,STRENGTH_UOM,MANUFACTURER_ABBR_NAME,STATUS,IR_ER
+'6934421111',Arymo,Morphine Sulfate,Morphine,30,MG,Zyla Life Sciences Us Inc.,Active,Er
+'6934411111',Arymo,Morphine Sulfate,Morphine,15,MG,Zyla Life Sciences Us Inc.,Active,Er
+'6934431111',Arymo,Morphine Sulfate,Morphine,60,MG,Zyla Life Sciences Us Inc.,Active,Er

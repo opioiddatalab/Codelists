@@ -1,8 +1,8 @@
-ndc,drug_name,generic_name,opioid_ingredient1,opioid_ingredient2,form,route,strength,strength_uom,package_size,manufacturer,startdate,enddate,status
-00186152013,dalgan,dezocine,dezocine,NA,solution,injection,5,mg/ml,1,astra pharm.,9/30/90,9/30/90,inactive
-00186152113,dalgan,dezocine,dezocine,NA,solution,injection,10,mg/ml,1,astra pharm.,9/30/90,9/30/90,inactive
-00186152212,dalgan,dezocine,dezocine,NA,solution,injection,10,mg/ml,10,astra pharm.,9/30/90,9/30/90,inactive
-00186152313,dalgan,dezocine,dezocine,NA,solution,injection,15,mg/ml,1,astra pharm.,9/30/90,9/30/90,inactive
-00186152423,dalgan,dezocine,dezocine,NA,syringe,injection,10,mg/ml,1,astra pharm.,9/30/90,9/30/90,inactive
-00186152523,dalgan,dezocine,dezocine,NA,syringe,injection,15,mg/ml,1,astra pharm.,1/1/90,1/1/90,inactive
-00186152923,dalgan,dezocine,dezocine,NA,syringe,injection,5,mg/ml,1,astra pharm.,12/29/89,12/29/89,inactive
+ndc,drug_name,generic_name,opioid_ingredient1,opioid_ingredient2,strength,strength_uom,manufacturer,status,ingredients,manufacturer_abbr_name,ir_er
+'00186152013',dalgan,dezocine,dezocine,NA,5,mg/ml,astra pharm.,inactive,NA,NA,NA
+'00186152113',dalgan,dezocine,dezocine,NA,10,mg/ml,astra pharm.,inactive,NA,NA,NA
+'00186152212',dalgan,dezocine,dezocine,NA,10,mg/ml,astra pharm.,inactive,NA,NA,NA
+'00186152313',dalgan,dezocine,dezocine,NA,15,mg/ml,astra pharm.,inactive,NA,NA,NA
+'00186152423',dalgan,dezocine,dezocine,NA,10,mg/ml,astra pharm.,inactive,NA,NA,NA
+'00186152523',dalgan,dezocine,dezocine,NA,15,mg/ml,astra pharm.,inactive,NA,NA,NA
+'00186152923',dalgan,dezocine,dezocine,NA,5,mg/ml,astra pharm.,inactive,NA,NA,NA

@@ -1,7 +1,7 @@
-NDC,DRUG_NAME,STRENGTH,STRENGTH_UNIT_OF_MEASURE,MANUFACTURER_ABBR_NAME,STATUS
-24510011010,Xtampza Er,9,MG,Collegium,Active
-24510011510,Xtampza Er,13.5,MG,Collegium,Active
-24510012010,Xtampza Er,18,MG,Collegium,Active
-24510013010,Xtampza Er,27,MG,Collegium,Active
-24510014010,Xtampza Er,36,MG,Collegium,Active
-55700055730,Xtampza Er,13.5,MG,Quality,Active
+NDC,DRUG_NAME,INGREDIENTS,OPIOID_INGREDIENT1,STRENGTH,STRENGTH_UOM,MANUFACTURER_ABBR_NAME,STATUS,IR_ER
+'24510011010',Xtampza Er,Oxycodone,Oxycodone,9,MG,Collegium,Active,Er
+'24510011510',Xtampza Er,Oxycodone,Oxycodone,13.5,MG,Collegium,Active,Er
+'24510012010',Xtampza Er,Oxycodone,Oxycodone,18,MG,Collegium,Active,Er
+'24510013010',Xtampza Er,Oxycodone,Oxycodone,27,MG,Collegium,Active,Er
+'24510014010',Xtampza Er,Oxycodone,Oxycodone,36,MG,Collegium,Active,Er
+'55700055730',Xtampza Er,Oxycodone,Oxycodone,13.5,MG,Quality,Active,Er

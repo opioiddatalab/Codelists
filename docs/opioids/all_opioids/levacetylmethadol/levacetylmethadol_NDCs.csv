@@ -1,4 +1,4 @@
-ndc,drug_name,generic_name,opioid_ingredient1,opioid_ingredient2,form,route,strength,strength_uom,package_size,manufacturer,startdate,enddate,status
-00054364962,orlaam,levacetylmethadol,levacetylmethadol,NA,solution,oral,10,mg/ml,474,roxane labs.,7/9/93,7/9/93,inactive
-00054364963,orlaam,levacetylmethadol,levacetylmethadol,NA,solution,oral,10,mg/ml,500,roxane labs.,7/9/93,7/9/93,inactive
-59527000150,orlaam,levacetylmethadol,levacetylmethadol,NA,solution,oral,10,mg/ml,474,biodevelopment,7/9/93,7/9/93,inactive
+ndc,drug_name,generic_name,opioid_ingredient1,opioid_ingredient2,strength,strength_uom,manufacturer,status,ingredients,manufacturer_abbr_name,ir_er
+'00054364962',orlaam,levacetylmethadol,levacetylmethadol,NA,10,mg/ml,roxane labs.,inactive,NA,NA,NA
+'00054364963',orlaam,levacetylmethadol,levacetylmethadol,NA,10,mg/ml,roxane labs.,inactive,NA,NA,NA
+'59527000150',orlaam,levacetylmethadol,levacetylmethadol,NA,10,mg/ml,biodevelopment,inactive,NA,NA,NA

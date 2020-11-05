@@ -1,0 +1,352 @@
+drug_name,ndc,strength,strength_uom,manufacturer,status
+Probuphine,'58284010014',74.2,mg,BRAEBURN PHARMA,Active
+Subutex,'12496127802',2,mg,INDIVIOR INC.,Inactive
+Subutex,'49999063830',2,mg,QUALITY CARE,Inactive
+Subutex,'12496131002',8,mg,INDIVIOR INC.,Inactive
+Subutex,'49999063930',8,mg,QUALITY CARE,Inactive
+Subutex,'63874117303',8,mg,ALTURA PHARMA,Inactive
+buprenorphine HCl,'00054017613',2,mg,"WEST-WARD, INC.",Active
+buprenorphine HCl,'00093537856',2,mg,TEVA USA,Active
+buprenorphine HCl,'00228315603',2,mg,ACTAVIS PHARMA,Active
+buprenorphine HCl,'00378092393',2,mg,MYLAN,Active
+buprenorphine HCl,'35356055530',2,mg,QUALITY CARE,Active
+buprenorphine HCl,'50383092493',2,mg,HI-TECH/AKORN C,Active
+buprenorphine HCl,'55700030230',2,mg,QUALITY CARE,Active
+buprenorphine HCl,'68308020230',2,mg,MAYNE PHARMA IN,Active
+buprenorphine HCl,'00054017713',8,mg,ROXANE/WEST-WAR,Active
+buprenorphine HCl,'00093537956',8,mg,TEVA USA,Active
+buprenorphine HCl,'00228315303',8,mg,ACTAVIS PHARMA,Active
+buprenorphine HCl,'00378092493',8,mg,MYLAN,Active
+buprenorphine HCl,'35356055630',8,mg,QUALITY CARE,Active
+buprenorphine HCl,'43063066706',8,mg,PD-RX PHARM,Active
+buprenorphine HCl,'50383093093',8,mg,HI-TECH/AKORN C,Active
+buprenorphine HCl,'55700030330',8,mg,QUALITY CARE,Active
+buprenorphine HCl,'68308020830',8,mg,MAYNE PHARMA IN,Active
+Diskets,'00054453825',40,mg,"WEST-WARD, INC.",Active
+Dolophine,'00002107202',10,mg,ELI LILLY & CO.,Active
+Dolophine,'00054421725',10,mg,ROXANE LABS.,Active
+Dolophine,'00054421925',10,mg,"WEST-WARD, INC.",Active
+Dolophine,'00002106402',5,mg,ELI LILLY & CO.,Active
+Dolophine,'00002106404',5,mg,ELI LILLY & CO.,Active
+Dolophine,'00054421625',5,mg,ROXANE LABS.,Active
+Dolophine,'00054421825',5,mg,"WEST-WARD, INC.",Active
+Dolophine,'00002168201',10,mg/mL,ELI LILLY & CO.,Inactive
+Dolophine,'00002168225',10,mg/mL,ELI LILLY & CO.,Inactive
+Dolophine,'00054121811',10,mg/mL,ROXANE LABS.,Inactive
+Dolophine,'00054121842',10,mg/mL,ROXANE LABS.,Inactive
+Methadone Intensol,'00054355344',10,mg/mL,ROXANE/WEST-WAR,Active
+Methadose,'00019052705',10,mg/mL,MALLINCKRODT,Active
+Methadose,'00406052705',10,mg/mL,MALLINCKRODT SP,Active
+Methadose,'00406052710',10,mg/mL,MALLINCKRODT PH,Active
+Methadose,'00406872510',10,mg/mL,MALLINCKRODT PH,Active
+Methadose,'00406054034',40,mg,MALLINCKRODT PH,Active
+Methadose,'49999084130',40,mg,QUALITY CARE,Active
+Methadose,'49999084160',40,mg,QUALITY CARE,Active
+Methadose,'57866318801',40,mg,VIBRANTA INC.,Active
+Methadose,'57866318802',40,mg,VIBRANTA INC.,Active
+Methadose,'60687020932',40,mg,AHP,Active
+Methadose,'60687020933',40,mg,AHP,Active
+Methadose,'00406345434',10,mg,MALLINCKRODT PH,Inactive
+Methadose,'49999084030',10,mg,QUALITY CARE,Inactive
+Methadose,'49999084060',10,mg,QUALITY CARE,Inactive
+Methadose,'54868285401',10,mg,PHYSICIANS TC.,Inactive
+Methadose,'54868285402',10,mg,PHYSICIANS TC.,Inactive
+Methadose,'57866318701',10,mg,VIBRANTA INC.,Inactive
+Methadose,'57866318702',10,mg,VIBRANTA INC.,Inactive
+Methadose,'00406697434',5,mg,MALLINCKRODT PH,Inactive
+Methadose,'54868440800',5,mg,PHYSICIANS TC.,Inactive
+Methadose,'54868440801',5,mg,PHYSICIANS TC.,Inactive
+methadone,'66479053002',10,mg/mL,BIONICHE PHARMA,Active
+methadone,'66591081551',10,mg/mL,XANODYNE PHARM,Active
+methadone,'67457021720',10,mg/mL,MYLAN INSTITUTI,Active
+methadone,'61553014940',10,mg/mL,PHARMEDIUM/OF,Active
+methadone,'61553014978',10,mg/mL,PHARMEDIUM,Active
+methadone,'00054457125',10,mg,"WEST-WARD, INC.",Active
+methadone,'00054855411',10,mg,ROXANE LABS.,Active
+methadone,'00054855424',10,mg,"WEST-WARD, INC.",Active
+methadone,'00378327201',10,mg,MYLAN,Active
+methadone,'00406577101',10,mg,MALLINCKRODT PH,Active
+methadone,'00406577123',10,mg,MALLINCKRODT PH,Active
+methadone,'00406577162',10,mg,MALLINCKRODT PH,Active
+methadone,'00904653060',10,mg,MAJOR PHARMACEU,Active
+methadone,'00904653061',10,mg,MAJOR PHARMACEU,Active
+methadone,'10544037808',10,mg,BLENHEIM PHARMA,Active
+methadone,'10544037828',10,mg,BLENHEIM PHARMA,Active
+methadone,'10544037830',10,mg,BLENHEIM PHARMA,Active
+methadone,'10544037860',10,mg,BLENHEIM PHARMA,Active
+methadone,'13107008901',10,mg,AUROBINDO PHARM,Active
+methadone,'16590067007',10,mg,STAT RX USA,Active
+methadone,'16590067045',10,mg,STAT RX USA,Active
+methadone,'16590067060',10,mg,STAT RX USA,Active
+methadone,'16590067071',10,mg,STAT RX USA,Active
+methadone,'16590067072',10,mg,STAT RX USA,Active
+methadone,'16590067082',10,mg,STAT RX USA,Active
+methadone,'16590067083',10,mg,STAT RX USA,Active
+methadone,'16590067090',10,mg,STAT RX USA,Active
+methadone,'23490587703',10,mg,PALMETTO STATE,Active
+methadone,'23490587706',10,mg,PALMETTO STATE,Active
+methadone,'23490587707',10,mg,PALMETTO STATE,Active
+methadone,'23490587709',10,mg,PALMETTO STATE,Active
+methadone,'35356083401',10,mg,QUALITY CARE,Active
+methadone,'35356083430',10,mg,QUALITY CARE,Active
+methadone,'35356083460',10,mg,QUALITY CARE,Active
+methadone,'35356083490',10,mg,QUALITY CARE,Active
+methadone,'42549057802',10,mg,4UORTHO LLC,Active
+methadone,'42549057808',10,mg,4UORTHO LLC,Active
+methadone,'42549057828',10,mg,4UORTHO LLC,Active
+methadone,'42549057830',10,mg,4UORTHO LLC,Active
+methadone,'42549057856',10,mg,4UORTHO LLC,Active
+methadone,'42549057860',10,mg,4UORTHO LLC,Active
+methadone,'49999083901',10,mg,QUALITY CARE,Active
+methadone,'49999083930',10,mg,QUALITY CARE,Active
+methadone,'49999083960',10,mg,QUALITY CARE,Active
+methadone,'49999083990',10,mg,QUALITY CARE,Active
+methadone,'52959038602',10,mg,PHARMA PAC,Active
+methadone,'52959038630',10,mg,PHARMA PAC,Active
+methadone,'52959038660',10,mg,PHARMA PAC,Active
+methadone,'52959038690',10,mg,PHARMA PAC,Active
+methadone,'54868285400',10,mg,PHYSICIANS TC.,Active
+methadone,'54868285403',10,mg,PHYSICIANS TC.,Active
+methadone,'54868494800',10,mg,PHYSICIANS TC.,Active
+methadone,'54868494801',10,mg,PHYSICIANS TC.,Active
+methadone,'54868494802',10,mg,PHYSICIANS TC.,Active
+methadone,'54868494803',10,mg,PHYSICIANS TC.,Active
+methadone,'54868494805',10,mg,PHYSICIANS TC.,Active
+methadone,'54868494806',10,mg,PHYSICIANS TC.,Active
+methadone,'54868494807',10,mg,PHYSICIANS TC.,Active
+methadone,'55289081430',10,mg,PD-RX PHARM,Active
+methadone,'55289081460',10,mg,PD-RX PHARM,Active
+methadone,'55289081490',10,mg,PD-RX PHARM,Active
+methadone,'55289081493',10,mg,PD-RX PHARM,Active
+methadone,'55289081498',10,mg,PD-RX PHARM,Active
+methadone,'55289081499',10,mg,PD-RX PHARM,Active
+methadone,'55887020060',10,mg,DHS INC.,Active
+methadone,'55887020082',10,mg,DHS INC.,Active
+methadone,'55887020090',10,mg,DHS INC.,Active
+methadone,'57866707001',10,mg,VIBRANTA INC.,Active
+methadone,'57866707002',10,mg,VIBRANTA INC.,Active
+methadone,'57866707003',10,mg,VIBRANTA INC.,Active
+methadone,'57866707006',10,mg,VIBRANTA INC.,Active
+methadone,'63629377101',10,mg,BRYANT RANCH PR,Active
+methadone,'63629377102',10,mg,BRYANT RANCH PR,Active
+methadone,'63629377103',10,mg,BRYANT RANCH PR,Active
+methadone,'63629377104',10,mg,BRYANT RANCH PR,Active
+methadone,'63629377105',10,mg,BRYANT RANCH PR,Active
+methadone,'63629377106',10,mg,BRYANT RANCH PR,Active
+methadone,'63739000610',10,mg,MCKESSON PACKAG,Active
+methadone,'66336017130',10,mg,DISPENSING SOLN,Active
+methadone,'66336017142',10,mg,DISPENSING SOLN,Active
+methadone,'66336017156',10,mg,DISPENSING SOLN,Active
+methadone,'66336017160',10,mg,DISPENSING SOLN,Active
+methadone,'66336017162',10,mg,DISPENSING SOLN,Active
+methadone,'66336017190',10,mg,DISPENSING SOLN,Active
+methadone,'66336017194',10,mg,DISPENSING SOLN,Active
+methadone,'66336017198',10,mg,DISPENSING SOLN,Active
+methadone,'66689081010',10,mg,VISTAPHARM,Active
+methadone,'67877011601',10,mg,ASCEND LABORATO,Active
+methadone,'68084073801',10,mg,AHP,Active
+methadone,'68084073811',10,mg,AHP,Active
+methadone,'68115057100',10,mg,"DISPENSEXPRESS,",Active
+methadone,'00054355663',10,mg/5 mL,ROXANE/WEST-WAR,Active
+methadone,'00054854916',10,mg/5 mL,ROXANE LABS.,Active
+methadone,'66689071216',10,mg/5 mL,VISTAPHARM,Active
+methadone,'00054039168',10,mg/mL,ROXANE/WEST-WAR,Active
+methadone,'00054039268',10,mg/mL,ROXANE/WEST-WAR,Active
+methadone,'00054355367',10,mg/mL,ROXANE LABS.,Active
+methadone,'00054355467',10,mg/mL,ROXANE LABS.,Active
+methadone,'51079069439',10,mg/mL,UDL,Active
+methadone,'64019055367',10,mg/mL,ROXANE LABS.,Active
+methadone,'64019055467',10,mg/mL,ROXANE LABS.,Active
+methadone,'66689069430',10,mg/mL,VISTAPHARM,Active
+methadone,'66689069439',10,mg/mL,VISTAPHARM,Active
+methadone,'66689069479',10,mg/mL,VISTAPHARM,Active
+methadone,'66689069579',10,mg/mL,VISTAPHARM,Active
+methadone,'00002215302',40,mg,ELI LILLY & CO.,Active
+methadone,'00054454725',40,mg,ROXANE LABS.,Active
+methadone,'00054854725',40,mg,ROXANE LABS.,Active
+methadone,'00406254001',40,mg,MALLINCKRODT PH,Active
+methadone,'23490779801',40,mg,PALMETTO STATE,Active
+methadone,'23490779803',40,mg,PALMETTO STATE,Active
+methadone,'51079089840',40,mg,UDL,Active
+methadone,'55887013460',40,mg,DHS INC.,Active
+methadone,'55887013490',40,mg,DHS INC.,Active
+methadone,'57866708101',40,mg,VIBRANTA INC.,Active
+methadone,'57866708102',40,mg,VIBRANTA INC.,Active
+methadone,'64019053825',40,mg,ROXANE LABS.,Active
+methadone,'66689089840',40,mg,VISTAPHARM,Active
+methadone,'68084097732',40,mg,AHP,Active
+methadone,'68084097733',40,mg,AHP,Active
+methadone,'00054457025',5,mg,"WEST-WARD, INC.",Active
+methadone,'00054855311',5,mg,ROXANE LABS.,Active
+methadone,'00054855324',5,mg,"WEST-WARD, INC.",Active
+methadone,'00378326001',5,mg,MYLAN,Active
+methadone,'00406575501',5,mg,MALLINCKRODT PH,Active
+methadone,'00406575523',5,mg,MALLINCKRODT PH,Active
+methadone,'00406575562',5,mg,MALLINCKRODT PH,Active
+methadone,'10544037702',5,mg,BLENHEIM PHARMA,Active
+methadone,'10544037728',5,mg,BLENHEIM PHARMA,Active
+methadone,'13107008801',5,mg,AUROBINDO PHARM,Active
+methadone,'16590068945',5,mg,STAT RX USA,Active
+methadone,'16590068960',5,mg,STAT RX USA,Active
+methadone,'16590068972',5,mg,STAT RX USA,Active
+methadone,'16590068990',5,mg,STAT RX USA,Active
+methadone,'23490587801',5,mg,PALMETTO STATE,Active
+methadone,'23490587802',5,mg,PALMETTO STATE,Active
+methadone,'23490587803',5,mg,PALMETTO STATE,Active
+methadone,'23490587809',5,mg,PALMETTO STATE,Active
+methadone,'35356083530',5,mg,QUALITY CARE,Active
+methadone,'35356083560',5,mg,QUALITY CARE,Active
+methadone,'35356083590',5,mg,QUALITY CARE,Active
+methadone,'42549057702',5,mg,4UORTHO LLC,Active
+methadone,'42549057728',5,mg,4UORTHO LLC,Active
+methadone,'43063022260',5,mg,PD-RX PHARM,Active
+methadone,'43063022290',5,mg,PD-RX PHARM,Active
+methadone,'43063022293',5,mg,PD-RX PHARM,Active
+methadone,'43063022298',5,mg,PD-RX PHARM,Active
+methadone,'49999096330',5,mg,QUALITY CARE,Active
+methadone,'49999096360',5,mg,QUALITY CARE,Active
+methadone,'49999096390',5,mg,QUALITY CARE,Active
+methadone,'52959043530',5,mg,PHARMA PAC,Active
+methadone,'54868570100',5,mg,PHYSICIANS TC.,Active
+methadone,'54868570101',5,mg,PHYSICIANS TC.,Active
+methadone,'54868570102',5,mg,PHYSICIANS TC.,Active
+methadone,'54868570103',5,mg,PHYSICIANS TC.,Active
+methadone,'55887009082',5,mg,DHS INC.,Active
+methadone,'55887009090',5,mg,DHS INC.,Active
+methadone,'57866395001',5,mg,VIBRANTA INC.,Active
+methadone,'57866395002',5,mg,VIBRANTA INC.,Active
+methadone,'57866395003',5,mg,VIBRANTA INC.,Active
+methadone,'60687021401',5,mg,AHP,Active
+methadone,'60687021411',5,mg,AHP,Active
+methadone,'63629378801',5,mg,BRYANT RANCH PR,Active
+methadone,'66336017030',5,mg,DISPENSING SOLN,Active
+methadone,'66336017060',5,mg,DISPENSING SOLN,Active
+methadone,'66336017062',5,mg,DISPENSING SOLN,Active
+methadone,'66336017090',5,mg,DISPENSING SOLN,Active
+methadone,'66336017094',5,mg,DISPENSING SOLN,Active
+methadone,'68115057200',5,mg,"DISPENSEXPRESS,",Active
+methadone,'00054355563',5,mg/5 mL,ROXANE/WEST-WAR,Active
+methadone,'00054854816',5,mg/5 mL,ROXANE LABS.,Active
+methadone,'66689071116',5,mg/5 mL,VISTAPHARM,Active
+methadone,'24200028363',10,mg/mL,AMERIDOSE LLC,Inactive
+methadone,'24200028149',5,mg/5 mL,AMERIDOSE LLC,Inactive
+methadone (bulk),'00019151056',100,%,MALLINCKRODT,Active
+methadone (bulk),'00019151057',100,%,MALLINCKRODT,Active
+methadone (bulk),'00019151059',100,%,MALLINCKRODT,Active
+methadone (bulk),'00019151061',100,%,MALLINCKRODT,Active
+methadone (bulk),'00054975085',100,%,ROXANE LABS.,Active
+methadone (bulk),'00054975088',100,%,ROXANE LABS.,Active
+methadone (bulk),'00406151056',100,%,MALLINCKRODT PH,Active
+methadone (bulk),'00406151057',100,%,MALLINCKRODT PH,Active
+methadone (bulk),'00406151059',100,%,MALLINCKRODT PH,Active
+methadone (bulk),'38779010403',100,%,MEDISCA INC.,Active
+methadone (bulk),'38779010404',100,%,MEDISCA INC.,Active
+methadone (bulk),'38779010405',100,%,MEDISCA INC.,Active
+methadone (bulk),'49452455301',100,%,SPECTRUM,Active
+methadone (bulk),'49452455302',100,%,SPECTRUM,Active
+methadone (bulk),'49452455303',100,%,SPECTRUM,Active
+methadone (bulk),'51079068155',100,%,UDL,Active
+methadone (bulk),'51552072801',100,%,FAGRON INC,Active
+methadone (bulk),'51552072802',100,%,FAGRON INC,Active
+methadone (bulk),'51552072804',100,%,FAGRON INC,Active
+methadone (bulk),'51552072806',100,%,FAGRON INC,Active
+methadone (bulk),'51927101700',100,%,PROFESSIONAL CO,Active
+methadone (bulk),'52372079601',100,%,FREEDOM PHARMAC,Active
+methadone (bulk),'52372079602',100,%,FREEDOM PHARMAC,Active
+methadone (bulk),'52372079603',100,%,FREEDOM PHARMAC,Active
+methadone (bulk),'62991140801',100,%,"LETCO MEDICAL,",Active
+methadone (bulk),'62991140802',100,%,"LETCO MEDICAL,",Active
+methadone (bulk),'62991140803',100,%,"LETCO MEDICAL,",Active
+methadone (bulk),'62991140805',100,%,"LETCO MEDICAL,",Active
+methadone (bulk),'63275910004',100,%,B&B PHARM,Active
+methadone (bulk),'63275910005',100,%,B&B PHARM,Active
+methadone (bulk),'64019075088',100,%,CEBERT PHARM,Active
+methadone (bulk),'66689068155',100,%,VISTAPHARM,Active
+methadone in 0.9 % sod. chlor,'61553012078',1,mg/mL (1 mL),PHARMEDIUM,Active
+methadone in 0.9 % sod. chlor,'61553013490',2.5,mg/0.5 mL,PHARMEDIUM/OF,Active
+methadone in 0.9 % sod. chlor,'24200027503',1,mg/mL,AMERIDOSE LLC,Inactive
+Orlaam,'00054364962',10,mg/mL,ROXANE LABS.,Inactive
+Orlaam,'00054364963',10,mg/mL,ROXANE LABS.,Inactive
+Orlaam,'59527000150',10,mg/mL,BIODEVELOPMENT,Inactive
+Bunavail,'59385001201',2.1-0.3,mg,BIODELIVERY SCI,Active
+Bunavail,'59385001230',2.1-0.3,mg,BIODELIVERY SCI,Active
+Bunavail,'59385001401',4.2-0.7,mg,BIODELIVERY SCI,Active
+Bunavail,'59385001430',4.2-0.7,mg,BIODELIVERY SCI,Active
+Bunavail,'59385001601',6.3-1,mg,BIODELIVERY SCI,Active
+Bunavail,'59385001630',6.3-1,mg,BIODELIVERY SCI,Active
+Suboxone,'12496121201',3-Dec,mg,INDIVIOR INC.,Active
+Suboxone,'12496121203',3-Dec,mg,INDIVIOR INC.,Active
+Suboxone,'12496120201',2-0.5,mg,INDIVIOR INC.,Active
+Suboxone,'12496120203',2-0.5,mg,INDIVIOR INC.,Active
+Suboxone,'12496120401',1-Apr,mg,INDIVIOR INC.,Active
+Suboxone,'12496120403',1-Apr,mg,INDIVIOR INC.,Active
+Suboxone,'12496120801',2-Aug,mg,INDIVIOR INC.,Active
+Suboxone,'12496120803',2-Aug,mg,INDIVIOR INC.,Active
+Suboxone,'54569639900',2-Aug,mg,A-S MEDICATION,Active
+Suboxone,'55700014730',2-Aug,mg,QUALITY CARE,Active
+Suboxone,'12496128302',2-0.5,mg,INDIVIOR INC.,Inactive
+Suboxone,'16590066630',2-0.5,mg,STAT RX USA,Inactive
+Suboxone,'49999039507',2-0.5,mg,QUALITY CARE,Inactive
+Suboxone,'49999039515',2-0.5,mg,QUALITY CARE,Inactive
+Suboxone,'49999039530',2-0.5,mg,QUALITY CARE,Inactive
+Suboxone,'52959074930',2-0.5,mg,PHARMA PAC,Inactive
+Suboxone,'54569549600',2-0.5,mg,A-S MEDICATION,Inactive
+Suboxone,'54868575000',2-0.5,mg,PHYSICIANS TC.,Inactive
+Suboxone,'63629402801',2-0.5,mg,BRYANT RANCH PR,Inactive
+Suboxone,'63874108503',2-0.5,mg,ALTURA PHARMA,Inactive
+Suboxone,'68071151003',2-0.5,mg,NUCARE PHARMACE,Inactive
+Suboxone,'68258299903',2-0.5,mg,DISPENSING SOLN,Inactive
+Suboxone,'12496130602',2-Aug,mg,INDIVIOR INC.,Inactive
+Suboxone,'35356000407',2-Aug,mg,QUALITY CARE,Inactive
+Suboxone,'35356000430',2-Aug,mg,QUALITY CARE,Inactive
+Suboxone,'43063018407',2-Aug,mg,PD-RX PHARM,Inactive
+Suboxone,'43063018430',2-Aug,mg,PD-RX PHARM,Inactive
+Suboxone,'52959030430',2-Aug,mg,PHARMA PAC,Inactive
+Suboxone,'54569573900',2-Aug,mg,A-S MEDICATION,Inactive
+Suboxone,'54569573901',2-Aug,mg,A-S MEDICATION,Inactive
+Suboxone,'54569573902',2-Aug,mg,A-S MEDICATION,Inactive
+Suboxone,'54868570700',2-Aug,mg,PHYSICIANS TC.,Inactive
+Suboxone,'54868570701',2-Aug,mg,PHYSICIANS TC.,Inactive
+Suboxone,'54868570702',2-Aug,mg,PHYSICIANS TC.,Inactive
+Suboxone,'54868570703',2-Aug,mg,PHYSICIANS TC.,Inactive
+Suboxone,'54868570704',2-Aug,mg,PHYSICIANS TC.,Inactive
+Suboxone,'55045378403',2-Aug,mg,DRX,Inactive
+Suboxone,'63629403401',2-Aug,mg,BRYANT RANCH PR,Inactive
+Suboxone,'63629403402',2-Aug,mg,BRYANT RANCH PR,Inactive
+Suboxone,'63629403403',2-Aug,mg,BRYANT RANCH PR,Inactive
+Suboxone,'63874108403',2-Aug,mg,ALTURA PHARMA,Inactive
+Suboxone,'66336001630',2-Aug,mg,DISPENSING SOLN,Inactive
+Suboxone,'68071138003',2-Aug,mg,NUCARE PHARMACE,Inactive
+Zubsolv,'54123090730',0.7-0.18,mg,"OREXO US, INC.",Active
+Zubsolv,'54123091430',1.4-0.36,mg,"OREXO US, INC.",Active
+Zubsolv,'54123011430',11.4-2.9,mg,"OREXO US, INC.",Active
+Zubsolv,'54123092930',2.9-0.71,mg,"OREXO US, INC.",Active
+Zubsolv,'54123095730',5.7-1.4,mg,"OREXO US, INC.",Active
+Zubsolv,'54123098630',8.6-2.1,mg,"OREXO US, INC.",Active
+buprenorphine-naloxone,'00054018813',2-0.5,mg,"WEST-WARD, INC.",Active
+buprenorphine-naloxone,'00093572056',2-0.5,mg,TEVA USA,Active
+buprenorphine-naloxone,'00228315403',2-0.5,mg,ACTAVIS PHARMA,Active
+buprenorphine-naloxone,'00228315473',2-0.5,mg,ACTAVIS PHARMA,Active
+buprenorphine-naloxone,'00406192303',2-0.5,mg,MALLINCKRODT PH,Active
+buprenorphine-naloxone,'42291017430',2-0.5,mg,AVKARE,Active
+buprenorphine-naloxone,'50268014411',2-0.5,mg,AVPAK,Active
+buprenorphine-naloxone,'50268014415',2-0.5,mg,AVPAK,Active
+buprenorphine-naloxone,'50383029493',2-0.5,mg,HI-TECH/AKORN C,Active
+buprenorphine-naloxone,'55700018430',2-0.5,mg,QUALITY CARE,Active
+buprenorphine-naloxone,'60429058630',2-0.5,mg,"GSMS, INC.",Active
+buprenorphine-naloxone,'65162041603',2-0.5,mg,AMNEAL PHARMACE,Active
+buprenorphine-naloxone,'00054018913',2-Aug,mg,"WEST-WARD, INC.",Active
+buprenorphine-naloxone,'00093572156',2-Aug,mg,TEVA USA,Active
+buprenorphine-naloxone,'00228315503',2-Aug,mg,ACTAVIS PHARMA,Active
+buprenorphine-naloxone,'00228315573',2-Aug,mg,ACTAVIS PHARMA,Active
+buprenorphine-naloxone,'00406192403',2-Aug,mg,MALLINCKRODT PH,Active
+buprenorphine-naloxone,'42291017530',2-Aug,mg,AVKARE,Active
+buprenorphine-naloxone,'50268014511',2-Aug,mg,AVPAK,Active
+buprenorphine-naloxone,'50268014515',2-Aug,mg,AVPAK,Active
+buprenorphine-naloxone,'50383028793',2-Aug,mg,HI-TECH/AKORN C,Active
+buprenorphine-naloxone,'54569640800',2-Aug,mg,A-S MEDICATION,Active
+buprenorphine-naloxone,'60429058730',2-Aug,mg,"GSMS, INC.",Active
+buprenorphine-naloxone,'65162041503',2-Aug,mg,AMNEAL PHARMACE,Active
+Vivitrol,'63459030042',380,mg,"CEPHALON,INC.-T",Active
+Vivitrol,'65757030001',380,mg,ALKERMES INC,Active
+Vivitrol,'65757030202',380,mg,ALKERMES INC,Active

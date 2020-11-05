@@ -1,0 +1,127 @@
+drug_name,ndc,strength,strength_uom,manufacturer,status
+Ketaject,'00015834096',10,mg/mL,BRISTOL LABS.,Inactive
+Ketaject,'00015834397',100,mg/mL,BRISTOL LABS.,Inactive
+Ketaject,'00015834197',50,mg/mL,BRISTOL LABS.,Inactive
+Ketalar,'00071458112',10,mg/mL,MONARCH PHRM,Active
+Ketalar,'00071458113',10,mg/mL,"PARKE,DAVIS CO.",Active
+Ketalar,'00071458115',10,mg/mL,"PARKE,DAVIS CO.",Active
+Ketalar,'42023011310',10,mg/mL,PAR PHARMACEUTI,Active
+Ketalar,'61570058110',10,mg/mL,JHP PHARMACEUTI,Active
+Ketalar,'00071458508',100,mg/mL,MONARCH PHRM,Active
+Ketalar,'42023011510',100,mg/mL,PAR PHARMACEUTI,Active
+Ketalar,'61570058510',100,mg/mL,JHP PHARMACEUTI,Active
+Ketalar,'00071458210',50,mg/mL,MONARCH PHRM,Active
+Ketalar,'42023011410',50,mg/mL,PAR PHARMACEUTI,Active
+Ketalar,'54569432200',50,mg/mL,A-S MEDICATION,Active
+Ketalar,'61570058210',50,mg/mL,JHP PHARMACEUTI,Active
+ketamine,'42023013710',10,mg/mL,PAR PHARM.,Active
+ketamine,'51309051420',10,mg/mL,QUAD,Active
+ketamine,'51309051430',10,mg/mL,QUAD,Active
+ketamine,'60793058110',10,mg/mL,KING PHARM,Active
+ketamine,'67457018100',10,mg/mL,MYLAN INSTITUTI,Active
+ketamine,'67457018120',10,mg/mL,MYLAN INSTITUTI,Active
+ketamine,'00024109001',100,mg/mL,SANOFI WINTHROP,Active
+ketamine,'00074205105',100,mg/mL,HOSPIRA,Active
+ketamine,'00143950901',100,mg/mL,"WEST-WARD, INC.",Active
+ketamine,'00143950910',100,mg/mL,"WEST-WARD, INC.",Active
+ketamine,'00409205105',100,mg/mL,HOSPIRA,Active
+ketamine,'10139005610',100,mg/mL,"GENERAMEDIX, IN",Active
+ketamine,'10139005612',100,mg/mL,"GENERAMEDIX, IN",Active
+ketamine,'42023013910',100,mg/mL,PAR PHARM.,Active
+ketamine,'51309051605',100,mg/mL,QUAD,Active
+ketamine,'54868509300',100,mg/mL,PHYSICIANS TC.,Active
+ketamine,'60793058510',100,mg/mL,KING PHARM,Active
+ketamine,'62086010810',100,mg/mL,BIONICHE PHARMA,Active
+ketamine,'67457010800',100,mg/mL,MYLAN INSTITUTI,Active
+ketamine,'67457010810',100,mg/mL,MYLAN INSTITUTI,Active
+ketamine,'00024109101',50,mg/mL,SANOFI WINTHROP,Active
+ketamine,'00074205310',50,mg/mL,HOSPIRA,Active
+ketamine,'00143950801',50,mg/mL,"WEST-WARD, INC.",Active
+ketamine,'00143950810',50,mg/mL,"WEST-WARD, INC.",Active
+ketamine,'00409205310',50,mg/mL,HOSPIRA,Active
+ketamine,'10139005510',50,mg/mL,"GENERAMEDIX, IN",Active
+ketamine,'10139005512',50,mg/mL,"GENERAMEDIX, IN",Active
+ketamine,'42023013810',50,mg/mL,PAR PHARM.,Active
+ketamine,'51309051510',50,mg/mL,QUAD,Active
+ketamine,'54868439900',50,mg/mL,PHYSICIANS TC.,Active
+ketamine,'55390047510',50,mg/mL,BEDFORD LABS,Active
+ketamine,'60793058210',50,mg/mL,KING PHARM,Active
+ketamine,'62086000110',50,mg/mL,BIONICHE PHARMA,Active
+ketamine,'67457000100',50,mg/mL,MYLAN INSTITUTI,Active
+ketamine,'67457000110',50,mg/mL,MYLAN INSTITUTI,Active
+ketamine,'61553050028',100 mg/2 mL,(50 mg/mL),PHARMEDIUM/OF,Active
+ketamine,'61553050036',100 mg/2 mL,(50 mg/mL),PHARMEDIUM/OF,Active
+ketamine,'61553034840',50,mg/mL (1 mL),PHARMEDIUM,Active
+ketamine,'61553034878',50,mg/mL (1 mL),PHARMEDIUM,Active
+ketamine,'66647302010',50,mg/mL (1 mL),CENTRAL ADMIXTU,Active
+ketamine,'66647302110',100,mg/mL,CENTRAL ADMIXTU,Inactive
+ketamine,'24200142744',20 mg/2 mL,(10 mg/mL),AMERIDOSE LLC,Inactive
+ketamine (bulk),'38779175400',100,%,MEDISCA INC.,Active
+ketamine (bulk),'38779175402',100,%,MEDISCA INC.,Active
+ketamine (bulk),'38779175403',100,%,MEDISCA INC.,Active
+ketamine (bulk),'38779175404',100,%,MEDISCA INC.,Active
+ketamine (bulk),'38779175405',100,%,MEDISCA INC.,Active
+ketamine (bulk),'38779175407',100,%,MEDISCA INC.,Active
+ketamine (bulk),'38779175408',100,%,MEDISCA INC.,Active
+ketamine (bulk),'38779175409',100,%,MEDISCA INC.,Active
+ketamine (bulk),'38779288002',100,%,MEDISCA INC.,Active
+ketamine (bulk),'38779288008',100,%,MEDISCA INC.,Active
+ketamine (bulk),'45861004801',100,%,PHARMACEUTICA N,Active
+ketamine (bulk),'45861004885',100,%,PHARMACEUTICA N,Active
+ketamine (bulk),'49452009401',100,%,SPECTRUM,Active
+ketamine (bulk),'49452009402',100,%,SPECTRUM,Active
+ketamine (bulk),'49452391202',100,%,SPECTRUM,Active
+ketamine (bulk),'49452391203',100,%,SPECTRUM,Active
+ketamine (bulk),'51021080255',100,%,SIRCLE LABORATO,Active
+ketamine (bulk),'51552069702',100,%,FAGRON INC,Active
+ketamine (bulk),'51552069704',100,%,FAGRON INC,Active
+ketamine (bulk),'51552069705',100,%,FAGRON INC,Active
+ketamine (bulk),'51552069706',100,%,FAGRON INC,Active
+ketamine (bulk),'51552069707',100,%,FAGRON INC,Active
+ketamine (bulk),'51552069725',100,%,FAGRON INC,Active
+ketamine (bulk),'51552069799',100,%,FAGRON INC,Active
+ketamine (bulk),'51927279000',100,%,PROFESSIONAL CO,Active
+ketamine (bulk),'52372088501',100,%,FREEDOM PHARMAC,Active
+ketamine (bulk),'52372088502',100,%,FREEDOM PHARMAC,Active
+ketamine (bulk),'52372088503',100,%,FREEDOM PHARMAC,Active
+ketamine (bulk),'52372088504',100,%,FREEDOM PHARMAC,Active
+ketamine (bulk),'52372088505',100,%,FREEDOM PHARMAC,Active
+ketamine (bulk),'52372088506',100,%,FREEDOM PHARMAC,Active
+ketamine (bulk),'55812021201',100,%,DIVERSIFIED PHA,Active
+ketamine (bulk),'55812021202',100,%,DIVERSIFIED PHA,Active
+ketamine (bulk),'55812021203',100,%,DIVERSIFIED PHA,Active
+ketamine (bulk),'55812021204',100,%,DIVERSIFIED PHA,Active
+ketamine (bulk),'55812021205',100,%,DIVERSIFIED PHA,Active
+ketamine (bulk),'55812021206',100,%,DIVERSIFIED PHA,Active
+ketamine (bulk),'58597833303',100,%,AMERICAN PHARMA,Active
+ketamine (bulk),'58597833304',100,%,AMERICAN PHARMA,Active
+ketamine (bulk),'58597833306',100,%,AMERICAN PHARMA,Active
+ketamine (bulk),'58597833307',100,%,AMERICAN PHARMA,Active
+ketamine (bulk),'58597833308',100,%,AMERICAN PHARMA,Active
+ketamine (bulk),'62991108701',100,%,"LETCO MEDICAL,",Active
+ketamine (bulk),'62991108702',100,%,"LETCO MEDICAL,",Active
+ketamine (bulk),'62991108703',100,%,"LETCO MEDICAL,",Active
+ketamine (bulk),'62991108704',100,%,"LETCO MEDICAL,",Active
+ketamine (bulk),'62991108705',100,%,"LETCO MEDICAL,",Active
+ketamine (bulk),'62991108707',100,%,"LETCO MEDICAL,",Active
+ketamine (bulk),'62991108709',100,%,"LETCO MEDICAL,",Active
+ketamine (bulk),'63275998004',100,%,B&B PHARM,Active
+ketamine (bulk),'63275998005',100,%,B&B PHARM,Active
+ketamine (bulk),'63275998009',100,%,B&B PHARM,Active
+ketamine (bulk),'63370012525',100,%,HAWKINS CHEMICA,Active
+ketamine (bulk),'63370012535',100,%,HAWKINS CHEMICA,Active
+ketamine (bulk),'63370012550',100,%,HAWKINS CHEMICA,Active
+ketamine in 0.9 % sod chloride,'61553033165',100 mg/10 mL,(10 mg/mL),PHARMEDIUM,Active
+ketamine in 0.9 % sod chloride,'61553033172',100 mg/10 mL,(10 mg/mL),PHARMEDIUM,Active
+ketamine in 0.9 % sod chloride,'66647302242',100 mg/10 mL,(10 mg/mL),CENTRAL ADMIXTU,Active
+ketamine in 0.9 % sod chloride,'70004043430',2,mg/mL,SCA PHARMACEUTI,Active
+ketamine in 0.9 % sod chloride,'66647332211',20 mg/2 mL,(10 mg/mL),CENTRAL ADMIXTU,Active
+ketamine in 0.9 % sod chloride,'66647332221',20 mg/2 mL,(10 mg/mL),CENTRAL ADMIXTU,Active
+ketamine in 0.9 % sod chloride,'61553033028',20 mg/2 mL,(10 mg/mL),PHARMEDIUM/OF,Active
+ketamine in 0.9 % sod chloride,'66647302211',20 mg/2 mL,(10 mg/mL),CENTRAL ADMIXTU,Active
+ketamine in 0.9 % sod chloride,'61553032033',50 mg/5 mL,(10 mg/mL),PHARMEDIUM,Active
+ketamine in 0.9 % sod chloride,'61553032070',50 mg/5 mL,(10 mg/mL),PHARMEDIUM,Active
+ketamine in 0.9 % sod chloride,'66647302225',50 mg/5 mL,(10 mg/mL),CENTRAL ADMIXTU,Active
+ketamine in 0.9 % sod chloride,'70092111944',50 mg/5 mL,(10 mg/mL),"QUVA PHARMA, IN",Active
+ketamine in 0.9 % sod chloride,'75901802234',50 mg/5 mL,(10 mg/mL),HEALIX INFUSION,Active
+ketamine in sterile water,'52533003115',50 mg/5 mL,(10 mg/mL),CANTRELL DRUG C,Active

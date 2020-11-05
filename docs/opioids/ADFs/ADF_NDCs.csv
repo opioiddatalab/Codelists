@@ -1,243 +1,243 @@
-﻿NDC,DRUG_NAME,STRENGTH,STRENGTH_UNIT_OF_MEASURE,MANUFACTURER_ABBR_NAME,STATUS
-16590089730,Embeda,20-0.8,MG,STAT RX US,Inactive
-16590089760,Embeda,20-0.8,MG,STAT RX US,Inactive
-16590089960,Embeda,50-2,MG,STAT RX US,Inactive
-16590090330,Embeda,80-3.2,MG,STAT RX US,Inactive
-16590093230,Embeda,60-2.4,MG,STAT RX US,Inactive
-16590093260,Embeda,60-2.4,MG,STAT RX US,Inactive
-16590093290,Embeda,60-2.4,MG,STAT RX US,Inactive
-35356054930,Embeda,60-2.4,MG,QUALITY,Inactive
-35356055030,Embeda,100-4,MG,QUALITY,Inactive
-35356055130,Embeda,20-0.8,MG,QUALITY,Inactive
-35356055230,Embeda,30-1.2,MG,QUALITY,Inactive
-60793043001,Embeda,20-0.8,MG,PFIZER US,Inactive
-60793043020,Embeda,20-0.8,MG,PFIZER US,Active
-60793043101,Embeda,30-1.2,MG,PFIZER US,Inactive
-60793043120,Embeda,30-1.2,MG,PFIZER US,Active
-60793043301,Embeda,50-2,MG,PFIZER US,Inactive
-60793043320,Embeda,50-2,MG,PFIZER US,Active
-60793043401,Embeda,60-2.4,MG,PFIZER US,Inactive
-60793043420,Embeda,60-2.4,MG,PFIZER US,Active
-60793043501,Embeda,80-3.2,MG,PFIZER US,Inactive
-60793043520,Embeda,80-3.2,MG,PFIZER US,Active
-60793043701,Embeda,100-4,MG,PFIZER US,Inactive
-60793043720,Embeda,100-4,MG,PFIZER US,Active
-59011027160,Hysingla ER,20,MG,PURDUE,Active
-59011027260,Hysingla ER,30,MG,PURDUE,Active
-59011027360,Hysingla ER,40,MG,PURDUE,Active
-59011027460,Hysingla ER,60,MG,PURDUE,Active
-59011027560,Hysingla ER,80,MG,PURDUE,Active
-59011027660,Hysingla ER,100,MG,PURDUE,Active
-59011027760,Hysingla ER,120,MG,PURDUE,Active
-65597030110,MorphaBond ER,15,MG,SANKYO,Active
-65597030210,MorphaBond ER,30,MG,SANKYO,Active
-65597030310,MorphaBond ER,60,MG,SANKYO,Active
-65597030410,MorphaBond ER,100,MG,SANKYO,Active
-00093573101,oxyCODONE HCl ER,10,MG,TEVA USA,Active
-00093573201,oxyCODONE HCl ER,20,MG,TEVA USA,Active
-00093573301,oxyCODONE HCl ER,40,MG,TEVA USA,Active
-00093573401,oxyCODONE HCl ER,80,MG,TEVA USA,Active
-00115155601,oxyCODONE HCl ER,10,MG,AMNEAL,Active
-00115155701,oxyCODONE HCl ER,15,MG,AMNEAL,Active
-00115155801,oxyCODONE HCl ER,20,MG,AMNEAL,Active
-00115155901,oxyCODONE HCl ER,30,MG,AMNEAL,Active
-00115156001,oxyCODONE HCl ER,40,MG,AMNEAL,Active
-00115156101,oxyCODONE HCl ER,60,MG,AMNEAL,Active
-00115156201,oxyCODONE HCl ER,80,MG,AMNEAL,Active
-00591269301,oxyCODONE HCl ER,40,MG,ACTAVIS PH,Active
-00591270801,oxyCODONE HCl ER,80,MG,ACTAVIS PH,Active
-00781570301,oxyCODONE HCl ER,10,MG,SANDOZ,Inactive
-00781572601,oxyCODONE HCl ER,20,MG,SANDOZ,Inactive
-00781576701,oxyCODONE HCl ER,40,MG,SANDOZ,Inactive
-00781578501,oxyCODONE HCl ER,80,MG,SANDOZ,Inactive
-10702080101,oxyCODONE HCl ER,10,MG,KVK TECH,Active
-10702080301,oxyCODONE HCl ER,20,MG,KVK TECH,Active
-10702080501,oxyCODONE HCl ER,40,MG,KVK TECH,Active
-49884013601,oxyCODONE HCl ER,10,MG,PAR PHARMA,Inactive
-49884013701,oxyCODONE HCl ER,20,MG,PAR PHARMA,Inactive
-49884013801,oxyCODONE HCl ER,40,MG,PAR PHARMA,Inactive
-49884019701,oxyCODONE HCl ER,80,MG,PAR PHARMA,Inactive
-55700033430,oxyCODONE HCl ER,10,MG,QUALITY,Inactive
-55700042730,oxyCODONE HCl ER,40,MG,QUALITY,Inactive
-55700043130,oxyCODONE HCl ER,20,MG,QUALITY,Active
-55700043160,oxyCODONE HCl ER,20,MG,QUALITY,Active
-55700043730,oxyCODONE HCl ER,10,MG,QUALITY,Inactive
-55700044330,oxyCODONE HCl ER,40,MG,QUALITY,Active
-55700046290,oxyCODONE HCl ER,60,MG,QUALITY,Inactive
-63304068301,oxyCODONE HCl ER,40,MG,SUN PHARMA,Inactive
-63304068401,oxyCODONE HCl ER,80,MG,SUN PHARMA,Inactive
-10544059120,OxyCONTIN,10,MG,BLENHEIM,Inactive
-16590061530,OxyCONTIN,40,MG,STAT RX US,Inactive
-16590061540,OxyCONTIN,40,MG,STAT RX US,Inactive
-16590061556,OxyCONTIN,40,MG,STAT RX US,Inactive
-16590061560,OxyCONTIN,40,MG,STAT RX US,Inactive
-16590061562,OxyCONTIN,40,MG,STAT RX US,Inactive
-16590061572,OxyCONTIN,40,MG,STAT RX US,Inactive
-16590061590,OxyCONTIN,40,MG,STAT RX US,Inactive
-16590061630,OxyCONTIN,20,MG,STAT RX US,Inactive
-16590061656,OxyCONTIN,20,MG,STAT RX US,Inactive
-16590061660,OxyCONTIN,20,MG,STAT RX US,Inactive
-16590061662,OxyCONTIN,20,MG,STAT RX US,Inactive
-16590061672,OxyCONTIN,20,MG,STAT RX US,Inactive
-16590061673,OxyCONTIN,20,MG,STAT RX US,Inactive
-16590061690,OxyCONTIN,20,MG,STAT RX US,Inactive
-16590061730,OxyCONTIN,80,MG,STAT RX US,Inactive
-16590061760,OxyCONTIN,80,MG,STAT RX US,Inactive
-16590061772,OxyCONTIN,80,MG,STAT RX US,Inactive
-16590061786,OxyCONTIN,80,MG,STAT RX US,Inactive
-16590061790,OxyCONTIN,80,MG,STAT RX US,Inactive
-16590065330,OxyCONTIN,30,MG,STAT RX US,Inactive
-16590065360,OxyCONTIN,30,MG,STAT RX US,Inactive
-16590065372,OxyCONTIN,30,MG,STAT RX US,Inactive
-16590065390,OxyCONTIN,30,MG,STAT RX US,Inactive
-16590067710,OxyCONTIN,10,MG,STAT RX US,Inactive
-16590067715,OxyCONTIN,10,MG,STAT RX US,Inactive
-16590067720,OxyCONTIN,10,MG,STAT RX US,Inactive
-16590067730,OxyCONTIN,10,MG,STAT RX US,Inactive
-16590067760,OxyCONTIN,10,MG,STAT RX US,Inactive
-16590067762,OxyCONTIN,10,MG,STAT RX US,Inactive
-16590067772,OxyCONTIN,10,MG,STAT RX US,Inactive
-16590067790,OxyCONTIN,10,MG,STAT RX US,Inactive
-16590069060,OxyCONTIN,15,MG,STAT RX US,Inactive
-16590071730,OxyCONTIN,60,MG,STAT RX US,Inactive
-16590071760,OxyCONTIN,60,MG,STAT RX US,Inactive
-16590071790,OxyCONTIN,60,MG,STAT RX US,Inactive
-16590091060,OxyCONTIN,80,MG,STAT RX US,Inactive
-21695094160,OxyCONTIN,80,MG,PHYSICIAN,Inactive
-21695095160,OxyCONTIN,60,MG,PHYSICIAN,Inactive
-35356009005,OxyCONTIN,10,MG,QUALITY,Inactive
-35356009010,OxyCONTIN,10,MG,QUALITY,Inactive
-35356009014,OxyCONTIN,10,MG,QUALITY,Inactive
-35356009030,OxyCONTIN,10,MG,QUALITY,Inactive
-35356009130,OxyCONTIN,20,MG,QUALITY,Inactive
-35356009160,OxyCONTIN,20,MG,QUALITY,Inactive
-35356009190,OxyCONTIN,20,MG,QUALITY,Inactive
-35356039930,OxyCONTIN,40,MG,QUALITY,Inactive
-35356039960,OxyCONTIN,40,MG,QUALITY,Inactive
-35356040090,OxyCONTIN,80,MG,QUALITY,Inactive
-35356044430,OxyCONTIN,60,MG,QUALITY,Inactive
-35356078510,OxyCONTIN,10,MG,QUALITY,Inactive
-35356078514,OxyCONTIN,10,MG,QUALITY,Inactive
-35356078530,OxyCONTIN,10,MG,QUALITY,Inactive
-35356078590,OxyCONTIN,10,MG,QUALITY,Inactive
-35356078630,OxyCONTIN,20,MG,QUALITY,Inactive
-35356078660,OxyCONTIN,20,MG,QUALITY,Inactive
-35356078690,OxyCONTIN,20,MG,QUALITY,Inactive
-35356078730,OxyCONTIN,60,MG,QUALITY,Inactive
-35356078830,OxyCONTIN,40,MG,QUALITY,Inactive
-35356078860,OxyCONTIN,40,MG,QUALITY,Inactive
-35356078890,OxyCONTIN,40,MG,QUALITY,Inactive
-35356078930,OxyCONTIN,80,MG,QUALITY,Inactive
-35356078990,OxyCONTIN,80,MG,QUALITY,Inactive
-42254015960,OxyCONTIN,20,MG,PHYSICIAN,Inactive
-42549064530,OxyCONTIN,20,MG,STAT RX US,Inactive
-43063024430,OxyCONTIN,80,MG,PDRX PHARM,Inactive
-43063024530,OxyCONTIN,40,MG,PDRX PHARM,Inactive
-43063024630,OxyCONTIN,20,MG,PDRX PHARM,Inactive
-43063035402,OxyCONTIN,10,MG,PDRX PHARM,Inactive
-43063035410,OxyCONTIN,10,MG,PDRX PHARM,Inactive
-49999085630,OxyCONTIN,40,MG,QUALITY,Inactive
-49999085660,OxyCONTIN,40,MG,QUALITY,Inactive
-49999085690,OxyCONTIN,40,MG,QUALITY,Inactive
-49999085730,OxyCONTIN,80,MG,QUALITY,Inactive
-49999085790,OxyCONTIN,80,MG,QUALITY,Inactive
-52959014860,OxyCONTIN,20,MG,HJ HARKINS,Active
-52959039660,OxyCONTIN,40,MG,HJ HARKINS,Active
-54868381300,OxyCONTIN,10,MG,PHY TOT CA,Inactive
-54868381301,OxyCONTIN,10,MG,PHY TOT CA,Inactive
-54868381302,OxyCONTIN,10,MG,PHY TOT CA,Inactive
-54868381303,OxyCONTIN,10,MG,PHY TOT CA,Inactive
-54868381304,OxyCONTIN,10,MG,PHY TOT CA,Inactive
-54868381305,OxyCONTIN,10,MG,PHY TOT CA,Inactive
-54868381400,OxyCONTIN,20,MG,PHY TOT CA,Inactive
-54868381401,OxyCONTIN,20,MG,PHY TOT CA,Inactive
-54868381402,OxyCONTIN,20,MG,PHY TOT CA,Inactive
-54868381403,OxyCONTIN,20,MG,PHY TOT CA,Inactive
-54868381404,OxyCONTIN,20,MG,PHY TOT CA,Inactive
-54868381405,OxyCONTIN,20,MG,PHY TOT CA,Inactive
-54868381406,OxyCONTIN,20,MG,PHY TOT CA,Inactive
-54868381500,OxyCONTIN,40,MG,PHY TOT CA,Inactive
-54868381501,OxyCONTIN,40,MG,PHY TOT CA,Inactive
-54868381502,OxyCONTIN,40,MG,PHY TOT CA,Inactive
-54868381503,OxyCONTIN,40,MG,PHY TOT CA,Inactive
-54868381504,OxyCONTIN,40,MG,PHY TOT CA,Inactive
-54868381505,OxyCONTIN,40,MG,PHY TOT CA,Inactive
-54868398600,OxyCONTIN,80,MG,PHY TOT CA,Inactive
-54868398601,OxyCONTIN,80,MG,PHY TOT CA,Inactive
-54868398602,OxyCONTIN,80,MG,PHY TOT CA,Inactive
-54868398603,OxyCONTIN,80,MG,PHY TOT CA,Inactive
-54868398604,OxyCONTIN,80,MG,PHY TOT CA,Inactive
-54868398605,OxyCONTIN,80,MG,PHY TOT CA,Inactive
-54868596600,OxyCONTIN,30,MG,PHY TOT CA,Inactive
-54868596601,OxyCONTIN,30,MG,PHY TOT CA,Inactive
-54868596602,OxyCONTIN,30,MG,PHY TOT CA,Inactive
-54868597000,OxyCONTIN,60,MG,PHY TOT CA,Inactive
-54868597001,OxyCONTIN,60,MG,PHY TOT CA,Inactive
-55887013060,OxyCONTIN,80,MG,DHS INC. W,Inactive
-55887013082,OxyCONTIN,80,MG,DHS INC. W,Inactive
-55887013086,OxyCONTIN,80,MG,DHS INC. W,Inactive
-55887013090,OxyCONTIN,80,MG,DHS INC. W,Inactive
-59011010010,OxyCONTIN,10,MG,PURDUE,Inactive
-59011010020,OxyCONTIN,10,MG,PURDUE,Inactive
-59011010025,OxyCONTIN,10,MG,NULL,Inactive
-59011010310,OxyCONTIN,20,MG,PURDUE,Inactive
-59011010320,OxyCONTIN,20,MG,PURDUE,Inactive
-59011010325,OxyCONTIN,20,MG,NULL,Inactive
-59011010510,OxyCONTIN,40,MG,PURDUE,Inactive
-59011010520,OxyCONTIN,40,MG,PURDUE,Inactive
-59011010525,OxyCONTIN,40,MG,NULL,Inactive
-59011010710,OxyCONTIN,80,MG,PURDUE,Inactive
-59011010720,OxyCONTIN,80,MG,PURDUE,Inactive
-59011010725,OxyCONTIN,80,MG,NULL,Inactive
-59011041010,OxyCONTIN,10,MG,PURDUE,Active
-59011041020,OxyCONTIN,10,MG,PURDUE,Active
-59011041510,OxyCONTIN,15,MG,PURDUE,Active
-59011041520,OxyCONTIN,15,MG,PURDUE,Active
-59011042010,OxyCONTIN,20,MG,PURDUE,Active
-59011042020,OxyCONTIN,20,MG,PURDUE,Active
-59011043010,OxyCONTIN,30,MG,PURDUE,Active
-59011043020,OxyCONTIN,30,MG,PURDUE,Active
-59011044010,OxyCONTIN,40,MG,PURDUE,Active
-59011044020,OxyCONTIN,40,MG,PURDUE,Active
-59011046010,OxyCONTIN,60,MG,PURDUE,Active
-59011046020,OxyCONTIN,60,MG,PURDUE,Active
-59011048010,OxyCONTIN,80,MG,PURDUE,Active
-59011048020,OxyCONTIN,80,MG,PURDUE,Active
-59011081510,OxyCONTIN,15,MG,PURDUE,Inactive
-59011083010,OxyCONTIN,30,MG,PURDUE,Inactive
-59011086010,OxyCONTIN,60,MG,PURDUE,Inactive
-60760004960,OxyCONTIN,20,MG,ST MARY'S,Inactive
-60760004990,OxyCONTIN,20,MG,ST MARY'S,Inactive
-63629377201,OxyCONTIN,20,MG,BRYANTRANC,Inactive
-63629377202,OxyCONTIN,20,MG,BRYANTRANC,Inactive
-63629377203,OxyCONTIN,20,MG,BRYANTRANC,Inactive
-63629377204,OxyCONTIN,20,MG,BRYANTRANC,Inactive
-63629377205,OxyCONTIN,20,MG,BRYANTRANC,Inactive
-63629377401,OxyCONTIN,40,MG,BRYANTRANC,Active
-63629377402,OxyCONTIN,40,MG,BRYANTRANC,Active
-63629377403,OxyCONTIN,40,MG,BRYANTRANC,Active
-63629377404,OxyCONTIN,40,MG,BRYANTRANC,Active
-63629377501,OxyCONTIN,10,MG,BRYANTRANC,Inactive
-63629377502,OxyCONTIN,10,MG,BRYANTRANC,Inactive
-63629377503,OxyCONTIN,10,MG,BRYANTRANC,Inactive
-63629377504,OxyCONTIN,10,MG,BRYANTRANC,Inactive
-63629377505,OxyCONTIN,10,MG,BRYANTRANC,Inactive
-63629459901,OxyCONTIN,60,MG,BRYANTRANC,Active
-63629460001,OxyCONTIN,80,MG,BRYANTRANC,Active
-66336093610,OxyCONTIN,10,MG,DISPEN SOL,Inactive
-68071044790,OxyCONTIN,20,MG,NUCARE PHA,Active
-68071073830,OxyCONTIN,10,MG,NUCARE PHA,Active
-68071073860,OxyCONTIN,10,MG,NUCARE PHA,Active
-24510011010,Xtampza ER,9,MG,COLLEGIUM,Active
-24510011510,Xtampza ER,13.5,MG,COLLEGIUM,Active
-24510012010,Xtampza ER,18,MG,COLLEGIUM,Active
-24510013010,Xtampza ER,27,MG,COLLEGIUM,Active
-24510014010,Xtampza ER,36,MG,COLLEGIUM,Active
-55700055730,Xtampza ER,13.5,MG,QUALITY,Active
-6934421111,Arymo,30,MG,Zyla Life Sciences US Inc.,Active
-6934411111,Arymo,15,MG,Zyla Life Sciences US Inc.,Active
-6934431111,Arymo,60,MG,Zyla Life Sciences US Inc.,Active
-69344011311,Oxaydo,5,MG,EGALET US INC.,Active
-69344021311,Oxaydo,7.5,MG,EGALET US INC.,Active
-60793052501,Oxecta,5,MG,ACURA PHARMACEU,Inactive
-60793052601,Oxecta,7.5,MG,ACURA PHARMACEU,Inactive
+ndc,drug_name,ingredients,opioid_ingredient1,strength,strength_uom,manufacturer_abbr_name,status,ir_er
+'16590089730',embeda,morphine sulfate; naltrexone hydrochloride,morphine,20-0.8,mg,stat rx us,inactive,er
+'16590089760',embeda,morphine sulfate; naltrexone hydrochloride,morphine,20-0.8,mg,stat rx us,inactive,er
+'16590089960',embeda,morphine sulfate; naltrexone hydrochloride,morphine,50-2,mg,stat rx us,inactive,er
+'16590090330',embeda,morphine sulfate; naltrexone hydrochloride,morphine,80-3.2,mg,stat rx us,inactive,er
+'16590093230',embeda,morphine sulfate; naltrexone hydrochloride,morphine,60-2.4,mg,stat rx us,inactive,er
+'16590093260',embeda,morphine sulfate; naltrexone hydrochloride,morphine,60-2.4,mg,stat rx us,inactive,er
+'16590093290',embeda,morphine sulfate; naltrexone hydrochloride,morphine,60-2.4,mg,stat rx us,inactive,er
+'35356054930',embeda,morphine sulfate; naltrexone hydrochloride,morphine,60-2.4,mg,quality,inactive,er
+'35356055030',embeda,morphine sulfate; naltrexone hydrochloride,morphine,100-4,mg,quality,inactive,er
+'35356055130',embeda,morphine sulfate; naltrexone hydrochloride,morphine,20-0.8,mg,quality,inactive,er
+'35356055230',embeda,morphine sulfate; naltrexone hydrochloride,morphine,30-1.2,mg,quality,inactive,er
+'60793043001',embeda,morphine sulfate; naltrexone hydrochloride,morphine,20-0.8,mg,pfizer us,inactive,er
+'60793043020',embeda,morphine sulfate; naltrexone hydrochloride,morphine,20-0.8,mg,pfizer us,active,er
+'60793043101',embeda,morphine sulfate; naltrexone hydrochloride,morphine,30-1.2,mg,pfizer us,inactive,er
+'60793043120',embeda,morphine sulfate; naltrexone hydrochloride,morphine,30-1.2,mg,pfizer us,active,er
+'60793043301',embeda,morphine sulfate; naltrexone hydrochloride,morphine,50-2,mg,pfizer us,inactive,er
+'60793043320',embeda,morphine sulfate; naltrexone hydrochloride,morphine,50-2,mg,pfizer us,active,er
+'60793043401',embeda,morphine sulfate; naltrexone hydrochloride,morphine,60-2.4,mg,pfizer us,inactive,er
+'60793043420',embeda,morphine sulfate; naltrexone hydrochloride,morphine,60-2.4,mg,pfizer us,active,er
+'60793043501',embeda,morphine sulfate; naltrexone hydrochloride,morphine,80-3.2,mg,pfizer us,inactive,er
+'60793043520',embeda,morphine sulfate; naltrexone hydrochloride,morphine,80-3.2,mg,pfizer us,active,er
+'60793043701',embeda,morphine sulfate; naltrexone hydrochloride,morphine,100-4,mg,pfizer us,inactive,er
+'60793043720',embeda,morphine sulfate; naltrexone hydrochloride,morphine,100-4,mg,pfizer us,active,er
+'59011027160',hysingla er,hydrocodone bitartrate,hydrocodone,20,mg,purdue,active,er
+'59011027260',hysingla er,hydrocodone bitartrate,hydrocodone,30,mg,purdue,active,er
+'59011027360',hysingla er,hydrocodone bitartrate,hydrocodone,40,mg,purdue,active,er
+'59011027460',hysingla er,hydrocodone bitartrate,hydrocodone,60,mg,purdue,active,er
+'59011027560',hysingla er,hydrocodone bitartrate,hydrocodone,80,mg,purdue,active,er
+'59011027660',hysingla er,hydrocodone bitartrate,hydrocodone,100,mg,purdue,active,er
+'59011027760',hysingla er,hydrocodone bitartrate,hydrocodone,120,mg,purdue,active,er
+'65597030110',morphabond er,morphine sulfate,morphine,15,mg,sankyo,active,er
+'65597030210',morphabond er,morphine sulfate,morphine,30,mg,sankyo,active,er
+'65597030310',morphabond er,morphine sulfate,morphine,60,mg,sankyo,active,er
+'65597030410',morphabond er,morphine sulfate,morphine,100,mg,sankyo,active,er
+'00093573101',oxycodone hcl er,NA,oxycodone,10,mg,teva usa,active,er
+'00093573201',oxycodone hcl er,NA,oxycodone,20,mg,teva usa,active,er
+'00093573301',oxycodone hcl er,NA,oxycodone,40,mg,teva usa,active,er
+'00093573401',oxycodone hcl er,NA,oxycodone,80,mg,teva usa,active,er
+'00115155601',oxycodone hcl er,NA,oxycodone,10,mg,amneal,active,er
+'00115155701',oxycodone hcl er,NA,oxycodone,15,mg,amneal,active,er
+'00115155801',oxycodone hcl er,NA,oxycodone,20,mg,amneal,active,er
+'00115155901',oxycodone hcl er,NA,oxycodone,30,mg,amneal,active,er
+'00115156001',oxycodone hcl er,NA,oxycodone,40,mg,amneal,active,er
+'00115156101',oxycodone hcl er,NA,oxycodone,60,mg,amneal,active,er
+'00115156201',oxycodone hcl er,NA,oxycodone,80,mg,amneal,active,er
+'00591269301',oxycodone hcl er,NA,oxycodone,40,mg,actavis ph,active,er
+'00591270801',oxycodone hcl er,NA,oxycodone,80,mg,actavis ph,active,er
+'00781570301',oxycodone hcl er,NA,oxycodone,10,mg,sandoz,inactive,er
+'00781572601',oxycodone hcl er,NA,oxycodone,20,mg,sandoz,inactive,er
+'00781576701',oxycodone hcl er,NA,oxycodone,40,mg,sandoz,inactive,er
+'00781578501',oxycodone hcl er,NA,oxycodone,80,mg,sandoz,inactive,er
+'10702080101',oxycodone hcl er,NA,oxycodone,10,mg,kvk tech,active,er
+'10702080301',oxycodone hcl er,NA,oxycodone,20,mg,kvk tech,active,er
+'10702080501',oxycodone hcl er,NA,oxycodone,40,mg,kvk tech,active,er
+'49884013601',oxycodone hcl er,NA,oxycodone,10,mg,par pharma,inactive,er
+'49884013701',oxycodone hcl er,NA,oxycodone,20,mg,par pharma,inactive,er
+'49884013801',oxycodone hcl er,NA,oxycodone,40,mg,par pharma,inactive,er
+'49884019701',oxycodone hcl er,NA,oxycodone,80,mg,par pharma,inactive,er
+'55700033430',oxycodone hcl er,NA,oxycodone,10,mg,quality,inactive,er
+'55700042730',oxycodone hcl er,NA,oxycodone,40,mg,quality,inactive,er
+'55700043130',oxycodone hcl er,NA,oxycodone,20,mg,quality,active,er
+'55700043160',oxycodone hcl er,NA,oxycodone,20,mg,quality,active,er
+'55700043730',oxycodone hcl er,NA,oxycodone,10,mg,quality,inactive,er
+'55700044330',oxycodone hcl er,NA,oxycodone,40,mg,quality,active,er
+'55700046290',oxycodone hcl er,NA,oxycodone,60,mg,quality,inactive,er
+'63304068301',oxycodone hcl er,NA,oxycodone,40,mg,sun pharma,inactive,er
+'63304068401',oxycodone hcl er,NA,oxycodone,80,mg,sun pharma,inactive,er
+'10544059120',oxycontin,oxycodone hydrochloride,oxycodone,10,mg,blenheim,inactive,er
+'16590061530',oxycontin,oxycodone hydrochloride,oxycodone,40,mg,stat rx us,inactive,er
+'16590061540',oxycontin,oxycodone hydrochloride,oxycodone,40,mg,stat rx us,inactive,er
+'16590061556',oxycontin,oxycodone hydrochloride,oxycodone,40,mg,stat rx us,inactive,er
+'16590061560',oxycontin,oxycodone hydrochloride,oxycodone,40,mg,stat rx us,inactive,er
+'16590061562',oxycontin,oxycodone hydrochloride,oxycodone,40,mg,stat rx us,inactive,er
+'16590061572',oxycontin,oxycodone hydrochloride,oxycodone,40,mg,stat rx us,inactive,er
+'16590061590',oxycontin,oxycodone hydrochloride,oxycodone,40,mg,stat rx us,inactive,er
+'16590061630',oxycontin,oxycodone hydrochloride,oxycodone,20,mg,stat rx us,inactive,er
+'16590061656',oxycontin,oxycodone hydrochloride,oxycodone,20,mg,stat rx us,inactive,er
+'16590061660',oxycontin,oxycodone hydrochloride,oxycodone,20,mg,stat rx us,inactive,er
+'16590061662',oxycontin,oxycodone hydrochloride,oxycodone,20,mg,stat rx us,inactive,er
+'16590061672',oxycontin,oxycodone hydrochloride,oxycodone,20,mg,stat rx us,inactive,er
+'16590061673',oxycontin,oxycodone hydrochloride,oxycodone,20,mg,stat rx us,inactive,er
+'16590061690',oxycontin,oxycodone hydrochloride,oxycodone,20,mg,stat rx us,inactive,er
+'16590061730',oxycontin,oxycodone hydrochloride,oxycodone,80,mg,stat rx us,inactive,er
+'16590061760',oxycontin,oxycodone hydrochloride,oxycodone,80,mg,stat rx us,inactive,er
+'16590061772',oxycontin,oxycodone hydrochloride,oxycodone,80,mg,stat rx us,inactive,er
+'16590061786',oxycontin,oxycodone hydrochloride,oxycodone,80,mg,stat rx us,inactive,er
+'16590061790',oxycontin,oxycodone hydrochloride,oxycodone,80,mg,stat rx us,inactive,er
+'16590065330',oxycontin,oxycodone hydrochloride,oxycodone,30,mg,stat rx us,inactive,er
+'16590065360',oxycontin,oxycodone hydrochloride,oxycodone,30,mg,stat rx us,inactive,er
+'16590065372',oxycontin,oxycodone hydrochloride,oxycodone,30,mg,stat rx us,inactive,er
+'16590065390',oxycontin,oxycodone hydrochloride,oxycodone,30,mg,stat rx us,inactive,er
+'16590067710',oxycontin,oxycodone hydrochloride,oxycodone,10,mg,stat rx us,inactive,er
+'16590067715',oxycontin,oxycodone hydrochloride,oxycodone,10,mg,stat rx us,inactive,er
+'16590067720',oxycontin,oxycodone hydrochloride,oxycodone,10,mg,stat rx us,inactive,er
+'16590067730',oxycontin,oxycodone hydrochloride,oxycodone,10,mg,stat rx us,inactive,er
+'16590067760',oxycontin,oxycodone hydrochloride,oxycodone,10,mg,stat rx us,inactive,er
+'16590067762',oxycontin,oxycodone hydrochloride,oxycodone,10,mg,stat rx us,inactive,er
+'16590067772',oxycontin,oxycodone hydrochloride,oxycodone,10,mg,stat rx us,inactive,er
+'16590067790',oxycontin,oxycodone hydrochloride,oxycodone,10,mg,stat rx us,inactive,er
+'16590069060',oxycontin,oxycodone hydrochloride,oxycodone,15,mg,stat rx us,inactive,er
+'16590071730',oxycontin,oxycodone hydrochloride,oxycodone,60,mg,stat rx us,inactive,er
+'16590071760',oxycontin,oxycodone hydrochloride,oxycodone,60,mg,stat rx us,inactive,er
+'16590071790',oxycontin,oxycodone hydrochloride,oxycodone,60,mg,stat rx us,inactive,er
+'16590091060',oxycontin,oxycodone hydrochloride,oxycodone,80,mg,stat rx us,inactive,er
+'21695094160',oxycontin,oxycodone hydrochloride,oxycodone,80,mg,physician,inactive,er
+'21695095160',oxycontin,oxycodone hydrochloride,oxycodone,60,mg,physician,inactive,er
+'35356009005',oxycontin,oxycodone hydrochloride,oxycodone,10,mg,quality,inactive,er
+'35356009010',oxycontin,oxycodone hydrochloride,oxycodone,10,mg,quality,inactive,er
+'35356009014',oxycontin,oxycodone hydrochloride,oxycodone,10,mg,quality,inactive,er
+'35356009030',oxycontin,oxycodone hydrochloride,oxycodone,10,mg,quality,inactive,er
+'35356009130',oxycontin,oxycodone hydrochloride,oxycodone,20,mg,quality,inactive,er
+'35356009160',oxycontin,oxycodone hydrochloride,oxycodone,20,mg,quality,inactive,er
+'35356009190',oxycontin,oxycodone hydrochloride,oxycodone,20,mg,quality,inactive,er
+'35356039930',oxycontin,oxycodone hydrochloride,oxycodone,40,mg,quality,inactive,er
+'35356039960',oxycontin,oxycodone hydrochloride,oxycodone,40,mg,quality,inactive,er
+'35356040090',oxycontin,oxycodone hydrochloride,oxycodone,80,mg,quality,inactive,er
+'35356044430',oxycontin,oxycodone hydrochloride,oxycodone,60,mg,quality,inactive,er
+'35356078510',oxycontin,oxycodone hydrochloride,oxycodone,10,mg,quality,inactive,er
+'35356078514',oxycontin,oxycodone hydrochloride,oxycodone,10,mg,quality,inactive,er
+'35356078530',oxycontin,oxycodone hydrochloride,oxycodone,10,mg,quality,inactive,er
+'35356078590',oxycontin,oxycodone hydrochloride,oxycodone,10,mg,quality,inactive,er
+'35356078630',oxycontin,oxycodone hydrochloride,oxycodone,20,mg,quality,inactive,er
+'35356078660',oxycontin,oxycodone hydrochloride,oxycodone,20,mg,quality,inactive,er
+'35356078690',oxycontin,oxycodone hydrochloride,oxycodone,20,mg,quality,inactive,er
+'35356078730',oxycontin,oxycodone hydrochloride,oxycodone,60,mg,quality,inactive,er
+'35356078830',oxycontin,oxycodone hydrochloride,oxycodone,40,mg,quality,inactive,er
+'35356078860',oxycontin,oxycodone hydrochloride,oxycodone,40,mg,quality,inactive,er
+'35356078890',oxycontin,oxycodone hydrochloride,oxycodone,40,mg,quality,inactive,er
+'35356078930',oxycontin,oxycodone hydrochloride,oxycodone,80,mg,quality,inactive,er
+'35356078990',oxycontin,oxycodone hydrochloride,oxycodone,80,mg,quality,inactive,er
+'42254015960',oxycontin,oxycodone hydrochloride,oxycodone,20,mg,physician,inactive,er
+'42549064530',oxycontin,oxycodone hydrochloride,oxycodone,20,mg,stat rx us,inactive,er
+'43063024430',oxycontin,oxycodone hydrochloride,oxycodone,80,mg,pdrx pharm,inactive,er
+'43063024530',oxycontin,oxycodone hydrochloride,oxycodone,40,mg,pdrx pharm,inactive,er
+'43063024630',oxycontin,oxycodone hydrochloride,oxycodone,20,mg,pdrx pharm,inactive,er
+'43063035402',oxycontin,oxycodone hydrochloride,oxycodone,10,mg,pdrx pharm,inactive,er
+'43063035410',oxycontin,oxycodone hydrochloride,oxycodone,10,mg,pdrx pharm,inactive,er
+'49999085630',oxycontin,oxycodone hydrochloride,oxycodone,40,mg,quality,inactive,er
+'49999085660',oxycontin,oxycodone hydrochloride,oxycodone,40,mg,quality,inactive,er
+'49999085690',oxycontin,oxycodone hydrochloride,oxycodone,40,mg,quality,inactive,er
+'49999085730',oxycontin,oxycodone hydrochloride,oxycodone,80,mg,quality,inactive,er
+'49999085790',oxycontin,oxycodone hydrochloride,oxycodone,80,mg,quality,inactive,er
+'52959014860',oxycontin,oxycodone hydrochloride,oxycodone,20,mg,hj harkins,active,er
+'52959039660',oxycontin,oxycodone hydrochloride,oxycodone,40,mg,hj harkins,active,er
+'54868381300',oxycontin,oxycodone hydrochloride,oxycodone,10,mg,phy tot ca,inactive,er
+'54868381301',oxycontin,oxycodone hydrochloride,oxycodone,10,mg,phy tot ca,inactive,er
+'54868381302',oxycontin,oxycodone hydrochloride,oxycodone,10,mg,phy tot ca,inactive,er
+'54868381303',oxycontin,oxycodone hydrochloride,oxycodone,10,mg,phy tot ca,inactive,er
+'54868381304',oxycontin,oxycodone hydrochloride,oxycodone,10,mg,phy tot ca,inactive,er
+'54868381305',oxycontin,oxycodone hydrochloride,oxycodone,10,mg,phy tot ca,inactive,er
+'54868381400',oxycontin,oxycodone hydrochloride,oxycodone,20,mg,phy tot ca,inactive,er
+'54868381401',oxycontin,oxycodone hydrochloride,oxycodone,20,mg,phy tot ca,inactive,er
+'54868381402',oxycontin,oxycodone hydrochloride,oxycodone,20,mg,phy tot ca,inactive,er
+'54868381403',oxycontin,oxycodone hydrochloride,oxycodone,20,mg,phy tot ca,inactive,er
+'54868381404',oxycontin,oxycodone hydrochloride,oxycodone,20,mg,phy tot ca,inactive,er
+'54868381405',oxycontin,oxycodone hydrochloride,oxycodone,20,mg,phy tot ca,inactive,er
+'54868381406',oxycontin,oxycodone hydrochloride,oxycodone,20,mg,phy tot ca,inactive,er
+'54868381500',oxycontin,oxycodone hydrochloride,oxycodone,40,mg,phy tot ca,inactive,er
+'54868381501',oxycontin,oxycodone hydrochloride,oxycodone,40,mg,phy tot ca,inactive,er
+'54868381502',oxycontin,oxycodone hydrochloride,oxycodone,40,mg,phy tot ca,inactive,er
+'54868381503',oxycontin,oxycodone hydrochloride,oxycodone,40,mg,phy tot ca,inactive,er
+'54868381504',oxycontin,oxycodone hydrochloride,oxycodone,40,mg,phy tot ca,inactive,er
+'54868381505',oxycontin,oxycodone hydrochloride,oxycodone,40,mg,phy tot ca,inactive,er
+'54868398600',oxycontin,oxycodone hydrochloride,oxycodone,80,mg,phy tot ca,inactive,er
+'54868398601',oxycontin,oxycodone hydrochloride,oxycodone,80,mg,phy tot ca,inactive,er
+'54868398602',oxycontin,oxycodone hydrochloride,oxycodone,80,mg,phy tot ca,inactive,er
+'54868398603',oxycontin,oxycodone hydrochloride,oxycodone,80,mg,phy tot ca,inactive,er
+'54868398604',oxycontin,oxycodone hydrochloride,oxycodone,80,mg,phy tot ca,inactive,er
+'54868398605',oxycontin,oxycodone hydrochloride,oxycodone,80,mg,phy tot ca,inactive,er
+'54868596600',oxycontin,oxycodone hydrochloride,oxycodone,30,mg,phy tot ca,inactive,er
+'54868596601',oxycontin,oxycodone hydrochloride,oxycodone,30,mg,phy tot ca,inactive,er
+'54868596602',oxycontin,oxycodone hydrochloride,oxycodone,30,mg,phy tot ca,inactive,er
+'54868597000',oxycontin,oxycodone hydrochloride,oxycodone,60,mg,phy tot ca,inactive,er
+'54868597001',oxycontin,oxycodone hydrochloride,oxycodone,60,mg,phy tot ca,inactive,er
+'55887013060',oxycontin,oxycodone hydrochloride,oxycodone,80,mg,dhs inc. w,inactive,er
+'55887013082',oxycontin,oxycodone hydrochloride,oxycodone,80,mg,dhs inc. w,inactive,er
+'55887013086',oxycontin,oxycodone hydrochloride,oxycodone,80,mg,dhs inc. w,inactive,er
+'55887013090',oxycontin,oxycodone hydrochloride,oxycodone,80,mg,dhs inc. w,inactive,er
+'59011010010',oxycontin,oxycodone hydrochloride,oxycodone,10,mg,purdue,inactive,er
+'59011010020',oxycontin,oxycodone hydrochloride,oxycodone,10,mg,purdue,inactive,er
+'59011010025',oxycontin,oxycodone hydrochloride,oxycodone,10,mg,null,inactive,er
+'59011010310',oxycontin,oxycodone hydrochloride,oxycodone,20,mg,purdue,inactive,er
+'59011010320',oxycontin,oxycodone hydrochloride,oxycodone,20,mg,purdue,inactive,er
+'59011010325',oxycontin,oxycodone hydrochloride,oxycodone,20,mg,null,inactive,er
+'59011010510',oxycontin,oxycodone hydrochloride,oxycodone,40,mg,purdue,inactive,er
+'59011010520',oxycontin,oxycodone hydrochloride,oxycodone,40,mg,purdue,inactive,er
+'59011010525',oxycontin,oxycodone hydrochloride,oxycodone,40,mg,null,inactive,er
+'59011010710',oxycontin,oxycodone hydrochloride,oxycodone,80,mg,purdue,inactive,er
+'59011010720',oxycontin,oxycodone hydrochloride,oxycodone,80,mg,purdue,inactive,er
+'59011010725',oxycontin,oxycodone hydrochloride,oxycodone,80,mg,null,inactive,er
+'59011041010',oxycontin,oxycodone hydrochloride,oxycodone,10,mg,purdue,active,er
+'59011041020',oxycontin,oxycodone hydrochloride,oxycodone,10,mg,purdue,active,er
+'59011041510',oxycontin,oxycodone hydrochloride,oxycodone,15,mg,purdue,active,er
+'59011041520',oxycontin,oxycodone hydrochloride,oxycodone,15,mg,purdue,active,er
+'59011042010',oxycontin,oxycodone hydrochloride,oxycodone,20,mg,purdue,active,er
+'59011042020',oxycontin,oxycodone hydrochloride,oxycodone,20,mg,purdue,active,er
+'59011043010',oxycontin,oxycodone hydrochloride,oxycodone,30,mg,purdue,active,er
+'59011043020',oxycontin,oxycodone hydrochloride,oxycodone,30,mg,purdue,active,er
+'59011044010',oxycontin,oxycodone hydrochloride,oxycodone,40,mg,purdue,active,er
+'59011044020',oxycontin,oxycodone hydrochloride,oxycodone,40,mg,purdue,active,er
+'59011046010',oxycontin,oxycodone hydrochloride,oxycodone,60,mg,purdue,active,er
+'59011046020',oxycontin,oxycodone hydrochloride,oxycodone,60,mg,purdue,active,er
+'59011048010',oxycontin,oxycodone hydrochloride,oxycodone,80,mg,purdue,active,er
+'59011048020',oxycontin,oxycodone hydrochloride,oxycodone,80,mg,purdue,active,er
+'59011081510',oxycontin,oxycodone hydrochloride,oxycodone,15,mg,purdue,inactive,er
+'59011083010',oxycontin,oxycodone hydrochloride,oxycodone,30,mg,purdue,inactive,er
+'59011086010',oxycontin,oxycodone hydrochloride,oxycodone,60,mg,purdue,inactive,er
+'60760004960',oxycontin,oxycodone hydrochloride,oxycodone,20,mg,st mary's,inactive,er
+'60760004990',oxycontin,oxycodone hydrochloride,oxycodone,20,mg,st mary's,inactive,er
+'63629377201',oxycontin,oxycodone hydrochloride,oxycodone,20,mg,bryantranc,inactive,er
+'63629377202',oxycontin,oxycodone hydrochloride,oxycodone,20,mg,bryantranc,inactive,er
+'63629377203',oxycontin,oxycodone hydrochloride,oxycodone,20,mg,bryantranc,inactive,er
+'63629377204',oxycontin,oxycodone hydrochloride,oxycodone,20,mg,bryantranc,inactive,er
+'63629377205',oxycontin,oxycodone hydrochloride,oxycodone,20,mg,bryantranc,inactive,er
+'63629377401',oxycontin,oxycodone hydrochloride,oxycodone,40,mg,bryantranc,active,er
+'63629377402',oxycontin,oxycodone hydrochloride,oxycodone,40,mg,bryantranc,active,er
+'63629377403',oxycontin,oxycodone hydrochloride,oxycodone,40,mg,bryantranc,active,er
+'63629377404',oxycontin,oxycodone hydrochloride,oxycodone,40,mg,bryantranc,active,er
+'63629377501',oxycontin,oxycodone hydrochloride,oxycodone,10,mg,bryantranc,inactive,er
+'63629377502',oxycontin,oxycodone hydrochloride,oxycodone,10,mg,bryantranc,inactive,er
+'63629377503',oxycontin,oxycodone hydrochloride,oxycodone,10,mg,bryantranc,inactive,er
+'63629377504',oxycontin,oxycodone hydrochloride,oxycodone,10,mg,bryantranc,inactive,er
+'63629377505',oxycontin,oxycodone hydrochloride,oxycodone,10,mg,bryantranc,inactive,er
+'63629459901',oxycontin,oxycodone hydrochloride,oxycodone,60,mg,bryantranc,active,er
+'63629460001',oxycontin,oxycodone hydrochloride,oxycodone,80,mg,bryantranc,active,er
+'66336093610',oxycontin,oxycodone hydrochloride,oxycodone,10,mg,dispen sol,inactive,er
+'68071044790',oxycontin,oxycodone hydrochloride,oxycodone,20,mg,nucare pha,active,er
+'68071073830',oxycontin,oxycodone hydrochloride,oxycodone,10,mg,nucare pha,active,er
+'68071073860',oxycontin,oxycodone hydrochloride,oxycodone,10,mg,nucare pha,active,er
+'24510011010',xtampza er,oxycodone,oxycodone,9,mg,collegium,active,er
+'24510011510',xtampza er,oxycodone,oxycodone,13.5,mg,collegium,active,er
+'24510012010',xtampza er,oxycodone,oxycodone,18,mg,collegium,active,er
+'24510013010',xtampza er,oxycodone,oxycodone,27,mg,collegium,active,er
+'24510014010',xtampza er,oxycodone,oxycodone,36,mg,collegium,active,er
+'55700055730',xtampza er,oxycodone,oxycodone,13.5,mg,quality,active,er
+'6934421111',arymo,morphine sulfate,morphine,30,mg,zyla life sciences us inc.,active,er
+'6934411111',arymo,morphine sulfate,morphine,15,mg,zyla life sciences us inc.,active,er
+'6934431111',arymo,morphine sulfate,morphine,60,mg,zyla life sciences us inc.,active,er
+'69344011311',oxaydo,oxycodone hydrochloride,oxycodone,5,mg,egalet us inc.,active,er
+'69344021311',oxaydo,oxycodone hydrochloride,oxycodone,7.5,mg,egalet us inc.,active,er
+'60793052501',oxecta,oxycodone hydrochloride,oxycodone,5,mg,acura pharmaceu,inactive,er
+'60793052601',oxecta,oxycodone hydrochloride,oxycodone,7.5,mg,acura pharmaceu,inactive,er

@@ -1,29 +1,29 @@
-ndc,drug_name,generic_name,opioid_ingredient1,opioid_ingredient2,form,route,strength,strength_uom,package_size,manufacturer,startdate,enddate,status
-00004004401,levo-dromoran,levorphanol,levorphanol,NA,tablet,oral,2,mg,100,icn-ethical,1/8/53,1/8/53,inactive
-00004191006,levo-dromoran,levorphanol,levorphanol,NA,solution,injection,2,mg/ml,1,icn-ethical,1/8/53,1/8/53,inactive
-00004191101,levo-dromoran,levorphanol,levorphanol,NA,solution,injection,2,mg/ml,10,roche labs.,NA,NA,inactive
-00004191106,levo-dromoran,levorphanol,levorphanol,NA,solution,injection,2,mg/ml,10,valeant,1/8/53,1/8/53,inactive
-00054043825,levorphanol tartrate,levorphanol,levorphanol,NA,tablet,oral,2,mg,100,roxane labs./se,7/22/11,7/22/11,active
-00054449425,levorphanol tartrate,levorphanol,levorphanol,NA,tablet,oral,2,mg,100,roxane labs.,9/30/90,9/30/90,active
-00054849424,levorphanol tartrate,levorphanol,levorphanol,NA,tablet,oral,2,mg,100,roxane labs.,1/1/92,1/1/92,active
-00187307210,levo-dromoran,levorphanol,levorphanol,NA,solution,injection,2,mg/ml,1,valeant,NA,NA,inactive
-00187325110,levo-dromoran,levorphanol,levorphanol,NA,tablet,oral,2,mg,100,valeant,9/30/90,9/30/90,inactive
-00406073552,levorphanol tartrate (bulk),levorphanol,levorphanol,NA,powder,miscellaneous,100,%,1,mallinckrodt ph,3/1/00,3/1/00,active
-38779088503,levorphanol tartrate (bulk),levorphanol,levorphanol,NA,powder,miscellaneous,100,%,5,medisca inc.,NA,NA,active
-38779088504,levorphanol tartrate,levorphanol tartrate,levorphanol,NA,NA,NA,NA,NA,1,NA,NA,NA,NA
-38779088506,levorphanol tartrate (bulk),levorphanol,levorphanol,NA,powder,miscellaneous,100,%,1,medisca inc.,NA,NA,active
-42358010110,levorphanol tartrate,levorphanol tartrate,levorphanol,NA,tablet,oral,1 mg/1,NA,"100 tablet in 1 bottle, plastic (42358-101-10)","sentynl therapeutics, inc.",NA,NA,NA
-42358010210,levorphanol tartrate,levorphanol,levorphanol,NA,tablet,oral,2,mg,100,sentynl therapu,3/31/00,3/31/00,active
-42358010310,levorphanol tartrate,levorphanol tartrate,levorphanol,NA,tablet,oral,3 mg/1,NA,"100 tablet in 1 bottle, plastic (42358-103-10)","sentynl therapeutics, inc.",NA,NA,NA
-49452920101,levorphanol tartrate (bulk),levorphanol,levorphanol,NA,powder,miscellaneous,100,%,5,spectrum,NA,NA,active
-49452920102,levorphanol tartrate,levorphanol tartrate,levorphanol,NA,NA,NA,NA,NA,1,NA,NA,NA,NA
-49452920103,levorphanol tartrate,levorphanol tartrate,levorphanol,NA,NA,NA,NA,NA,1,NA,NA,NA,NA
-49452920105,levorphanol tartrate,levorphanol tartrate,levorphanol,NA,NA,NA,NA,NA,1,NA,NA,NA,NA
-49452920106,levorphanol tartrate,levorphanol tartrate,levorphanol,NA,NA,NA,NA,NA,1,NA,NA,NA,NA
-51927100700,levorphanol tartrate (bulk),levorphanol,levorphanol,NA,powder,miscellaneous,100,%,1,professional co,NA,NA,active
-54977019350,levorphanol tartrate,levorphanol tartrate,levorphanol,NA,NA,NA,2 mg,NA,50,NA,NA,NA,NA
-63275120001,levorphanol tartrate (bulk),levorphanol,levorphanol,NA,powder,miscellaneous,100,%,1,b&b pharm,NA,NA,active
-63275120002,levorphanol tartrate (bulk),levorphanol,levorphanol,NA,powder,miscellaneous,100,%,5,b&b pharm,NA,NA,active
-63275120004,levorphanol tartrate (bulk),levorphanol,levorphanol,NA,powder,miscellaneous,100,%,25,b&b pharm,NA,NA,active
-63275120007,levorphanol tartrate (bulk),levorphanol,levorphanol,NA,powder,miscellaneous,100,%,.5,b&b pharm,NA,NA,active
-69543041210,levorphanol tartrate,levorphanol tartrate,levorphanol,NA,tablet,oral,2 mg/1,NA,100 tablet in 1 bottle (69543-412-10),"virtus pharmaceuticals, llc",NA,NA,NA
+ndc,drug_name,generic_name,opioid_ingredient1,opioid_ingredient2,strength,strength_uom,manufacturer,status,ingredients,manufacturer_abbr_name,ir_er
+'00004004401',levo-dromoran,levorphanol,levorphanol,NA,2,mg,icn-ethical,inactive,NA,NA,NA
+'00004191006',levo-dromoran,levorphanol,levorphanol,NA,2,mg/ml,icn-ethical,inactive,NA,NA,NA
+'00004191101',levo-dromoran,levorphanol,levorphanol,NA,2,mg/ml,roche labs.,inactive,NA,NA,NA
+'00004191106',levo-dromoran,levorphanol,levorphanol,NA,2,mg/ml,valeant,inactive,NA,NA,NA
+'00054043825',levorphanol tartrate,levorphanol,levorphanol,NA,2,mg,roxane labs./se,active,NA,NA,NA
+'00054449425',levorphanol tartrate,levorphanol,levorphanol,NA,2,mg,roxane labs.,active,NA,NA,NA
+'00054849424',levorphanol tartrate,levorphanol,levorphanol,NA,2,mg,roxane labs.,active,NA,NA,NA
+'00187307210',levo-dromoran,levorphanol,levorphanol,NA,2,mg/ml,valeant,inactive,NA,NA,NA
+'00187325110',levo-dromoran,levorphanol,levorphanol,NA,2,mg,valeant,inactive,NA,NA,NA
+'00406073552',levorphanol tartrate (bulk),levorphanol,levorphanol,NA,100,%,mallinckrodt ph,active,NA,NA,NA
+'38779088503',levorphanol tartrate (bulk),levorphanol,levorphanol,NA,100,%,medisca inc.,active,NA,NA,NA
+'38779088504',levorphanol tartrate,levorphanol tartrate,levorphanol,NA,NA,NA,NA,NA,NA,NA,NA
+'38779088506',levorphanol tartrate (bulk),levorphanol,levorphanol,NA,100,%,medisca inc.,active,NA,NA,NA
+'42358010110',levorphanol tartrate,levorphanol tartrate,levorphanol,NA,1 mg/1,NA,"sentynl therapeutics, inc.",NA,NA,NA,NA
+'42358010210',levorphanol tartrate,levorphanol,levorphanol,NA,2,mg,sentynl therapu,active,NA,NA,NA
+'42358010310',levorphanol tartrate,levorphanol tartrate,levorphanol,NA,3 mg/1,NA,"sentynl therapeutics, inc.",NA,NA,NA,NA
+'49452920101',levorphanol tartrate (bulk),levorphanol,levorphanol,NA,100,%,spectrum,active,NA,NA,NA
+'49452920102',levorphanol tartrate,levorphanol tartrate,levorphanol,NA,NA,NA,NA,NA,NA,NA,NA
+'49452920103',levorphanol tartrate,levorphanol tartrate,levorphanol,NA,NA,NA,NA,NA,NA,NA,NA
+'49452920105',levorphanol tartrate,levorphanol tartrate,levorphanol,NA,NA,NA,NA,NA,NA,NA,NA
+'49452920106',levorphanol tartrate,levorphanol tartrate,levorphanol,NA,NA,NA,NA,NA,NA,NA,NA
+'51927100700',levorphanol tartrate (bulk),levorphanol,levorphanol,NA,100,%,professional co,active,NA,NA,NA
+'54977019350',levorphanol tartrate,levorphanol tartrate,levorphanol,NA,2 mg,NA,NA,NA,NA,NA,NA
+'63275120001',levorphanol tartrate (bulk),levorphanol,levorphanol,NA,100,%,b&b pharm,active,NA,NA,NA
+'63275120002',levorphanol tartrate (bulk),levorphanol,levorphanol,NA,100,%,b&b pharm,active,NA,NA,NA
+'63275120004',levorphanol tartrate (bulk),levorphanol,levorphanol,NA,100,%,b&b pharm,active,NA,NA,NA
+'63275120007',levorphanol tartrate (bulk),levorphanol,levorphanol,NA,100,%,b&b pharm,active,NA,NA,NA
+'69543041210',levorphanol tartrate,levorphanol tartrate,levorphanol,NA,2 mg/1,NA,"virtus pharmaceuticals, llc",NA,NA,NA,NA

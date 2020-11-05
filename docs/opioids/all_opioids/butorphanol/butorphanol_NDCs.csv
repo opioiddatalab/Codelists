@@ -1,103 +1,103 @@
-ndc,drug_name,generic_name,opioid_ingredient1,opioid_ingredient2,form,route,strength,strength_uom,package_size,manufacturer,startdate,enddate,status
-00015564415,stadol,butorphanol,butorphanol,NA,solution,injection,2,mg/ml,2,sandoz,NA,NA,inactive
-00015564420,stadol,butorphanol,butorphanol,NA,solution,injection,2,mg/ml,2,sandoz,8/27/78,8/27/78,inactive
-00015564423,stadol,butorphanol,butorphanol,NA,solution,injection,2,mg/ml,30,vha plus/brist,9/30/90,9/30/90,inactive
-00015564433,stadol,butorphanol,butorphanol,NA,solution,injection,2,mg/ml,2,geneva pharm.,9/30/90,9/30/90,inactive
-00015564515,stadol,butorphanol,butorphanol,NA,solution,injection,1,mg/ml,1,sandoz,NA,NA,inactive
-00015564520,stadol,butorphanol,butorphanol,NA,solution,injection,1,mg/ml,1,sandoz,9/30/90,9/30/90,inactive
-00015564523,stadol,butorphanol,butorphanol,NA,solution,injection,1,mg/ml,1,vha plus/brist,NA,NA,inactive
-00015564533,stadol,butorphanol,butorphanol,NA,solution,injection,1,mg/ml,1,geneva pharm.,9/30/90,9/30/90,inactive
-00015564615,stadol,butorphanol,butorphanol,NA,solution,injection,2,mg/ml,1,sandoz,NA,NA,inactive
-00015564620,stadol,butorphanol,butorphanol,NA,solution,injection,2,mg/ml,1,sandoz,9/30/90,9/30/90,inactive
-00015564623,stadol,butorphanol,butorphanol,NA,solution,injection,2,mg/ml,1,vha plus/brist,NA,NA,inactive
-00015564627,stadol,butorphanol,butorphanol,NA,solution,injection,2,mg/ml,1,vha plus/brist,NA,NA,inactive
-00015564633,stadol,butorphanol,butorphanol,NA,solution,injection,2,mg/ml,1,geneva pharm.,9/30/90,9/30/90,inactive
-00015564697,stadol,butorphanol,butorphanol,NA,syringe,injection,2,mg/ml,1,bristol labs.,NA,NA,inactive
-00015564820,stadol,butorphanol,butorphanol,NA,solution,injection,2,mg/ml,10,sandoz,9/30/90,9/30/90,inactive
-00015564823,stadol,butorphanol,butorphanol,NA,solution,injection,2,mg/ml,10,vha plus/brist,NA,NA,inactive
-00015564827,stadol,butorphanol,butorphanol,NA,solution,injection,2,mg/ml,10,vha plus/brist,NA,NA,inactive
-00015564897,stadol,butorphanol,butorphanol,NA,solution,injection,2,mg/ml,10,sandoz,9/30/90,9/30/90,inactive
-00054309036,butorphanol tartrate,butorphanol,butorphanol,NA,"spray,non-aerosol",nasal,10,mg/ml,2.5,roxane/west-war,3/12/02,3/12/02,active
-00074162301,butorphanol tartrate,butorphanol,butorphanol,NA,solution,injection,1,mg/ml,1,hospira,12/1/96,12/1/96,active
-00074162349,butorphanol tartrate,butorphanol,butorphanol,NA,solution,injection,1,mg/ml,1,novaplus,12/1/96,12/1/96,active
-00074162401,butorphanol tartrate,butorphanol,butorphanol,NA,syringe,injection,1,mg/ml,1,hospira,12/1/96,12/1/96,inactive
-00074162449,butorphanol tartrate,butorphanol,butorphanol,NA,syringe,injection,1,mg/ml,1,vha plus/abbott,12/1/96,12/1/96,inactive
-00074162601,butorphanol tartrate,butorphanol,butorphanol,NA,solution,injection,2,mg/ml,1,hospira,12/1/96,12/1/96,active
-00074162602,butorphanol tartrate,butorphanol,butorphanol,NA,solution,injection,2,mg/ml,2,hospira,12/1/96,12/1/96,active
-00074162649,butorphanol tartrate,butorphanol,butorphanol,NA,solution,injection,2,mg/ml,1,novaplus,12/1/96,12/1/96,active
-00074162651,butorphanol tartrate,butorphanol,butorphanol,NA,solution,injection,2,mg/ml,2,novaplus,12/1/96,12/1/96,active
-00074162701,butorphanol tartrate,butorphanol,butorphanol,NA,syringe,injection,2,mg/ml,1,hospira,12/1/96,12/1/96,inactive
-00074162749,butorphanol tartrate,butorphanol,butorphanol,NA,syringe,injection,2,mg/ml,1,vha plus/abbott,12/1/96,12/1/96,inactive
-00074230101,butorphanol tartrate,butorphanol,butorphanol,NA,syringe,injection,1,mg/ml,1,hospira,3/20/25,3/20/25,inactive
-00074230131,butorphanol tartrate,butorphanol,butorphanol,NA,syringe,injection,1,mg/ml,1,abbott hosp,3/20/25,3/20/25,inactive
-00074230201,butorphanol tartrate,butorphanol,butorphanol,NA,syringe,injection,2,mg/ml,1,hospira,3/20/25,3/20/25,inactive
-00074230231,butorphanol tartrate,butorphanol,butorphanol,NA,syringe,injection,2,mg/ml,1,abbott hosp,3/20/25,3/20/25,inactive
-00087565041,stadol ns,butorphanol,butorphanol,NA,"spray,non-aerosol",nasal,10,mg/ml,2.5,bms primarycare,12/12/91,12/12/91,inactive
-00143986410,butorphanol tartrate,butorphanol,butorphanol,NA,solution,injection,1,mg/ml,1,"west-ward, inc.",5/1/09,5/1/09,active
-00143986710,butorphanol tartrate,butorphanol,butorphanol,NA,solution,injection,2,mg/ml,1,"west-ward, inc.",5/1/09,5/1/09,active
-00378963943,butorphanol tartrate,butorphanol,butorphanol,NA,"spray,non-aerosol",nasal,10,mg/ml,2.5,mylan,8/8/01,8/8/01,active
-00403195518,stadol,butorphanol tartrate,butorphanol,NA,NA,NA,1 mg/1 ml,NA,1,NA,NA,NA,NA
-00403195718,stadol,butorphanol tartrate,butorphanol,NA,NA,NA,2 mg/1 ml,NA,1,NA,NA,NA,NA
-00403479118,stadol ns,butorphanol tartrate,butorphanol,NA,NA,NA,10 mg/ml,NA,1,NA,NA,NA,NA
-00403504518,stadol,butorphanol tartrate,butorphanol,NA,NA,NA,2 mg/1 ml,NA,1,NA,NA,NA,NA
-00409162301,butorphanol tartrate,butorphanol,butorphanol,NA,solution,injection,1,mg/ml,1,hospira,1/23/97,1/23/97,active
-00409162349,butorphanol tartrate,butorphanol,butorphanol,NA,solution,injection,1,mg/ml,1,hospira/novaplu,12/1/96,12/1/96,active
-00409162601,butorphanol tartrate,butorphanol,butorphanol,NA,solution,injection,2,mg/ml,1,hospira,1/23/97,1/23/97,active
-00409162602,butorphanol tartrate,butorphanol,butorphanol,NA,solution,injection,2,mg/ml,2,hospira,1/23/97,1/23/97,active
-00409162609,butorphanol tartrate,butorphanol,butorphanol,NA,solution,injection,2,mg/ml,1,hospira/novaplu,1/23/97,1/23/97,active
-00409162610,butorphanol tartrate,butorphanol,butorphanol,NA,solution,injection,2,mg/ml,1,hospira/novaplu,1/23/97,1/23/97,active
-00409162649,butorphanol tartrate,butorphanol,butorphanol,NA,solution,injection,2,mg/ml,1,hospira/novaplu,12/1/96,12/1/96,active
-00409162651,butorphanol tartrate,butorphanol,butorphanol,NA,solution,injection,2,mg/ml,2,hospira/novaplu,12/1/96,12/1/96,active
-10019046101,butorphanol tartrate,butorphanol,butorphanol,NA,solution,injection,1,mg/ml,1,baxter anesthes,9/29/98,9/29/98,active
-10019046201,butorphanol tartrate,butorphanol,butorphanol,NA,solution,injection,2,mg/ml,1,baxter anesthes,9/28/98,9/28/98,active
-23490518602,butorphanol tartrate,butorphanol tartrate,butorphanol,NA,NA,NA,2 mg/ml,NA,1,NA,NA,NA,NA
-38779176500,butorphanol tartrate (bulk),butorphanol,butorphanol,NA,powder,miscellaneous,100,%,.5,medisca inc.,NA,NA,active
-38779176504,butorphanol tartrate (bulk),butorphanol,butorphanol,NA,powder,miscellaneous,100,%,25,medisca inc.,NA,NA,active
-38779176505,butorphanol tartrate (bulk),butorphanol,butorphanol,NA,powder,miscellaneous,100,%,100,medisca inc.,NA,NA,active
-38779176506,butorphanol tartrate (bulk),butorphanol,butorphanol,NA,powder,miscellaneous,100,%,1,medisca inc.,NA,NA,active
-38779176509,butorphanol tartrate (bulk),butorphanol,butorphanol,NA,powder,miscellaneous,100,%,.1,medisca inc.,NA,NA,active
-49452131701,butorphanol tartrate (bulk),butorphanol,butorphanol,NA,powder,miscellaneous,100,%,.1,spectrum,NA,NA,active
-49452131702,butorphanol tartrate (bulk),butorphanol,butorphanol,NA,powder,miscellaneous,100,%,1,spectrum,NA,NA,active
-51927298600,butorphanol tartrate (bulk),butorphanol,butorphanol,NA,powder,miscellaneous,100,%,1,professional co,NA,NA,active
-52584062601,butorphanol tartrate,butorphanol tartrate,butorphanol,NA,"injection, solution",intramuscular; intravenous,2,mg/ml,"1 vial, single-dose in 1 bag (52584-626-01) > 1 ml in 1 vial, single-dose","general injectables & vaccines, inc",8/14/13,NA,NA
-54569142000,stadol,butorphanol,butorphanol,NA,solution,injection,2,mg/ml,10,a-s medication,NA,NA,inactive
-54569310900,stadol,butorphanol,butorphanol,NA,solution,injection,2,mg/ml,10,a-s medication,NA,NA,inactive
-54569310901,stadol,butorphanol,butorphanol,NA,solution,injection,2,mg/ml,10,a-s medication,NA,NA,inactive
-54569368100,stadol ns,butorphanol,butorphanol,NA,"spray,non-aerosol",nasal,10,mg/ml,2.5,a-s medication,NA,NA,inactive
-54569379900,stadol,butorphanol,butorphanol,NA,solution,injection,2,mg/ml,1,a-s medication,NA,NA,inactive
-54569379901,stadol,butorphanol,butorphanol,NA,solution,injection,2,mg/ml,1,a-s medication,NA,NA,inactive
-54569598800,butorphanol tartrate,butorphanol,butorphanol,NA,"spray,non-aerosol",nasal,10,mg/ml,2.5,a-s medication,NA,NA,active
-54868018600,stadol,butorphanol,butorphanol,NA,solution,injection,2,mg/ml,10,physicians tc.,NA,NA,inactive
-54868320900,stadol ns,butorphanol,butorphanol,NA,"spray,non-aerosol",nasal,10,mg/ml,2.5,physicians tc.,NA,NA,inactive
-54868458300,butorphanol tartrate,butorphanol,butorphanol,NA,"spray,non-aerosol",nasal,10,mg/ml,2.5,physicians tc.,NA,NA,active
-55045253300,stadol,butorphanol,butorphanol,NA,solution,injection,2,mg/ml,10,drx,NA,NA,inactive
-55045296801,butorphanol tartrate,butorphanol tartrate,butorphanol,NA,NA,NA,2 mg/1 ml,NA,10,NA,NA,NA,NA
-55045296802,butorphanol tartrate,butorphanol tartrate,butorphanol,NA,NA,NA,2 mg/1 ml,NA,1,NA,NA,NA,NA
-55154036605,butorphanol tartrate,butorphanol tartrate,butorphanol,NA,injection,intramuscular; intravenous,2,mg/ml,5 vial in 1 bag (55154-0366-5) > 1 ml in 1 vial,cardinal health,10/15/98,NA,NA
-55154036705,butorphanol tartrate,butorphanol tartrate,butorphanol,NA,injection,intramuscular; intravenous,1,mg/ml,5 vial in 1 bag (55154-0367-5) > 1 ml in 1 vial,cardinal health,10/15/98,NA,NA
-55175441601,stadol ns,butorphanol,butorphanol,NA,"spray,non-aerosol",nasal,10,mg/ml,2.5,cheshire drugs,NA,NA,inactive
-55390018301,butorphanol tartrate,butorphanol,butorphanol,NA,solution,injection,1,mg/ml,1,bedford labs,8/12/98,8/12/98,active
-55390018401,butorphanol tartrate,butorphanol,butorphanol,NA,solution,injection,2,mg/ml,1,bedford labs,8/12/98,8/12/98,active
-55390018402,butorphanol tartrate,butorphanol,butorphanol,NA,solution,injection,2,mg/ml,2,bedford labs,8/12/98,8/12/98,active
-55390018510,butorphanol tartrate,butorphanol,butorphanol,NA,solution,injection,2,mg/ml,10,bedford labs,8/12/98,8/12/98,active
-55390034110,butorphanol tartrate,butorphanol,butorphanol,NA,solution,injection,1,mg/ml,1,bedford/novaplu,8/12/98,8/12/98,active
-55390034210,butorphanol tartrate,butorphanol,butorphanol,NA,solution,injection,2,mg/ml,1,bedford/novaplu,8/12/98,8/12/98,active
-58016483301,butorphanol tartrate,butorphanol,butorphanol,NA,"spray,non-aerosol",nasal,10,mg/ml,2.5,southwood pharm,NA,NA,active
-58016486801,butorphanol tartrate,butorphanol,butorphanol,NA,solution,injection,2,mg/ml,1,southwood pharm,NA,NA,active
-59723010201,stadol ns,butorphanol,butorphanol,NA,"spray,non-aerosol",nasal,10,mg/ml,2.5,helian pharm.,NA,NA,inactive
-59911594401,butorphanol tartrate,butorphanol,butorphanol,NA,"spray,non-aerosol",nasal,10,mg/ml,2.5,mylan,8/8/01,8/8/01,active
-60505065800,butorphanol tartrate,butorphanol,butorphanol,NA,solution,injection,1,mg/ml,1,apotex corp,10/23/01,10/23/01,active
-60505065900,butorphanol tartrate,butorphanol,butorphanol,NA,solution,injection,2,mg/ml,1,apotex corp,10/23/01,10/23/01,active
-60505065901,butorphanol tartrate,butorphanol,butorphanol,NA,solution,injection,2,mg/ml,2,apotex corp,NA,NA,active
-60505066000,butorphanol tartrate,butorphanol,butorphanol,NA,solution,injection,2,mg/ml,10,apotex corp,10/23/01,10/23/01,active
-60505081301,butorphanol tartrate,butorphanol,butorphanol,NA,"spray,non-aerosol",nasal,10,mg/ml,2.5,apotex corp,12/4/02,12/4/02,active
-61703031706,butorphanol tartrate,butorphanol,butorphanol,NA,solution,injection,1,mg/ml,1,baxter healthca,9/1/98,9/1/98,active
-61703031745,butorphanol tartrate,butorphanol,butorphanol,NA,solution,injection,1,mg/ml,1,hospira,9/28/98,9/28/98,active
-61703031806,butorphanol tartrate,butorphanol,butorphanol,NA,solution,injection,2,mg/ml,1,baxter healthca,9/1/98,9/1/98,active
-61703031845,butorphanol tartrate,butorphanol,butorphanol,NA,solution,injection,2,mg/ml,1,hospira,4/1/99,4/1/99,active
-62794031131,butorphanol tartrate,butorphanol,butorphanol,NA,solution,injection,1,mg/ml,1,bertek pharm,NA,NA,active
-62794031197,butorphanol tartrate,butorphanol,butorphanol,NA,solution,injection,1,mg/ml,1,bertek pharm,NA,NA,active
-62794031331,butorphanol tartrate,butorphanol,butorphanol,NA,solution,injection,2,mg/ml,1,bertek pharm,NA,NA,active
-62794031397,butorphanol tartrate,butorphanol,butorphanol,NA,solution,injection,2,mg/ml,1,bertek pharm,NA,NA,active
-62794031531,butorphanol tartrate,butorphanol,butorphanol,NA,solution,injection,2,mg/ml,2,bertek pharm,NA,NA,active
-62794031597,butorphanol tartrate,butorphanol,butorphanol,NA,solution,injection,2,mg/ml,2,bertek pharm,NA,NA,active
+ndc,drug_name,generic_name,opioid_ingredient1,opioid_ingredient2,strength,strength_uom,manufacturer,status,ingredients,manufacturer_abbr_name,ir_er
+'00015564415',stadol,butorphanol,butorphanol,NA,2,mg/ml,sandoz,inactive,NA,NA,NA
+'00015564420',stadol,butorphanol,butorphanol,NA,2,mg/ml,sandoz,inactive,NA,NA,NA
+'00015564423',stadol,butorphanol,butorphanol,NA,2,mg/ml,vha plus/brist,inactive,NA,NA,NA
+'00015564433',stadol,butorphanol,butorphanol,NA,2,mg/ml,geneva pharm.,inactive,NA,NA,NA
+'00015564515',stadol,butorphanol,butorphanol,NA,1,mg/ml,sandoz,inactive,NA,NA,NA
+'00015564520',stadol,butorphanol,butorphanol,NA,1,mg/ml,sandoz,inactive,NA,NA,NA
+'00015564523',stadol,butorphanol,butorphanol,NA,1,mg/ml,vha plus/brist,inactive,NA,NA,NA
+'00015564533',stadol,butorphanol,butorphanol,NA,1,mg/ml,geneva pharm.,inactive,NA,NA,NA
+'00015564615',stadol,butorphanol,butorphanol,NA,2,mg/ml,sandoz,inactive,NA,NA,NA
+'00015564620',stadol,butorphanol,butorphanol,NA,2,mg/ml,sandoz,inactive,NA,NA,NA
+'00015564623',stadol,butorphanol,butorphanol,NA,2,mg/ml,vha plus/brist,inactive,NA,NA,NA
+'00015564627',stadol,butorphanol,butorphanol,NA,2,mg/ml,vha plus/brist,inactive,NA,NA,NA
+'00015564633',stadol,butorphanol,butorphanol,NA,2,mg/ml,geneva pharm.,inactive,NA,NA,NA
+'00015564697',stadol,butorphanol,butorphanol,NA,2,mg/ml,bristol labs.,inactive,NA,NA,NA
+'00015564820',stadol,butorphanol,butorphanol,NA,2,mg/ml,sandoz,inactive,NA,NA,NA
+'00015564823',stadol,butorphanol,butorphanol,NA,2,mg/ml,vha plus/brist,inactive,NA,NA,NA
+'00015564827',stadol,butorphanol,butorphanol,NA,2,mg/ml,vha plus/brist,inactive,NA,NA,NA
+'00015564897',stadol,butorphanol,butorphanol,NA,2,mg/ml,sandoz,inactive,NA,NA,NA
+'00054309036',butorphanol tartrate,butorphanol,butorphanol,NA,10,mg/ml,roxane/west-war,active,NA,NA,NA
+'00074162301',butorphanol tartrate,butorphanol,butorphanol,NA,1,mg/ml,hospira,active,NA,NA,NA
+'00074162349',butorphanol tartrate,butorphanol,butorphanol,NA,1,mg/ml,novaplus,active,NA,NA,NA
+'00074162401',butorphanol tartrate,butorphanol,butorphanol,NA,1,mg/ml,hospira,inactive,NA,NA,NA
+'00074162449',butorphanol tartrate,butorphanol,butorphanol,NA,1,mg/ml,vha plus/abbott,inactive,NA,NA,NA
+'00074162601',butorphanol tartrate,butorphanol,butorphanol,NA,2,mg/ml,hospira,active,NA,NA,NA
+'00074162602',butorphanol tartrate,butorphanol,butorphanol,NA,2,mg/ml,hospira,active,NA,NA,NA
+'00074162649',butorphanol tartrate,butorphanol,butorphanol,NA,2,mg/ml,novaplus,active,NA,NA,NA
+'00074162651',butorphanol tartrate,butorphanol,butorphanol,NA,2,mg/ml,novaplus,active,NA,NA,NA
+'00074162701',butorphanol tartrate,butorphanol,butorphanol,NA,2,mg/ml,hospira,inactive,NA,NA,NA
+'00074162749',butorphanol tartrate,butorphanol,butorphanol,NA,2,mg/ml,vha plus/abbott,inactive,NA,NA,NA
+'00074230101',butorphanol tartrate,butorphanol,butorphanol,NA,1,mg/ml,hospira,inactive,NA,NA,NA
+'00074230131',butorphanol tartrate,butorphanol,butorphanol,NA,1,mg/ml,abbott hosp,inactive,NA,NA,NA
+'00074230201',butorphanol tartrate,butorphanol,butorphanol,NA,2,mg/ml,hospira,inactive,NA,NA,NA
+'00074230231',butorphanol tartrate,butorphanol,butorphanol,NA,2,mg/ml,abbott hosp,inactive,NA,NA,NA
+'00087565041',stadol ns,butorphanol,butorphanol,NA,10,mg/ml,bms primarycare,inactive,NA,NA,NA
+'00143986410',butorphanol tartrate,butorphanol,butorphanol,NA,1,mg/ml,"west-ward, inc.",active,NA,NA,NA
+'00143986710',butorphanol tartrate,butorphanol,butorphanol,NA,2,mg/ml,"west-ward, inc.",active,NA,NA,NA
+'00378963943',butorphanol tartrate,butorphanol,butorphanol,NA,10,mg/ml,mylan,active,NA,NA,NA
+'00403195518',stadol,butorphanol tartrate,butorphanol,NA,1 mg/1 ml,NA,NA,NA,NA,NA,NA
+'00403195718',stadol,butorphanol tartrate,butorphanol,NA,2 mg/1 ml,NA,NA,NA,NA,NA,NA
+'00403479118',stadol ns,butorphanol tartrate,butorphanol,NA,10 mg/ml,NA,NA,NA,NA,NA,NA
+'00403504518',stadol,butorphanol tartrate,butorphanol,NA,2 mg/1 ml,NA,NA,NA,NA,NA,NA
+'00409162301',butorphanol tartrate,butorphanol,butorphanol,NA,1,mg/ml,hospira,active,NA,NA,NA
+'00409162349',butorphanol tartrate,butorphanol,butorphanol,NA,1,mg/ml,hospira/novaplu,active,NA,NA,NA
+'00409162601',butorphanol tartrate,butorphanol,butorphanol,NA,2,mg/ml,hospira,active,NA,NA,NA
+'00409162602',butorphanol tartrate,butorphanol,butorphanol,NA,2,mg/ml,hospira,active,NA,NA,NA
+'00409162609',butorphanol tartrate,butorphanol,butorphanol,NA,2,mg/ml,hospira/novaplu,active,NA,NA,NA
+'00409162610',butorphanol tartrate,butorphanol,butorphanol,NA,2,mg/ml,hospira/novaplu,active,NA,NA,NA
+'00409162649',butorphanol tartrate,butorphanol,butorphanol,NA,2,mg/ml,hospira/novaplu,active,NA,NA,NA
+'00409162651',butorphanol tartrate,butorphanol,butorphanol,NA,2,mg/ml,hospira/novaplu,active,NA,NA,NA
+'10019046101',butorphanol tartrate,butorphanol,butorphanol,NA,1,mg/ml,baxter anesthes,active,NA,NA,NA
+'10019046201',butorphanol tartrate,butorphanol,butorphanol,NA,2,mg/ml,baxter anesthes,active,NA,NA,NA
+'23490518602',butorphanol tartrate,butorphanol tartrate,butorphanol,NA,2 mg/ml,NA,NA,NA,NA,NA,NA
+'38779176500',butorphanol tartrate (bulk),butorphanol,butorphanol,NA,100,%,medisca inc.,active,NA,NA,NA
+'38779176504',butorphanol tartrate (bulk),butorphanol,butorphanol,NA,100,%,medisca inc.,active,NA,NA,NA
+'38779176505',butorphanol tartrate (bulk),butorphanol,butorphanol,NA,100,%,medisca inc.,active,NA,NA,NA
+'38779176506',butorphanol tartrate (bulk),butorphanol,butorphanol,NA,100,%,medisca inc.,active,NA,NA,NA
+'38779176509',butorphanol tartrate (bulk),butorphanol,butorphanol,NA,100,%,medisca inc.,active,NA,NA,NA
+'49452131701',butorphanol tartrate (bulk),butorphanol,butorphanol,NA,100,%,spectrum,active,NA,NA,NA
+'49452131702',butorphanol tartrate (bulk),butorphanol,butorphanol,NA,100,%,spectrum,active,NA,NA,NA
+'51927298600',butorphanol tartrate (bulk),butorphanol,butorphanol,NA,100,%,professional co,active,NA,NA,NA
+'52584062601',butorphanol tartrate,butorphanol tartrate,butorphanol,NA,2,mg/ml,"general injectables & vaccines, inc",NA,NA,NA,NA
+'54569142000',stadol,butorphanol,butorphanol,NA,2,mg/ml,a-s medication,inactive,NA,NA,NA
+'54569310900',stadol,butorphanol,butorphanol,NA,2,mg/ml,a-s medication,inactive,NA,NA,NA
+'54569310901',stadol,butorphanol,butorphanol,NA,2,mg/ml,a-s medication,inactive,NA,NA,NA
+'54569368100',stadol ns,butorphanol,butorphanol,NA,10,mg/ml,a-s medication,inactive,NA,NA,NA
+'54569379900',stadol,butorphanol,butorphanol,NA,2,mg/ml,a-s medication,inactive,NA,NA,NA
+'54569379901',stadol,butorphanol,butorphanol,NA,2,mg/ml,a-s medication,inactive,NA,NA,NA
+'54569598800',butorphanol tartrate,butorphanol,butorphanol,NA,10,mg/ml,a-s medication,active,NA,NA,NA
+'54868018600',stadol,butorphanol,butorphanol,NA,2,mg/ml,physicians tc.,inactive,NA,NA,NA
+'54868320900',stadol ns,butorphanol,butorphanol,NA,10,mg/ml,physicians tc.,inactive,NA,NA,NA
+'54868458300',butorphanol tartrate,butorphanol,butorphanol,NA,10,mg/ml,physicians tc.,active,NA,NA,NA
+'55045253300',stadol,butorphanol,butorphanol,NA,2,mg/ml,drx,inactive,NA,NA,NA
+'55045296801',butorphanol tartrate,butorphanol tartrate,butorphanol,NA,2 mg/1 ml,NA,NA,NA,NA,NA,NA
+'55045296802',butorphanol tartrate,butorphanol tartrate,butorphanol,NA,2 mg/1 ml,NA,NA,NA,NA,NA,NA
+'55154036605',butorphanol tartrate,butorphanol tartrate,butorphanol,NA,2,mg/ml,cardinal health,NA,NA,NA,NA
+'55154036705',butorphanol tartrate,butorphanol tartrate,butorphanol,NA,1,mg/ml,cardinal health,NA,NA,NA,NA
+'55175441601',stadol ns,butorphanol,butorphanol,NA,10,mg/ml,cheshire drugs,inactive,NA,NA,NA
+'55390018301',butorphanol tartrate,butorphanol,butorphanol,NA,1,mg/ml,bedford labs,active,NA,NA,NA
+'55390018401',butorphanol tartrate,butorphanol,butorphanol,NA,2,mg/ml,bedford labs,active,NA,NA,NA
+'55390018402',butorphanol tartrate,butorphanol,butorphanol,NA,2,mg/ml,bedford labs,active,NA,NA,NA
+'55390018510',butorphanol tartrate,butorphanol,butorphanol,NA,2,mg/ml,bedford labs,active,NA,NA,NA
+'55390034110',butorphanol tartrate,butorphanol,butorphanol,NA,1,mg/ml,bedford/novaplu,active,NA,NA,NA
+'55390034210',butorphanol tartrate,butorphanol,butorphanol,NA,2,mg/ml,bedford/novaplu,active,NA,NA,NA
+'58016483301',butorphanol tartrate,butorphanol,butorphanol,NA,10,mg/ml,southwood pharm,active,NA,NA,NA
+'58016486801',butorphanol tartrate,butorphanol,butorphanol,NA,2,mg/ml,southwood pharm,active,NA,NA,NA
+'59723010201',stadol ns,butorphanol,butorphanol,NA,10,mg/ml,helian pharm.,inactive,NA,NA,NA
+'59911594401',butorphanol tartrate,butorphanol,butorphanol,NA,10,mg/ml,mylan,active,NA,NA,NA
+'60505065800',butorphanol tartrate,butorphanol,butorphanol,NA,1,mg/ml,apotex corp,active,NA,NA,NA
+'60505065900',butorphanol tartrate,butorphanol,butorphanol,NA,2,mg/ml,apotex corp,active,NA,NA,NA
+'60505065901',butorphanol tartrate,butorphanol,butorphanol,NA,2,mg/ml,apotex corp,active,NA,NA,NA
+'60505066000',butorphanol tartrate,butorphanol,butorphanol,NA,2,mg/ml,apotex corp,active,NA,NA,NA
+'60505081301',butorphanol tartrate,butorphanol,butorphanol,NA,10,mg/ml,apotex corp,active,NA,NA,NA
+'61703031706',butorphanol tartrate,butorphanol,butorphanol,NA,1,mg/ml,baxter healthca,active,NA,NA,NA
+'61703031745',butorphanol tartrate,butorphanol,butorphanol,NA,1,mg/ml,hospira,active,NA,NA,NA
+'61703031806',butorphanol tartrate,butorphanol,butorphanol,NA,2,mg/ml,baxter healthca,active,NA,NA,NA
+'61703031845',butorphanol tartrate,butorphanol,butorphanol,NA,2,mg/ml,hospira,active,NA,NA,NA
+'62794031131',butorphanol tartrate,butorphanol,butorphanol,NA,1,mg/ml,bertek pharm,active,NA,NA,NA
+'62794031197',butorphanol tartrate,butorphanol,butorphanol,NA,1,mg/ml,bertek pharm,active,NA,NA,NA
+'62794031331',butorphanol tartrate,butorphanol,butorphanol,NA,2,mg/ml,bertek pharm,active,NA,NA,NA
+'62794031397',butorphanol tartrate,butorphanol,butorphanol,NA,2,mg/ml,bertek pharm,active,NA,NA,NA
+'62794031531',butorphanol tartrate,butorphanol,butorphanol,NA,2,mg/ml,bertek pharm,active,NA,NA,NA
+'62794031597',butorphanol tartrate,butorphanol,butorphanol,NA,2,mg/ml,bertek pharm,active,NA,NA,NA

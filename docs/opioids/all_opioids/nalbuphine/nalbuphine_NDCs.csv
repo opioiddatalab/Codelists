@@ -1,108 +1,108 @@
-ndc,drug_name,generic_name,opioid_ingredient1,opioid_ingredient2,form,route,strength,strength_uom,package_size,manufacturer,startdate,enddate,status
-00074146301,nalbuphine,nalbuphine,nalbuphine,NA,solution,injection,10,mg/ml,1,hospira,9/30/90,9/30/90,active
-00074146401,nalbuphine,nalbuphine,nalbuphine,NA,solution,injection,10,mg/ml,10,hospira,9/30/90,9/30/90,active
-00074146501,nalbuphine,nalbuphine,nalbuphine,NA,solution,injection,20,mg/ml,1,hospira,9/30/90,9/30/90,active
-00074146601,nalbuphine,nalbuphine,nalbuphine,NA,syringe,injection,20,mg/ml,1,abbott hosp,9/30/90,9/30/90,inactive
-00074146701,nalbuphine,nalbuphine,nalbuphine,NA,solution,injection,20,mg/ml,10,hospira,9/30/90,9/30/90,active
-00074307502,nalbuphine,nalbuphine,nalbuphine,NA,solution,intravenous,1.5,mg/ml,30,abbott hosp,NA,NA,inactive
-00094595401,nalbuphine,nalbuphine,nalbuphine,NA,solution,injection,10,mg/ml,10,dupont pharm,NA,NA,active
-00094595453,nalbuphine,nalbuphine,nalbuphine,NA,solution,injection,10,mg/ml,1,dupont pharm,NA,NA,active
-00094595501,nalbuphine,nalbuphine,nalbuphine,NA,solution,injection,20,mg/ml,10,dupont pharm,NA,NA,active
-00094595553,nalbuphine,nalbuphine,nalbuphine,NA,solution,injection,20,mg/ml,1,dupont pharm,NA,NA,active
-00182303763,nalbuphine,nalbuphine,nalbuphine,NA,solution,injection,10,mg/ml,10,ivax/goldline l,NA,NA,active
-00186126212,nalbuphine,nalbuphine,nalbuphine,NA,solution,injection,10,mg/ml,10,astra pharm.,10/1/90,10/1/90,active
-00186126612,nalbuphine,nalbuphine,nalbuphine,NA,solution,injection,20,mg/ml,10,astra pharm.,10/1/90,10/1/90,active
-00304218556,nalbuphine,nalbuphine,nalbuphine,NA,solution,injection,10,mg/ml,10,j.j.balan inc.,NA,NA,active
-00304218656,nalbuphine,nalbuphine,nalbuphine,NA,solution,injection,20,mg/ml,10,j.j.balan inc.,NA,NA,active
-00364227554,nalbuphine,nalbuphine,nalbuphine,NA,solution,injection,10,mg/ml,10,schein,NA,NA,active
-00364227654,nalbuphine,nalbuphine,nalbuphine,NA,solution,injection,20,mg/ml,10,schein,NA,NA,active
-00403150918,nubain,nalbuphine hydrochloride,nalbuphine,NA,NA,NA,10 mg/1 ml,NA,1,NA,NA,NA,NA
-00403278918,nubain,nalbuphine hydrochloride,nalbuphine,NA,NA,NA,20 mg/1 ml,NA,10,NA,NA,NA,NA
-00403492018,nalbuphine hcl,nalbuphine hydrochloride,nalbuphine,NA,NA,NA,10 mg/1 ml,NA,1,NA,NA,NA,NA
-00409146301,nalbuphine,nalbuphine,nalbuphine,NA,solution,injection,10,mg/ml,1,hospira,9/30/90,9/30/90,active
-00409146349,nalbuphine,nalbuphine,nalbuphine,NA,solution,injection,10,mg/ml,1,hospira/novatio,9/30/90,9/30/90,active
-00409146361,nalbuphine,nalbuphine,nalbuphine,NA,solution,injection,10,mg/ml,1,hospira/amerine,9/30/90,9/30/90,active
-00409146401,nalbuphine,nalbuphine,nalbuphine,NA,solution,injection,10,mg/ml,10,hospira,9/30/90,9/30/90,active
-00409146501,nalbuphine,nalbuphine,nalbuphine,NA,solution,injection,20,mg/ml,1,hospira,9/30/90,9/30/90,active
-00409146549,nalbuphine,nalbuphine,nalbuphine,NA,solution,injection,20,mg/ml,1,hospira/novatio,9/30/90,9/30/90,active
-00409146561,nalbuphine,nalbuphine,nalbuphine,NA,solution,injection,20,mg/ml,1,hospira/amerine,9/30/90,9/30/90,active
-00409146701,nalbuphine,nalbuphine,nalbuphine,NA,solution,injection,20,mg/ml,10,hospira,9/30/90,9/30/90,active
-00469208000,nalbuphine,nalbuphine,nalbuphine,NA,solution,injection,10,mg/ml,1,lyphomed,NA,NA,active
-00469208030,nalbuphine,nalbuphine,nalbuphine,NA,solution,injection,10,mg/ml,10,lyphomed,NA,NA,active
-00469209000,nalbuphine,nalbuphine,nalbuphine,NA,solution,injection,20,mg/ml,1,lyphomed,NA,NA,active
-00469209030,nalbuphine,nalbuphine,nalbuphine,NA,solution,injection,20,mg/ml,10,lyphomed,NA,NA,active
-00536548070,nalbuphine,nalbuphine,nalbuphine,NA,solution,injection,10,mg/ml,10,rugby,7/1/86,7/1/86,active
-00536549070,nalbuphine,nalbuphine,nalbuphine,NA,solution,injection,20,mg/ml,10,rugby,7/1/86,7/1/86,active
-00555111909,nalbuphine,nalbuphine,nalbuphine,NA,solution,injection,10,mg/ml,10,barr,5/19/98,5/19/98,active
-00555112009,nalbuphine,nalbuphine,nalbuphine,NA,solution,injection,20,mg/ml,10,barr,5/19/98,5/19/98,active
-00555112105,nalbuphine,nalbuphine,nalbuphine,NA,solution,injection,10,mg/ml,1,barr,9/30/90,9/30/90,active
-00555112205,nalbuphine,nalbuphine,nalbuphine,NA,solution,injection,20,mg/ml,1,barr,9/30/90,9/30/90,active
-00590038410,nubain,nalbuphine,nalbuphine,NA,solution,injection,10,mg/ml,2,dupont pharm,NA,NA,inactive
-00590038510,nubain,nalbuphine,nalbuphine,NA,solution,injection,10,mg/ml,1,dupont pharm,5/15/79,5/15/79,inactive
-00590038601,nubain,nalbuphine,nalbuphine,NA,solution,injection,10,mg/ml,10,du pont pharma,5/15/79,5/15/79,inactive
-00590039510,nubain,nalbuphine,nalbuphine,NA,solution,injection,10,mg/ml,1,du pont pharma,5/15/79,5/15/79,inactive
-00590039601,nubain,nalbuphine,nalbuphine,NA,solution,injection,20,mg/ml,1,dupont pharm,NA,NA,inactive
-00590039602,nubain,nalbuphine,nalbuphine,NA,syringe,injection,20,mg/ml,1,dupont pharm,NA,NA,inactive
-00590039610,nubain,nalbuphine,nalbuphine,NA,solution,injection,20,mg/ml,1,dupont pharm,3/2/84,3/2/84,inactive
-00590039615,nubain,nalbuphine,nalbuphine,NA,syringe,injection,20,mg/ml,1,du pont multi,3/2/84,3/2/84,inactive
-00590039810,nubain,nalbuphine,nalbuphine,NA,solution,injection,20,mg/ml,1,du pont pharma,11/10/88,11/10/88,inactive
-00590039901,nubain,nalbuphine,nalbuphine,NA,solution,injection,20,mg/ml,10,du pont pharma,3/2/84,3/2/84,inactive
-00590043210,nubain,nalbuphine,nalbuphine,NA,solution,injection,10,mg/ml,1,endo labs,5/15/79,5/15/79,inactive
-00590043310,nubain,nalbuphine,nalbuphine,NA,solution,injection,20,mg/ml,1,endo labs,11/10/88,11/10/88,inactive
-00590050801,nubain,nalbuphine,nalbuphine,NA,solution,injection,10,mg/ml,10,endo labs,5/15/79,5/15/79,inactive
-00590050901,nubain,nalbuphine,nalbuphine,NA,solution,injection,20,mg/ml,10,endo labs,3/2/84,3/2/84,inactive
-00719323187,nalbuphine,nalbuphine,nalbuphine,NA,solution,injection,10,mg/ml,10,bioline,NA,NA,active
-00839753630,nalbuphine,nalbuphine,nalbuphine,NA,solution,injection,10,mg/ml,10,h l moore,9/30/90,9/30/90,active
-00839753730,nalbuphine,nalbuphine,nalbuphine,NA,solution,injection,20,mg/ml,10,h l moore,9/30/90,9/30/90,active
-23490595501,nalbuphine hcl,nalbuphine hydrochloride,nalbuphine,NA,NA,NA,10 mg/1 ml,NA,1,NA,NA,NA,NA
-24200089010,nalbuphine hydrochloride-sodium chloride,nalbuphine hydrochloride; sodium chloride,nalbuphine,NA,NA,NA,10 mg-0.9%,NA,1,NA,NA,NA,NA
-24200089139,nalbuphine,nalbuphine,nalbuphine,NA,syringe,intravenous,10,mg/0.5 ml,.5,ameridose llc,NA,NA,inactive
-38779044805,nalbuphine hcl,nalbuphine hydrochloride,nalbuphine,NA,NA,NA,NA,NA,1,NA,NA,NA,NA
-49452480001,nalbuphine (bulk),nalbuphine,nalbuphine,NA,powder,miscellaneous,100,%,.1,spectrum,NA,NA,active
-49452480002,nalbuphine (bulk),nalbuphine,nalbuphine,NA,powder,miscellaneous,100,%,1,spectrum,NA,NA,active
-49452480003,nalbuphine (bulk),nalbuphine,nalbuphine,NA,powder,miscellaneous,100,%,5,spectrum,NA,NA,active
-49999042610,nubain,nalbuphine,nalbuphine,NA,solution,injection,10,mg/ml,10,quality care,NA,NA,inactive
-51309050402,nalbuphine,nalbuphine,nalbuphine,NA,solution,injection,10,mg/ml,1,quad,9/30/90,9/30/90,active
-51309050410,nalbuphine,nalbuphine,nalbuphine,NA,solution,injection,10,mg/ml,10,quad,9/30/90,9/30/90,active
-51309050502,nalbuphine,nalbuphine,nalbuphine,NA,solution,injection,20,mg/ml,1,quad,NA,NA,active
-51309050510,nalbuphine,nalbuphine,nalbuphine,NA,solution,injection,20,mg/ml,10,quad,9/30/90,9/30/90,active
-51927214000,nalbuphine (bulk),nalbuphine,nalbuphine,NA,powder,miscellaneous,100,%,1,professional co,NA,NA,active
-52584046301,nalbuphine hydrochloride,nalbuphine hydrochloride,nalbuphine,NA,"injection, solution",intramuscular; intravenous; subcutaneous,10,mg/ml,1 ampule in 1 bag (52584-463-01) > 1 ml in 1 ampule,"general injectables & vaccines, inc",3/1/10,NA,NA
-53258208000,nubain,nalbuphine,nalbuphine,NA,solution,injection,10,mg/ml,1,vha plus,NA,NA,inactive
-53258208003,nalbuphine,nalbuphine,nalbuphine,NA,solution,injection,10,mg/ml,10,vha plus,NA,NA,active
-53258209000,nubain,nalbuphine,nalbuphine,NA,solution,injection,10,mg/ml,1,vha plus,NA,NA,inactive
-53258209003,nalbuphine,nalbuphine,nalbuphine,NA,solution,injection,20,mg/ml,10,vha plus,NA,NA,active
-54569191600,nalbuphine,nalbuphine,nalbuphine,NA,solution,injection,20,mg/ml,10,a-s medication,NA,NA,active
-54569210100,nubain,nalbuphine,nalbuphine,NA,solution,injection,10,mg/ml,1,a-s medication,NA,NA,inactive
-54569308000,nubain,nalbuphine,nalbuphine,NA,solution,injection,10,mg/ml,10,a-s medication,NA,NA,inactive
-54569339700,nalbuphine,nalbuphine,nalbuphine,NA,solution,injection,10,mg/ml,1,a-s medication,NA,NA,active
-54569391300,nubain,nalbuphine,nalbuphine,NA,solution,injection,20,mg/ml,10,a-s medication,NA,NA,inactive
-54569411200,nalbuphine,nalbuphine,nalbuphine,NA,solution,injection,20,mg/ml,1,a-s medication,NA,NA,active
-54569411700,nalbuphine,nalbuphine,nalbuphine,NA,solution,injection,20,mg/ml,10,a-s medication,NA,NA,active
-54569439000,nubain,nalbuphine,nalbuphine,NA,solution,injection,20,mg/ml,10,a-s medication,NA,NA,inactive
-54569481900,nubain,nalbuphine,nalbuphine,NA,solution,injection,20,mg/ml,1,a-s medication,NA,NA,inactive
-54569579500,nalbuphine,nalbuphine,nalbuphine,NA,solution,injection,10,mg/ml,1,a-s medication,NA,NA,active
-54868347100,nubain,nalbuphine,nalbuphine,NA,solution,injection,10,mg/ml,10,physicians tc.,NA,NA,inactive
-54868360800,nalbuphine,nalbuphine,nalbuphine,NA,solution,injection,10,mg/ml,1,physicians tc.,NA,NA,active
-54868360801,nalbuphine,nalbuphine,nalbuphine,NA,solution,injection,10,mg/ml,1,physicians tc.,NA,NA,active
-54868360900,nubain,nalbuphine,nalbuphine,NA,solution,injection,20,mg/ml,1,physicians tc.,NA,NA,inactive
-54868368600,nubain,nalbuphine,nalbuphine,NA,solution,injection,10,mg/ml,1,physicians tc.,NA,NA,inactive
-54868368601,nubain,nalbuphine,nalbuphine,NA,solution,injection,10,mg/ml,1,physicians tc.,NA,NA,inactive
-55081105100,nalbuphine,nalbuphine,nalbuphine,NA,solution,injection,10,mg/ml,10,clinical pharm,NA,NA,active
-55081105200,nalbuphine,nalbuphine,nalbuphine,NA,solution,injection,10,mg/ml,1,clinical pharm,NA,NA,active
-55081105300,nalbuphine,nalbuphine,nalbuphine,NA,solution,injection,20,mg/ml,10,clinical pharm,NA,NA,active
-55081105400,nalbuphine,nalbuphine,nalbuphine,NA,solution,injection,20,mg/ml,1,clinical pharm,NA,NA,active
-55154239905,nalbuphine hydrochloride,nalbuphine hydrochloride,nalbuphine,NA,"injection, solution",intramuscular; intravenous; subcutaneous,10,mg/ml,5 ampule in 1 bag (55154-2399-5) > 1 ml in 1 ampule,cardinal health,2/3/89,NA,NA
-55154319808,nalbuphine hydrochloride,nalbuphine hydrochloride,nalbuphine,NA,"injection, solution",intramuscular; intravenous; subcutaneous,10,mg/ml,1 ampule in 1 bag (55154-3198-8) > 1 ml in 1 ampule,cardinal health,2/3/89,NA,NA
-58016477001,nalbuphine,nalbuphine,nalbuphine,NA,solution,injection,10,mg/ml,1,southwood pharm,NA,NA,active
-58016938401,nalbuphine,nalbuphine,nalbuphine,NA,solution,injection,10,mg/ml,10,southwood pharm,NA,NA,active
-62991154601,nalbuphine (bulk),nalbuphine,nalbuphine,NA,powder,miscellaneous,100,%,1,"letco medical,",NA,NA,active
-62991154602,nalbuphine (bulk),nalbuphine,nalbuphine,NA,powder,miscellaneous,100,%,5,"letco medical,",NA,NA,active
-62991154603,nalbuphine hcl,nalbuphine hydrochloride,nalbuphine,NA,NA,NA,NA,NA,1,NA,NA,NA,NA
-63481043210,nubain,nalbuphine,nalbuphine,NA,solution,injection,10,mg/ml,1,endo pharm inc.,9/30/90,9/30/90,inactive
-63481043310,nubain,nalbuphine,nalbuphine,NA,solution,injection,20,mg/ml,1,endo pharm inc.,9/30/90,9/30/90,inactive
-63481050805,nubain,nalbuphine,nalbuphine,NA,solution,injection,10,mg/ml,10,endo pharm inc.,5/15/79,5/15/79,inactive
-63481050905,nubain,nalbuphine,nalbuphine,NA,solution,injection,20,mg/ml,10,endo pharm inc.,9/30/90,9/30/90,inactive
-63739046605,nalbuphine,nalbuphine,nalbuphine,NA,solution,injection,20,mg/ml,1,mckesson packag,NA,NA,active
-63739046621,nalbuphine,nalbuphine,nalbuphine,NA,solution,injection,20,mg/ml,1,mckesson packag,NA,NA,active
-71872711401,nalbuphine hydrochloride,nalbuphine hydrochloride,nalbuphine,NA,"injection, solution",intramuscular; intravenous; subcutaneous,10 mg/ml,NA,"1 vial, multi-dose in 1 bag (71872-7114-1)  > 10 ml in 1 vial, multi-dose","medical purchasing solutions, llc",NA,NA,NA
+ndc,drug_name,generic_name,opioid_ingredient1,opioid_ingredient2,strength,strength_uom,manufacturer,status,ingredients,manufacturer_abbr_name,ir_er
+'00074146301',nalbuphine,nalbuphine,nalbuphine,NA,10,mg/ml,hospira,active,NA,NA,NA
+'00074146401',nalbuphine,nalbuphine,nalbuphine,NA,10,mg/ml,hospira,active,NA,NA,NA
+'00074146501',nalbuphine,nalbuphine,nalbuphine,NA,20,mg/ml,hospira,active,NA,NA,NA
+'00074146601',nalbuphine,nalbuphine,nalbuphine,NA,20,mg/ml,abbott hosp,inactive,NA,NA,NA
+'00074146701',nalbuphine,nalbuphine,nalbuphine,NA,20,mg/ml,hospira,active,NA,NA,NA
+'00074307502',nalbuphine,nalbuphine,nalbuphine,NA,1.5,mg/ml,abbott hosp,inactive,NA,NA,NA
+'00094595401',nalbuphine,nalbuphine,nalbuphine,NA,10,mg/ml,dupont pharm,active,NA,NA,NA
+'00094595453',nalbuphine,nalbuphine,nalbuphine,NA,10,mg/ml,dupont pharm,active,NA,NA,NA
+'00094595501',nalbuphine,nalbuphine,nalbuphine,NA,20,mg/ml,dupont pharm,active,NA,NA,NA
+'00094595553',nalbuphine,nalbuphine,nalbuphine,NA,20,mg/ml,dupont pharm,active,NA,NA,NA
+'00182303763',nalbuphine,nalbuphine,nalbuphine,NA,10,mg/ml,ivax/goldline l,active,NA,NA,NA
+'00186126212',nalbuphine,nalbuphine,nalbuphine,NA,10,mg/ml,astra pharm.,active,NA,NA,NA
+'00186126612',nalbuphine,nalbuphine,nalbuphine,NA,20,mg/ml,astra pharm.,active,NA,NA,NA
+'00304218556',nalbuphine,nalbuphine,nalbuphine,NA,10,mg/ml,j.j.balan inc.,active,NA,NA,NA
+'00304218656',nalbuphine,nalbuphine,nalbuphine,NA,20,mg/ml,j.j.balan inc.,active,NA,NA,NA
+'00364227554',nalbuphine,nalbuphine,nalbuphine,NA,10,mg/ml,schein,active,NA,NA,NA
+'00364227654',nalbuphine,nalbuphine,nalbuphine,NA,20,mg/ml,schein,active,NA,NA,NA
+'00403150918',nubain,nalbuphine hydrochloride,nalbuphine,NA,10 mg/1 ml,NA,NA,NA,NA,NA,NA
+'00403278918',nubain,nalbuphine hydrochloride,nalbuphine,NA,20 mg/1 ml,NA,NA,NA,NA,NA,NA
+'00403492018',nalbuphine hcl,nalbuphine hydrochloride,nalbuphine,NA,10 mg/1 ml,NA,NA,NA,NA,NA,NA
+'00409146301',nalbuphine,nalbuphine,nalbuphine,NA,10,mg/ml,hospira,active,NA,NA,NA
+'00409146349',nalbuphine,nalbuphine,nalbuphine,NA,10,mg/ml,hospira/novatio,active,NA,NA,NA
+'00409146361',nalbuphine,nalbuphine,nalbuphine,NA,10,mg/ml,hospira/amerine,active,NA,NA,NA
+'00409146401',nalbuphine,nalbuphine,nalbuphine,NA,10,mg/ml,hospira,active,NA,NA,NA
+'00409146501',nalbuphine,nalbuphine,nalbuphine,NA,20,mg/ml,hospira,active,NA,NA,NA
+'00409146549',nalbuphine,nalbuphine,nalbuphine,NA,20,mg/ml,hospira/novatio,active,NA,NA,NA
+'00409146561',nalbuphine,nalbuphine,nalbuphine,NA,20,mg/ml,hospira/amerine,active,NA,NA,NA
+'00409146701',nalbuphine,nalbuphine,nalbuphine,NA,20,mg/ml,hospira,active,NA,NA,NA
+'00469208000',nalbuphine,nalbuphine,nalbuphine,NA,10,mg/ml,lyphomed,active,NA,NA,NA
+'00469208030',nalbuphine,nalbuphine,nalbuphine,NA,10,mg/ml,lyphomed,active,NA,NA,NA
+'00469209000',nalbuphine,nalbuphine,nalbuphine,NA,20,mg/ml,lyphomed,active,NA,NA,NA
+'00469209030',nalbuphine,nalbuphine,nalbuphine,NA,20,mg/ml,lyphomed,active,NA,NA,NA
+'00536548070',nalbuphine,nalbuphine,nalbuphine,NA,10,mg/ml,rugby,active,NA,NA,NA
+'00536549070',nalbuphine,nalbuphine,nalbuphine,NA,20,mg/ml,rugby,active,NA,NA,NA
+'00555111909',nalbuphine,nalbuphine,nalbuphine,NA,10,mg/ml,barr,active,NA,NA,NA
+'00555112009',nalbuphine,nalbuphine,nalbuphine,NA,20,mg/ml,barr,active,NA,NA,NA
+'00555112105',nalbuphine,nalbuphine,nalbuphine,NA,10,mg/ml,barr,active,NA,NA,NA
+'00555112205',nalbuphine,nalbuphine,nalbuphine,NA,20,mg/ml,barr,active,NA,NA,NA
+'00590038410',nubain,nalbuphine,nalbuphine,NA,10,mg/ml,dupont pharm,inactive,NA,NA,NA
+'00590038510',nubain,nalbuphine,nalbuphine,NA,10,mg/ml,dupont pharm,inactive,NA,NA,NA
+'00590038601',nubain,nalbuphine,nalbuphine,NA,10,mg/ml,du pont pharma,inactive,NA,NA,NA
+'00590039510',nubain,nalbuphine,nalbuphine,NA,10,mg/ml,du pont pharma,inactive,NA,NA,NA
+'00590039601',nubain,nalbuphine,nalbuphine,NA,20,mg/ml,dupont pharm,inactive,NA,NA,NA
+'00590039602',nubain,nalbuphine,nalbuphine,NA,20,mg/ml,dupont pharm,inactive,NA,NA,NA
+'00590039610',nubain,nalbuphine,nalbuphine,NA,20,mg/ml,dupont pharm,inactive,NA,NA,NA
+'00590039615',nubain,nalbuphine,nalbuphine,NA,20,mg/ml,du pont multi,inactive,NA,NA,NA
+'00590039810',nubain,nalbuphine,nalbuphine,NA,20,mg/ml,du pont pharma,inactive,NA,NA,NA
+'00590039901',nubain,nalbuphine,nalbuphine,NA,20,mg/ml,du pont pharma,inactive,NA,NA,NA
+'00590043210',nubain,nalbuphine,nalbuphine,NA,10,mg/ml,endo labs,inactive,NA,NA,NA
+'00590043310',nubain,nalbuphine,nalbuphine,NA,20,mg/ml,endo labs,inactive,NA,NA,NA
+'00590050801',nubain,nalbuphine,nalbuphine,NA,10,mg/ml,endo labs,inactive,NA,NA,NA
+'00590050901',nubain,nalbuphine,nalbuphine,NA,20,mg/ml,endo labs,inactive,NA,NA,NA
+'00719323187',nalbuphine,nalbuphine,nalbuphine,NA,10,mg/ml,bioline,active,NA,NA,NA
+'00839753630',nalbuphine,nalbuphine,nalbuphine,NA,10,mg/ml,h l moore,active,NA,NA,NA
+'00839753730',nalbuphine,nalbuphine,nalbuphine,NA,20,mg/ml,h l moore,active,NA,NA,NA
+'23490595501',nalbuphine hcl,nalbuphine hydrochloride,nalbuphine,NA,10 mg/1 ml,NA,NA,NA,NA,NA,NA
+'24200089010',nalbuphine hydrochloride-sodium chloride,nalbuphine hydrochloride; sodium chloride,nalbuphine,NA,10 mg-0.9%,NA,NA,NA,NA,NA,NA
+'24200089139',nalbuphine,nalbuphine,nalbuphine,NA,10,mg/0.5 ml,ameridose llc,inactive,NA,NA,NA
+'38779044805',nalbuphine hcl,nalbuphine hydrochloride,nalbuphine,NA,NA,NA,NA,NA,NA,NA,NA
+'49452480001',nalbuphine (bulk),nalbuphine,nalbuphine,NA,100,%,spectrum,active,NA,NA,NA
+'49452480002',nalbuphine (bulk),nalbuphine,nalbuphine,NA,100,%,spectrum,active,NA,NA,NA
+'49452480003',nalbuphine (bulk),nalbuphine,nalbuphine,NA,100,%,spectrum,active,NA,NA,NA
+'49999042610',nubain,nalbuphine,nalbuphine,NA,10,mg/ml,quality care,inactive,NA,NA,NA
+'51309050402',nalbuphine,nalbuphine,nalbuphine,NA,10,mg/ml,quad,active,NA,NA,NA
+'51309050410',nalbuphine,nalbuphine,nalbuphine,NA,10,mg/ml,quad,active,NA,NA,NA
+'51309050502',nalbuphine,nalbuphine,nalbuphine,NA,20,mg/ml,quad,active,NA,NA,NA
+'51309050510',nalbuphine,nalbuphine,nalbuphine,NA,20,mg/ml,quad,active,NA,NA,NA
+'51927214000',nalbuphine (bulk),nalbuphine,nalbuphine,NA,100,%,professional co,active,NA,NA,NA
+'52584046301',nalbuphine hydrochloride,nalbuphine hydrochloride,nalbuphine,NA,10,mg/ml,"general injectables & vaccines, inc",NA,NA,NA,NA
+'53258208000',nubain,nalbuphine,nalbuphine,NA,10,mg/ml,vha plus,inactive,NA,NA,NA
+'53258208003',nalbuphine,nalbuphine,nalbuphine,NA,10,mg/ml,vha plus,active,NA,NA,NA
+'53258209000',nubain,nalbuphine,nalbuphine,NA,10,mg/ml,vha plus,inactive,NA,NA,NA
+'53258209003',nalbuphine,nalbuphine,nalbuphine,NA,20,mg/ml,vha plus,active,NA,NA,NA
+'54569191600',nalbuphine,nalbuphine,nalbuphine,NA,20,mg/ml,a-s medication,active,NA,NA,NA
+'54569210100',nubain,nalbuphine,nalbuphine,NA,10,mg/ml,a-s medication,inactive,NA,NA,NA
+'54569308000',nubain,nalbuphine,nalbuphine,NA,10,mg/ml,a-s medication,inactive,NA,NA,NA
+'54569339700',nalbuphine,nalbuphine,nalbuphine,NA,10,mg/ml,a-s medication,active,NA,NA,NA
+'54569391300',nubain,nalbuphine,nalbuphine,NA,20,mg/ml,a-s medication,inactive,NA,NA,NA
+'54569411200',nalbuphine,nalbuphine,nalbuphine,NA,20,mg/ml,a-s medication,active,NA,NA,NA
+'54569411700',nalbuphine,nalbuphine,nalbuphine,NA,20,mg/ml,a-s medication,active,NA,NA,NA
+'54569439000',nubain,nalbuphine,nalbuphine,NA,20,mg/ml,a-s medication,inactive,NA,NA,NA
+'54569481900',nubain,nalbuphine,nalbuphine,NA,20,mg/ml,a-s medication,inactive,NA,NA,NA
+'54569579500',nalbuphine,nalbuphine,nalbuphine,NA,10,mg/ml,a-s medication,active,NA,NA,NA
+'54868347100',nubain,nalbuphine,nalbuphine,NA,10,mg/ml,physicians tc.,inactive,NA,NA,NA
+'54868360800',nalbuphine,nalbuphine,nalbuphine,NA,10,mg/ml,physicians tc.,active,NA,NA,NA
+'54868360801',nalbuphine,nalbuphine,nalbuphine,NA,10,mg/ml,physicians tc.,active,NA,NA,NA
+'54868360900',nubain,nalbuphine,nalbuphine,NA,20,mg/ml,physicians tc.,inactive,NA,NA,NA
+'54868368600',nubain,nalbuphine,nalbuphine,NA,10,mg/ml,physicians tc.,inactive,NA,NA,NA
+'54868368601',nubain,nalbuphine,nalbuphine,NA,10,mg/ml,physicians tc.,inactive,NA,NA,NA
+'55081105100',nalbuphine,nalbuphine,nalbuphine,NA,10,mg/ml,clinical pharm,active,NA,NA,NA
+'55081105200',nalbuphine,nalbuphine,nalbuphine,NA,10,mg/ml,clinical pharm,active,NA,NA,NA
+'55081105300',nalbuphine,nalbuphine,nalbuphine,NA,20,mg/ml,clinical pharm,active,NA,NA,NA
+'55081105400',nalbuphine,nalbuphine,nalbuphine,NA,20,mg/ml,clinical pharm,active,NA,NA,NA
+'55154239905',nalbuphine hydrochloride,nalbuphine hydrochloride,nalbuphine,NA,10,mg/ml,cardinal health,NA,NA,NA,NA
+'55154319808',nalbuphine hydrochloride,nalbuphine hydrochloride,nalbuphine,NA,10,mg/ml,cardinal health,NA,NA,NA,NA
+'58016477001',nalbuphine,nalbuphine,nalbuphine,NA,10,mg/ml,southwood pharm,active,NA,NA,NA
+'58016938401',nalbuphine,nalbuphine,nalbuphine,NA,10,mg/ml,southwood pharm,active,NA,NA,NA
+'62991154601',nalbuphine (bulk),nalbuphine,nalbuphine,NA,100,%,"letco medical,",active,NA,NA,NA
+'62991154602',nalbuphine (bulk),nalbuphine,nalbuphine,NA,100,%,"letco medical,",active,NA,NA,NA
+'62991154603',nalbuphine hcl,nalbuphine hydrochloride,nalbuphine,NA,NA,NA,NA,NA,NA,NA,NA
+'63481043210',nubain,nalbuphine,nalbuphine,NA,10,mg/ml,endo pharm inc.,inactive,NA,NA,NA
+'63481043310',nubain,nalbuphine,nalbuphine,NA,20,mg/ml,endo pharm inc.,inactive,NA,NA,NA
+'63481050805',nubain,nalbuphine,nalbuphine,NA,10,mg/ml,endo pharm inc.,inactive,NA,NA,NA
+'63481050905',nubain,nalbuphine,nalbuphine,NA,20,mg/ml,endo pharm inc.,inactive,NA,NA,NA
+'63739046605',nalbuphine,nalbuphine,nalbuphine,NA,20,mg/ml,mckesson packag,active,NA,NA,NA
+'63739046621',nalbuphine,nalbuphine,nalbuphine,NA,20,mg/ml,mckesson packag,active,NA,NA,NA
+'71872711401',nalbuphine hydrochloride,nalbuphine hydrochloride,nalbuphine,NA,10 mg/ml,NA,"medical purchasing solutions, llc",NA,NA,NA,NA

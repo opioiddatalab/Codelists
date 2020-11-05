@@ -1,192 +1,192 @@
-ndc,drug_name,generic_name,opioid_ingredient1,opioid_ingredient2,form,route,strength,strength_uom,package_size,manufacturer,startdate,enddate,status
-00024191601,talwin,pentazocine,pentazocine,NA,solution,injection,30,mg/ml,10,abbott hosp,9/30/90,9/30/90,active
-00024191701,talwin,pentazocine,pentazocine,NA,syringe,injection,30,mg/ml,1,sanofi winthrop,9/30/90,9/30/90,inactive
-00024191702,talwin,pentazocine,pentazocine,NA,syringe,injection,30,mg/ml,1,sanofi winthrop,9/30/90,9/30/90,inactive
-00024191802,talwin,pentazocine,pentazocine,NA,syringe,injection,30,mg/ml,1.5,sanofi winthrop,9/30/90,9/30/90,inactive
-00024191902,talwin,pentazocine,pentazocine,NA,syringe,injection,30,mg/ml,2,sanofi winthrop,9/30/90,9/30/90,inactive
-00024191906,talwin,pentazocine,pentazocine,NA,syringe,injection,30,mg/ml,2,sanofi winthrop,9/30/90,9/30/90,inactive
-00024192104,talwin hydrochloride,pentazocine hydrochloride; naloxone hydrochloride,pentazocine,naloxone,NA,NA,50 mg,NA,100,NA,NA,NA,inactive
-00024192114,talwin hydrochloride,pentazocine hydrochloride; naloxone hydrochloride,pentazocine,naloxone,NA,NA,50 mg,NA,100,NA,NA,NA,inactive
-00024192404,talwin,pentazocine,pentazocine,NA,solution,injection,30,mg/ml,1,sanofi winthrop,9/30/90,9/30/90,active
-00024192414,talwin,pentazocine,pentazocine,NA,solution,injection,30,mg/ml,1,sanofi winthrop,9/30/90,9/30/90,active
-00024192504,talwin,pentazocine,pentazocine,NA,solution,injection,30,mg/ml,1.5,sanofi-aventis,9/30/90,9/30/90,active
-00024192514,talwin lactate,pentazocine lactate,pentazocine,NA,NA,NA,45 mg,NA,25,NA,NA,NA,inactive
-00024192604,talwin,pentazocine,pentazocine,NA,solution,injection,30,mg/ml,2,sanofi winthrop,9/30/90,9/30/90,active
-00024192614,talwin,pentazocine,pentazocine,NA,solution,injection,30,mg/ml,2,sanofi-aventis,9/30/90,9/30/90,active
-00024192704,talwin compound,pentazocine,pentazocine,NA,tablet,oral,12.5-325,mg,100,sanofi-aventis,9/30/90,9/30/90,inactive
-00024193704,talacen,pentazocine,pentazocine,NA,tablet,oral,25-650,mg,100,sanofi-aventis,9/30/90,9/30/90,inactive
-00024193714,talacen,pentazocine,pentazocine,NA,tablet,oral,25-650,mg,250,sanofi-aventis,9/30/90,9/30/90,inactive
-00024195104,talwin nx,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,100,sanofi-aventis,9/30/90,9/30/90,inactive
-00024195114,talwin nx,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,100,sanofi winthrop,NA,NA,inactive
-00024195124,talwin nx,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,250,sanofi-aventis,9/30/90,9/30/90,inactive
-00074192010,talwin,pentazocine,pentazocine,NA,solution,injection,30,mg/ml,10,hospira,9/30/90,9/30/90,active
-00074193701,talwin,pentazocine,pentazocine,NA,syringe,injection,30,mg/ml,1,abbott hosp,8/1/90,8/1/90,inactive
-00074193731,talwin,pentazocine,pentazocine,NA,syringe,injection,30,mg/ml,1,abbott hosp,9/30/90,9/30/90,inactive
-00074193802,talwin,pentazocine,pentazocine,NA,syringe,injection,30,mg/ml,2,abbott hosp,8/1/90,8/1/90,inactive
-00074194101,talwin,pentazocine,pentazocine,NA,solution,injection,30,mg/ml,1,hospira,9/30/90,9/30/90,active
-00074194111,talwin,pentazocine,pentazocine,NA,solution,injection,30,mg/ml,1,hospira,8/1/90,8/1/90,active
-00074204202,talwin,pentazocine,pentazocine,NA,solution,injection,30,mg/ml,2,abbott hosp,8/1/90,8/1/90,active
-00403201915,talacen,pentazocine,pentazocine,NA,tablet,oral,25-650,mg,15,compumed inc.,NA,NA,inactive
-00403201930,talacen,pentazocine,pentazocine,NA,tablet,oral,25-650,mg,30,compumed inc.,NA,NA,inactive
-00403202140,talwin nx,naloxone hydrochloride; pentazocine hydrochloride,pentazocine,naloxone,NA,NA,0.5 mg-50 mg,NA,40,NA,NA,NA,NA
-00406311801,pentazocine-naloxone,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,100,mallinckrodt ph,3/20/00,3/20/00,active
-00409192010,talwin,pentazocine,pentazocine,NA,solution,injection,30,mg/ml,10,hospira,9/30/90,9/30/90,active
-00409194101,talwin,pentazocine,pentazocine,NA,solution,injection,30,mg/ml,1,hospira,9/30/90,9/30/90,active
-00591039501,pentazocine-naloxone,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,100,actavis pharma,1/21/97,1/21/97,active
-00591039601,pentazocine-acetaminophen,pentazocine,pentazocine,NA,tablet,oral,25-650,mg,100,actavis pharma,3/24/00,3/24/00,inactive
-16590055630,pentazocine hcl and naloxone hcl,pentazocine hydrochloride; naloxone hydrochloride,pentazocine,naloxone,tablet,oral,50-.5,mg/1,30 tablet in 1 bottle (16590-556-30),stat rx usa llc,1/21/97,NA,NA
-16590055640,pentazocine hcl and naloxone hcl,pentazocine hydrochloride; naloxone hydrochloride,pentazocine,naloxone,tablet,oral,50-.5,mg/1,40 tablet in 1 bottle (16590-556-40),stat rx usa llc,1/21/97,NA,NA
-16590055660,pentazocine hcl and naloxone hcl,pentazocine hydrochloride; naloxone hydrochloride,pentazocine,naloxone,tablet,oral,50-.5,mg/1,60 tablet in 1 bottle (16590-556-60),stat rx usa llc,1/21/97,NA,NA
-16590055672,pentazocine hcl and naloxone hcl,pentazocine hydrochloride; naloxone hydrochloride,pentazocine,naloxone,tablet,oral,50-.5,mg/1,120 tablet in 1 bottle (16590-556-72),stat rx usa llc,1/21/97,NA,NA
-16590055690,pentazocine hcl and naloxone hcl,pentazocine hydrochloride; naloxone hydrochloride,pentazocine,naloxone,tablet,oral,50-.5,mg/1,90 tablet in 1 bottle (16590-556-90),stat rx usa llc,1/21/97,NA,NA
-16590058230,pentazocine-acetaminophen,pentazocine,pentazocine,NA,tablet,oral,25-650,mg,30,stat rx usa,NA,NA,inactive
-16590058260,pentazocine-acetaminophen,pentazocine,pentazocine,NA,tablet,oral,25-650,mg,60,stat rx usa,NA,NA,inactive
-16590058272,pentazocine hcl-acetaminophen,acetaminophen; pentazocine hydrochloride,pentazocine,NA,NA,NA,650 mg-25 mg,NA,120,NA,NA,NA,NA
-16590058290,pentazocine-acetaminophen,pentazocine,pentazocine,NA,tablet,oral,25-650,mg,90,stat rx usa,NA,NA,inactive
-21695024101,talwin,pentazocine,pentazocine,NA,solution,injection,30,mg/ml,1,physician partn,NA,NA,active
-21695036428,pentazocine-naloxone,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,28,physician partn,NA,NA,active
-21695036460,pentazocine-naloxone,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,60,physician partn,NA,NA,active
-21695036472,pentazocine-naloxone,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,120,physician partn,NA,NA,active
-21695063460,pentazocine-acetaminophen,pentazocine,pentazocine,NA,tablet,oral,25-650,mg,60,physician partn,NA,NA,inactive
-23490607301,pentazocine-naloxone,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,60,palmetto state,NA,NA,active
-23490607303,pentazocine-naloxone,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,30,palmetto state,NA,NA,active
-23490607308,pentazocine-naloxone,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,120,palmetto state,NA,NA,active
-33261009402,pentazocine hcl-naloxone hcl,naloxone hydrochloride; pentazocine hydrochloride,pentazocine,naloxone,NA,NA,0.5 mg-50 mg,NA,120,NA,NA,NA,NA
-33261009430,pentazocine hcl-naloxone hcl,naloxone hydrochloride; pentazocine hydrochloride,pentazocine,naloxone,NA,NA,0.5 mg-50 mg,NA,30,NA,NA,NA,NA
-33261009460,pentazocine hcl-naloxone hcl,naloxone hydrochloride; pentazocine hydrochloride,pentazocine,naloxone,NA,NA,0.5 mg-50 mg,NA,60,NA,NA,NA,NA
-33261009490,pentazocine hcl-naloxone hcl,naloxone hydrochloride; pentazocine hydrochloride,pentazocine,naloxone,NA,NA,0.5 mg-50 mg,NA,90,NA,NA,NA,NA
-35356017630,pentazocine-naloxone,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,30,quality care,NA,NA,active
-35356017660,pentazocine and naloxone,pentazocine hydrochloride; naloxone hydrochloride,pentazocine,naloxone,tablet,oral,50-.5,mg/1,60 tablet in 1 bottle (35356-176-60),lake erie medical & surgical supply dba quality care products llc,1/21/97,NA,NA
-35356017690,pentazocine and naloxone,pentazocine hydrochloride; naloxone hydrochloride,pentazocine,naloxone,tablet,oral,50-.5,mg/1,90 tablet in 1 bottle (35356-176-90),lake erie medical & surgical supply dba quality care products llc,1/21/97,NA,NA
-35356032930,talwin nx,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,30,quality care,NA,NA,inactive
-43063014220,pentazocine-naloxone,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,20,pd-rx pharm,NA,NA,active
-43386067001,pentazocine-acetaminophen,pentazocine,pentazocine,NA,tablet,oral,25-650,mg,100,gavis/lupin,8/2/02,8/2/02,inactive
-43386068001,pentazocine-naloxone,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,100,gavis/lupin,7/11/01,7/11/01,active
-43386068005,pentazocine hydrochloride and naloxone hydrochloride,pentazocine hydrochloride; naloxone hydrochloride,pentazocine,naloxone,tablet,oral,"50 mg/1,                         .5  mg/1",NA,500 tablet in 1 bottle (43386-680-05),"lupin pharmaceuticals,inc.",NA,NA,NA
-51875039501,pentazocine-naloxone,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,100,"royce labs,inc",NA,NA,active
-52152021102,pentazocine-naloxone,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,100,actavis totowa,7/11/01,7/11/01,active
-52152021104,pentazocine-naloxone,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,500,actavis totowa,7/11/01,7/11/01,active
-52152021302,pentazocine-acetaminophen,pentazocine,pentazocine,NA,tablet,oral,25-650,mg,100,actavis totowa,8/5/02,8/5/02,inactive
-52544039501,pentazocine-naloxone,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,100,watson pharma,1/21/97,1/21/97,active
-52544039601,pentazocine-acetaminophen,pentazocine,pentazocine,NA,tablet,oral,25-650,mg,100,watson pharma,3/24/00,3/24/00,inactive
-52584094101,talwin,pentazocine lactate,pentazocine,NA,"injection, solution",intramuscular; intravenous; subcutaneous,30,mg/ml,1 ampule in 1 bag (52584-941-01) > 1 ml in 1 ampule,"general injectables & vaccines, inc",8/1/10,NA,NA
-52959034010,talwin nx,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,10,pharma pac,NA,NA,inactive
-52959034012,talwin nx,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,12,pharma pac,NA,NA,inactive
-52959034024,talwin nx,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,24,pharma pac,NA,NA,inactive
-52959034030,talwin nx,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,30,pharma pac,NA,NA,inactive
-52959034040,talwin nx,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,40,pharma pac,NA,NA,inactive
-52959052300,talacen,pentazocine,pentazocine,NA,tablet,oral,25-650,mg,100,pharma pac,NA,NA,inactive
-52959054502,pentazocine-naloxone,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,120,pharma pac,NA,NA,active
-52959054510,pentazocine-naloxone,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,10,pharma pac,NA,NA,active
-52959054512,pentazocine-naloxone,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,12,pharma pac,NA,NA,active
-52959054515,pentazocine-naloxone,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,15,pharma pac,NA,NA,active
-52959054520,pentazocine-naloxone,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,20,pharma pac,NA,NA,active
-52959054524,pentazocine-naloxone,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,24,pharma pac,NA,NA,active
-52959054530,pentazocine-naloxone,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,30,pharma pac,NA,NA,active
-52959054535,pentazocine-naloxone,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,35,pharma pac,NA,NA,active
-52959054540,pentazocine-naloxone,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,40,pharma pac,NA,NA,active
-52959054550,pentazocine-naloxone,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,50,pharma pac,NA,NA,active
-52959054560,pentazocine-naloxone,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,60,pharma pac,NA,NA,active
-52959054590,pentazocine-naloxone,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,90,pharma pac,NA,NA,active
-53002038110,talwin nx,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,10,pharmedix,NA,NA,inactive
-53002038120,talwin nx,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,20,pharmedix,NA,NA,inactive
-53002051420,talacen,pentazocine,pentazocine,NA,tablet,oral,25-650,mg,20,pharmedix,NA,NA,inactive
-53002051440,talacen,pentazocine,pentazocine,NA,tablet,oral,25-650,mg,40,pharmedix,NA,NA,inactive
-54124076815,talacen,pentazocine,pentazocine,NA,tablet,oral,25-650,mg,15,omega labs.,NA,NA,inactive
-54124076830,talacen,pentazocine,pentazocine,NA,tablet,oral,25-650,mg,30,omega labs.,NA,NA,inactive
-54569002200,talwin nx,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,20,a-s medication,NA,NA,inactive
-54569002201,talwin nx,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,40,a-s medication,NA,NA,inactive
-54569002202,talwin nx,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,10,a-s medication,NA,NA,inactive
-54569002203,talwin nx,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,15,a-s medication,NA,NA,inactive
-54569002204,talwin nx,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,25,a-s medication,NA,NA,inactive
-54569002205,talwin nx,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,30,a-s medication,NA,NA,inactive
-54569002206,talwin nx,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,12,a-s medication,NA,NA,inactive
-54569002207,talwin nx,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,100,a-s medication,NA,NA,inactive
-54569002208,talwin nx,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,90,a-s medication,NA,NA,inactive
-54569031000,talacen,pentazocine,pentazocine,NA,tablet,oral,25-650,mg,10,a-s medication,NA,NA,inactive
-54569031001,talacen,pentazocine,pentazocine,NA,tablet,oral,25-650,mg,50,a-s medication,NA,NA,inactive
-54569031002,talacen,pentazocine,pentazocine,NA,tablet,oral,25-650,mg,15,a-s medication,NA,NA,inactive
-54569031003,talacen,pentazocine,pentazocine,NA,tablet,oral,25-650,mg,30,a-s medication,NA,NA,inactive
-54569031004,talacen,pentazocine,pentazocine,NA,tablet,oral,25-650,mg,6,a-s medication,NA,NA,inactive
-54569031005,talacen,pentazocine,pentazocine,NA,tablet,oral,25-650,mg,24,a-s medication,NA,NA,inactive
-54569031006,talacen,pentazocine,pentazocine,NA,tablet,oral,25-650,mg,100,a-s medication,NA,NA,inactive
-54569031007,talacen,pentazocine,pentazocine,NA,tablet,oral,25-650,mg,20,a-s medication,NA,NA,inactive
-54569190301,talwin,pentazocine,pentazocine,NA,solution,injection,30,mg/ml,10,a-s medication,NA,NA,active
-54569409500,talwin,pentazocine,pentazocine,NA,syringe,injection,30,mg/ml,1,a-s medication,NA,NA,inactive
-54569577200,pentazocine-naloxone,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,30,a-s medication,NA,NA,active
-54569577201,pentazocine hcl-naloxone hcl,naloxone hydrochloride; pentazocine hydrochloride,pentazocine,naloxone,NA,NA,0.5 mg-50 mg,NA,60,NA,NA,NA,NA
-54868146501,talwin nx,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,20,physicians tc.,NA,NA,inactive
-54868253000,talwin,pentazocine,pentazocine,NA,solution,injection,30,mg/ml,10,physicians tc.,NA,NA,active
-54868478800,pentazocine-naloxone,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,30,physicians tc.,NA,NA,active
-54868478801,pentazocine-naloxone,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,40,physicians tc.,NA,NA,active
-55045203803,talwin nx,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,40,drx,NA,NA,inactive
-55045303708,pentazocine-acetaminophen,pentazocine,pentazocine,NA,tablet,oral,25-650,mg,30,drx,NA,NA,inactive
-55045309900,pentazocine-naloxone,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,100,drx,NA,NA,active
-55045309901,pentazocine-naloxone,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,120,drx,NA,NA,active
-55045309903,pentazocine hcl-naloxone hcl,naloxone hydrochloride; pentazocine hydrochloride,pentazocine,naloxone,NA,NA,0.5 mg-50 mg,NA,135,NA,NA,NA,NA
-55045309904,pentazocine-naloxone,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,40,drx,NA,NA,active
-55045309905,pentazocine-naloxone,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,45,drx,NA,NA,active
-55045309907,pentazocine-naloxone,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,30,drx,NA,NA,active
-55045309908,pentazocine-naloxone,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,60,drx,NA,NA,active
-55045309909,pentazocine-naloxone,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,90,drx,NA,NA,active
-55081051400,talwin nx,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,10,clinical pharm,NA,NA,inactive
-55081051401,talwin nx,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,20,clinical pharm,NA,NA,inactive
-55081107300,talwin,pentazocine,pentazocine,NA,solution,injection,30,mg/ml,10,clinical pharm,NA,NA,active
-55175521204,pentazocine-naloxone,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,4,cheshire drugs,NA,NA,active
-55175601001,talwin,pentazocine,pentazocine,NA,solution,injection,30,mg/ml,10,cheshire drugs,NA,NA,active
-55289018420,talwin nx,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,20,pd-rx pharm,NA,NA,inactive
-55289088915,talacen,pentazocine,pentazocine,NA,tablet,oral,25-650,mg,15,pd-rx pharm,NA,NA,inactive
-55289088920,talacen,pentazocine,pentazocine,NA,tablet,oral,25-650,mg,20,pd-rx pharm,NA,NA,inactive
-55887017101,pentazocine hcl-naloxone hcl,naloxone hydrochloride; pentazocine hydrochloride,pentazocine,naloxone,NA,NA,0.5 mg-50 mg,NA,100,NA,NA,NA,NA
-55887017130,pentazocine hcl-naloxone hcl,naloxone hydrochloride; pentazocine hydrochloride,pentazocine,naloxone,NA,NA,0.5 mg-50 mg,NA,30,NA,NA,NA,NA
-55887017160,pentazocine hcl-naloxone hcl,naloxone hydrochloride; pentazocine hydrochloride,pentazocine,naloxone,NA,NA,0.5 mg-50 mg,NA,60,NA,NA,NA,NA
-55887017183,pentazocine hcl-naloxone hcl,naloxone hydrochloride; pentazocine hydrochloride,pentazocine,naloxone,NA,NA,0.5 mg-50 mg,NA,200,NA,NA,NA,NA
-55887017184,pentazocine hcl-naloxone hcl,naloxone hydrochloride; pentazocine hydrochloride,pentazocine,naloxone,NA,NA,0.5 mg-50 mg,NA,300,NA,NA,NA,NA
-55887017186,pentazocine hcl-naloxone hcl,naloxone hydrochloride; pentazocine hydrochloride,pentazocine,naloxone,NA,NA,0.5 mg-50 mg,NA,150,NA,NA,NA,NA
-55887017190,pentazocine hcl-naloxone hcl,naloxone hydrochloride; pentazocine hydrochloride,pentazocine,naloxone,NA,NA,0.5 mg-50 mg,NA,90,NA,NA,NA,NA
-57866932101,pentazocine-naloxone,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,30,vibranta inc.,NA,NA,active
-57866932102,pentazocine-naloxone,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,90,vibranta inc.,NA,NA,active
-58016039200,pentazocine hcl-naloxone hcl,naloxone hydrochloride; pentazocine hydrochloride,pentazocine,naloxone,NA,NA,0.5 mg-50 mg,NA,100,NA,NA,NA,NA
-58016039210,pentazocine hcl-naloxone hcl,naloxone hydrochloride; pentazocine hydrochloride,pentazocine,naloxone,NA,NA,0.5 mg-50 mg,NA,10,NA,NA,NA,NA
-58016039212,pentazocine-naloxone,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,12,southwood pharm,NA,NA,active
-58016039220,pentazocine hcl-naloxone hcl,naloxone hydrochloride; pentazocine hydrochloride,pentazocine,naloxone,NA,NA,0.5 mg-50 mg,NA,20,NA,NA,NA,NA
-58016039230,pentazocine hcl-naloxone hcl,naloxone hydrochloride; pentazocine hydrochloride,pentazocine,naloxone,NA,NA,0.5 mg-50 mg,NA,30,NA,NA,NA,NA
-58016039240,pentazocine hcl-naloxone hcl,naloxone hydrochloride; pentazocine hydrochloride,pentazocine,naloxone,NA,NA,0.5 mg-50 mg,NA,40,NA,NA,NA,NA
-58016039260,pentazocine hcl-naloxone hcl,naloxone hydrochloride; pentazocine hydrochloride,pentazocine,naloxone,NA,NA,0.5 mg-50 mg,NA,60,NA,NA,NA,NA
-58016046100,pentazocine-acetaminophen,pentazocine,pentazocine,NA,tablet,oral,25-650,mg,100,southwood pharm,NA,NA,inactive
-58016046120,pentazocine-acetaminophen,pentazocine,pentazocine,NA,tablet,oral,25-650,mg,20,southwood pharm,NA,NA,inactive
-58016046130,pentazocine-acetaminophen,pentazocine,pentazocine,NA,tablet,oral,25-650,mg,30,southwood pharm,NA,NA,inactive
-58016046160,pentazocine-acetaminophen,pentazocine,pentazocine,NA,tablet,oral,25-650,mg,60,southwood pharm,NA,NA,inactive
-58016046190,pentazocine-acetaminophen,pentazocine,pentazocine,NA,tablet,oral,25-650,mg,90,southwood pharm,NA,NA,inactive
-60346066012,talwin nx,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,12,quality care ph,NA,NA,inactive
-60346066024,talwin nx,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,24,quality care ph,NA,NA,inactive
-60346066040,talwin nx,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,40,quality care ph,NA,NA,inactive
-60346098515,talacen,acetaminophen; pentazocine hydrochloride,pentazocine,NA,NA,NA,650 mg-25 mg,NA,15,NA,NA,NA,NA
-60346098530,talacen,acetaminophen; pentazocine hydrochloride,pentazocine,NA,NA,NA,650 mg-25 mg,NA,30,NA,NA,NA,NA
-60429057001,pentazocine-naloxone,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,100,"gsms, inc.",NA,NA,active
-61919055630,pentazocine-naloxone,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,30,direct rx,NA,NA,active
-63304050601,pentazocine-naloxone,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,100,ranbaxy pharmac,3/17/00,3/17/00,active
-63629320601,pentazocine-naloxone,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,60,bryant ranch pr,NA,NA,active
-63629320602,pentazocine-naloxone,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,120,bryant ranch pr,NA,NA,active
-63629320603,pentazocine-naloxone,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,30,bryant ranch pr,NA,NA,active
-63874022001,pentazocine-naloxone,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,100,altura pharma,NA,NA,active
-63874022003,pentazocine-naloxone,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,300,altura pharma,NA,NA,active
-63874022004,pentazocine-naloxone,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,120,altura pharma,NA,NA,active
-63874022010,pentazocine-naloxone,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,10,altura pharma,NA,NA,active
-63874022012,pentazocine-naloxone,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,12,altura pharma,NA,NA,active
-63874022015,pentazocine-naloxone,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,15,altura pharma,NA,NA,active
-63874022020,pentazocine-naloxone,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,20,altura pharma,NA,NA,active
-63874022030,pentazocine-naloxone,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,30,altura pharma,NA,NA,active
-63874022035,pentazocine-naloxone,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,35,altura pharma,NA,NA,active
-63874022040,pentazocine-naloxone,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,40,altura pharma,NA,NA,active
-63874022060,pentazocine-naloxone,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,60,altura pharma,NA,NA,active
-63874022090,pentazocine-naloxone,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,90,altura pharma,NA,NA,active
-66267048730,pentazocine-naloxone,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,30,nucare pharmace,NA,NA,active
-66267048740,pentazocine-naloxone,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,40,nucare pharmace,NA,NA,active
-66336066030,pentazocine-naloxone,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,30,dispensing soln,NA,NA,active
-68115046230,pentazocine-acetaminophen,pentazocine,pentazocine,NA,tablet,oral,25-650,mg,30,"dispensexpress,",NA,NA,inactive
-68115046260,pentazocine hcl-naloxone hcl,naloxone hydrochloride; pentazocine hydrochloride,pentazocine,naloxone,NA,NA,0.5 mg-50 mg,NA,60,NA,NA,NA,NA
-68115060500,pentazocine-naloxone,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,100,"dispensexpress,",NA,NA,active
-68387053112,pentazocine-naloxone,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,120,dispensing soln,NA,NA,active
-68387053130,pentazocine-naloxone,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,30,dispensing soln,NA,NA,active
-68387053160,pentazocine-naloxone,pentazocine,pentazocine,NA,tablet,oral,50-0.5,mg,60,dispensing soln,NA,NA,active
+ndc,drug_name,generic_name,opioid_ingredient1,opioid_ingredient2,strength,strength_uom,manufacturer,status,ingredients,manufacturer_abbr_name,ir_er
+'00024191601',talwin,pentazocine,pentazocine,NA,30,mg/ml,abbott hosp,active,NA,NA,NA
+'00024191701',talwin,pentazocine,pentazocine,NA,30,mg/ml,sanofi winthrop,inactive,NA,NA,NA
+'00024191702',talwin,pentazocine,pentazocine,NA,30,mg/ml,sanofi winthrop,inactive,NA,NA,NA
+'00024191802',talwin,pentazocine,pentazocine,NA,30,mg/ml,sanofi winthrop,inactive,NA,NA,NA
+'00024191902',talwin,pentazocine,pentazocine,NA,30,mg/ml,sanofi winthrop,inactive,NA,NA,NA
+'00024191906',talwin,pentazocine,pentazocine,NA,30,mg/ml,sanofi winthrop,inactive,NA,NA,NA
+'00024192104',talwin hydrochloride,pentazocine hydrochloride; naloxone hydrochloride,pentazocine,naloxone,50 mg,NA,NA,inactive,NA,NA,NA
+'00024192114',talwin hydrochloride,pentazocine hydrochloride; naloxone hydrochloride,pentazocine,naloxone,50 mg,NA,NA,inactive,NA,NA,NA
+'00024192404',talwin,pentazocine,pentazocine,NA,30,mg/ml,sanofi winthrop,active,NA,NA,NA
+'00024192414',talwin,pentazocine,pentazocine,NA,30,mg/ml,sanofi winthrop,active,NA,NA,NA
+'00024192504',talwin,pentazocine,pentazocine,NA,30,mg/ml,sanofi-aventis,active,NA,NA,NA
+'00024192514',talwin lactate,pentazocine lactate,pentazocine,NA,45 mg,NA,NA,inactive,NA,NA,NA
+'00024192604',talwin,pentazocine,pentazocine,NA,30,mg/ml,sanofi winthrop,active,NA,NA,NA
+'00024192614',talwin,pentazocine,pentazocine,NA,30,mg/ml,sanofi-aventis,active,NA,NA,NA
+'00024192704',talwin compound,pentazocine,pentazocine,NA,12.5-325,mg,sanofi-aventis,inactive,NA,NA,NA
+'00024193704',talacen,pentazocine,pentazocine,NA,25-650,mg,sanofi-aventis,inactive,NA,NA,NA
+'00024193714',talacen,pentazocine,pentazocine,NA,25-650,mg,sanofi-aventis,inactive,NA,NA,NA
+'00024195104',talwin nx,pentazocine,pentazocine,NA,50-0.5,mg,sanofi-aventis,inactive,NA,NA,NA
+'00024195114',talwin nx,pentazocine,pentazocine,NA,50-0.5,mg,sanofi winthrop,inactive,NA,NA,NA
+'00024195124',talwin nx,pentazocine,pentazocine,NA,50-0.5,mg,sanofi-aventis,inactive,NA,NA,NA
+'00074192010',talwin,pentazocine,pentazocine,NA,30,mg/ml,hospira,active,NA,NA,NA
+'00074193701',talwin,pentazocine,pentazocine,NA,30,mg/ml,abbott hosp,inactive,NA,NA,NA
+'00074193731',talwin,pentazocine,pentazocine,NA,30,mg/ml,abbott hosp,inactive,NA,NA,NA
+'00074193802',talwin,pentazocine,pentazocine,NA,30,mg/ml,abbott hosp,inactive,NA,NA,NA
+'00074194101',talwin,pentazocine,pentazocine,NA,30,mg/ml,hospira,active,NA,NA,NA
+'00074194111',talwin,pentazocine,pentazocine,NA,30,mg/ml,hospira,active,NA,NA,NA
+'00074204202',talwin,pentazocine,pentazocine,NA,30,mg/ml,abbott hosp,active,NA,NA,NA
+'00403201915',talacen,pentazocine,pentazocine,NA,25-650,mg,compumed inc.,inactive,NA,NA,NA
+'00403201930',talacen,pentazocine,pentazocine,NA,25-650,mg,compumed inc.,inactive,NA,NA,NA
+'00403202140',talwin nx,naloxone hydrochloride; pentazocine hydrochloride,pentazocine,naloxone,0.5 mg-50 mg,NA,NA,NA,NA,NA,NA
+'00406311801',pentazocine-naloxone,pentazocine,pentazocine,NA,50-0.5,mg,mallinckrodt ph,active,NA,NA,NA
+'00409192010',talwin,pentazocine,pentazocine,NA,30,mg/ml,hospira,active,NA,NA,NA
+'00409194101',talwin,pentazocine,pentazocine,NA,30,mg/ml,hospira,active,NA,NA,NA
+'00591039501',pentazocine-naloxone,pentazocine,pentazocine,NA,50-0.5,mg,actavis pharma,active,NA,NA,NA
+'00591039601',pentazocine-acetaminophen,pentazocine,pentazocine,NA,25-650,mg,actavis pharma,inactive,NA,NA,NA
+'16590055630',pentazocine hcl and naloxone hcl,pentazocine hydrochloride; naloxone hydrochloride,pentazocine,naloxone,50-.5,mg/1,stat rx usa llc,NA,NA,NA,NA
+'16590055640',pentazocine hcl and naloxone hcl,pentazocine hydrochloride; naloxone hydrochloride,pentazocine,naloxone,50-.5,mg/1,stat rx usa llc,NA,NA,NA,NA
+'16590055660',pentazocine hcl and naloxone hcl,pentazocine hydrochloride; naloxone hydrochloride,pentazocine,naloxone,50-.5,mg/1,stat rx usa llc,NA,NA,NA,NA
+'16590055672',pentazocine hcl and naloxone hcl,pentazocine hydrochloride; naloxone hydrochloride,pentazocine,naloxone,50-.5,mg/1,stat rx usa llc,NA,NA,NA,NA
+'16590055690',pentazocine hcl and naloxone hcl,pentazocine hydrochloride; naloxone hydrochloride,pentazocine,naloxone,50-.5,mg/1,stat rx usa llc,NA,NA,NA,NA
+'16590058230',pentazocine-acetaminophen,pentazocine,pentazocine,NA,25-650,mg,stat rx usa,inactive,NA,NA,NA
+'16590058260',pentazocine-acetaminophen,pentazocine,pentazocine,NA,25-650,mg,stat rx usa,inactive,NA,NA,NA
+'16590058272',pentazocine hcl-acetaminophen,acetaminophen; pentazocine hydrochloride,pentazocine,NA,650 mg-25 mg,NA,NA,NA,NA,NA,NA
+'16590058290',pentazocine-acetaminophen,pentazocine,pentazocine,NA,25-650,mg,stat rx usa,inactive,NA,NA,NA
+'21695024101',talwin,pentazocine,pentazocine,NA,30,mg/ml,physician partn,active,NA,NA,NA
+'21695036428',pentazocine-naloxone,pentazocine,pentazocine,NA,50-0.5,mg,physician partn,active,NA,NA,NA
+'21695036460',pentazocine-naloxone,pentazocine,pentazocine,NA,50-0.5,mg,physician partn,active,NA,NA,NA
+'21695036472',pentazocine-naloxone,pentazocine,pentazocine,NA,50-0.5,mg,physician partn,active,NA,NA,NA
+'21695063460',pentazocine-acetaminophen,pentazocine,pentazocine,NA,25-650,mg,physician partn,inactive,NA,NA,NA
+'23490607301',pentazocine-naloxone,pentazocine,pentazocine,NA,50-0.5,mg,palmetto state,active,NA,NA,NA
+'23490607303',pentazocine-naloxone,pentazocine,pentazocine,NA,50-0.5,mg,palmetto state,active,NA,NA,NA
+'23490607308',pentazocine-naloxone,pentazocine,pentazocine,NA,50-0.5,mg,palmetto state,active,NA,NA,NA
+'33261009402',pentazocine hcl-naloxone hcl,naloxone hydrochloride; pentazocine hydrochloride,pentazocine,naloxone,0.5 mg-50 mg,NA,NA,NA,NA,NA,NA
+'33261009430',pentazocine hcl-naloxone hcl,naloxone hydrochloride; pentazocine hydrochloride,pentazocine,naloxone,0.5 mg-50 mg,NA,NA,NA,NA,NA,NA
+'33261009460',pentazocine hcl-naloxone hcl,naloxone hydrochloride; pentazocine hydrochloride,pentazocine,naloxone,0.5 mg-50 mg,NA,NA,NA,NA,NA,NA
+'33261009490',pentazocine hcl-naloxone hcl,naloxone hydrochloride; pentazocine hydrochloride,pentazocine,naloxone,0.5 mg-50 mg,NA,NA,NA,NA,NA,NA
+'35356017630',pentazocine-naloxone,pentazocine,pentazocine,NA,50-0.5,mg,quality care,active,NA,NA,NA
+'35356017660',pentazocine and naloxone,pentazocine hydrochloride; naloxone hydrochloride,pentazocine,naloxone,50-.5,mg/1,lake erie medical & surgical supply dba quality care products llc,NA,NA,NA,NA
+'35356017690',pentazocine and naloxone,pentazocine hydrochloride; naloxone hydrochloride,pentazocine,naloxone,50-.5,mg/1,lake erie medical & surgical supply dba quality care products llc,NA,NA,NA,NA
+'35356032930',talwin nx,pentazocine,pentazocine,NA,50-0.5,mg,quality care,inactive,NA,NA,NA
+'43063014220',pentazocine-naloxone,pentazocine,pentazocine,NA,50-0.5,mg,pd-rx pharm,active,NA,NA,NA
+'43386067001',pentazocine-acetaminophen,pentazocine,pentazocine,NA,25-650,mg,gavis/lupin,inactive,NA,NA,NA
+'43386068001',pentazocine-naloxone,pentazocine,pentazocine,NA,50-0.5,mg,gavis/lupin,active,NA,NA,NA
+'43386068005',pentazocine hydrochloride and naloxone hydrochloride,pentazocine hydrochloride; naloxone hydrochloride,pentazocine,naloxone,"50 mg/1,                         .5  mg/1",NA,"lupin pharmaceuticals,inc.",NA,NA,NA,NA
+'51875039501',pentazocine-naloxone,pentazocine,pentazocine,NA,50-0.5,mg,"royce labs,inc",active,NA,NA,NA
+'52152021102',pentazocine-naloxone,pentazocine,pentazocine,NA,50-0.5,mg,actavis totowa,active,NA,NA,NA
+'52152021104',pentazocine-naloxone,pentazocine,pentazocine,NA,50-0.5,mg,actavis totowa,active,NA,NA,NA
+'52152021302',pentazocine-acetaminophen,pentazocine,pentazocine,NA,25-650,mg,actavis totowa,inactive,NA,NA,NA
+'52544039501',pentazocine-naloxone,pentazocine,pentazocine,NA,50-0.5,mg,watson pharma,active,NA,NA,NA
+'52544039601',pentazocine-acetaminophen,pentazocine,pentazocine,NA,25-650,mg,watson pharma,inactive,NA,NA,NA
+'52584094101',talwin,pentazocine lactate,pentazocine,NA,30,mg/ml,"general injectables & vaccines, inc",NA,NA,NA,NA
+'52959034010',talwin nx,pentazocine,pentazocine,NA,50-0.5,mg,pharma pac,inactive,NA,NA,NA
+'52959034012',talwin nx,pentazocine,pentazocine,NA,50-0.5,mg,pharma pac,inactive,NA,NA,NA
+'52959034024',talwin nx,pentazocine,pentazocine,NA,50-0.5,mg,pharma pac,inactive,NA,NA,NA
+'52959034030',talwin nx,pentazocine,pentazocine,NA,50-0.5,mg,pharma pac,inactive,NA,NA,NA
+'52959034040',talwin nx,pentazocine,pentazocine,NA,50-0.5,mg,pharma pac,inactive,NA,NA,NA
+'52959052300',talacen,pentazocine,pentazocine,NA,25-650,mg,pharma pac,inactive,NA,NA,NA
+'52959054502',pentazocine-naloxone,pentazocine,pentazocine,NA,50-0.5,mg,pharma pac,active,NA,NA,NA
+'52959054510',pentazocine-naloxone,pentazocine,pentazocine,NA,50-0.5,mg,pharma pac,active,NA,NA,NA
+'52959054512',pentazocine-naloxone,pentazocine,pentazocine,NA,50-0.5,mg,pharma pac,active,NA,NA,NA
+'52959054515',pentazocine-naloxone,pentazocine,pentazocine,NA,50-0.5,mg,pharma pac,active,NA,NA,NA
+'52959054520',pentazocine-naloxone,pentazocine,pentazocine,NA,50-0.5,mg,pharma pac,active,NA,NA,NA
+'52959054524',pentazocine-naloxone,pentazocine,pentazocine,NA,50-0.5,mg,pharma pac,active,NA,NA,NA
+'52959054530',pentazocine-naloxone,pentazocine,pentazocine,NA,50-0.5,mg,pharma pac,active,NA,NA,NA
+'52959054535',pentazocine-naloxone,pentazocine,pentazocine,NA,50-0.5,mg,pharma pac,active,NA,NA,NA
+'52959054540',pentazocine-naloxone,pentazocine,pentazocine,NA,50-0.5,mg,pharma pac,active,NA,NA,NA
+'52959054550',pentazocine-naloxone,pentazocine,pentazocine,NA,50-0.5,mg,pharma pac,active,NA,NA,NA
+'52959054560',pentazocine-naloxone,pentazocine,pentazocine,NA,50-0.5,mg,pharma pac,active,NA,NA,NA
+'52959054590',pentazocine-naloxone,pentazocine,pentazocine,NA,50-0.5,mg,pharma pac,active,NA,NA,NA
+'53002038110',talwin nx,pentazocine,pentazocine,NA,50-0.5,mg,pharmedix,inactive,NA,NA,NA
+'53002038120',talwin nx,pentazocine,pentazocine,NA,50-0.5,mg,pharmedix,inactive,NA,NA,NA
+'53002051420',talacen,pentazocine,pentazocine,NA,25-650,mg,pharmedix,inactive,NA,NA,NA
+'53002051440',talacen,pentazocine,pentazocine,NA,25-650,mg,pharmedix,inactive,NA,NA,NA
+'54124076815',talacen,pentazocine,pentazocine,NA,25-650,mg,omega labs.,inactive,NA,NA,NA
+'54124076830',talacen,pentazocine,pentazocine,NA,25-650,mg,omega labs.,inactive,NA,NA,NA
+'54569002200',talwin nx,pentazocine,pentazocine,NA,50-0.5,mg,a-s medication,inactive,NA,NA,NA
+'54569002201',talwin nx,pentazocine,pentazocine,NA,50-0.5,mg,a-s medication,inactive,NA,NA,NA
+'54569002202',talwin nx,pentazocine,pentazocine,NA,50-0.5,mg,a-s medication,inactive,NA,NA,NA
+'54569002203',talwin nx,pentazocine,pentazocine,NA,50-0.5,mg,a-s medication,inactive,NA,NA,NA
+'54569002204',talwin nx,pentazocine,pentazocine,NA,50-0.5,mg,a-s medication,inactive,NA,NA,NA
+'54569002205',talwin nx,pentazocine,pentazocine,NA,50-0.5,mg,a-s medication,inactive,NA,NA,NA
+'54569002206',talwin nx,pentazocine,pentazocine,NA,50-0.5,mg,a-s medication,inactive,NA,NA,NA
+'54569002207',talwin nx,pentazocine,pentazocine,NA,50-0.5,mg,a-s medication,inactive,NA,NA,NA
+'54569002208',talwin nx,pentazocine,pentazocine,NA,50-0.5,mg,a-s medication,inactive,NA,NA,NA
+'54569031000',talacen,pentazocine,pentazocine,NA,25-650,mg,a-s medication,inactive,NA,NA,NA
+'54569031001',talacen,pentazocine,pentazocine,NA,25-650,mg,a-s medication,inactive,NA,NA,NA
+'54569031002',talacen,pentazocine,pentazocine,NA,25-650,mg,a-s medication,inactive,NA,NA,NA
+'54569031003',talacen,pentazocine,pentazocine,NA,25-650,mg,a-s medication,inactive,NA,NA,NA
+'54569031004',talacen,pentazocine,pentazocine,NA,25-650,mg,a-s medication,inactive,NA,NA,NA
+'54569031005',talacen,pentazocine,pentazocine,NA,25-650,mg,a-s medication,inactive,NA,NA,NA
+'54569031006',talacen,pentazocine,pentazocine,NA,25-650,mg,a-s medication,inactive,NA,NA,NA
+'54569031007',talacen,pentazocine,pentazocine,NA,25-650,mg,a-s medication,inactive,NA,NA,NA
+'54569190301',talwin,pentazocine,pentazocine,NA,30,mg/ml,a-s medication,active,NA,NA,NA
+'54569409500',talwin,pentazocine,pentazocine,NA,30,mg/ml,a-s medication,inactive,NA,NA,NA
+'54569577200',pentazocine-naloxone,pentazocine,pentazocine,NA,50-0.5,mg,a-s medication,active,NA,NA,NA
+'54569577201',pentazocine hcl-naloxone hcl,naloxone hydrochloride; pentazocine hydrochloride,pentazocine,naloxone,0.5 mg-50 mg,NA,NA,NA,NA,NA,NA
+'54868146501',talwin nx,pentazocine,pentazocine,NA,50-0.5,mg,physicians tc.,inactive,NA,NA,NA
+'54868253000',talwin,pentazocine,pentazocine,NA,30,mg/ml,physicians tc.,active,NA,NA,NA
+'54868478800',pentazocine-naloxone,pentazocine,pentazocine,NA,50-0.5,mg,physicians tc.,active,NA,NA,NA
+'54868478801',pentazocine-naloxone,pentazocine,pentazocine,NA,50-0.5,mg,physicians tc.,active,NA,NA,NA
+'55045203803',talwin nx,pentazocine,pentazocine,NA,50-0.5,mg,drx,inactive,NA,NA,NA
+'55045303708',pentazocine-acetaminophen,pentazocine,pentazocine,NA,25-650,mg,drx,inactive,NA,NA,NA
+'55045309900',pentazocine-naloxone,pentazocine,pentazocine,NA,50-0.5,mg,drx,active,NA,NA,NA
+'55045309901',pentazocine-naloxone,pentazocine,pentazocine,NA,50-0.5,mg,drx,active,NA,NA,NA
+'55045309903',pentazocine hcl-naloxone hcl,naloxone hydrochloride; pentazocine hydrochloride,pentazocine,naloxone,0.5 mg-50 mg,NA,NA,NA,NA,NA,NA
+'55045309904',pentazocine-naloxone,pentazocine,pentazocine,NA,50-0.5,mg,drx,active,NA,NA,NA
+'55045309905',pentazocine-naloxone,pentazocine,pentazocine,NA,50-0.5,mg,drx,active,NA,NA,NA
+'55045309907',pentazocine-naloxone,pentazocine,pentazocine,NA,50-0.5,mg,drx,active,NA,NA,NA
+'55045309908',pentazocine-naloxone,pentazocine,pentazocine,NA,50-0.5,mg,drx,active,NA,NA,NA
+'55045309909',pentazocine-naloxone,pentazocine,pentazocine,NA,50-0.5,mg,drx,active,NA,NA,NA
+'55081051400',talwin nx,pentazocine,pentazocine,NA,50-0.5,mg,clinical pharm,inactive,NA,NA,NA
+'55081051401',talwin nx,pentazocine,pentazocine,NA,50-0.5,mg,clinical pharm,inactive,NA,NA,NA
+'55081107300',talwin,pentazocine,pentazocine,NA,30,mg/ml,clinical pharm,active,NA,NA,NA
+'55175521204',pentazocine-naloxone,pentazocine,pentazocine,NA,50-0.5,mg,cheshire drugs,active,NA,NA,NA
+'55175601001',talwin,pentazocine,pentazocine,NA,30,mg/ml,cheshire drugs,active,NA,NA,NA
+'55289018420',talwin nx,pentazocine,pentazocine,NA,50-0.5,mg,pd-rx pharm,inactive,NA,NA,NA
+'55289088915',talacen,pentazocine,pentazocine,NA,25-650,mg,pd-rx pharm,inactive,NA,NA,NA
+'55289088920',talacen,pentazocine,pentazocine,NA,25-650,mg,pd-rx pharm,inactive,NA,NA,NA
+'55887017101',pentazocine hcl-naloxone hcl,naloxone hydrochloride; pentazocine hydrochloride,pentazocine,naloxone,0.5 mg-50 mg,NA,NA,NA,NA,NA,NA
+'55887017130',pentazocine hcl-naloxone hcl,naloxone hydrochloride; pentazocine hydrochloride,pentazocine,naloxone,0.5 mg-50 mg,NA,NA,NA,NA,NA,NA
+'55887017160',pentazocine hcl-naloxone hcl,naloxone hydrochloride; pentazocine hydrochloride,pentazocine,naloxone,0.5 mg-50 mg,NA,NA,NA,NA,NA,NA
+'55887017183',pentazocine hcl-naloxone hcl,naloxone hydrochloride; pentazocine hydrochloride,pentazocine,naloxone,0.5 mg-50 mg,NA,NA,NA,NA,NA,NA
+'55887017184',pentazocine hcl-naloxone hcl,naloxone hydrochloride; pentazocine hydrochloride,pentazocine,naloxone,0.5 mg-50 mg,NA,NA,NA,NA,NA,NA
+'55887017186',pentazocine hcl-naloxone hcl,naloxone hydrochloride; pentazocine hydrochloride,pentazocine,naloxone,0.5 mg-50 mg,NA,NA,NA,NA,NA,NA
+'55887017190',pentazocine hcl-naloxone hcl,naloxone hydrochloride; pentazocine hydrochloride,pentazocine,naloxone,0.5 mg-50 mg,NA,NA,NA,NA,NA,NA
+'57866932101',pentazocine-naloxone,pentazocine,pentazocine,NA,50-0.5,mg,vibranta inc.,active,NA,NA,NA
+'57866932102',pentazocine-naloxone,pentazocine,pentazocine,NA,50-0.5,mg,vibranta inc.,active,NA,NA,NA
+'58016039200',pentazocine hcl-naloxone hcl,naloxone hydrochloride; pentazocine hydrochloride,pentazocine,naloxone,0.5 mg-50 mg,NA,NA,NA,NA,NA,NA
+'58016039210',pentazocine hcl-naloxone hcl,naloxone hydrochloride; pentazocine hydrochloride,pentazocine,naloxone,0.5 mg-50 mg,NA,NA,NA,NA,NA,NA
+'58016039212',pentazocine-naloxone,pentazocine,pentazocine,NA,50-0.5,mg,southwood pharm,active,NA,NA,NA
+'58016039220',pentazocine hcl-naloxone hcl,naloxone hydrochloride; pentazocine hydrochloride,pentazocine,naloxone,0.5 mg-50 mg,NA,NA,NA,NA,NA,NA
+'58016039230',pentazocine hcl-naloxone hcl,naloxone hydrochloride; pentazocine hydrochloride,pentazocine,naloxone,0.5 mg-50 mg,NA,NA,NA,NA,NA,NA
+'58016039240',pentazocine hcl-naloxone hcl,naloxone hydrochloride; pentazocine hydrochloride,pentazocine,naloxone,0.5 mg-50 mg,NA,NA,NA,NA,NA,NA
+'58016039260',pentazocine hcl-naloxone hcl,naloxone hydrochloride; pentazocine hydrochloride,pentazocine,naloxone,0.5 mg-50 mg,NA,NA,NA,NA,NA,NA
+'58016046100',pentazocine-acetaminophen,pentazocine,pentazocine,NA,25-650,mg,southwood pharm,inactive,NA,NA,NA
+'58016046120',pentazocine-acetaminophen,pentazocine,pentazocine,NA,25-650,mg,southwood pharm,inactive,NA,NA,NA
+'58016046130',pentazocine-acetaminophen,pentazocine,pentazocine,NA,25-650,mg,southwood pharm,inactive,NA,NA,NA
+'58016046160',pentazocine-acetaminophen,pentazocine,pentazocine,NA,25-650,mg,southwood pharm,inactive,NA,NA,NA
+'58016046190',pentazocine-acetaminophen,pentazocine,pentazocine,NA,25-650,mg,southwood pharm,inactive,NA,NA,NA
+'60346066012',talwin nx,pentazocine,pentazocine,NA,50-0.5,mg,quality care ph,inactive,NA,NA,NA
+'60346066024',talwin nx,pentazocine,pentazocine,NA,50-0.5,mg,quality care ph,inactive,NA,NA,NA
+'60346066040',talwin nx,pentazocine,pentazocine,NA,50-0.5,mg,quality care ph,inactive,NA,NA,NA
+'60346098515',talacen,acetaminophen; pentazocine hydrochloride,pentazocine,NA,650 mg-25 mg,NA,NA,NA,NA,NA,NA
+'60346098530',talacen,acetaminophen; pentazocine hydrochloride,pentazocine,NA,650 mg-25 mg,NA,NA,NA,NA,NA,NA
+'60429057001',pentazocine-naloxone,pentazocine,pentazocine,NA,50-0.5,mg,"gsms, inc.",active,NA,NA,NA
+'61919055630',pentazocine-naloxone,pentazocine,pentazocine,NA,50-0.5,mg,direct rx,active,NA,NA,NA
+'63304050601',pentazocine-naloxone,pentazocine,pentazocine,NA,50-0.5,mg,ranbaxy pharmac,active,NA,NA,NA
+'63629320601',pentazocine-naloxone,pentazocine,pentazocine,NA,50-0.5,mg,bryant ranch pr,active,NA,NA,NA
+'63629320602',pentazocine-naloxone,pentazocine,pentazocine,NA,50-0.5,mg,bryant ranch pr,active,NA,NA,NA
+'63629320603',pentazocine-naloxone,pentazocine,pentazocine,NA,50-0.5,mg,bryant ranch pr,active,NA,NA,NA
+'63874022001',pentazocine-naloxone,pentazocine,pentazocine,NA,50-0.5,mg,altura pharma,active,NA,NA,NA
+'63874022003',pentazocine-naloxone,pentazocine,pentazocine,NA,50-0.5,mg,altura pharma,active,NA,NA,NA
+'63874022004',pentazocine-naloxone,pentazocine,pentazocine,NA,50-0.5,mg,altura pharma,active,NA,NA,NA
+'63874022010',pentazocine-naloxone,pentazocine,pentazocine,NA,50-0.5,mg,altura pharma,active,NA,NA,NA
+'63874022012',pentazocine-naloxone,pentazocine,pentazocine,NA,50-0.5,mg,altura pharma,active,NA,NA,NA
+'63874022015',pentazocine-naloxone,pentazocine,pentazocine,NA,50-0.5,mg,altura pharma,active,NA,NA,NA
+'63874022020',pentazocine-naloxone,pentazocine,pentazocine,NA,50-0.5,mg,altura pharma,active,NA,NA,NA
+'63874022030',pentazocine-naloxone,pentazocine,pentazocine,NA,50-0.5,mg,altura pharma,active,NA,NA,NA
+'63874022035',pentazocine-naloxone,pentazocine,pentazocine,NA,50-0.5,mg,altura pharma,active,NA,NA,NA
+'63874022040',pentazocine-naloxone,pentazocine,pentazocine,NA,50-0.5,mg,altura pharma,active,NA,NA,NA
+'63874022060',pentazocine-naloxone,pentazocine,pentazocine,NA,50-0.5,mg,altura pharma,active,NA,NA,NA
+'63874022090',pentazocine-naloxone,pentazocine,pentazocine,NA,50-0.5,mg,altura pharma,active,NA,NA,NA
+'66267048730',pentazocine-naloxone,pentazocine,pentazocine,NA,50-0.5,mg,nucare pharmace,active,NA,NA,NA
+'66267048740',pentazocine-naloxone,pentazocine,pentazocine,NA,50-0.5,mg,nucare pharmace,active,NA,NA,NA
+'66336066030',pentazocine-naloxone,pentazocine,pentazocine,NA,50-0.5,mg,dispensing soln,active,NA,NA,NA
+'68115046230',pentazocine-acetaminophen,pentazocine,pentazocine,NA,25-650,mg,"dispensexpress,",inactive,NA,NA,NA
+'68115046260',pentazocine hcl-naloxone hcl,naloxone hydrochloride; pentazocine hydrochloride,pentazocine,naloxone,0.5 mg-50 mg,NA,NA,NA,NA,NA,NA
+'68115060500',pentazocine-naloxone,pentazocine,pentazocine,NA,50-0.5,mg,"dispensexpress,",active,NA,NA,NA
+'68387053112',pentazocine-naloxone,pentazocine,pentazocine,NA,50-0.5,mg,dispensing soln,active,NA,NA,NA
+'68387053130',pentazocine-naloxone,pentazocine,pentazocine,NA,50-0.5,mg,dispensing soln,active,NA,NA,NA
+'68387053160',pentazocine-naloxone,pentazocine,pentazocine,NA,50-0.5,mg,dispensing soln,active,NA,NA,NA
