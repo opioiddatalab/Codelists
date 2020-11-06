@@ -1,10 +1,11 @@
-# Abuse-Deterrant Opioid Formulations & Comparators
-
+# Formulations Inteded to Deter Manipulation
+Also known as *abuse-deterrant formulations (ADFs)*, these medicines are generally engineered to be difficult to crush or have other aversion properties that deter consumption in ways other than intended. 
 _____
 
 [Detailed study overview](https://www.opioiddata.org/studies/counfounding-opioid-safety-studies/) at the full project site [OpioidData.org](https://www.opioiddata.org)
 <br>
-
+See [FDA Guidance](https://www.fda.gov/media/84819/download) on evaluation of abuse-deterrent formulations for eligibility criteria.
+<br>
 _____
 
 ##### **Full list of NDCs for abuse-deterrent formulations of opioids for analytic purposes can be found [here](ADF_NDCs.csv)**
@@ -16,9 +17,9 @@ _____
 
 ### Abuse-Deterrent Formulations - Approved
 
-|Drug Name|NDA#|Categories of Evidence|Intended Route of Deterrence|Documentation|Status|ER/IR|Approved as ADF?|
+|Drug Name|NDA#|[Categories of Evidence](https://www.fda.gov/media/84819/download)|Intended Route of Deterrence|Documentation|Status|ER/IR|Approved as ADF?|
 |---|---|-----------|---------|--------|---|---|---|
-|OxyContin|22-272|Categories 1-4|Intravenous, intranasal|[Drugs@FDA: OxyContin](https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&varApplNo=022272)<br><br>[FDA AdCom: September 10-11, 2020](https://www.fda.gov/advisory-committees/advisory-committee-calendar/september-10-11-2020-joint-meeting-drug-safety-and-risk-management-advisory-committee-and-anesthetic#event-materials)<br><br>[OxyContin NDCs](OxyContin/oxycontin_NDCs.csv)<br><br>[OxyContin Documentation](OxyContin)|Active|ER|Yes|
+|OxyContin|22-272|Categories 1-3, Category 4 possible|Intravenous, intranasal|[Drugs@FDA: OxyContin](https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&varApplNo=022272)<br><br>[FDA AdCom: September 10-11, 2020](https://www.fda.gov/advisory-committees/advisory-committee-calendar/september-10-11-2020-joint-meeting-drug-safety-and-risk-management-advisory-committee-and-anesthetic#event-materials)<br><br>[OxyContin NDCs](OxyContin/oxycontin_NDCs.csv)<br><br>[OxyContin Documentation](OxyContin)|Active|ER|Yes|
 |Hysingla ER|206627|**Intranasal & oral:** Category 1, Category 3<br>**Injection:** Category 1|Intravenous, intranasal, oral|[Drugs@FDA: Hysingla ER](https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&varApplNo=206627)<br><br>[Hysingla NDCs](Hysingla_ER/hysingla_NDCs.csv)<br><br>[Hysingla Documentation](Hysingla_ER)|Active|ER|Yes|
 |MorphaBond ER|206544|**Injection:** Category 1<br>**Intranasal:** Category 1, Category 3|Intravenous, intranasal|[Drugs@FDA: MorphaBond ER](https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&varApplNo=206544)<br><br>[MorphaBond NDCs](MorphaBond_ER/morphabond_NDCs.csv)<br><br>[MorphaBond Documentation](MorphaBond_ER)|Discontinued|ER|Yes|
 |Xtampza ER|208090|Categories 1-3|Intravenous, intranasal, oral|[Drugs@FDA: Xtampza ER](https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&varApplNo=208090)<br><br>FDA AdCom: September 11, [2015](https://wayback.archive-it.org/7993/20170403223626/https://www.fda.gov/AdvisoryCommittees/CommitteesMeetingMaterials/Drugs/AnestheticAndAnalgesicDrugProductsAdvisoryCommittee/ucm433361.htm)<br><br>[Xtampza NDCs](Xtampza_ER/xtampza_NDCs.csv)<br><br>[Xtampza Documentation](Xtampza)|Active|ER|Yes|
