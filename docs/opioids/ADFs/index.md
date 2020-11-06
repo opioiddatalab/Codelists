@@ -12,12 +12,12 @@ _____
 
 _____
 
-This document contains information on abuse-deterrent formulations (ADF) of opioids.
+This document was updated November 6, 2020.
 _____
 
 ### Abuse-Deterrent Formulations - Approved
 
-|Drug Name|NDA#|[Categories of Evidence](https://www.fda.gov/media/84819/download)|Intended Route of Deterrence|Documentation|Status|ER/IR|Approved as ADF?|
+|Drug Name|NDA#|[Categories of Evidence](https://www.fda.gov/media/84819/download)|Intended Route of Deterrence|Documentation|Status|ER/IR|ADF Label?|
 |---|---|-----------|---------|--------|---|---|---|
 |OxyContin|22-272|Categories 1-3, Category 4 possible|Intravenous, intranasal|[Drugs@FDA: OxyContin](https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&varApplNo=022272)<br><br>[FDA AdCom: September 10-11, 2020](https://www.fda.gov/advisory-committees/advisory-committee-calendar/september-10-11-2020-joint-meeting-drug-safety-and-risk-management-advisory-committee-and-anesthetic#event-materials)<br><br>[OxyContin NDCs](OxyContin/oxycontin_NDCs.csv)<br><br>[OxyContin Documentation](OxyContin)|Active|ER|Yes|
 |Hysingla ER|206627|**Intranasal & oral:** Category 1, Category 3<br>**Injection:** Category 1|Intravenous, intranasal, oral|[Drugs@FDA: Hysingla ER](https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&varApplNo=206627)<br><br>[Hysingla NDCs](Hysingla_ER/hysingla_NDCs.csv)<br><br>[Hysingla Documentation](Hysingla_ER)|Active|ER|Yes|
@@ -35,7 +35,7 @@ _____
 
 ### Abuse-Deterrent Formulations - Unsuccessful Applications
 
-|Drug Name|NDA#|Categories of Evidence|Intended Route of Deterrence|Documentation|Status|ER/IR|Approved as ADF?|
+|Drug Name|NDA#|Categories of Evidence|Intended Route of Deterrence|Documentation|Status|ER/IR|ADF Label?|
 |---|---|-----------|---------|--------|---|---|---|
 |Oxaydo/Oxecta|202080|Category 3|Intranasal|[Drugs@FDA: Oxaydo](https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&varApplNo=202080)<br><br>[Oxaydo/Oxecta NDCs](Oxaydo/oxaydo_NDCs.csv)<br><br>[Oxaydo Documentation](Unsuccessful_applications/Oxaydo)|Active|IR|No|
 |Oxycodone HCl ER with blue dye (Aximris XR)|209653|Categories 1-3|Oral, intravenous, intranasal|[FDA AdCom: January 15, 2020](https://www.fda.gov/advisory-committees/advisory-committee-calendar/january-15-2020-joint-meeting-anesthetic-and-analgesic-drug-products-advisory-committee-and-drug)<br><br>FDA AdCom: July 26, [2017](https://www.fda.gov/advisory-committees/anesthetic-and-analgesic-drug-products-advisory-committee/2017-meeting-materials-anesthetic-and-analgesic-drug-products-advisory-committee)<br><br>[Aximris XR Documentation](Unsuccessful_applications/Aximris_XR)|Inactive|ER|No|
