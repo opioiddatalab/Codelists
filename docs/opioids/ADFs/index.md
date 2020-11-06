@@ -1,10 +1,10 @@
 # Formulations Inteded to Deter Manipulation
-Also known as *abuse-deterrant formulations (ADFs)*, these medicines are generally engineered to be difficult to crush or have other aversion properties that deter consumption in ways other than intended. 
+Also known as *abuse-deterrant formulations (ADFs)*, these medicines are generally engineered to be difficult to crush or have other aversion properties that deter consumption in ways other than intended. Pharmaceutical deterrence strategies include physical and chemical barriers, agonist/antagonist, aversion, prodrug, and drug delivery systems ([Table 1-2 for overview](https://www.painphysicianjournal.com/current/pdf?article=NDcxMA%3D%3D&journal=108)).<br>
 _____
 
 [Detailed study overview](https://www.opioiddata.org/studies/counfounding-opioid-safety-studies/) at the full project site [OpioidData.org](https://www.opioiddata.org)
 <br>
-See [FDA Guidance](https://www.fda.gov/media/84819/download) on evaluation of abuse-deterrent formulations for eligibility criteria.
+See [FDA Guidance](https://www.fda.gov/media/84819/download) on evaluation of abuse-deterrent formulations for eligibility criteria for labeling.
 <br>
 _____
 
