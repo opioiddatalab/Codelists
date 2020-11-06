@@ -1,5 +1,14 @@
-# Formulations Inteded to Deter Manipulation
-Also known as *abuse-deterrant formulations (ADFs)*, these medicines are generally engineered to be difficult to crush or have other aversion properties that deter consumption in ways other than intended. Pharmaceutical deterrence strategies include physical and chemical barriers, agonist/antagonist, aversion, prodrug, and drug delivery systems ([Table 1-2 for overview](https://www.painphysicianjournal.com/current/pdf?article=NDcxMA%3D%3D&journal=108)).<br>
+# Formulations Inteded to Deter Manipulation, Tampering, and Abuse
+Also known as *abuse-deterrant formulations (ADFs)*, these medicines are generally engineered to be difficult to crush or have other aversion properties that deter consumption in ways other than intended. Pharmaceutical deterrence strategies include physical and chemical barriers, agonist/antagonist, aversion, prodrugs and new molecules, and drug delivery systems ([Tables 1-2 for overview](https://www.painphysicianjournal.com/current/pdf?article=NDcxMA%3D%3D&journal=108) and [presentation](https://www.fda.gov/media/101970/download)).<br>
+<br>
+
+_____
+
+## A note on terminology and stigma
+
+The term *abuse* is freuently used when discussing data related to controlled substances. It refers to the intentional, non-therapeutic use of a drug product or substance,
+even once, to achieve a desired psychological or physiological effect. We recognize that some language can perpetuate stigma and negative bias toward individuals with substance use disorders and create barriers to effective treatment. For example, the term *abuse* [has been identified by NIH](https://www.drugabuse.gov/nidamed-medical-health-professionals/health-professions-education/words-matter-terms-to-use-avoid-when-talking-about-addiction) as having a high association with negative judgments and punishment. The term *abuse* is used here to describe a specific behavior that confers a risk of adverse health outcomes; it is not intended to imply moral judgment. We have retained the term because of its common usage in the field and expected use as a search term.
+
 _____
 
 [Detailed study overview](https://www.opioiddata.org/studies/counfounding-opioid-safety-studies/) at the full project site [OpioidData.org](https://www.opioiddata.org)
@@ -43,3 +52,13 @@ _____
 |Apadaz|208653|Categories 1-3|Oral, intranasal, intravenous, smoking|[Drugs@FDA: Apadaz](https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&varApplNo=208653)<br><br>FDA AdCom: May 5, [2016](https://www.fda.gov/advisory-committees/anesthetic-and-analgesic-drug-products-advisory-committee/2016-meeting-materials-anesthetic-and-analgesic-drug-products-advisory-committee)<br><br>[Apadaz Documentation](Unsuccessful_applications/Apadaz)|Inactive|IR|No|
 |Remoxy ER|22324|Categories 1-3|Intranasal, intravenous, smoking|FDA AdCom: June 26, [2018](https://www.fda.gov/advisory-committees/anesthetic-and-analgesic-drug-products-advisory-committee/2018-meeting-materials-anesthetic-and-analgesic-drug-products-advisory-committee)<br><br>[Remoxy ER Documentation](Unsuccessful_applications/Remoxy_ER)|Inactive|ER|No|
 |Avridi|206830|Categories 1-3|Intranasal, intravenous|FDA AdCom: September 10, [2015](https://wayback.archive-it.org/7993/20170403223626/https://www.fda.gov/AdvisoryCommittees/CommitteesMeetingMaterials/Drugs/AnestheticAndAnalgesicDrugProductsAdvisoryCommittee/ucm433361.htm)<br><br>[Avridi Documentation](Unsuccessful_applications/Avridi)|Inactive|IR|No|
+
+_____
+
+
+### Historical and Pre-market Products 
+
+Two older products in particular influenced the modern conceptualization of abuse deterrent formulations: [Talwin NX](https://pubmed.ncbi.nlm.nih.gov/3112855/) and Suboxone.
+<br><br>
+Many earlier development projects did not result in products brought to market: ReXista, DETERx, OROS Hydromorphone, OxyNal, Oxytrex, etc. ([Table 1](https://academic.oup.com/view-large/28240821), [full citation]( https://academic.oup.com/painmedicine/article/10/suppl_2/S124/1836911)) for a partial list.<br><br>
+We are interested in listing publicly acknowledged pharmaceutical development efforts for new products that may fall in this category. 
