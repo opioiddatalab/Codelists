@@ -3,7 +3,7 @@ Also known as *abuse-deterrant formulations (ADFs)*, these medicines are general
 <br>
 _____
 
-**Notes on Terminology**
+**Notes on Terminology**<br>
 The term *abuse* is freuently used when discussing data related to controlled substances. It refers to the intentional, non-therapeutic use of a drug product or substance,
 even once, to achieve a desired psychological or physiological effect. We recognize that some language can perpetuate stigma and negative bias toward individuals with substance use disorders and create barriers to effective treatment. For example, the term *abuse* [has been identified by NIH](https://www.drugabuse.gov/nidamed-medical-health-professionals/health-professions-education/words-matter-terms-to-use-avoid-when-talking-about-addiction) as having a high association with negative judgments and punishment. The term *abuse* is used here to describe a specific behavior that confers a risk of adverse health outcomes; it is not intended to imply moral judgment. We have retained the term because of its common usage in the field and expected use as a search term.<br>
 <br>
