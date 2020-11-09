@@ -237,7 +237,3 @@ ndc,drug_name,ingredients,opioid_ingredient1,strength,strength_uom,manufacturer_
 '6934421111',arymo,morphine sulfate,morphine,30,mg,zyla life sciences us inc.,active,er
 '6934411111',arymo,morphine sulfate,morphine,15,mg,zyla life sciences us inc.,active,er
 '6934431111',arymo,morphine sulfate,morphine,60,mg,zyla life sciences us inc.,active,er
-'69344011311',oxaydo,oxycodone hydrochloride,oxycodone,5,mg,egalet us inc.,active,er
-'69344021311',oxaydo,oxycodone hydrochloride,oxycodone,7.5,mg,egalet us inc.,active,er
-'60793052501',oxecta,oxycodone hydrochloride,oxycodone,5,mg,acura pharmaceu,inactive,er
-'60793052601',oxecta,oxycodone hydrochloride,oxycodone,7.5,mg,acura pharmaceu,inactive,er
