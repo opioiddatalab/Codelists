@@ -20,8 +20,7 @@ path <- str_replace(rstudioapi::getActiveDocumentContext()$path,"adf_drug_specif
 
 all_adfs <- read_csv(str_c(path,"ADF_NDCs.csv")) %>% 
   mutate_if(is.character, str_to_lower) %>% 
-  set_names(tolower(names(.))) %>% 
-  mutate(ndc = str_c("'",ndc,"'"))
+  set_names(tolower(names(.))) 
 names(all_adfs) <- tolower(names(all_adfs))
 
 folders <- c("Arymo_ER", "Embeda", "Hysingla_ER", "MorphaBond_ER", "Oxaydo",
