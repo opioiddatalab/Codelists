@@ -1,0 +1,36 @@
+﻿icd_cm,ver,icd_cm_label
+96500,9,"poisoning by opium (alkaloids), unspecified"
+96501,9,poisoning by heroin
+96502,9,poisoning by methadone
+96509,9,poisoning by other opiates and related narcotics
+E8500,9,accidental poisoning by heroin
+E8501,9,accidental poisoning by methadone
+E8502,9,accidental poisoning by other opiates and related narcotics
+T400X1A,10,"poisoning by opium, accidental (unintentional), initial encounter"
+T400X2A,10,"poisoning by opium, intentional self-harm, initial encounter"
+T400X3A,10,"poisoning by opium, assault, initial encounter"
+T400X4A,10,"poisoning by opium, undetermined, initial encounter"
+T401X1A,10,"poisoning by heroin, accidental (unintentional), initial encounter"
+T401X2A,10,"poisoning by heroin, intentional self-harm, initial encounter"
+T401X3A,10,"poisoning by heroin, assault, initial encounter"
+T401X4A,10,"poisoning by heroin, undetermined, initial encounter"
+T402X1A,10,"poisoning by other opioids, accidental (unintentional), initial encounter"
+T402X2A,10,"poisoning by other opioids, intentional self-harm, initial encounter"
+T402X3A,10,"poisoning by other opioids, assault, initial encounter"
+T402X4A,10,"poisoning by other opioids, undetermined, initial encounter"
+T403X1A,10,"poisoning by methadone, accidental (unintentional), initial encounter"
+T403X2A,10,"poisoning by methadone, intentional self-harm, initial encounter"
+T403X3A,10,"poisoning by methadone, assault, initial encounter"
+T403X4A,10,"poisoning by methadone, undetermined, initial encounter"
+T404X1A,10,"poisoning by other synthetic narcotics, accidental (unintentional), initial encounter"
+T404X2A,10,"poisoning by other synthetic narcotics, intentional self-harm, initial encounter"
+T404X3A,10,"poisoning by other synthetic narcotics, assault, initial encounter"
+T404X4A,10,"poisoning by other synthetic narcotics, undetermined, initial encounter"
+T40601A,10,"poisoning by unspecified narcotics, accidental (unintentional), initial encounter"
+T40602A,10,"poisoning by unspecified narcotics, intentional self-harm, initial encounter"
+T40603A,10,"poisoning by unspecified narcotics, assault, initial encounter"
+T40604A,10,"poisoning by unspecified narcotics, undetermined, initial encounter"
+T40691A,10,"poisoning by other narcotics, accidental (unintentional), initial encounter"
+T40692A,10,"poisoning by other narcotics, intentional self-harm, initial encounter"
+T40693A,10,"poisoning by other narcotics, assault, initial encounter"
+T40694A,10,"poisoning by other narcotics, undetermined, initial encounter"
