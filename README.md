@@ -5,10 +5,12 @@ This repository contains documentation and codelists used in research using deat
 *Code lists are provided license-free*
 <br>
 Uncover more resrouces by the [Opioid Data Lab](opioiddata.org)
+<br>
+Want share your own list? We'd love to see them! Contact us opioiddatalab@unc.edu or send a pull request.
 
 ---
 
-### Medication
+### Medications
 NDC lists for additional [treatments](docs/treatments)
 * [Opioid analgesics](docs/opioids/all_opioids) with [quick access CSV](docs/opioids/all_opioids/opioid_NDCs.csv) file
 * [Abuse deterrant formulations](docs/opioids/ADFs) with handy [human readable table](docs/opioids/ADFs/index.md)
