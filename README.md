@@ -10,7 +10,7 @@ Uncover more resrouces by the [Opioid Data Lab](opioiddata.org)
 
 ### Medication
 NDC lists for additional [treatments](docs/treatments)
-* [Opioid analgesics](docs/opioids/all_opioids) [detailed lists](docs/opioids/all_opioids/opioid_NDCs.csv)
+* [Opioid analgesics](docs/opioids/all_opioids) with [quick access CSV](docs/opioids/all_opioids/opioid_NDCs.csv) file
 * [Abuse deterrant formulations](docs/opioids/ADFs) with handy [human readable table](docs/opioids/ADFs/index.md)
 * [Benzodiazepines](docs/treatments/benzodiazepines)
 * [Antidepressants](docs/treatments/antidepressants)
