@@ -23,9 +23,9 @@ all_adfs <- read_csv(str_c(path,"ADF_NDCs.csv")) %>%
   set_names(tolower(names(.))) 
 names(all_adfs) <- tolower(names(all_adfs))
 
-folders <- c("Arymo_ER", "Embeda", "Hysingla_ER", "MorphaBond_ER", "Oxaydo",
+folders <- c("Arymo_ER", "Embeda", "Hysingla_ER", "MorphaBond_ER", 
              "OxyContin", "RoxyBond", "Targiniq", "Troxyca_ER", "Xtampza_ER")
-drugs <- c("arymo", "embeda", "hysingla", "morphabond", "oxaydo|oxecta", 
+drugs <- c("arymo", "embeda", "hysingla", "morphabond", 
              "oxycontin|oxycodone", "roxybond", "targiniq", "troxyca", "xtampza")
 
 purrr::walk2(.x = folders,
