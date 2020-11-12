@@ -29,6 +29,9 @@ NDC lists for additional [treatments](docs/treatments) include:
 * [Mental health](docs/diagnosis_codes/mental_health) (e.g., depression, anxiety)
 * [Pain](docs/diagnosis_codes/pain) 
 * [Substance use disorder](docs/diagnosis_codes/MAT_for_OUD) (excluding OUD)
+* [Opioid overdose (including cause of death)](docs/diagnosis_codes/opioid_overdose)
+  * Codes come from [North Carolina Overdose Surveillance Definitions](https://www.injuryfreenc.ncdhhs.gov/DataSurveillance/poisoning/SummaryTableforPoisoningDefinitions-13Nov18-FINAL.pdf) and [GUIDE TO ICD-9-CM AND ICD-10 CODES RELATED TO POISONING AND PAIN](https://www.cdc.gov/drugoverdose/pdf/pdo_guide_to_icd-9-cm_and_icd-10_codes-a.pdf)
+* [Opioid use disorder](docs/diagnosis_codes/opioid_use_disorder)
 
 
 ### Procedure codes
