@@ -1,19 +1,17 @@
-# codelists
+# Code Lists
 
-This repository contains documentation and codelists used in opioid research. 
+This repository contains documentation and codelists used in research using death certificates, vital statistics, EHR data, and insurnace claims.
+<br>
+*Code lists are provided license-free*
+<br>
+Uncover more resrouces by the [Opioid Data Lab](opioiddata.org)
 
-### Opioids
+---
 
-For [all opioid medications](docs/opioids/all_opioids), this folder contains a [list of National Drug Codes (NDC) and drug names](docs/opioids/all_opioids/opioid_NDCs.csv), as well as sub-folders containing drug-specific NDC lists.
-
-#### Abuse-deterrant formulations
-
-This folder also provides details on [abuse-deterrant formulations](docs/opioids/ADFs), including a [readable table](docs/opioids/ADFs/index.md) of drug applications for abuse-deterrant designation by the FDA. Each formulation has additional documentation, including drug-specific NDC lists and FDA reviews and approvals.
-
-### Treatments
-
-NDC lists for additional [treatments](docs/treatments) include:
-
+### Medication
+NDC lists for additional [treatments](docs/treatments)
+* [Opioid analgesics](docs/opioids/all_opioids) [detailed lists](docs/opioids/all_opioids/opioid_NDCs.csv)
+* [Abuse deterrant formulations](docs/opioids/ADFs) with handy [human readable table](docs/opioids/ADFs/index.md)
 * [Benzodiazepines](docs/treatments/benzodiazepines)
 * [Antidepressants](docs/treatments/antidepressants)
 * [Gabapentin](docs/treatments/gabapentin)
@@ -21,9 +19,10 @@ NDC lists for additional [treatments](docs/treatments) include:
 * [Triptans](docs/treatments/triptans)
 * [Medication-assisted treatment (MAT) for opioid use disorder (OUD)](docs/treatments/MAT_for_OUD)
 
+
 ### Diagnosis Codes
 
-[Diagnostic codes](docs/diagnosis_codes) (ICD-9-CM and ICD-10-CM) include:
+[Diagnostic codes](docs/diagnosis_codes) (ICD-9-CM and ICD-10-CM)
 
 * [Cancer](docs/diagnosis_codes/cancer)
 * [Mental health](docs/diagnosis_codes/mental_health) (e.g., depression, anxiety)
@@ -36,7 +35,7 @@ NDC lists for additional [treatments](docs/treatments) include:
 
 ### Procedure codes
 
-[Procedure (CPT) codes](docs/procedure_codes) for invasive surgeries and non-invasive procedures.
+[Procedure (CPT) codes](docs/procedure_codes) for invasive surgeries and non-invasive procedures
 
  
  
