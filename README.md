@@ -2,7 +2,7 @@
 
 This repository contains documentation and codelists used in research using death certificates, vital statistics, EHR data, and insurnace claims.
 <br><br>
-*Code lists are provided license-free*
+*All code lists in this repository are [licensed](https://github.com/opioiddatalab/Codelists/blob/main/LICENSE) to allow wide reuse.*
 <br><br>
 Uncover more resrouces by the [Opioid Data Lab](opioiddata.org)
 <br><br>
