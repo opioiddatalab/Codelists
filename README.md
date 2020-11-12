@@ -2,12 +2,12 @@
 
 This repository contains documentation and codelists used in research using death certificates, vital statistics, EHR data, and insurnace claims.
 <br><br>
-*All code lists in this repository are [licensed](https://github.com/opioiddatalab/Codelists/blob/main/LICENSE) to allow wide reuse.*
+All code lists in this repository are [licensed](blob/main/LICENSE) to allow reuse and modification.
 <br><br>
 Uncover more resrouces by the [Opioid Data Lab](opioiddata.org)
 <br><br>
-Want share your own list? We'd love to see them! Contact us opioiddatalab@unc.edu or send a pull request.
-
+Want share your own list? We'd love to see them! Contact us opioiddatalab@unc.edu or [send a pull request](https://github.com/opioiddatalab/Codelists/pulls)
+<br>
 ---
 
 ### Medications
