@@ -4,7 +4,7 @@ This repository contains documentation and codelists used in research using deat
 <br><br>
 All code lists in this repository are [licensed](blob/main/LICENSE) to allow reuse and modification.
 <br><br>
-Uncover more resrouces by the [Opioid Data Lab](opioiddata.org)
+Uncover more resrouces from the [Opioid Data Lab](https://www.opioiddata.org)
 <br><br>
 Want share your own list? We'd love to see them! Contact us opioiddatalab@unc.edu or [send a pull request](https://github.com/opioiddatalab/Codelists/pulls)
 <br>
