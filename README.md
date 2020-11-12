@@ -1,11 +1,11 @@
 # Code Lists
 
 This repository contains documentation and codelists used in research using death certificates, vital statistics, EHR data, and insurnace claims.
-<br>
+<br><br>
 *Code lists are provided license-free*
-<br>
+<br><br>
 Uncover more resrouces by the [Opioid Data Lab](opioiddata.org)
-<br>
+<br><br>
 Want share your own list? We'd love to see them! Contact us opioiddatalab@unc.edu or send a pull request.
 
 ---
@@ -13,7 +13,7 @@ Want share your own list? We'd love to see them! Contact us opioiddatalab@unc.ed
 ### Medications
 NDC lists for additional [treatments](docs/treatments)
 * [Opioid analgesics](docs/opioids/all_opioids) with [quick access CSV](docs/opioids/all_opioids/opioid_NDCs.csv) file
-* [Abuse deterrant formulations](docs/opioids/ADFs) with handy [human readable table](docs/opioids/ADFs/index.md)
+* [Abuse deterrent formulations](docs/opioids/ADFs) (ADF) with handy [human readable table](docs/opioids/ADFs/index.md)
 * [Benzodiazepines](docs/treatments/benzodiazepines)
 * [Antidepressants](docs/treatments/antidepressants)
 * [Gabapentin](docs/treatments/gabapentin)
