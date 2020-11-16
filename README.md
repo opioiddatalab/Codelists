@@ -6,7 +6,7 @@ All code lists in this repository are [licensed](blob/main/LICENSE) to allow reu
 <br><br>
 Uncover more resrouces from the [Opioid Data Lab](https://www.opioiddata.org)
 <br><br>
-Want share your own list? We'd love to see them! Contact us opioiddatalab@unc.edu or [send a pull request](https://github.com/opioiddatalab/Codelists/pulls)
+Want to share your own list? We'd love to see them! Contact us opioiddatalab@unc.edu or [send a pull request](https://github.com/opioiddatalab/Codelists/pulls)
 <br>
 
 ---
