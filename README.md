@@ -42,4 +42,9 @@ NDC lists for additional [treatments](docs/treatments)
 [Procedure (CPT) codes](docs/procedure_codes) for invasive surgeries and non-invasive procedures
 
  
- 
+---
+
+Import code lists into SAS using URLs linked above<br>
+`filename testurl url "https://github.com/opioiddatalab/Codelists/blob/main/docs/treatments/gabapentin/gabapentin_NDCs.csv";<br>
+proc import file=testurl out=work.gabapentin dbms=csv;<br>
+run;`
