@@ -45,6 +45,6 @@ NDC lists for additional [treatments](docs/treatments)
 ---
 
 Import code lists into SAS using URLs linked above<br>
-`filename testurl url "https://github.com/opioiddatalab/Codelists/blob/main/docs/treatments/gabapentin/gabapentin_NDCs.csv";<br>
-proc import file=testurl out=work.gabapentin dbms=csv;<br>
+`filename testurl url "https://github.com/opioiddatalab/Codelists/blob/main/docs/treatments/gabapentin/gabapentin_NDCs.csv";
+proc import file=testurl out=work.gabapentin dbms=csv;
 run;`
