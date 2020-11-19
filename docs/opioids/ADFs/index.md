@@ -1,5 +1,5 @@
 # Formulations Inteded to Deter Manipulation, Tampering, and Abuse
-Also known as *abuse-deterrant formulations (ADFs)*, these medicines are generally engineered to be difficult to crush or have other aversion properties that deter consumption in ways other than intended. Pharmaceutical deterrence strategies include physical and chemical barriers, agonist/antagonist, aversion, prodrugs and new molecules, and drug delivery systems ([Tables 1-2 for overview](https://www.painphysicianjournal.com/current/pdf?article=NDcxMA%3D%3D&journal=108) and [presentation](https://www.fda.gov/media/101970/download)).<br>
+Also known as *abuse deterrant formulations (ADFs)*, these medicines are generally engineered to be difficult to crush or have other aversion properties that deter consumption in ways other than intended. Pharmaceutical deterrence strategies include physical and chemical barriers, agonist/antagonist, aversion, prodrugs and new molecules, and drug delivery systems ([Tables 1-2 for overview](https://www.painphysicianjournal.com/current/pdf?article=NDcxMA%3D%3D&journal=108) and [presentation](https://www.fda.gov/media/101970/download)).<br>
 <br>
 _____
 
@@ -7,7 +7,7 @@ _____
 The term *abuse* is freuently used when discussing data related to controlled substances. It refers to the intentional, non-therapeutic use of a drug product or substance,
 even once, to achieve a desired psychological or physiological effect. We recognize that some language can perpetuate stigma and negative bias toward individuals with substance use disorders and create barriers to effective treatment. For example, the term *abuse* [has been identified by NIH](https://www.drugabuse.gov/nidamed-medical-health-professionals/health-professions-education/words-matter-terms-to-use-avoid-when-talking-about-addiction) as having a high association with negative judgments and punishment. The term *abuse* is used here to describe a specific behavior that confers a risk of adverse health outcomes; it is not intended to imply moral judgment. We have retained the term because of its common usage in the field and expected use as a search term.<br>
 <br>
-We also acknowledge that the term *abuse-deterrent formulation* may imply overarching properties of clinical safety that are unsubstaniated. Misperceptions have been noted by the FDA/CDER/Office of Communications ([brief report](https://www.fda.gov/media/141914/download), page 885). We have retained the term because of its common usage in the field and expected use as a search term.
+We also acknowledge that the term *abuse deterrent formulation* may imply overarching properties of clinical safety that are unsubstaniated. Misperceptions have been noted by the FDA/CDER/Office of Communications ([brief report](https://www.fda.gov/media/141914/download), page 885). We have retained the term because of its common usage in the field and expected use as a search term.
 <br>
 _____
 
@@ -53,22 +53,21 @@ See [Timeline of Selected FDA Activities and Significant Events Addressing Opioi
 |August 2010|Original OxyContin removed from market and Purdue commences shipping of reformulation of OxyContin|
 |June 2011|Oxecta approved by FDA (not as ADF)|
 |December 2011|New formulation of Opana ER approved by FDA|
-|July 2014|Targiniq approved by FDA, the second ER/LA opiod with FDA-approved labeling describing the product’s abuse-deterrent properties|
-|October 2014|FDA approved Embeda with new labeling describing the product’s abuse-deterrent properties|
-|November 2014|Hysingla ER approved by FDA with labeling describing the product’s abuse-deterrent properties|
-|January 2015|Zohydro ER approved by FDA, but was not approved with labeling describing the product’s abuse-deterrent properties|
+|July 2014|Targiniq approved by FDA, the second ER/LA opiod with FDA-approved labeling describing the product’s abuse deterrent properties|
+|October 2014|FDA approved Embeda with new labeling describing the product’s abuse deterrent properties|
+|November 2014|Hysingla ER approved by FDA with labeling describing the product’s abuse deterrent properties|
+|January 2015|Zohydro ER approved by FDA, but was not approved with labeling describing the product’s abuse deterrent properties|
 |August 2015|FDA approced OxyContin for use in certain pediatric patients|
-|October 2015|Morphabond ER approved by FDA with labeling describing the product’s abuse-deterrent properties|
-|November 2015|FDA approved Narcan nasal spray|
-|April 2016|Xtampza ER approved by FDA with labeling describing the product’s abuse-deterrent properties|
-|August 2016|Toxyca ER approved by FDA with labeling describing the product’s abuse-deterrent properties|
-|January 2017|Arymo ER approved by FDA with labeling describing the product’s abuse-deterrent properties<br><br>Vantrela ER approved by FDA with labeling describing the product’s abuse-deterrent properties|
-|April 2017|Roxybond approved by FDA as first IR opioid analgesic to be approved with labeling describing the product’s abuse-deterrent properties|
+|October 2015|Morphabond ER approved by FDA with labeling describing the product’s abuse deterrent properties|
+|April 2016|Xtampza ER approved by FDA with labeling describing the product’s abuse deterrent properties|
+|August 2016|Toxyca ER approved by FDA with labeling describing the product’s abuse deterrent properties|
+|January 2017|Arymo ER approved by FDA with labeling describing the product’s abuse deterrent properties<br><br>Vantrela ER approved by FDA with labeling describing the product’s abuse deterrent properties|
+|April 2017|Roxybond approved by FDA as first IR opioid analgesic to be approved with labeling describing the product’s abuse deterrent properties|
 
 _____
 
 
-### Abuse-Deterrent Formulations - Unsuccessful Applications
+### Abuse Deterrent Formulations - Unsuccessful Applications
 
 |Class|Drug Name|NDA#|Categories of Evidence|Intended Route of Deterrence|Documentation|Status|ER/IR|ADF Label?|
 |---|---|---|-----------|---------|--------|---|---|---|
