@@ -14,7 +14,7 @@ Want to share your own list? We'd love to see them! Contact us opioiddatalab@unc
 ### Medications
 NDC lists for additional [treatments](docs/treatments)
 * [Opioid analgesics](docs/opioids/all_opioids) with [quick access CSV](docs/opioids/all_opioids/opioid_NDCs.csv) file
-* [OxyContin](opioids/ADFs/OxyContin/) before-after abuse deterrent
+* [OxyContin](docs/opioids/ADFs/OxyContin/OxyContin_OC_OP.xlsx) before-after abuse deterrent
 * [Abuse deterrent formulations](docs/opioids/ADFs) (ADF) with handy [human readable table](docs/opioids/ADFs/index.md)
 * [Benzodiazepines](docs/treatments/benzodiazepines)
 * [Antidepressants](docs/treatments/antidepressants)
