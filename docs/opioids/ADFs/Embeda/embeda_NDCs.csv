@@ -1,24 +1,24 @@
 NDC,DRUG_NAME,INGREDIENTS,OPIOID_INGREDIENT1,STRENGTH,STRENGTH_UOM,MANUFACTURER_ABBR_NAME,STATUS,IR_ER
-'16590089730',Embeda,Morphine Sulfate; Naltrexone Hydrochloride,Morphine,20-0.8,MG,Stat Rx Us,Inactive,Er
-'16590089760',Embeda,Morphine Sulfate; Naltrexone Hydrochloride,Morphine,20-0.8,MG,Stat Rx Us,Inactive,Er
-'16590089960',Embeda,Morphine Sulfate; Naltrexone Hydrochloride,Morphine,50-2,MG,Stat Rx Us,Inactive,Er
-'16590090330',Embeda,Morphine Sulfate; Naltrexone Hydrochloride,Morphine,80-3.2,MG,Stat Rx Us,Inactive,Er
-'16590093230',Embeda,Morphine Sulfate; Naltrexone Hydrochloride,Morphine,60-2.4,MG,Stat Rx Us,Inactive,Er
-'16590093260',Embeda,Morphine Sulfate; Naltrexone Hydrochloride,Morphine,60-2.4,MG,Stat Rx Us,Inactive,Er
-'16590093290',Embeda,Morphine Sulfate; Naltrexone Hydrochloride,Morphine,60-2.4,MG,Stat Rx Us,Inactive,Er
-'35356054930',Embeda,Morphine Sulfate; Naltrexone Hydrochloride,Morphine,60-2.4,MG,Quality,Inactive,Er
-'35356055030',Embeda,Morphine Sulfate; Naltrexone Hydrochloride,Morphine,100-4,MG,Quality,Inactive,Er
-'35356055130',Embeda,Morphine Sulfate; Naltrexone Hydrochloride,Morphine,20-0.8,MG,Quality,Inactive,Er
-'35356055230',Embeda,Morphine Sulfate; Naltrexone Hydrochloride,Morphine,30-1.2,MG,Quality,Inactive,Er
-'60793043001',Embeda,Morphine Sulfate; Naltrexone Hydrochloride,Morphine,20-0.8,MG,Pfizer Us,Inactive,Er
-'60793043020',Embeda,Morphine Sulfate; Naltrexone Hydrochloride,Morphine,20-0.8,MG,Pfizer Us,Active,Er
-'60793043101',Embeda,Morphine Sulfate; Naltrexone Hydrochloride,Morphine,30-1.2,MG,Pfizer Us,Inactive,Er
-'60793043120',Embeda,Morphine Sulfate; Naltrexone Hydrochloride,Morphine,30-1.2,MG,Pfizer Us,Active,Er
-'60793043301',Embeda,Morphine Sulfate; Naltrexone Hydrochloride,Morphine,50-2,MG,Pfizer Us,Inactive,Er
-'60793043320',Embeda,Morphine Sulfate; Naltrexone Hydrochloride,Morphine,50-2,MG,Pfizer Us,Active,Er
-'60793043401',Embeda,Morphine Sulfate; Naltrexone Hydrochloride,Morphine,60-2.4,MG,Pfizer Us,Inactive,Er
-'60793043420',Embeda,Morphine Sulfate; Naltrexone Hydrochloride,Morphine,60-2.4,MG,Pfizer Us,Active,Er
-'60793043501',Embeda,Morphine Sulfate; Naltrexone Hydrochloride,Morphine,80-3.2,MG,Pfizer Us,Inactive,Er
-'60793043520',Embeda,Morphine Sulfate; Naltrexone Hydrochloride,Morphine,80-3.2,MG,Pfizer Us,Active,Er
-'60793043701',Embeda,Morphine Sulfate; Naltrexone Hydrochloride,Morphine,100-4,MG,Pfizer Us,Inactive,Er
-'60793043720',Embeda,Morphine Sulfate; Naltrexone Hydrochloride,Morphine,100-4,MG,Pfizer Us,Active,Er
+'16590089730',Embeda,Morphine Sulfate; Naltrexone Hydrochloride,Morphine,20-0.8,MG,Stat Rx Us,Inactive,ER
+'16590089760',Embeda,Morphine Sulfate; Naltrexone Hydrochloride,Morphine,20-0.8,MG,Stat Rx Us,Inactive,ER
+'16590089960',Embeda,Morphine Sulfate; Naltrexone Hydrochloride,Morphine,50-2,MG,Stat Rx Us,Inactive,ER
+'16590090330',Embeda,Morphine Sulfate; Naltrexone Hydrochloride,Morphine,80-3.2,MG,Stat Rx Us,Inactive,ER
+'16590093230',Embeda,Morphine Sulfate; Naltrexone Hydrochloride,Morphine,60-2.4,MG,Stat Rx Us,Inactive,ER
+'16590093260',Embeda,Morphine Sulfate; Naltrexone Hydrochloride,Morphine,60-2.4,MG,Stat Rx Us,Inactive,ER
+'16590093290',Embeda,Morphine Sulfate; Naltrexone Hydrochloride,Morphine,60-2.4,MG,Stat Rx Us,Inactive,ER
+'35356054930',Embeda,Morphine Sulfate; Naltrexone Hydrochloride,Morphine,60-2.4,MG,Quality,Inactive,ER
+'35356055030',Embeda,Morphine Sulfate; Naltrexone Hydrochloride,Morphine,100-4,MG,Quality,Inactive,ER
+'35356055130',Embeda,Morphine Sulfate; Naltrexone Hydrochloride,Morphine,20-0.8,MG,Quality,Inactive,ER
+'35356055230',Embeda,Morphine Sulfate; Naltrexone Hydrochloride,Morphine,30-1.2,MG,Quality,Inactive,ER
+'60793043001',Embeda,Morphine Sulfate; Naltrexone Hydrochloride,Morphine,20-0.8,MG,Pfizer Us,Inactive,ER
+'60793043020',Embeda,Morphine Sulfate; Naltrexone Hydrochloride,Morphine,20-0.8,MG,Pfizer Us,Active,ER
+'60793043101',Embeda,Morphine Sulfate; Naltrexone Hydrochloride,Morphine,30-1.2,MG,Pfizer Us,Inactive,ER
+'60793043120',Embeda,Morphine Sulfate; Naltrexone Hydrochloride,Morphine,30-1.2,MG,Pfizer Us,Active,ER
+'60793043301',Embeda,Morphine Sulfate; Naltrexone Hydrochloride,Morphine,50-2,MG,Pfizer Us,Inactive,ER
+'60793043320',Embeda,Morphine Sulfate; Naltrexone Hydrochloride,Morphine,50-2,MG,Pfizer Us,Active,ER
+'60793043401',Embeda,Morphine Sulfate; Naltrexone Hydrochloride,Morphine,60-2.4,MG,Pfizer Us,Inactive,ER
+'60793043420',Embeda,Morphine Sulfate; Naltrexone Hydrochloride,Morphine,60-2.4,MG,Pfizer Us,Active,ER
+'60793043501',Embeda,Morphine Sulfate; Naltrexone Hydrochloride,Morphine,80-3.2,MG,Pfizer Us,Inactive,ER
+'60793043520',Embeda,Morphine Sulfate; Naltrexone Hydrochloride,Morphine,80-3.2,MG,Pfizer Us,Active,ER
+'60793043701',Embeda,Morphine Sulfate; Naltrexone Hydrochloride,Morphine,100-4,MG,Pfizer Us,Inactive,ER
+'60793043720',Embeda,Morphine Sulfate; Naltrexone Hydrochloride,Morphine,100-4,MG,Pfizer Us,Active,ER

@@ -1,5 +1,5 @@
 NDC,DRUG_NAME,INGREDIENTS,OPIOID_INGREDIENT1,STRENGTH,STRENGTH_UOM,MANUFACTURER_ABBR_NAME,STATUS,IR_ER
-'65597030110',Morphabond Er,Morphine Sulfate,Morphine,15,MG,Sankyo,Active,Er
-'65597030210',Morphabond Er,Morphine Sulfate,Morphine,30,MG,Sankyo,Active,Er
-'65597030310',Morphabond Er,Morphine Sulfate,Morphine,60,MG,Sankyo,Active,Er
-'65597030410',Morphabond Er,Morphine Sulfate,Morphine,100,MG,Sankyo,Active,Er
+'65597030110',Morphabond Er,Morphine Sulfate,Morphine,15,MG,Sankyo,Active,ER
+'65597030210',Morphabond Er,Morphine Sulfate,Morphine,30,MG,Sankyo,Active,ER
+'65597030310',Morphabond Er,Morphine Sulfate,Morphine,60,MG,Sankyo,Active,ER
+'65597030410',Morphabond Er,Morphine Sulfate,Morphine,100,MG,Sankyo,Active,ER
