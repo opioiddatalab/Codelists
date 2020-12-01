@@ -1,7 +1,7 @@
 ndc,drug_name,ingredients,opioid_ingredient1,strength,strength_uom,manufacturer_abbr_name,status,ir_er
-'6934421111',Arymo,Morphine Sulfate,Morphine,30,MG,Zyla Life Sciences Us Inc.,Active,Er
-'6934411111',Arymo,Morphine Sulfate,Morphine,15,MG,Zyla Life Sciences Us Inc.,Active,Er
-'6934431111',Arymo,Morphine Sulfate,Morphine,60,MG,Zyla Life Sciences Us Inc.,Active,Er
+69344021111',Arymo,Morphine Sulfate,Morphine,30,MG,Zyla Life Sciences Us Inc.,Active,Er
+69344011111',Arymo,Morphine Sulfate,Morphine,15,MG,Zyla Life Sciences Us Inc.,Active,Er
+69344031111',Arymo,Morphine Sulfate,Morphine,60,MG,Zyla Life Sciences Us Inc.,Active,Er
 '16590089730',Embeda,Morphine Sulfate; Naltrexone Hydrochloride,Morphine,20-0.8,MG,Stat Rx Us,Inactive,Er
 '16590089760',Embeda,Morphine Sulfate; Naltrexone Hydrochloride,Morphine,20-0.8,MG,Stat Rx Us,Inactive,Er
 '16590089960',Embeda,Morphine Sulfate; Naltrexone Hydrochloride,Morphine,50-2,MG,Stat Rx Us,Inactive,Er
@@ -36,14 +36,14 @@ ndc,drug_name,ingredients,opioid_ingredient1,strength,strength_uom,manufacturer_
 '65597030210',Morphabond Er,Morphine Sulfate,Morphine,30,MG,Sankyo,Active,Er
 '65597030310',Morphabond Er,Morphine Sulfate,Morphine,60,MG,Sankyo,Active,Er
 '65597030410',Morphabond Er,Morphine Sulfate,Morphine,100,MG,Sankyo,Active,Er
-'00093573101',Oxycodone Hcl Er,NA,Oxycodone,10,MG,Teva Usa,Active,Er
-'00093573201',Oxycodone Hcl Er,NA,Oxycodone,20,MG,Teva Usa,Active,Er
-'00093573301',Oxycodone Hcl Er,NA,Oxycodone,40,MG,Teva Usa,Active,Er
+00093573101',Oxycodone Hcl Er,NA,Oxycodone,10,MG,Teva Usa,Active,Er
+00093573201',Oxycodone Hcl Er,NA,Oxycodone,20,MG,Teva Usa,Active,Er
+00093573301',Oxycodone Hcl Er,NA,Oxycodone,40,MG,Teva Usa,Active,Er
 '00093573401',Oxycodone Hcl Er,NA,Oxycodone,80,MG,Teva Usa,Active,Er
 '00115155601',Oxycodone Hcl Er,NA,Oxycodone,10,MG,Amneal,Active,Er
-'00115155701',Oxycodone Hcl Er,NA,Oxycodone,15,MG,Amneal,Active,Er
-'00115155801',Oxycodone Hcl Er,NA,Oxycodone,20,MG,Amneal,Active,Er
-'00115155901',Oxycodone Hcl Er,NA,Oxycodone,30,MG,Amneal,Active,Er
+00115155701',Oxycodone Hcl Er,NA,Oxycodone,15,MG,Amneal,Active,Er
+00115155801',Oxycodone Hcl Er,NA,Oxycodone,20,MG,Amneal,Active,Er
+00115155901',Oxycodone Hcl Er,NA,Oxycodone,30,MG,Amneal,Active,Er
 '00115156001',Oxycodone Hcl Er,NA,Oxycodone,40,MG,Amneal,Active,Er
 '00115156101',Oxycodone Hcl Er,NA,Oxycodone,60,MG,Amneal,Active,Er
 '00115156201',Oxycodone Hcl Er,NA,Oxycodone,80,MG,Amneal,Active,Er
